@@ -95,21 +95,28 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
 .sec-links  {border-left-color:var(--green);background:linear-gradient(90deg,rgba(63,185,80,.07) 0%,var(--bg2) 400px);}
 .sec-feed   {border-left-color:var(--cyan);background:linear-gradient(90deg,rgba(57,211,83,.07) 0%,var(--bg2) 400px);}
 .lbl-cyan   {background:rgba(57,211,83,.2);color:var(--cyan);}
-/* Feed section */
-.feed-outer{padding:16px 20px 20px;}
-.feed-accounts{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;}
-.feed-acct-card{background:var(--bg3);border:1px solid var(--border);border-radius:8px;overflow:hidden;}
-.feed-acct-hdr{padding:12px 14px;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;gap:10px;}
-.feed-acct-icon{font-size:22px;line-height:1;flex-shrink:0;margin-top:2px;}
-.feed-acct-info{flex:1;min-width:0;}
-.feed-acct-name{font-size:13px;font-weight:700;color:var(--text);}
-.feed-acct-handle{font-size:11px;color:var(--blue);text-decoration:none;}
-.feed-acct-handle:hover{text-decoration:underline;}
-.feed-acct-desc{font-size:11px;color:var(--muted);margin-top:3px;line-height:1.4;}
-.feed-acct-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;}
-.feed-acct-tag{font-size:9px;padding:1px 6px;border-radius:3px;background:var(--bg);border:1px solid var(--border);color:var(--muted);}
-.feed-embed-wrap{max-height:420px;overflow-y:auto;background:#15202b;}
-.feed-embed-wrap .twitter-timeline{display:block;width:100%;}
+/* Topic Intel Feed */
+.topic-feed-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px;padding:16px 20px 20px;}
+.topic-card{background:var(--bg3);border:1px solid var(--border);border-radius:8px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;}
+.topic-head{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;}
+.topic-title{display:flex;align-items:center;gap:8px;}
+.topic-icon{font-size:18px;line-height:1;}
+.topic-name{font-size:13px;font-weight:700;color:var(--text);}
+.topic-badge{font-size:9px;font-weight:700;padding:2px 7px;border-radius:3px;letter-spacing:.7px;white-space:nowrap;}
+.topic-desc{font-size:12px;color:var(--muted);line-height:1.65;}
+.topic-signals{display:flex;flex-direction:column;gap:5px;}
+.topic-signal-row{display:flex;align-items:flex-start;gap:7px;}
+.sig-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;margin-top:5px;}
+.sig-txt{font-size:11px;color:var(--muted);line-height:1.55;}
+.sig-txt strong{color:var(--text);font-weight:600;}
+.topic-kw{display:flex;flex-wrap:wrap;gap:4px;}
+.kw-chip{font-size:10px;padding:2px 8px;border-radius:4px;background:var(--bg);border:1px solid var(--border);color:var(--cyan);font-family:inherit;cursor:default;}
+.topic-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px;border-top:1px solid var(--border);padding-top:9px;}
+.topic-accts{display:flex;flex-wrap:wrap;gap:4px;}
+.topic-acct-tag{font-size:10px;color:var(--blue);background:rgba(88,166,255,.1);padding:1px 7px;border-radius:3px;text-decoration:none;border:1px solid transparent;}
+.topic-acct-tag:hover{background:rgba(88,166,255,.2);border-color:rgba(88,166,255,.3);}
+.topic-x-btn{font-size:10px;color:var(--muted);background:var(--bg);border:1px solid var(--border);padding:2px 9px;border-radius:4px;text-decoration:none;white-space:nowrap;transition:color .15s,border-color .15s;}
+.topic-x-btn:hover{color:var(--text);border-color:var(--muted);}
 .lbl-red   {background:rgba(248,81,73,.2);color:var(--red);}
 .lbl-orange{background:rgba(240,136,62,.2);color:var(--orange);}
 .lbl-purple{background:rgba(188,140,255,.2);color:var(--purple);}
@@ -439,97 +446,9 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
     <span class="sec-label lbl-cyan">INTEL FEED</span>
     <span>📡 트레이딩 인텔 피드</span>
   </div>
-  <span class="sec-sub">@cryptoquant_com · @ColinTCrypto · @lookonchain · @glassnode</span>
+  <span class="sec-sub">주제·신호 중심 — @cryptoquant_com · @ColinTCrypto · @lookonchain · @glassnode</span>
 </div>
-<div class="feed-outer">
-  <div class="feed-accounts">
-
-    <!-- CryptoQuant -->
-    <div class="feed-acct-card">
-      <div class="feed-acct-hdr">
-        <div class="feed-acct-icon">📊</div>
-        <div class="feed-acct-info">
-          <div class="feed-acct-name">CryptoQuant</div>
-          <a href="https://x.com/cryptoquant_com" target="_blank" class="feed-acct-handle">@cryptoquant_com</a>
-          <div class="feed-acct-desc">온체인 데이터 · 거래소 흐름 · 고래 동향 · 마켓 인디케이터</div>
-          <div class="feed-acct-tags">
-            <span class="feed-acct-tag">온체인</span>
-            <span class="feed-acct-tag">거래소 흐름</span>
-            <span class="feed-acct-tag">BTC 리저브</span>
-            <span class="feed-acct-tag">펀딩비</span>
-          </div>
-        </div>
-      </div>
-      <div class="feed-embed-wrap">
-        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/cryptoquant_com">Tweets by cryptoquant_com</a>
-      </div>
-    </div>
-
-    <!-- ColinTCrypto -->
-    <div class="feed-acct-card">
-      <div class="feed-acct-hdr">
-        <div class="feed-acct-icon">📈</div>
-        <div class="feed-acct-info">
-          <div class="feed-acct-name">Colin</div>
-          <a href="https://x.com/ColinTCrypto" target="_blank" class="feed-acct-handle">@ColinTCrypto</a>
-          <div class="feed-acct-desc">기술적 분석 · 마켓 구조 · 단기 트레이딩 인사이트</div>
-          <div class="feed-acct-tags">
-            <span class="feed-acct-tag">TA</span>
-            <span class="feed-acct-tag">가격 구조</span>
-            <span class="feed-acct-tag">단기 매매</span>
-            <span class="feed-acct-tag">지지/저항</span>
-          </div>
-        </div>
-      </div>
-      <div class="feed-embed-wrap">
-        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/ColinTCrypto">Tweets by ColinTCrypto</a>
-      </div>
-    </div>
-
-    <!-- Lookonchain -->
-    <div class="feed-acct-card">
-      <div class="feed-acct-hdr">
-        <div class="feed-acct-icon">🔎</div>
-        <div class="feed-acct-info">
-          <div class="feed-acct-name">Lookonchain</div>
-          <a href="https://x.com/lookonchain" target="_blank" class="feed-acct-handle">@lookonchain</a>
-          <div class="feed-acct-desc">고래 추적 · 스마트머니 · 대형 지갑 움직임 실시간 알림</div>
-          <div class="feed-acct-tags">
-            <span class="feed-acct-tag">고래 추적</span>
-            <span class="feed-acct-tag">스마트머니</span>
-            <span class="feed-acct-tag">지갑 모니터</span>
-            <span class="feed-acct-tag">대형 이동</span>
-          </div>
-        </div>
-      </div>
-      <div class="feed-embed-wrap">
-        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/lookonchain">Tweets by lookonchain</a>
-      </div>
-    </div>
-
-    <!-- Glassnode -->
-    <div class="feed-acct-card">
-      <div class="feed-acct-hdr">
-        <div class="feed-acct-icon">🔬</div>
-        <div class="feed-acct-info">
-          <div class="feed-acct-name">Glassnode</div>
-          <a href="https://x.com/glassnode" target="_blank" class="feed-acct-handle">@glassnode</a>
-          <div class="feed-acct-desc">온체인 인텔리전스 · NUPL · SOPR · 장기/단기 보유자 분석</div>
-          <div class="feed-acct-tags">
-            <span class="feed-acct-tag">NUPL</span>
-            <span class="feed-acct-tag">SOPR</span>
-            <span class="feed-acct-tag">LTH/STH</span>
-            <span class="feed-acct-tag">온체인 지표</span>
-          </div>
-        </div>
-      </div>
-      <div class="feed-embed-wrap">
-        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/glassnode">Tweets by glassnode</a>
-      </div>
-    </div>
-
-  </div>
-</div>
+<div id="intelFeed" class="topic-feed-grid"></div>
 </div>
 
 <div style="height:48px;"></div>
@@ -1733,12 +1652,126 @@ function toggleGuide() {
 }
 
 // ════════════════════════════════════════════════════════
+// 트레이딩 인텔 피드 (주제·신호 중심)
+// ════════════════════════════════════════════════════════
+const INTEL_TOPICS = [
+  {
+    icon:'📥', name:'거래소 유입/유출 신호', badge:'EXCHANGE FLOW',
+    bc:'rgba(57,211,83,.18)', bt:'var(--cyan)',
+    desc:'거래소로 들어오고 나가는 BTC 흐름을 추적하는 가장 직접적인 수급 지표. 거래소 잔량 감소는 매집, 급격한 유입 스파이크는 대형 매도 예고 신호로 읽힌다. 4~24H 이내 가격 반응이 빠른 단기 선행 지표.',
+    signals:[
+      {c:'var(--green)', t:'<strong>Exchange Reserve 지속 감소</strong> — 장기 매집 진행 중. 수급 개선이 중·장기 상승 재료로 작용. BTC 잔량이 다년 저점 갱신 시 신호 강도 높음'},
+      {c:'var(--red)',   t:'<strong>Exchange Inflow Spike (300 BTC+)</strong> — 단일 대량 유입 감지 시 24H 내 매도 압력 증가 경보. 동시에 펀딩비 상승 구간이면 급락 리스크 배가'},
+      {c:'var(--yellow)',t:'<strong>Miner Outflow 급등</strong> — 채굴자가 수익 실현 구간에서 거래소로 대량 이동. 단기 조정 선행 지표, 반감기 이후 구간에서 특히 주목'},
+    ],
+    kw:['Exchange Reserve','Netflow','Inflow Spike','Miner Outflow','Stablecoin SSR','Cold Storage','OTC Desk Flow'],
+    accts:[{h:'cryptoquant_com',u:'https://x.com/cryptoquant_com'},{h:'glassnode',u:'https://x.com/glassnode'}],
+    xUrl:'https://x.com/search?q=from%3Acryptoquant_com+OR+from%3Aglassnode+exchange+reserve+OR+inflow&f=live',
+  },
+  {
+    icon:'🐋', name:'고래 & 스마트머니 동향', badge:'WHALE TRACK',
+    bc:'rgba(88,166,255,.18)', bt:'var(--blue)',
+    desc:'300 BTC 이상 대형 단일 이동 및 ETF·기관 지갑 활동을 실시간 추적. 이동 방향(거래소 유입 vs 냉지갑)이 핵심 해석 포인트. 스마트머니 누적 패턴이 지속되면 단기 조정 무시하고 포지션 유지.',
+    signals:[
+      {c:'var(--red)',   t:'<strong>거래소 유입 300 BTC+</strong> — 고래의 거래소 입금. 4~12H 내 매도 압력 증가. 레버리지 축소·이익 실현 부분 고려'},
+      {c:'var(--green)', t:'<strong>냉지갑(Cold Wallet) 대량 이동</strong> — 장기 보유 목적 매집 확인. 수급 긍정 신호. 반복 감지 시 단기 하락에도 중기 추세는 상승 편향'},
+      {c:'var(--purple)',t:'<strong>ETF 고래 연속 누적 (3일+)</strong> — BlackRock/Fidelity 등 기관 BTC 매집 확인. 현물 ETF 일일 순유입 데이터(Farside)와 교차 검증 필수'},
+    ],
+    kw:['Whale Alert','Smart Money','Large Transfer','ETF Accumulation','Cold Wallet','Accumulation Address','OTC Flow','HODL Wave'],
+    accts:[{h:'lookonchain',u:'https://x.com/lookonchain'},{h:'cryptoquant_com',u:'https://x.com/cryptoquant_com'}],
+    xUrl:'https://x.com/search?q=from%3Alookonchain+bitcoin+OR+BTC+whale&f=live',
+  },
+  {
+    icon:'📐', name:'기술적 분석 & 시장 구조', badge:'TA / STRUCTURE',
+    bc:'rgba(240,136,62,.18)', bt:'var(--orange)',
+    desc:'가격 고점/저점 순서(시장 구조), 핵심 지지·저항 레벨, 청산 클러스터 위치를 분석. 진입·청산 타이밍의 직접적 근거가 되는 섹션. HTF(일봉·주봉) 구조 방향이 LTF(1H·4H) 신호보다 우선.',
+    signals:[
+      {c:'var(--green)', t:'<strong>BOS (Break of Structure) 상향 확인</strong> — 단기 추세 전환 신호. 풀백(이전 저항→지지 재테스트) 시 롱 진입 기회. 거래량 동반 필수'},
+      {c:'var(--red)',   t:'<strong>HTF 저항 반복 거부</strong> — 일봉·주봉 핵심 저항에서 3회 이상 거부 = 단기 하방 편향 강화. 고점 매도 압력 누적'},
+      {c:'var(--yellow)',t:'<strong>Liquidity Sweep 후 급반전</strong> — 청산 집중 구간 터치 후 강하게 되돌리는 패턴. 역추세 진입 또는 추세 방향 재진입 기회'},
+    ],
+    kw:['BOS','CHoCH','Order Block','FVG (Fair Value Gap)','Liquidity Sweep','HTF/LTF','EMA 200','Fibonacci Retracement','Volume Profile'],
+    accts:[{h:'ColinTCrypto',u:'https://x.com/ColinTCrypto'}],
+    xUrl:'https://x.com/ColinTCrypto',
+  },
+  {
+    icon:'📊', name:'파생상품 & 포지셔닝', badge:'DERIVATIVES',
+    bc:'rgba(248,81,73,.18)', bt:'var(--red)',
+    desc:'선물 시장 펀딩비·OI(미결제약정)·롱숏 비율로 레버리지 포지셔닝 과열/과냉 구간을 파악. 극단값에서는 스퀴즈가 발생하며 반방향 급등·급락이 나타난다. 변동성 예측의 핵심 지표.',
+    signals:[
+      {c:'var(--red)',   t:'<strong>펀딩비 0.1%+</strong> — 롱 포지션 과열. 8H 결제 시 롱 보유 비용 급증. 숏 스퀴즈 소멸 후 급락 패턴 빈발. 레버리지 비율 즉시 축소'},
+      {c:'var(--green)', t:'<strong>펀딩비 음수 (-0.05% 이하)</strong> — 숏 과열 구간. 단기 숏 스퀴즈 급등 가능. 스팟 매수 또는 소형 롱 기회. 연속 3회 이상 음수면 신호 강함'},
+      {c:'var(--yellow)',t:'<strong>OI 급증 + 가격 횡보</strong> — 대형 포지션 빌드업 중. 방향성 돌파(보통 24~48H 내) 임박 신호. 돌파 방향 확인 후 추세 추종'},
+    ],
+    kw:['Funding Rate','Open Interest','Long/Short Ratio','CVD (Cumulative Volume Delta)','Perpetual Premium','Basis','Liquidation Heatmap','Taker Buy/Sell Ratio'],
+    accts:[{h:'cryptoquant_com',u:'https://x.com/cryptoquant_com'},{h:'ColinTCrypto',u:'https://x.com/ColinTCrypto'}],
+    xUrl:'https://x.com/search?q=from%3Acryptoquant_com+OR+from%3AColinTCrypto+funding+rate+OR+open+interest&f=live',
+  },
+  {
+    icon:'🧬', name:'온체인 심리 & 사이클 지표', badge:'CYCLE / SENTIMENT',
+    bc:'rgba(188,140,255,.18)', bt:'var(--purple)',
+    desc:'NUPL·SOPR·MVRV Z-Score로 현재 사이클 상 위치를 파악. 장기 보유자(LTH)의 행동 변화가 대세 전환의 가장 신뢰도 높은 조기 경보. 단기 매매보다 중장기 방향성 판단에 활용.',
+    signals:[
+      {c:'var(--red)',   t:'<strong>NUPL Euphoria 구간 (0.75 이상)</strong> — 시장 전체가 큰 미실현 이익 보유. 사이클 고점 구간. 분할 익절 전략 실행, 레버리지 비율 최소화'},
+      {c:'var(--green)', t:'<strong>SOPR < 1 지속 (손실 매도)</strong> — 시장 참여자 다수가 손실 실현 중인 항복 구간. 역사적 바닥 근처. 분할 매수 기회. SOPR이 1 회복 시 반등 확인'},
+      {c:'var(--yellow)',t:'<strong>LTH 분배 시작 감지</strong> — 장기 보유자가 수익 실현 시작. 사이클 후반부 전환 조기 경보. 단기 상승 지속 가능하나 포지션 사이즈 축소 준비'},
+    ],
+    kw:['NUPL','SOPR','MVRV Z-Score','LTH Supply','STH Cost Basis','Realized Cap','RHODL Ratio','Pi Cycle Top','Entity-Adjusted SOPR'],
+    accts:[{h:'glassnode',u:'https://x.com/glassnode'},{h:'cryptoquant_com',u:'https://x.com/cryptoquant_com'}],
+    xUrl:'https://x.com/search?q=from%3Aglassnode+OR+from%3Acryptoquant_com+NUPL+OR+SOPR+OR+MVRV&f=live',
+  },
+  {
+    icon:'🏛️', name:'기관 & ETF 수급', badge:'INSTITUTIONAL',
+    bc:'rgba(210,153,34,.18)', bt:'var(--yellow)',
+    desc:'현물 ETF 일일 순유입·유출, 기관 OTC 거래, MicroStrategy 등 기업 재무제표 BTC 편입 동향 추적. 2024년 이후 현물 ETF가 BTC 단기 가격의 직접적 드라이버로 부상. Farside 데이터와 연동.',
+    signals:[
+      {c:'var(--green)', t:'<strong>ETF 연속 순유입 3일+</strong> — 기관 수요 확인. 일일 $200M+ 유입은 강한 수급 신호. BTC 현물 매수 압력 지속. 단기 조정 시 매수 기회'},
+      {c:'var(--red)',   t:'<strong>ETF 단일일 대규모 유출 ($500M+)</strong> — 기관 포지션 청산 신호. 특히 GBTC·IBIT 동시 유출 시 24~48H 내 하방 압력 강함'},
+      {c:'var(--yellow)',t:'<strong>기업 BTC 추가 매입 공시</strong> — MicroStrategy·Marathon 등 상장사 매입 공시. 단기 심리 지지 + 장기 수급 긍정. 공시 직후 단기 매수 쏠림 주의'},
+    ],
+    kw:['ETF Inflow/Outflow','BlackRock IBIT','Fidelity FBTC','GBTC','MicroStrategy','Corporate Treasury','Custody Flow','Grayscale'],
+    accts:[{h:'lookonchain',u:'https://x.com/lookonchain'},{h:'cryptoquant_com',u:'https://x.com/cryptoquant_com'}],
+    xUrl:'https://x.com/search?q=from%3Alookonchain+ETF+OR+institutional+bitcoin&f=live',
+  },
+];
+
+function renderIntelFeed() {
+  document.getElementById('intelFeed').innerHTML = INTEL_TOPICS.map(t => `
+    <div class="topic-card">
+      <div class="topic-head">
+        <div class="topic-title">
+          <span class="topic-icon">${t.icon}</span>
+          <span class="topic-name">${t.name}</span>
+        </div>
+        <span class="topic-badge" style="background:${t.bc};color:${t.bt}">${t.badge}</span>
+      </div>
+      <div class="topic-desc">${t.desc}</div>
+      <div class="topic-signals">
+        ${t.signals.map(s=>`
+          <div class="topic-signal-row">
+            <div class="sig-dot" style="background:${s.c}"></div>
+            <div class="sig-txt">${s.t}</div>
+          </div>`).join('')}
+      </div>
+      <div class="topic-kw">
+        ${t.kw.map(k=>`<span class="kw-chip">${k}</span>`).join('')}
+      </div>
+      <div class="topic-footer">
+        <div class="topic-accts">
+          ${t.accts.map(a=>`<a href="${a.u}" target="_blank" class="topic-acct-tag">@${a.h}</a>`).join('')}
+        </div>
+        <a href="${t.xUrl}" target="_blank" class="topic-x-btn">X에서 검색 →</a>
+      </div>
+    </div>`).join('');
+}
+
+// ════════════════════════════════════════════════════════
 // 시작
 // ════════════════════════════════════════════════════════
 refreshAll();
+renderIntelFeed();
 setInterval(refreshAll, REFRESH);
 setInterval(()=>{renderEventList();renderTriggerGrid();renderGuideGrid();renderPolymarket();}, 30000);
 </script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
