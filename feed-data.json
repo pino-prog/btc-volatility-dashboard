@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-05-18T15:50:13.208Z",
+  "updatedAt": "2026-05-18T19:55:47.033Z",
   "items": [
+    {
+      "id": "ColinTCrypto__Mon, 18 May 2026 19:15:41 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "On a purely time basis, it is extremely unlikely that the BTC bottom was in after just 4 months (October to February)",
+      "pubDate": "Mon, 18 May 2026 19:15:41 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2056453689997422708#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 18 May 2026 15:42:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Reading the Bitcoin Bottom via HODL Waves “Our predicted price range for this cycle&apos;s bottom is $65.9K–$70.5K. If $70.5K holds, we’ll slowly grind out a bottom in the upper range.” – By Sunny Mom Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a0746c92f49764f5f1f3bec-Reading-the-Bitcoin-Bottom-via",
+      "pubDate": "Mon, 18 May 2026 15:42:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056399913957695803#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 18 May 2026 15:25:44 GMT",
       "handle": "lookonchain",
@@ -433,17 +459,27 @@
       "keywords": []
     },
     {
-      "id": "glassnode__Fri, 15 May 2026 11:38:03 GMT",
+      "id": "glassnode__Fri, 15 May 2026 11:38:05 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
       "category": "온체인 심리",
       "color": "purple",
-      "text": "Bitcoin is holding above 80K despite ETF outflows and a slightly hotter CPI print. Here’s what Bitcoin options data reveals about positioning, volatility expectations, and market sentiment beneath the surface.",
-      "pubDate": "Fri, 15 May 2026 11:38:03 GMT",
-      "link": "https://nitter.net/glassnode/status/2055251358257697142#m",
+      "text": "R to @glassnode: 82K Remains the Key Area The largest pocket of negative gamma sits near 82K, just above spot. A move into that region could reinforce momentum through dealer hedging flows. Higher up, positive gamma near 85K may act as a stabilizing zone. https://glassno.de/4dKjpkz",
+      "pubDate": "Fri, 15 May 2026 11:38:05 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251369938788525#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:05 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: Flow Turns More Neutral 7 day taker flow looks increasingly balanced. Call selling still leads at 31.5%, but call buying remains close behind. The mix points to a market still harvesting recent upside, while selectively rebuilding bullish exposure. https://glassno.de/3RnYAmg",
+      "pubDate": "Fri, 15 May 2026 11:38:05 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251367518716289#m",
       "keywords": [
-        "ETF 수급",
-        "BTC"
+        "강세 신호"
       ]
     },
     {
@@ -474,44 +510,6 @@
         "Whale",
         "BTC"
       ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 15 May 2026 09:45:28 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "The stock market pumping right now is the only thing keeping $BTC afloat, imo. In the short term, the S&P looks bullish due to the recent megaphone breakout (https://x.com/colintcrypto/status/2053839971438456939) But longer term, the economic backdrop doesn’t look good (CPI and PPI running hot). Not a great environment",
-      "pubDate": "Fri, 15 May 2026 09:45:28 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055223028342992952#m",
-      "keywords": [
-        "강세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 14 May 2026 21:21:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Crazzyblockk: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a05b7739d6a385f7e134ce3-Bitcoin-Is-Sitting-112-Below-Its-EFIS-Fair-Value-%E2%80%94-The-Market-Is-In-a-Decision-Z?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crazzyblockk",
-      "pubDate": "Thu, 14 May 2026 21:21:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2055035674604994780#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Thu, 14 May 2026 11:16:49 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "purple",
-      "text": "Chart of The Week: Exchange Reshuffling Ratio Breakdown 📈https://glassno.de/4uamxMj",
-      "pubDate": "Thu, 14 May 2026 11:16:49 GMT",
-      "link": "https://nitter.net/glassnode/status/2054883627738030570#m",
-      "keywords": []
     }
   ]
 }
