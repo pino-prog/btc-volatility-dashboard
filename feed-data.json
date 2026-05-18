@@ -1,1 +1,416 @@
-{"updatedAt": null, "items": []}
+{
+  "updatedAt": "2026-05-18T07:04:32.170Z",
+  "items": [
+    {
+      "id": "lookonchain__Mon, 18 May 2026 04:42:50 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Trader GyBRmk sold 21,911 $SOL($1.85M) after holding for over 2 years, taking a $1.05M loss. Over the past 2 years, he accumulated 20,200 $SOL($2.91M) at ~$144 and staked them, earning 1,711 $SOL ($145K) in staking rewards. But as $SOL fell, he still ended up losing $1.05M. https://intel.arkm.com/explorer/address/GyBRm",
+      "pubDate": "Mon, 18 May 2026 04:42:50 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056234031445078233#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 02:30:32 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Verus-Ethereum Bridge(@VerusCoin) appears to have been exploited, with ~$11.5M stolen. The exploiter has already swapped all the funds into 5,402 $ETH($11.5M). https://intel.arkm.com/explorer/address/0x65Cb8b128Bf6e690761044CCECA422bb239C25F9",
+      "pubDate": "Mon, 18 May 2026 02:30:32 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056200736082714973#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Mon, 18 May 2026 01:42:08 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC 🟡 REJECTION #1 (YELLOW ARROW): UPPER CHANNEL TREND LINE. ⚪ REJECTION #2 (WHITE ARROW): 200 DAY MOVING AVERAGE. 🟣 REJECTION #3 (PURPLE ARROW): UNDERSIDE OF TREND LINE (significance: had been respected as resistance and support many times-- now broken, to the downside). This is all bearish, folks.",
+      "pubDate": "Mon, 18 May 2026 01:42:08 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2056188553764151650#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "지지선",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 00:44:25 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After taking a month off, he came back and opened a massive short on 375,033 $HYPE($17.5M) — now sitting on an unrealized loss of $1.26M! https://x.com/lookonchain/status/2055286005469691997",
+      "pubDate": "Mon, 18 May 2026 00:44:25 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056174030282170643#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 00:27:01 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x8652 opened a 10x long on 36,875 $ZEC($19.68M) over the past 3 hours, becoming the largest on-chain $ZEC bull. Liquidation price: $494.55 https://hypurrscan.io/address/0x86523927bffeafe2e532f0218feb1f3c29f6120d#perps",
+      "pubDate": "Mon, 18 May 2026 00:27:01 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056169650543837229#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 00:16:05 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This #Matrixport-linked whale keeps adding more to his $ETH longs as the market falls. He now holds 120,000 $ETH($254M), with over $17.5M in unrealized losses. https://x.com/lookonchain/status/2055660007577030944",
+      "pubDate": "Mon, 18 May 2026 00:16:05 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056166900514910551#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 00:10:20 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The sudden market crash liquidated Machi(@machibigbrother) again! Even after being liquidated, he is still going long on $ETH, opening a new 25x long on 1,825 $ETH($3.87M). New liquidation price: $2,086.69 https://x.com/lookonchain/status/2055632501725671434",
+      "pubDate": "Mon, 18 May 2026 00:10:20 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056165453039645077#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 17 May 2026 14:36:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales appear to be buying $UNI! Over the past 5 hours, 2 wallets spent $2.33M to buy 656,338 $UNI. https://intel.arkm.com/explorer/address/0xdFf8C618A93156a260d1e9b6b38b4Edc6aD64DCc https://intel.arkm.com/explorer/address/0x09cF91d5e137CF047Eb9E0551CEB18239B46d3Dd",
+      "pubDate": "Sun, 17 May 2026 14:36:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056021075948146816#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 17 May 2026 06:37:37 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x50b3 is shorting $ETH and going long on $BTC! He opened a 25x short on 23,151 $ETH($50.55M) and a 20x long on 323.72 $BTC($25.27M). Liquidation prices: $ETH: $2,288.33 $BTC: $70,325.36 https://hypurrscan.io/address/0x50b309f78e774a756a2230e1769729094cac9f20#perps",
+      "pubDate": "Sun, 17 May 2026 06:37:37 GMT",
+      "link": "https://nitter.net/lookonchain/status/2055900529482776743#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "청산"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sun, 17 May 2026 00:57:43 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC Low time frame (4H candles) Channel rejected from underside. Bearish. Some were hoping this was a bull flag. Not currently.",
+      "pubDate": "Sun, 17 May 2026 00:57:43 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055814989965918586#m",
+      "keywords": [
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 16 May 2026 14:32:20 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @ColinTCrypto: 😮 https://x.com/ColinTCrypto/status/2055657154808316212?s=20",
+      "pubDate": "Sat, 16 May 2026 14:32:20 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055657608913072212#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Sat, 16 May 2026 14:30:32 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "Did I get it? 👀 $BTC tagged the 200 MA about 4-5 times.",
+      "pubDate": "Sat, 16 May 2026 14:30:32 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055657154808316212#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Sat, 16 May 2026 13:41:06 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "Treasury Bills/Notes/Bonds are a NET LOSS of purchasing power. They are a way to let the government slowly steal from you while allowing yourself to feel placated by interest payments that are *less* than the theft. They are only a way to slow bleeding— not a way to “earn more”, as is commonly depicted. The problem is:",
+      "pubDate": "Sat, 16 May 2026 13:41:06 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055644714783670497#m",
+      "keywords": [
+        "LTH 보유자"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 16 May 2026 08:30:39 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC is bumping into overhead resistance from: 1. The prior consolidation channel (bear flag from $80k-$98k). 2. The 200 day moving average. 3. The current price channel’s upper boundary. All 3 are acting as resistance. Plus, BTC’s momentum has been stalling during the last 2 weeks. I don’t see BTC going meaningfully a",
+      "pubDate": "Sat, 16 May 2026 08:30:39 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055566587248234826#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Fri, 15 May 2026 23:55:41 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "From time to time I see some individuals (mostly beginners) mock technical analysis. I used to doubt it as well, years ago. Here are some actual success rates, in percentages, for various TA patterns from a legendary Classical Chartist and trader, @TechCharts. Yes, sometimes the odds are slim, but an edge is an edge. T",
+      "pubDate": "Fri, 15 May 2026 23:55:41 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055436989906768261#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 15 May 2026 13:29:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Nexo: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a071c68f2609c4353776b0d-2026-Record-Inflows-Two-Behaviors-Reading-the-Stablecoin-Trend-on-Nexo?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Fri, 15 May 2026 13:29:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2055279279936598169#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 15 May 2026 13:23:38 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "2026 Record Inflows, Two Behaviors: Reading the Stablecoin Trend on @Nexo “One points to liquidity ready to be deployed into the market, while the other reflects a more cautious stance, investors who prefer to generate yield while waiting to be convinced by the market.” – By @Darkfost_Coc",
+      "pubDate": "Fri, 15 May 2026 13:23:38 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2055277929492341189#m",
+      "keywords": [
+        "유동성",
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 15 May 2026 12:46:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "CVD Data Signals Weakening Buyer Strength Amid Macro Uncertainty “BTC to sustain the bullish momentum that began in early February, it is becoming essential for spot demand to return and support the move more consistently.” – By @Darkfost_Coc1 Link ⤵️ https://cryptoquant.com/insights/quicktake/6a06c5977b3cd30e190da083-",
+      "pubDate": "Fri, 15 May 2026 12:46:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2055268458795773999#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "강세 신호"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 12:33:31 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "#Bitcoin network activity is rebounding fast. Historically, surges in Network Growth above the 60 level have coincided with the end of local bottoms and the return of stronger market conditions. Our Vector framework shows #BTC is now approaching that same inflection zone. ▶︎http://glassno.de/3QxhI0I",
+      "pubDate": "Fri, 15 May 2026 12:33:31 GMT",
+      "link": "https://nitter.net/glassnode/status/2055265316544884782#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:07 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: Wrap Up Volatility has reset lower at the front end. Skew shows hedging demand has cooled. Realized vol is falling faster than implied. Flows lean balanced but still cautious. Positioning points to 82K as the trigger zone, with 85K as the next upside test.",
+      "pubDate": "Fri, 15 May 2026 11:38:07 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251375567630839#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:06 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: 85K Flow Stays Two Sided Positioning around the 85K strike remains balanced. Bought and sold call premium continue rising together. Traders are actively positioning around 85K, but without a strong directional bias yet. https://glassno.de/4dcq32R",
+      "pubDate": "Fri, 15 May 2026 11:38:06 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251373193646346#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:05 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: 82K Remains the Key Area The largest pocket of negative gamma sits near 82K, just above spot. A move into that region could reinforce momentum through dealer hedging flows. Higher up, positive gamma near 85K may act as a stabilizing zone. https://glassno.de/4dKjpkz",
+      "pubDate": "Fri, 15 May 2026 11:38:05 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251369938788525#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:05 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: Flow Turns More Neutral 7 day taker flow looks increasingly balanced. Call selling still leads at 31.5%, but call buying remains close behind. The mix points to a market still harvesting recent upside, while selectively rebuilding bullish exposure. https://glassno.de/3RnYAmg",
+      "pubDate": "Fri, 15 May 2026 11:38:05 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251367518716289#m",
+      "keywords": [
+        "강세 신호"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:04 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: Realized Vol Keeps Falling 1M realized vol has dropped toward 28%, while 1M IV still holds near 37%. The spread between implied and realized volatility widened from around -2 to +10 vols in three weeks, as realized continues to fall faster than implied.",
+      "pubDate": "Fri, 15 May 2026 11:38:04 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251365643866209#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:04 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: Skew Shows Protection Still Matters 25 delta skew remains positive across the curve. 1W sits near 6%, while 1M to 6M cluster around 10%. Skew measures put demand versus calls. This shows downside hedging has eased from highs, but has not disappeared. https://glassno.de/3Ra7aVH",
+      "pubDate": "Fri, 15 May 2026 11:38:04 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251363018183008#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 15 May 2026 11:38:03 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "R to @glassnode: Volatility Stays Contained Front end IV remains subdued, with 1W near 35%. Longer dated maturities eased slightly over the past two weeks, with 1M near 37% and 6M around 42%. The curve remains in contango, showing near term expectations stay anchored. https://glassno.de/4uNWF91",
+      "pubDate": "Fri, 15 May 2026 11:38:03 GMT",
+      "link": "https://nitter.net/glassnode/status/2055251360296190314#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 15 May 2026 10:19:59 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a063f5dd9cb766b67074d4c-The-Third-Test-Short-Term-Whales-Decide-the-Next-Move?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
+      "pubDate": "Fri, 15 May 2026 10:19:59 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2055231714885087494#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 15 May 2026 10:19:33 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Short-Term Whales Decide the Next Move “If BTC can stabilize above this cohort’s cost basis, unrealized stress disappears & these whales may transition from defensive sellers into passive holders again, removing significant sell-side pressure from the market.” – By @MorenoDV_",
+      "pubDate": "Fri, 15 May 2026 10:19:33 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2055231605279506912#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Fri, 15 May 2026 09:45:28 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "The stock market pumping right now is the only thing keeping $BTC afloat, imo. In the short term, the S&P looks bullish due to the recent megaphone breakout (https://x.com/colintcrypto/status/2053839971438456939) But longer term, the economic backdrop doesn’t look good (CPI and PPI running hot). Not a great environment",
+      "pubDate": "Fri, 15 May 2026 09:45:28 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055223028342992952#m",
+      "keywords": [
+        "강세 신호",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 14 May 2026 21:21:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Crazzyblockk: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a05b7739d6a385f7e134ce3-Bitcoin-Is-Sitting-112-Below-Its-EFIS-Fair-Value-%E2%80%94-The-Market-Is-In-a-Decision-Z?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crazzyblockk",
+      "pubDate": "Thu, 14 May 2026 21:21:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2055035674604994780#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 14 May 2026 21:14:11 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Is Sitting 11.2% Below Its EFIS Fair Value “The ETF Flow Impact Score — or EFIS, a proprietary price model built on AUM-normalized ETF flows — is currently pricing Bitcoin&apos;s fair value at $88,144.” – By @Crazzyblockk",
+      "pubDate": "Thu, 14 May 2026 21:14:11 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2055033961936462316#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 14 May 2026 11:04:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Live chart ⤵️ https://cryptoquant.com/analytics/query/6a055e0438c2383864e1040b?v=6a055e23bca224364eeb2411&utm_source=twitter&utm_medium=sns&utm_campaign=query&utm_content=circle-usdc",
+      "pubDate": "Thu, 14 May 2026 11:04:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2054880402243047463#m",
+      "keywords": []
+    }
+  ]
+}
