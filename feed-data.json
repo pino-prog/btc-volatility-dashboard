@@ -1,6 +1,164 @@
 {
-  "updatedAt": "2026-05-18T07:04:32.170Z",
+  "updatedAt": "2026-05-18T15:50:13.208Z",
   "items": [
+    {
+      "id": "lookonchain__Mon, 18 May 2026 15:25:44 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "May 11–May 17, 2026 #LookonchainWeeklyReport 🟢 Overview Stablecoin inflows slowed to $549M, and DEX spot and perp volumes both pulled back after last week’s rebound. But institutional accumulation stayed strong, led by Strategy&apos;s 24,869 $BTC($2.01B) purchase and Bitmine&apos;s 71,672 $ETH($153.66M) buy. 🟢 Stable",
+      "pubDate": "Mon, 18 May 2026 15:25:44 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056395821843980379#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "스테이블코인"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 14:52:27 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "May 18 Update: #Bitcoin ETFs: 1D NetFlow: -3,361 $BTC(-$256.91M)🔴 7D NetFlow: -12,478 $BTC(-$957.71M)🔴 #Ethereum ETFs: 1D NetFlow: -26,151 $ETH(-$55.23M)🔴 7D NetFlow: -113,035 $ETH(-$238.73M)🔴 #Solana ETFs: 1D NetFlow: +3,425 $SOL(+$288K)🟢 7D NetFlow: +605,484 $SOL(+$50.86M)🟢 https://x.com/lookonchain/status/2055",
+      "pubDate": "Mon, 18 May 2026 14:52:27 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056387447408496933#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Mon, 18 May 2026 14:44:29 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "$BTC rolled over from a local peak above $82K into the mid-$76Ks, with spot demand, ETF flows, and speculative positioning weakening. Long-term holder strength remains a key source of support. Read this week’s Market Pulse👇 https://glassno.de/4nzZuIp",
+      "pubDate": "Mon, 18 May 2026 14:44:29 GMT",
+      "link": "https://nitter.net/glassnode/status/2056385440614093297#m",
+      "keywords": [
+        "ETF 수급",
+        "지지선",
+        "TA"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 14:25:33 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After a 9-month break, http://Pump.fun has started selling $SOL again, depositing 82,700 $SOL($7.02M) to #Kraken over the past hour. Previously, from May 19, 2024 to Aug. 12, 2025, http://Pump.fun sold a total of 4.19M $SOL($757M) at an average price of $181. https://intel.arkm.com/explorer/entity/pump-fun",
+      "pubDate": "Mon, 18 May 2026 14:25:33 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056380677692801054#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Mon, 18 May 2026 14:24:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Nexo: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a0a10acf2609c4353776f1b-While-users-keep-moving-capital-on-chain-policymakers-are-still-shaping-the-rule?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=maartunn",
+      "pubDate": "Mon, 18 May 2026 14:24:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056380284602642464#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Mon, 18 May 2026 14:18:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "While users keep moving capital on-chain, policymakers are still shaping the rules “These are the largest inflows to @Nexo since October 2025, with no meaningful stablecoin outflows in recent months. The adoption is happening before the rulebook is finalized.” – By @JA_Maartun",
+      "pubDate": "Mon, 18 May 2026 14:18:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056378776691339730#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "glassnode__Mon, 18 May 2026 13:35:11 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "At $76.7k, more than 7.8M BTC are currently held at a loss. The supply overhang from buyers near cycle highs remains substantial, a weight the market will need to absorb before any sustained move higher becomes structurally credible. 📉 http://glassno.de/4wrCX4y",
+      "pubDate": "Mon, 18 May 2026 13:35:11 GMT",
+      "link": "https://nitter.net/glassnode/status/2056368000245125145#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 12:33:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Tom Lee(@fundstrat)&apos;s #Bitmine bought 71,672 $ETH($153.66M) last week and currently holds 5,278,462 $ETH($11.32B). Bitmine has staked a total of 4,712,917 $ETH($10.1B), 89.29% of its total holdings. https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-28-",
+      "pubDate": "Mon, 18 May 2026 12:33:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056352599419580603#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 12:27:50 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Michael Saylor(@saylor)&apos;s @Strategy bought another 24,869 $BTC($2.01B) at $80,985 last week! Strategy now holds 843,738 $BTC($65.36B) at an average price of $75,700 and is currently sitting on an unrealized profit of $1.49B(+2.34%). https://www.strategy.com/press/strategy-acquires-24869-btc-and-achieves-btc-yield-",
+      "pubDate": "Mon, 18 May 2026 12:27:50 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056351050542817521#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Mon, 18 May 2026 11:39:06 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "Median SOPR across the top 500 coins just hit break-even (SOPR=1), the highest reading since BTC traded near all time highs. The move was met with heavy selling across the market. The typical altcoin holder has been realizing losses since late 2024. 📊 https://glassno.de/4wBiDxG",
+      "pubDate": "Mon, 18 May 2026 11:39:06 GMT",
+      "link": "https://nitter.net/glassnode/status/2056338788138504620#m",
+      "keywords": [
+        "SOPR",
+        "온체인",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 08:36:56 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This whale, holding 131K $ETH, made a perfect buy-low, sell-high trade a month ago, earning $1.09M. 4 hours ago, he bought another 5,001 $ETH($10.6M) at $2,119. https://x.com/lookonchain/status/2043512821368119751",
+      "pubDate": "Mon, 18 May 2026 08:36:56 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056292943259156910#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 18 May 2026 07:09:21 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A massive $HYPE buy! Wallet 0xb5E4, linked to #a16z, bought another 372,000 $HYPE($16.91M) over the past 3 hours. Since April 14, this wallet has bought a total of 2.11M $HYPE ($90.87M). https://intel.arkm.com/explorer/address/0xb5E4d21240e9356caFc3a1261d10383f62DFc24e https://x.com/lookonchain/status/20552215895670133",
+      "pubDate": "Mon, 18 May 2026 07:09:21 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056270903332446684#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Mon, 18 May 2026 04:42:50 GMT",
       "handle": "lookonchain",
@@ -275,61 +433,18 @@
       "keywords": []
     },
     {
-      "id": "glassnode__Fri, 15 May 2026 11:38:05 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "purple",
-      "text": "R to @glassnode: 82K Remains the Key Area The largest pocket of negative gamma sits near 82K, just above spot. A move into that region could reinforce momentum through dealer hedging flows. Higher up, positive gamma near 85K may act as a stabilizing zone. https://glassno.de/4dKjpkz",
-      "pubDate": "Fri, 15 May 2026 11:38:05 GMT",
-      "link": "https://nitter.net/glassnode/status/2055251369938788525#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 15 May 2026 11:38:05 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "purple",
-      "text": "R to @glassnode: Flow Turns More Neutral 7 day taker flow looks increasingly balanced. Call selling still leads at 31.5%, but call buying remains close behind. The mix points to a market still harvesting recent upside, while selectively rebuilding bullish exposure. https://glassno.de/3RnYAmg",
-      "pubDate": "Fri, 15 May 2026 11:38:05 GMT",
-      "link": "https://nitter.net/glassnode/status/2055251367518716289#m",
-      "keywords": [
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 15 May 2026 11:38:04 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "purple",
-      "text": "R to @glassnode: Realized Vol Keeps Falling 1M realized vol has dropped toward 28%, while 1M IV still holds near 37%. The spread between implied and realized volatility widened from around -2 to +10 vols in three weeks, as realized continues to fall faster than implied.",
-      "pubDate": "Fri, 15 May 2026 11:38:04 GMT",
-      "link": "https://nitter.net/glassnode/status/2055251365643866209#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 15 May 2026 11:38:04 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "purple",
-      "text": "R to @glassnode: Skew Shows Protection Still Matters 25 delta skew remains positive across the curve. 1W sits near 6%, while 1M to 6M cluster around 10%. Skew measures put demand versus calls. This shows downside hedging has eased from highs, but has not disappeared. https://glassno.de/3Ra7aVH",
-      "pubDate": "Fri, 15 May 2026 11:38:04 GMT",
-      "link": "https://nitter.net/glassnode/status/2055251363018183008#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Fri, 15 May 2026 11:38:03 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
       "category": "온체인 심리",
       "color": "purple",
-      "text": "R to @glassnode: Volatility Stays Contained Front end IV remains subdued, with 1W near 35%. Longer dated maturities eased slightly over the past two weeks, with 1M near 37% and 6M around 42%. The curve remains in contango, showing near term expectations stay anchored. https://glassno.de/4uNWF91",
+      "text": "Bitcoin is holding above 80K despite ETF outflows and a slightly hotter CPI print. Here’s what Bitcoin options data reveals about positioning, volatility expectations, and market sentiment beneath the surface.",
       "pubDate": "Fri, 15 May 2026 11:38:03 GMT",
-      "link": "https://nitter.net/glassnode/status/2055251360296190314#m",
-      "keywords": []
+      "link": "https://nitter.net/glassnode/status/2055251358257697142#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC"
+      ]
     },
     {
       "id": "cryptoquant_com__Fri, 15 May 2026 10:19:59 GMT",
@@ -388,28 +503,14 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Thu, 14 May 2026 21:14:11 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Is Sitting 11.2% Below Its EFIS Fair Value “The ETF Flow Impact Score — or EFIS, a proprietary price model built on AUM-normalized ETF flows — is currently pricing Bitcoin&apos;s fair value at $88,144.” – By @Crazzyblockk",
-      "pubDate": "Thu, 14 May 2026 21:14:11 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2055033961936462316#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 14 May 2026 11:04:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Live chart ⤵️ https://cryptoquant.com/analytics/query/6a055e0438c2383864e1040b?v=6a055e23bca224364eeb2411&utm_source=twitter&utm_medium=sns&utm_campaign=query&utm_content=circle-usdc",
-      "pubDate": "Thu, 14 May 2026 11:04:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2054880402243047463#m",
+      "id": "glassnode__Thu, 14 May 2026 11:16:49 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "purple",
+      "text": "Chart of The Week: Exchange Reshuffling Ratio Breakdown 📈https://glassno.de/4uamxMj",
+      "pubDate": "Thu, 14 May 2026 11:16:49 GMT",
+      "link": "https://nitter.net/glassnode/status/2054883627738030570#m",
       "keywords": []
     }
   ]
