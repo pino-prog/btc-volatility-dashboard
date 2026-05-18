@@ -93,6 +93,23 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
 .sec-poly   {border-left-color:var(--purple);background:linear-gradient(90deg,rgba(188,140,255,.07) 0%,var(--bg2) 400px);}
 .sec-signals{border-left-color:var(--blue);background:linear-gradient(90deg,rgba(88,166,255,.07) 0%,var(--bg2) 400px);}
 .sec-links  {border-left-color:var(--green);background:linear-gradient(90deg,rgba(63,185,80,.07) 0%,var(--bg2) 400px);}
+.sec-feed   {border-left-color:var(--cyan);background:linear-gradient(90deg,rgba(57,211,83,.07) 0%,var(--bg2) 400px);}
+.lbl-cyan   {background:rgba(57,211,83,.2);color:var(--cyan);}
+/* Feed section */
+.feed-outer{padding:16px 20px 20px;}
+.feed-accounts{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;}
+.feed-acct-card{background:var(--bg3);border:1px solid var(--border);border-radius:8px;overflow:hidden;}
+.feed-acct-hdr{padding:12px 14px;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;gap:10px;}
+.feed-acct-icon{font-size:22px;line-height:1;flex-shrink:0;margin-top:2px;}
+.feed-acct-info{flex:1;min-width:0;}
+.feed-acct-name{font-size:13px;font-weight:700;color:var(--text);}
+.feed-acct-handle{font-size:11px;color:var(--blue);text-decoration:none;}
+.feed-acct-handle:hover{text-decoration:underline;}
+.feed-acct-desc{font-size:11px;color:var(--muted);margin-top:3px;line-height:1.4;}
+.feed-acct-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;}
+.feed-acct-tag{font-size:9px;padding:1px 6px;border-radius:3px;background:var(--bg);border:1px solid var(--border);color:var(--muted);}
+.feed-embed-wrap{max-height:420px;overflow-y:auto;background:#15202b;}
+.feed-embed-wrap .twitter-timeline{display:block;width:100%;}
 .lbl-red   {background:rgba(248,81,73,.2);color:var(--red);}
 .lbl-orange{background:rgba(240,136,62,.2);color:var(--orange);}
 .lbl-purple{background:rgba(188,140,255,.2);color:var(--purple);}
@@ -412,6 +429,109 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
 </div>
 <div id="manualLinks" class="manual-grid"></div>
 </div>
+
+<!-- ══════════════════════════════════════════════════════════
+     SECTION D : 트레이딩 인텔 피드
+════════════════════════════════════════════════════════════ -->
+<div class="section-block">
+<div class="sec-hdr sec-feed">
+  <div style="display:flex;align-items:center;">
+    <span class="sec-label lbl-cyan">INTEL FEED</span>
+    <span>📡 트레이딩 인텔 피드</span>
+  </div>
+  <span class="sec-sub">@cryptoquant_com · @ColinTCrypto · @lookonchain · @glassnode</span>
+</div>
+<div class="feed-outer">
+  <div class="feed-accounts">
+
+    <!-- CryptoQuant -->
+    <div class="feed-acct-card">
+      <div class="feed-acct-hdr">
+        <div class="feed-acct-icon">📊</div>
+        <div class="feed-acct-info">
+          <div class="feed-acct-name">CryptoQuant</div>
+          <a href="https://x.com/cryptoquant_com" target="_blank" class="feed-acct-handle">@cryptoquant_com</a>
+          <div class="feed-acct-desc">온체인 데이터 · 거래소 흐름 · 고래 동향 · 마켓 인디케이터</div>
+          <div class="feed-acct-tags">
+            <span class="feed-acct-tag">온체인</span>
+            <span class="feed-acct-tag">거래소 흐름</span>
+            <span class="feed-acct-tag">BTC 리저브</span>
+            <span class="feed-acct-tag">펀딩비</span>
+          </div>
+        </div>
+      </div>
+      <div class="feed-embed-wrap">
+        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/cryptoquant_com">Tweets by cryptoquant_com</a>
+      </div>
+    </div>
+
+    <!-- ColinTCrypto -->
+    <div class="feed-acct-card">
+      <div class="feed-acct-hdr">
+        <div class="feed-acct-icon">📈</div>
+        <div class="feed-acct-info">
+          <div class="feed-acct-name">Colin</div>
+          <a href="https://x.com/ColinTCrypto" target="_blank" class="feed-acct-handle">@ColinTCrypto</a>
+          <div class="feed-acct-desc">기술적 분석 · 마켓 구조 · 단기 트레이딩 인사이트</div>
+          <div class="feed-acct-tags">
+            <span class="feed-acct-tag">TA</span>
+            <span class="feed-acct-tag">가격 구조</span>
+            <span class="feed-acct-tag">단기 매매</span>
+            <span class="feed-acct-tag">지지/저항</span>
+          </div>
+        </div>
+      </div>
+      <div class="feed-embed-wrap">
+        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/ColinTCrypto">Tweets by ColinTCrypto</a>
+      </div>
+    </div>
+
+    <!-- Lookonchain -->
+    <div class="feed-acct-card">
+      <div class="feed-acct-hdr">
+        <div class="feed-acct-icon">🔎</div>
+        <div class="feed-acct-info">
+          <div class="feed-acct-name">Lookonchain</div>
+          <a href="https://x.com/lookonchain" target="_blank" class="feed-acct-handle">@lookonchain</a>
+          <div class="feed-acct-desc">고래 추적 · 스마트머니 · 대형 지갑 움직임 실시간 알림</div>
+          <div class="feed-acct-tags">
+            <span class="feed-acct-tag">고래 추적</span>
+            <span class="feed-acct-tag">스마트머니</span>
+            <span class="feed-acct-tag">지갑 모니터</span>
+            <span class="feed-acct-tag">대형 이동</span>
+          </div>
+        </div>
+      </div>
+      <div class="feed-embed-wrap">
+        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/lookonchain">Tweets by lookonchain</a>
+      </div>
+    </div>
+
+    <!-- Glassnode -->
+    <div class="feed-acct-card">
+      <div class="feed-acct-hdr">
+        <div class="feed-acct-icon">🔬</div>
+        <div class="feed-acct-info">
+          <div class="feed-acct-name">Glassnode</div>
+          <a href="https://x.com/glassnode" target="_blank" class="feed-acct-handle">@glassnode</a>
+          <div class="feed-acct-desc">온체인 인텔리전스 · NUPL · SOPR · 장기/단기 보유자 분석</div>
+          <div class="feed-acct-tags">
+            <span class="feed-acct-tag">NUPL</span>
+            <span class="feed-acct-tag">SOPR</span>
+            <span class="feed-acct-tag">LTH/STH</span>
+            <span class="feed-acct-tag">온체인 지표</span>
+          </div>
+        </div>
+      </div>
+      <div class="feed-embed-wrap">
+        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders" data-tweet-limit="4" data-dnt="true" href="https://twitter.com/glassnode">Tweets by glassnode</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+
 <div style="height:48px;"></div>
 
 <script>
@@ -1619,5 +1739,6 @@ refreshAll();
 setInterval(refreshAll, REFRESH);
 setInterval(()=>{renderEventList();renderTriggerGrid();renderGuideGrid();renderPolymarket();}, 30000);
 </script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
