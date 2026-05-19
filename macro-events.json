@@ -1,5 +1,10 @@
 {
-  "updatedAt": "2026-05-19T07:17:55.057Z",
+  "updatedAt": "2026-05-19T07:26:21.516Z",
+  "verificationSummary": {
+    "confirmed": 4,
+    "unconfirmed": 7,
+    "mismatched": 0
+  },
   "events": [
     {
       "id": "google-io-2026",
