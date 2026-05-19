@@ -1,9 +1,9 @@
-name: Fetch Intel Feed
+name: Fetch Intel Feed & Macro Events
 
 on:
   schedule:
     - cron: '0 */6 * * *'   # 6시간마다 (00:00, 06:00, 12:00, 18:00 UTC)
-  workflow_dispatch:          # 수동 실행 가능
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,13 +18,18 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch feed data
+      - name: Fetch intel feed (nitter/RSSHub)
         run: node scripts/fetch-feed.mjs
+
+      - name: Fetch macro events (FMP earnings + economic calendar)
+        run: node scripts/fetch-macro-events.mjs
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}   # 없으면 demo 키 사용
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-data.json
-          git diff --staged --quiet || git commit -m "chore: update intel feed [skip ci]"
+          git add feed-data.json macro-events.json
+          git diff --staged --quiet || git commit -m "chore: update feed + macro events [skip ci]"
           git push
