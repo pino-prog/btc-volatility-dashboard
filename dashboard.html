@@ -1824,9 +1824,10 @@ const IMPACT_META = {
   LOW:   {label:'저영향', cls:'mb-low'},
 };
 let _macroData   = null;
-let _macroFilter = 'ALL';
+let _macroFilter = '__upcoming__';
 
 function macroVerifyBadge(e) {
+  if (e.occurred)   return '<span class="macro-badge mb-unconf">✓ 완료</span>';
   if (e.mismatch)   return '<span class="macro-badge mb-mismatch">⚠️ 소스 불일치 — 수동 확인</span>';
   if (!e.confirmed) return '<span class="macro-badge mb-unconf">❓ 미검증</span>';
   const src = (e.sources || []).join(', ');
@@ -1862,14 +1863,27 @@ function renderMacroCalendar() {
   const past     = events.filter(e => !isUpcoming(e)).sort((a,b) => byDate(b) - byDate(a));
   const sorted   = [...upcoming, ...past];
 
-  const cats = ['ALL', ...new Set(events.map(e => e.categoryLabel))];
-  document.getElementById('macroFilterWrap').innerHTML = cats.map(c =>
-    `<button class="macro-filter-btn${_macroFilter===c?' active':''}" onclick="setMacroFilter('${c}')">${c==='ALL'?'전체':c}</button>`
-  ).join('') + (vs?.mismatched > 0 ? `<button class="macro-filter-btn" style="border-color:var(--red);color:var(--red)" onclick="setMacroFilter('__mismatch__')">⚠️ 불일치 ${vs.mismatched}건</button>` : '');
+  const upcomingCount = upcoming.length;
+  const pastCount     = past.length;
+  const cats = [...new Set(events.map(e => e.categoryLabel))];
+  const specialBtns = [
+    `<button class="macro-filter-btn${_macroFilter==='__upcoming__'?' active':''}" onclick="setMacroFilter('__upcoming__')">예정 ${upcomingCount}</button>`,
+    `<button class="macro-filter-btn${_macroFilter==='__past__'?' active':''}" onclick="setMacroFilter('__past__')" style="opacity:.7">완료 ${pastCount}</button>`,
+    `<button class="macro-filter-btn${_macroFilter==='ALL'?' active':''}" onclick="setMacroFilter('ALL')">전체</button>`,
+  ].join('');
+  const catBtns = cats.map(c =>
+    `<button class="macro-filter-btn${_macroFilter===c?' active':''}" onclick="setMacroFilter('${c}')">${c}</button>`
+  ).join('');
+  const mismatchBtn = vs?.mismatched > 0
+    ? `<button class="macro-filter-btn" style="border-color:var(--red);color:var(--red)" onclick="setMacroFilter('__mismatch__')">⚠️ 불일치 ${vs.mismatched}건</button>`
+    : '';
+  document.getElementById('macroFilterWrap').innerHTML = specialBtns + catBtns + mismatchBtn;
 
   let filtered = sorted;
-  if (_macroFilter === '__mismatch__') filtered = sorted.filter(e => e.mismatch);
-  else if (_macroFilter !== 'ALL') filtered = sorted.filter(e => e.categoryLabel === _macroFilter);
+  if      (_macroFilter === '__upcoming__') filtered = upcoming;
+  else if (_macroFilter === '__past__')     filtered = past;
+  else if (_macroFilter === '__mismatch__') filtered = sorted.filter(e => e.mismatch);
+  else if (_macroFilter !== 'ALL')          filtered = sorted.filter(e => e.categoryLabel === _macroFilter);
 
   if (!filtered.length) {
     document.getElementById('macroGrid').innerHTML = '<div style="padding:24px 20px;color:var(--muted);font-size:12px;">이벤트 없음</div>';
