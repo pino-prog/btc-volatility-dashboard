@@ -7,6 +7,26 @@
   },
   "events": [
     {
+      "id": "clarity-act-senate-2026",
+      "date": "2026-05-14",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "디지털 자산 클래리티 법안 상원 심의 (완료)",
+      "category": "crypto-law",
+      "categoryLabel": "암호화폐 법안",
+      "impact": "HIGH",
+      "btcBias": "bull",
+      "description": "미국 상원 은행위원회의 Digital Asset Clarity Act 심의 (2026-05-14 완료). BTC·ETH 등 디지털 자산의 증권/상품 분류 기준 법제화 논의. 기관 투자자 진입 장벽 해소의 핵심 법안.",
+      "bull": "심의 통과 → 규제 명확성 → ETF 추가 승인 가속 → 기관 자금 대규모 유입 → 강한 매수 촉매",
+      "bear": "부결 또는 장기 지연 → 규제 불확실성 지속 → 기관 관망 → 단기 실망 매도 -5~10%",
+      "confirmed": false,
+      "source": "https://www.congress.gov",
+      "occurred": true,
+      "sources": [
+        "수동 확인 필요"
+      ]
+    },
+    {
       "id": "google-io-2026",
       "date": "2026-05-20",
       "title": "Google I/O 2026 개발자 회의",
@@ -42,26 +62,6 @@
       "autoFetched": true
     },
     {
-      "id": "clarity-act-senate-2026",
-      "date": "2026-05-14",
-      "time": "14:00",
-      "tz": "ET",
-      "title": "디지털 자산 클래리티 법안 상원 심의 (완료)",
-      "category": "crypto-law",
-      "categoryLabel": "암호화폐 법안",
-      "impact": "HIGH",
-      "btcBias": "bull",
-      "description": "미국 상원 은행위원회의 Digital Asset Clarity Act 심의 (2026-05-14 완료). BTC·ETH 등 디지털 자산의 증권/상품 분류 기준 법제화 논의. 기관 투자자 진입 장벽 해소의 핵심 법안.",
-      "bull": "심의 통과 → 규제 명확성 → ETF 추가 승인 가속 → 기관 자금 대규모 유입 → 강한 매수 촉매",
-      "bear": "부결 또는 장기 지연 → 규제 불확실성 지속 → 기관 관망 → 단기 실망 매도 -5~10%",
-      "confirmed": false,
-      "source": "https://www.congress.gov",
-      "occurred": true,
-      "sources": [
-        "수동 확인 필요"
-      ]
-    },
-    {
       "id": "trump-china-trade-2026",
       "date": "2026-05-22",
       "title": "미·중 무역 협상 / 관세 정책 동향",
@@ -73,6 +73,23 @@
       "bull": "관세 완화 합의 또는 협상 진전 → 글로벌 위험자산 반등 → DXY 약세 → BTC 상승 동반",
       "bear": "관세 확대 또는 협상 결렬 → 경기 둔화 우려 → 안전자산 선호 → BTC 하락 압력",
       "confirmed": false
+    },
+    {
+      "id": "memorial-day-2026",
+      "date": "2026-05-25",
+      "title": "미국 메모리얼 데이 — 주식시장 휴장",
+      "category": "macro",
+      "categoryLabel": "시장 휴장",
+      "impact": "MEDIUM",
+      "btcBias": "volatile",
+      "description": "NYSE·NASDAQ 휴장. 크립토 시장은 24/7 운영 → 주식 헤지 부재로 유동성 급감. 소량 주문에도 BTC 가격 변동 폭 확대. 전날(05-22) 금요일 포지션 정리 집중 주의.",
+      "bull": "연휴 기간 개인 투자자 소액 매수 유입 → 낮은 저항에 가격 상승 가능",
+      "bear": "유동성 공백으로 고래 대량 매도 시 낙폭 과대 발생 가능",
+      "confirmed": true,
+      "sources": [
+        "NYSE 공식 휴장 캘린더"
+      ],
+      "autoFetched": false
     },
     {
       "id": "nvidia-q1fy27-earnings",
@@ -89,6 +106,44 @@
       "bear": "실적 미스 또는 공급망 이슈 → 기술주 전반 매도 → BTC 동반 하락. 단기 -5~10% 가능",
       "confirmed": true,
       "source": "https://investor.nvidia.com"
+    },
+    {
+      "id": "pce-apr-2026",
+      "date": "2026-05-28",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 PCE 물가지수 (4월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "HIGH",
+      "btcBias": "volatile",
+      "description": "4월 개인소비지출(PCE) 물가지수. 연준이 CPI보다 더 중시하는 인플레이션 지표. NVIDIA 실적(05-28 장 마감 후)과 같은 날 — 거시 surprise + 실적 surprise가 동시 작용해 양방향 변동성 극단화 가능. 블랙아웃(05-29 시작) 직전 마지막 데이터 포인트.",
+      "bull": "PCE 하회 → 인플레 진정 확인 → 6월 FOMC 금리 인하 확률 급등 → BTC 강세 촉매",
+      "bear": "PCE 상회 → 인플레 재가속 → 금리 인하 불가 시나리오 강화 → 위험자산 전반 급락",
+      "confirmed": true,
+      "sources": [
+        "BEA Release Schedule (bea.gov)"
+      ],
+      "autoFetched": false
+    },
+    {
+      "id": "deribit-btc-may-expiry",
+      "date": "2026-05-29",
+      "time": "08:00",
+      "tz": "UTC",
+      "title": "Deribit BTC 옵션 5월 만기",
+      "category": "crypto",
+      "categoryLabel": "크립토 파생상품",
+      "impact": "HIGH",
+      "btcBias": "volatile",
+      "description": "Deribit BTC 월말 옵션 만기 (08:00 UTC). CME 선물 만기(05-30)와 이틀 연속 만기 이벤트. Max Pain 수준으로 가격 수렴 압력 발생, 만기 후 방향성 돌파 패턴 빈발. FOMC 블랙아웃 첫날(05-29)과 겹쳐 연준 발언 없는 상황에서 파생상품 주도 변동성.",
+      "bull": "Max Pain 위쪽에서 만기 → 콜 옵션 델타 헤지 언와인드 → 가격 상승 모멘텀 가속",
+      "bear": "Max Pain 아래쪽 → 풋 헤지 압력 + CME 롤오버 매도 → 만기 전후 -3~8% 가능",
+      "confirmed": true,
+      "sources": [
+        "Deribit 월말 옵션 만기 공식 일정"
+      ],
+      "autoFetched": false
     },
     {
       "id": "btc-futures-expiry-may2026",
@@ -187,6 +242,19 @@
       "autoFetched": true
     },
     {
+      "id": "g7-summit-2026",
+      "date": "2026-06-15",
+      "title": "G7 정상회의 (에비앙)",
+      "category": "geopolitical",
+      "categoryLabel": "지정학/외교",
+      "impact": "MEDIUM",
+      "btcBias": "neutral",
+      "description": "G7 정상회의 (2026-06-15~17, 에비앙레뱅, 프랑스). 글로벌 무역·통화정책·AI 규제 공조 논의. FOMC(06-17)와 마지막 날 겹침 — 지정학·달러 체계 성명이 금리 결정과 복합 영향. 암호화폐 과세·규제 국제 공조 이슈가 포함될 경우 크립토 시장 직접 영향.",
+      "bull": "무역 공조 + 규제 명확화 방향 → 글로벌 위험자산 안정 → BTC 강세 유지",
+      "bear": "암호화폐 과세 강화 공조 합의 → 기관 투자자 규제 부담 → 단기 하방 압력",
+      "confirmed": false
+    },
+    {
       "id": "fomc-jun2026",
       "date": "2026-06-17",
       "time": "14:00",
@@ -204,19 +272,6 @@
       "sources": [
         "federalreserve.gov (공식)"
       ]
-    },
-    {
-      "id": "g7-summit-2026",
-      "date": "2026-06-20",
-      "title": "G7 정상회의",
-      "category": "geopolitical",
-      "categoryLabel": "지정학/외교",
-      "impact": "MEDIUM",
-      "btcBias": "neutral",
-      "description": "G7 정상회의. 글로벌 무역·통화정책·AI 규제 공조 논의. 암호화폐 과세·규제 국제 공조 이슈가 포함될 경우 크립토 시장 직접 영향.",
-      "bull": "무역 공조 + 규제 명확화 방향 → 글로벌 위험자산 안정 → BTC 강세 유지",
-      "bear": "암호화폐 과세 강화 공조 합의 → 기관 투자자 규제 부담 → 단기 하방 압력",
-      "confirmed": false
     },
     {
       "id": "us-debt-limit-2026",
