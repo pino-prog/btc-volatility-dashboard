@@ -120,6 +120,42 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
 .lbl-purple{background:rgba(188,140,255,.2);color:var(--purple);}
 .lbl-blue  {background:rgba(88,166,255,.2);color:var(--blue);}
 .lbl-green {background:rgba(63,185,80,.2);color:var(--green);}
+.lbl-amber {background:rgba(210,153,34,.2);color:var(--yellow);}
+
+/* ── MACRO EVENTS CALENDAR ── */
+.sec-macro{border-left-color:var(--yellow);background:linear-gradient(90deg,rgba(210,153,34,.07) 0%,var(--bg2) 400px);}
+.macro-filter{display:flex;flex-wrap:wrap;gap:6px;padding:10px 20px;border-bottom:1px solid var(--border);}
+.macro-filter-btn{font-size:11px;padding:3px 11px;border-radius:4px;background:var(--bg3);border:1px solid var(--border);color:var(--muted);cursor:pointer;font-family:inherit;transition:all .12s;}
+.macro-filter-btn.active,.macro-filter-btn:hover{background:rgba(210,153,34,.15);border-color:var(--yellow);color:var(--yellow);}
+.macro-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:1px;background:var(--border);}
+.macro-card{background:var(--bg);padding:14px 16px;display:flex;flex-direction:column;gap:9px;position:relative;}
+.macro-card.past{opacity:.42;}
+.macro-card-head{display:flex;align-items:flex-start;gap:12px;}
+.macro-cd{min-width:58px;text-align:center;flex-shrink:0;padding-top:2px;}
+.macro-cd-num{font-size:20px;font-weight:800;line-height:1.1;}
+.macro-cd-unit{font-size:9px;color:var(--muted);margin-top:2px;line-height:1.3;}
+.macro-meta{flex:1;min-width:0;}
+.macro-title{font-size:13px;font-weight:700;color:var(--text);line-height:1.35;}
+.macro-badges{display:flex;flex-wrap:wrap;gap:4px;margin-top:5px;}
+.macro-badge{font-size:9px;font-weight:700;padding:1px 7px;border-radius:3px;letter-spacing:.4px;}
+.mb-high    {background:rgba(248,81,73,.2);  color:var(--red);}
+.mb-med     {background:rgba(210,153,34,.2); color:var(--yellow);}
+.mb-low     {background:rgba(63,185,80,.2);  color:var(--green);}
+.mb-bull    {background:rgba(63,185,80,.12); color:var(--green);}
+.mb-bear    {background:rgba(248,81,73,.12); color:var(--red);}
+.mb-neutral {background:rgba(88,166,255,.12);color:var(--blue);}
+.mb-volatile{background:rgba(240,136,62,.12);color:var(--orange);}
+.mb-cat     {background:var(--bg3);border:1px solid var(--border);color:var(--muted);}
+.mb-unconf  {background:rgba(255,255,255,.04);color:var(--muted);border:1px solid var(--border);}
+.macro-date {font-size:10px;color:var(--muted);margin-top:4px;}
+.macro-desc {font-size:11px;color:var(--muted);line-height:1.65;}
+.macro-scenarios{display:grid;grid-template-columns:1fr 1fr;gap:6px;}
+.macro-sc   {padding:7px 9px;border-radius:5px;font-size:10px;line-height:1.55;color:var(--muted);}
+.sc-bull    {background:rgba(63,185,80,.06);border:1px solid rgba(63,185,80,.18);}
+.sc-bear    {background:rgba(248,81,73,.06);border:1px solid rgba(248,81,73,.18);}
+.sc-bull strong{color:var(--green);}
+.sc-bear strong{color:var(--red);}
+.macro-past-lbl{position:absolute;top:10px;right:12px;font-size:9px;padding:1px 6px;border-radius:3px;background:var(--bg3);color:var(--muted);}
 
 /* ── CONTENT GUIDE GRID ── */
 .guide-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1px;background:var(--border);}
@@ -394,6 +430,21 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
   </div>
 </div>
 <div id="pmGrid" class="pm-grid"></div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════
+     SECTION M : 매크로 이벤트 캘린더
+════════════════════════════════════════════════════════════ -->
+<div class="section-block">
+<div class="sec-hdr sec-macro">
+  <div style="display:flex;align-items:center;">
+    <span class="sec-label lbl-amber">MACRO</span>
+    <span>🌐 매크로 이벤트 캘린더</span>
+  </div>
+  <span class="sec-sub">국제 정세 · 증시 · 정책 · BTC 영향 분석</span>
+</div>
+<div id="macroFilterWrap" class="macro-filter"></div>
+<div id="macroGrid" class="macro-grid"></div>
 </div>
 
 <!-- ══════════════════════════════════════════════════════════
@@ -1749,10 +1800,107 @@ async function loadFeedData() {
 // ════════════════════════════════════════════════════════
 // 시작
 // ════════════════════════════════════════════════════════
+// ════════════════════════════════════════════════════════
+// 매크로 이벤트 캘린더
+// ════════════════════════════════════════════════════════
+const BIAS_META = {
+  bull:      {label:'BTC 강세 가능',  cls:'mb-bull'},
+  bear:      {label:'BTC 약세 가능',  cls:'mb-bear'},
+  neutral:   {label:'중립',            cls:'mb-neutral'},
+  correlated:{label:'나스닥 연동',     cls:'mb-neutral'},
+  volatile:  {label:'변동성 확대',     cls:'mb-volatile'},
+};
+const IMPACT_META = {
+  HIGH:  {label:'고영향', cls:'mb-high'},
+  MEDIUM:{label:'중영향', cls:'mb-med'},
+  LOW:   {label:'저영향', cls:'mb-low'},
+};
+let _macroData   = null;
+let _macroFilter = 'ALL';
+
+function renderMacroCalendar() {
+  if (!_macroData) return;
+  const events = _macroData.events || [];
+  const now    = Date.now();
+
+  const byDate = e => new Date(e.date).getTime();
+  const isUpcoming = e => byDate(e) + 86400000 >= now;
+  const upcoming = events.filter(isUpcoming).sort((a,b) => byDate(a) - byDate(b));
+  const past     = events.filter(e => !isUpcoming(e)).sort((a,b) => byDate(b) - byDate(a));
+  const sorted   = [...upcoming, ...past];
+
+  const cats = ['ALL', ...new Set(events.map(e => e.categoryLabel))];
+  document.getElementById('macroFilterWrap').innerHTML = cats.map(c =>
+    `<button class="macro-filter-btn${_macroFilter===c?' active':''}" onclick="setMacroFilter('${c}')">${c==='ALL'?'전체':c}</button>`
+  ).join('');
+
+  const filtered = _macroFilter==='ALL' ? sorted : sorted.filter(e => e.categoryLabel === _macroFilter);
+  if (!filtered.length) {
+    document.getElementById('macroGrid').innerHTML = '<div style="padding:24px 20px;color:var(--muted);font-size:12px;">이벤트 없음</div>';
+    return;
+  }
+
+  document.getElementById('macroGrid').innerHTML = filtered.map(e => {
+    const ts     = byDate(e);
+    const isPast = ts + 86400000 < now;
+    const ms     = ts - now;
+    const cd     = formatCD(ms);
+    const bias   = BIAS_META[e.btcBias]   || BIAS_META.neutral;
+    const imp    = IMPACT_META[e.impact]  || IMPACT_META.MEDIUM;
+    const cdColor = isPast ? 'var(--muted)'
+                 : ms < 86400000*2   ? 'var(--red)'
+                 : ms < 86400000*7   ? 'var(--yellow)'
+                 : 'var(--text)';
+    const dateStr = new Date(e.date).toLocaleDateString('ko-KR',{month:'long',day:'numeric'})
+                  + (e.time ? ` ${e.time} ${e.tz||''}` : '');
+    return `<div class="macro-card${isPast?' past':''}">
+      ${isPast ? '<span class="macro-past-lbl">완료</span>' : ''}
+      <div class="macro-card-head">
+        <div class="macro-cd">
+          <div class="macro-cd-num" style="color:${cdColor}">${cd.num}</div>
+          <div class="macro-cd-unit">${cd.unit}</div>
+        </div>
+        <div class="macro-meta">
+          <div class="macro-title">${e.title}</div>
+          <div class="macro-badges">
+            <span class="macro-badge ${imp.cls}">${imp.label}</span>
+            <span class="macro-badge ${bias.cls}">${bias.label}</span>
+            <span class="macro-badge mb-cat">${e.categoryLabel}</span>
+            ${!e.confirmed ? '<span class="macro-badge mb-unconf">날짜 미확정</span>' : ''}
+          </div>
+          <div class="macro-date">📅 ${dateStr}</div>
+        </div>
+      </div>
+      <div class="macro-desc">${e.description}</div>
+      ${e.bull||e.bear ? `<div class="macro-scenarios">
+        ${e.bull ? `<div class="macro-sc sc-bull"><strong>▲ 강세 시나리오</strong><br>${e.bull}</div>` : ''}
+        ${e.bear ? `<div class="macro-sc sc-bear"><strong>▼ 약세 시나리오</strong><br>${e.bear}</div>` : ''}
+      </div>` : ''}
+    </div>`;
+  }).join('');
+}
+
+function setMacroFilter(cat) {
+  _macroFilter = cat;
+  renderMacroCalendar();
+}
+
+async function loadMacroEvents() {
+  try {
+    const r = await fetch('macro-events.json?t=' + Date.now());
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    _macroData = await r.json();
+  } catch (_) {
+    _macroData = { events: [] };
+  }
+  renderMacroCalendar();
+}
+
 refreshAll();
 loadFeedData();
+loadMacroEvents();
 setInterval(refreshAll, REFRESH);
-setInterval(()=>{renderEventList();renderTriggerGrid();renderGuideGrid();renderPolymarket();}, 30000);
+setInterval(()=>{renderEventList();renderTriggerGrid();renderGuideGrid();renderPolymarket();renderMacroCalendar();}, 30000);
 setInterval(loadFeedData, 30 * 60 * 1000);
 </script>
 </body>
