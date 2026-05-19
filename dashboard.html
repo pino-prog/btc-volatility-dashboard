@@ -145,17 +145,24 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
 .mb-bear    {background:rgba(248,81,73,.12); color:var(--red);}
 .mb-neutral {background:rgba(88,166,255,.12);color:var(--blue);}
 .mb-volatile{background:rgba(240,136,62,.12);color:var(--orange);}
-.mb-cat     {background:var(--bg3);border:1px solid var(--border);color:var(--muted);}
-.mb-unconf  {background:rgba(255,255,255,.04);color:var(--muted);border:1px solid var(--border);}
-.macro-date {font-size:10px;color:var(--muted);margin-top:4px;}
-.macro-desc {font-size:11px;color:var(--muted);line-height:1.65;}
+.mb-cat        {background:var(--bg3);border:1px solid var(--border);color:var(--muted);}
+.mb-unconf     {background:rgba(248,81,73,.08);color:var(--red);border:1px solid rgba(248,81,73,.3);}
+.mb-verified   {background:rgba(63,185,80,.08);color:var(--green);border:1px solid rgba(63,185,80,.3);}
+.mb-official   {background:rgba(57,211,83,.12);color:var(--cyan);border:1px solid rgba(57,211,83,.4);font-weight:800;}
+.mb-mismatch   {background:rgba(248,81,73,.18);color:var(--red);border:1px solid var(--red);animation:blink .8s step-end infinite;}
+@keyframes blink{0%,100%{opacity:1;}50%{opacity:.5;}}
+.macro-date    {font-size:10px;color:var(--muted);margin-top:4px;}
+.macro-sources {font-size:9px;color:var(--muted);margin-top:3px;opacity:.7;}
+.macro-desc    {font-size:11px;color:var(--muted);line-height:1.65;}
 .macro-scenarios{display:grid;grid-template-columns:1fr 1fr;gap:6px;}
-.macro-sc   {padding:7px 9px;border-radius:5px;font-size:10px;line-height:1.55;color:var(--muted);}
-.sc-bull    {background:rgba(63,185,80,.06);border:1px solid rgba(63,185,80,.18);}
-.sc-bear    {background:rgba(248,81,73,.06);border:1px solid rgba(248,81,73,.18);}
+.macro-sc      {padding:7px 9px;border-radius:5px;font-size:10px;line-height:1.55;color:var(--muted);}
+.sc-bull       {background:rgba(63,185,80,.06);border:1px solid rgba(63,185,80,.18);}
+.sc-bear       {background:rgba(248,81,73,.06);border:1px solid rgba(248,81,73,.18);}
 .sc-bull strong{color:var(--green);}
 .sc-bear strong{color:var(--red);}
 .macro-past-lbl{position:absolute;top:10px;right:12px;font-size:9px;padding:1px 6px;border-radius:3px;background:var(--bg3);color:var(--muted);}
+.macro-verify-bar{display:flex;align-items:center;gap:8px;padding:7px 20px;background:var(--bg2);border-bottom:1px solid var(--border);font-size:10px;color:var(--muted);}
+.vbar-dot{width:5px;height:5px;border-radius:50%;flex-shrink:0;}
 
 /* ── CONTENT GUIDE GRID ── */
 .guide-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1px;background:var(--border);}
@@ -443,6 +450,7 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
   </div>
   <span class="sec-sub">국제 정세 · 증시 · 정책 · BTC 영향 분석</span>
 </div>
+<div id="macroVerifyBar" class="macro-verify-bar" style="display:none"></div>
 <div id="macroFilterWrap" class="macro-filter"></div>
 <div id="macroGrid" class="macro-grid"></div>
 </div>
@@ -1818,10 +1826,35 @@ const IMPACT_META = {
 let _macroData   = null;
 let _macroFilter = 'ALL';
 
+function macroVerifyBadge(e) {
+  if (e.mismatch)   return '<span class="macro-badge mb-mismatch">⚠️ 소스 불일치 — 수동 확인</span>';
+  if (!e.confirmed) return '<span class="macro-badge mb-unconf">❓ 미검증</span>';
+  const src = (e.sources || []).join(', ');
+  const isOfficial = src.includes('.gov') || src.includes('(공식)');
+  return isOfficial
+    ? `<span class="macro-badge mb-official">✓ 공식</span>`
+    : `<span class="macro-badge mb-verified">✓ ${e.sources?.length || 1}소스</span>`;
+}
+
 function renderMacroCalendar() {
   if (!_macroData) return;
   const events = _macroData.events || [];
+  const vs     = _macroData.verificationSummary;
   const now    = Date.now();
+
+  // 검증 요약 바
+  const verifyBar = document.getElementById('macroVerifyBar');
+  if (vs) {
+    verifyBar.style.display = 'flex';
+    verifyBar.innerHTML = `
+      <div class="vbar-dot" style="background:var(--cyan)"></div>
+      <span style="color:var(--cyan)">공식 소스 포함 <strong>${vs.confirmed}</strong>건 검증 완료</span>
+      <span style="margin-left:12px;color:var(--muted)">|</span>
+      ${vs.mismatched > 0 ? `<div class="vbar-dot" style="background:var(--red);margin-left:12px"></div><span style="color:var(--red)">소스 간 불일치 <strong>${vs.mismatched}</strong>건 — 수동 확인 필요</span>` : ''}
+      ${vs.unconfirmed > 0 ? `<span style="margin-left:12px;color:var(--muted)">미검증 ${vs.unconfirmed}건</span>` : ''}
+      <span style="margin-left:auto;color:var(--muted);font-size:9px">검증 소스: federalreserve.gov · bls.gov · FMP · AlphaVantage · NASDAQ</span>
+    `;
+  }
 
   const byDate = e => new Date(e.date).getTime();
   const isUpcoming = e => byDate(e) + 86400000 >= now;
@@ -1832,28 +1865,34 @@ function renderMacroCalendar() {
   const cats = ['ALL', ...new Set(events.map(e => e.categoryLabel))];
   document.getElementById('macroFilterWrap').innerHTML = cats.map(c =>
     `<button class="macro-filter-btn${_macroFilter===c?' active':''}" onclick="setMacroFilter('${c}')">${c==='ALL'?'전체':c}</button>`
-  ).join('');
+  ).join('') + (vs?.mismatched > 0 ? `<button class="macro-filter-btn" style="border-color:var(--red);color:var(--red)" onclick="setMacroFilter('__mismatch__')">⚠️ 불일치 ${vs.mismatched}건</button>` : '');
 
-  const filtered = _macroFilter==='ALL' ? sorted : sorted.filter(e => e.categoryLabel === _macroFilter);
+  let filtered = sorted;
+  if (_macroFilter === '__mismatch__') filtered = sorted.filter(e => e.mismatch);
+  else if (_macroFilter !== 'ALL') filtered = sorted.filter(e => e.categoryLabel === _macroFilter);
+
   if (!filtered.length) {
     document.getElementById('macroGrid').innerHTML = '<div style="padding:24px 20px;color:var(--muted);font-size:12px;">이벤트 없음</div>';
     return;
   }
 
   document.getElementById('macroGrid').innerHTML = filtered.map(e => {
-    const ts     = byDate(e);
-    const isPast = ts + 86400000 < now;
-    const ms     = ts - now;
-    const cd     = formatCD(ms);
-    const bias   = BIAS_META[e.btcBias]   || BIAS_META.neutral;
-    const imp    = IMPACT_META[e.impact]  || IMPACT_META.MEDIUM;
-    const cdColor = isPast ? 'var(--muted)'
-                 : ms < 86400000*2   ? 'var(--red)'
-                 : ms < 86400000*7   ? 'var(--yellow)'
-                 : 'var(--text)';
+    const ts      = byDate(e);
+    const isPast  = ts + 86400000 < now;
+    const ms      = ts - now;
+    const cd      = formatCD(ms);
+    const bias    = BIAS_META[e.btcBias]  || BIAS_META.neutral;
+    const imp     = IMPACT_META[e.impact] || IMPACT_META.MEDIUM;
+    const cdColor = isPast            ? 'var(--muted)'
+                  : ms < 86400000*2   ? 'var(--red)'
+                  : ms < 86400000*7   ? 'var(--yellow)'
+                  : 'var(--text)';
     const dateStr = new Date(e.date).toLocaleDateString('ko-KR',{month:'long',day:'numeric'})
                   + (e.time ? ` ${e.time} ${e.tz||''}` : '');
-    return `<div class="macro-card${isPast?' past':''}">
+    const srcLine = e.sources?.length ? `<div class="macro-sources">검증 소스: ${e.sources.join(' · ')}</div>` : '';
+    const cardBorder = e.mismatch ? 'border-left:3px solid var(--red)' : e.confirmed && (e.sources||[]).some(s=>s.includes('.gov')) ? 'border-left:3px solid var(--cyan)' : '';
+
+    return `<div class="macro-card${isPast?' past':''}" style="${cardBorder}">
       ${isPast ? '<span class="macro-past-lbl">완료</span>' : ''}
       <div class="macro-card-head">
         <div class="macro-cd">
@@ -1866,9 +1905,10 @@ function renderMacroCalendar() {
             <span class="macro-badge ${imp.cls}">${imp.label}</span>
             <span class="macro-badge ${bias.cls}">${bias.label}</span>
             <span class="macro-badge mb-cat">${e.categoryLabel}</span>
-            ${!e.confirmed ? '<span class="macro-badge mb-unconf">날짜 미확정</span>' : ''}
+            ${macroVerifyBadge(e)}
           </div>
           <div class="macro-date">📅 ${dateStr}</div>
+          ${srcLine}
         </div>
       </div>
       <div class="macro-desc">${e.description}</div>
