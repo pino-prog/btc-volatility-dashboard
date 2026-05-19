@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T00:00:00Z",
+  "updatedAt": "2026-05-19T07:17:55.057Z",
   "events": [
     {
       "id": "google-io-2026",
@@ -74,19 +74,18 @@
       "confirmed": true
     },
     {
-      "id": "cpi-may2026",
-      "date": "2026-06-10",
-      "time": "08:30",
-      "tz": "ET",
-      "title": "미국 CPI (5월) 발표",
-      "category": "macro",
-      "categoryLabel": "경제지표",
+      "id": "genius-act-vote-2026",
+      "date": "2026-06-05",
+      "title": "GENIUS Act 스테이블코인 법안 상원 표결",
+      "category": "crypto-law",
+      "categoryLabel": "암호화폐 법안",
       "impact": "HIGH",
-      "btcBias": "neutral",
-      "description": "5월 소비자물가지수. 6월 FOMC 금리 결정의 직접적 선행 지표. 컨센서스 +2.8% YoY. 인플레 재가속 여부가 단기 방향성을 결정.",
-      "bull": "CPI 하회 → 인플레 진정 확인 → 6월 금리 인하 기대 상승 → BTC·위험자산 상승",
-      "bear": "CPI 상회 → 인플레 재가속 → 금리 인하 지연 → DXY 강세 → BTC 하락 압력",
-      "confirmed": false
+      "btcBias": "bull",
+      "description": "스테이블코인 규제 프레임워크 법안(Guiding and Establishing National Innovation for US Stablecoins Act) 상원 본회의 표결. 달러 연동 스테이블코인의 법적 지위 확정.",
+      "bull": "통과 → 달러 스테이블코인 합법화 → DeFi 기관 자금 유입 → BTC 생태계 전반 강세",
+      "bear": "부결 → 스테이블코인·DeFi 불확실성 지속 → 크립토 시장 전반 약세 재료",
+      "confirmed": false,
+      "source": "https://www.congress.gov"
     },
     {
       "id": "apple-wwdc-2026",
@@ -102,18 +101,19 @@
       "confirmed": false
     },
     {
-      "id": "genius-act-vote-2026",
-      "date": "2026-06-05",
-      "title": "GENIUS Act 스테이블코인 법안 상원 표결",
-      "category": "crypto-law",
-      "categoryLabel": "암호화폐 법안",
+      "id": "cpi-may2026",
+      "date": "2026-06-10",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 CPI (5월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
       "impact": "HIGH",
-      "btcBias": "bull",
-      "description": "스테이블코인 규제 프레임워크 법안(Guiding and Establishing National Innovation for US Stablecoins Act) 상원 본회의 표결. 달러 연동 스테이블코인의 법적 지위 확정.",
-      "bull": "통과 → 달러 스테이블코인 합법화 → DeFi 기관 자금 유입 → BTC 생태계 전반 강세",
-      "bear": "부결 → 스테이블코인·DeFi 불확실성 지속 → 크립토 시장 전반 약세 재료",
-      "confirmed": false,
-      "source": "https://www.congress.gov"
+      "btcBias": "neutral",
+      "description": "5월 소비자물가지수. 6월 FOMC 금리 결정의 직접적 선행 지표. 컨센서스 +2.8% YoY. 인플레 재가속 여부가 단기 방향성을 결정.",
+      "bull": "CPI 하회 → 인플레 진정 확인 → 6월 금리 인하 기대 상승 → BTC·위험자산 상승",
+      "bear": "CPI 상회 → 인플레 재가속 → 금리 인하 지연 → DXY 강세 → BTC 하락 압력",
+      "confirmed": false
     },
     {
       "id": "fomc-jun2026",
