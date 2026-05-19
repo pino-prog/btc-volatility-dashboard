@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-05-19T07:42:15.732Z",
+  "updatedAt": "2026-05-19T09:59:35.825Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 19 May 2026 09:00:48 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Persistence pays off! More than 6 months ago, trader 0x082e opened a 5x long on 1.38M $HYPE ($66.3M), becoming the largest on-chain $HYPE bull. As $HYPE fell, he was once down over $25M. But after $HYPE rallied, he has turned the position around and is now sitting on an unrealized profit of $12.9M. https://hypurrscan.i",
+      "pubDate": "Tue, 19 May 2026 09:00:48 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056661337707794762#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 19 May 2026 08:44:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Dive into the dashboard ⤵️ https://cryptoquant.com/community/dashboard/6a01fdd938c2383864e1006c?utm_source=twitter&utm_medium=sns&utm_campaign=dashboard&utm_content=capital-flows",
+      "pubDate": "Tue, 19 May 2026 08:44:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056657108641472591#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 19 May 2026 08:38:05 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Capital flooded into crypto exchanges. Bitcoin’s rally toward $80K triggered the fastest growth in BTC perpetual futures open interest so far in 2026. Binance captured most of the new derivatives capital, while exchange stablecoin reserves and altcoin deposits also surged.",
+      "pubDate": "Tue, 19 May 2026 08:38:05 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056655622519582999#m",
+      "keywords": [
+        "OI",
+        "미결제약정",
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 19 May 2026 07:50:09 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Grab your slice ⤵️ https://cryptoquant.com/promotion?utm_source=twitter&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day",
+      "pubDate": "Tue, 19 May 2026 07:50:09 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056643557369209032#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 19 May 2026 07:49:06 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Pinned: 16 years ago this week, someone paid 10,000 BTC for two pizzas. The chain has evolved. So have the tools to analyze it. Bitcoin Pizza Day sale is live: up to 35% off Pro plans. Ends May 24.",
+      "pubDate": "Tue, 19 May 2026 07:49:06 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056643294654836946#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 19 May 2026 04:18:14 GMT",
       "handle": "lookonchain",
@@ -412,6 +474,17 @@
       ]
     },
     {
+      "id": "ColinTCrypto__Fri, 15 May 2026 23:55:41 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "From time to time I see some individuals (mostly beginners) mock technical analysis. I used to doubt it as well, years ago. Here are some actual success rates, in percentages, for various TA patterns from a legendary Classical Chartist and trader, @TechCharts. Yes, sometimes the odds are slim, but an edge is an edge. T",
+      "pubDate": "Fri, 15 May 2026 23:55:41 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2055436989906768261#m",
+      "keywords": []
+    },
+    {
       "id": "cryptoquant_com__Fri, 15 May 2026 13:29:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -423,36 +496,6 @@
       "keywords": [
         "스테이블코인",
         "SSR"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 15 May 2026 13:23:38 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "2026 Record Inflows, Two Behaviors: Reading the Stablecoin Trend on @Nexo “One points to liquidity ready to be deployed into the market, while the other reflects a more cautious stance, investors who prefer to generate yield while waiting to be convinced by the market.” – By @Darkfost_Coc",
-      "pubDate": "Fri, 15 May 2026 13:23:38 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2055277929492341189#m",
-      "keywords": [
-        "유동성",
-        "스테이블코인",
-        "SSR"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 15 May 2026 12:46:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "CVD Data Signals Weakening Buyer Strength Amid Macro Uncertainty “BTC to sustain the bullish momentum that began in early February, it is becoming essential for spot demand to return and support the move more consistently.” – By @Darkfost_Coc1 Link ⤵️ https://cryptoquant.com/insights/quicktake/6a06c5977b3cd30e190da083-",
-      "pubDate": "Fri, 15 May 2026 12:46:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2055268458795773999#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "강세 신호"
       ]
     },
     {
@@ -513,46 +556,6 @@
       "keywords": [
         "강세 신호"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 15 May 2026 10:19:59 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a063f5dd9cb766b67074d4c-The-Third-Test-Short-Term-Whales-Decide-the-Next-Move?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
-      "pubDate": "Fri, 15 May 2026 10:19:59 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2055231714885087494#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 15 May 2026 10:19:33 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Short-Term Whales Decide the Next Move “If BTC can stabilize above this cohort’s cost basis, unrealized stress disappears & these whales may transition from defensive sellers into passive holders again, removing significant sell-side pressure from the market.” – By @MorenoDV_",
-      "pubDate": "Fri, 15 May 2026 10:19:33 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2055231605279506912#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 13 May 2026 16:09:37 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Local top is in, boys. I think that was it. $BTC If it wasn’t I’ll delete this post",
-      "pubDate": "Wed, 13 May 2026 16:09:37 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2054594924880806206#m",
-      "keywords": []
     }
   ]
 }
