@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-05-19T09:59:35.825Z",
+  "updatedAt": "2026-05-19T15:41:26.660Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 19 May 2026 14:26:29 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "May 19 Update: #Bitcoin ETFs: 1D NetFlow: -8,999 $BTC(-$689.46M)🔴 7D NetFlow: -21,470 $BTC(-$1.64M)🔴 #Ethereum ETFs: 1D NetFlow: -35,244 $ETH(-$74.36M)🔴 7D NetFlow: -147,095 $ETH(-$310.37M)🔴 #Solana ETFs: 1D NetFlow: +39,219 $SOL(+$3.31M)🟢 7D NetFlow: +385,574 $SOL(+$32.54M)🟢 https://x.com/lookonchain/status/2056",
+      "pubDate": "Tue, 19 May 2026 14:26:29 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056743297285341291#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 19 May 2026 13:49:16 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This is a smart trader on #Base you need to watch, with $1.8M in total profit! Today, he made $137K on $TSG in just a few hours — a 127x return! He also made $346K on $GITLAWB and $150K on $CLAWD. Wallet: 0xcd83f4c3a4b96d56367e482a3774802877b82e13",
+      "pubDate": "Tue, 19 May 2026 13:49:16 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056733933472272638#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 19 May 2026 13:42:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Nexo: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a0bee08e4d9ce4e66115bed-Buy-Pressure-Continues-to-Dominate-the-NEXO-Spot-Market?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=arab-chain",
+      "pubDate": "Tue, 19 May 2026 13:42:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056732103207690544#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 19 May 2026 13:38:28 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Bitcoin total demand entered into contraction yesterday, after growing since early March driven by speculative demand (perpetual futures). Speculative demand growth (blue bars) peaked as prices approached $80K and has since slowed down significantly, while spot demand (grey bars) is contracting ",
+      "pubDate": "Tue, 19 May 2026 13:38:28 GMT",
+      "link": "https://nitter.net/jjcmoreno/status/2056731215424524593#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 19 May 2026 13:37:55 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Buy Pressure Continues to Dominate the @Nexo Spot Market “Continued buy-side dominance in market flows could support the current trend or contribute to gradual upward momentum if liquidity continues to flow into the market.” – By @ArabxChain",
+      "pubDate": "Tue, 19 May 2026 13:37:55 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056731074839916747#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "유동성"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 19 May 2026 12:37:46 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "BlackRock just deposited 5,847 $BTC($449.5M) and 26,269 $ETH($55.4M) to Coinbase Prime. https://intel.arkm.com/explorer/entity/blackrock",
+      "pubDate": "Tue, 19 May 2026 12:37:46 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056715938217742771#m",
+      "keywords": [
+        "BlackRock",
+        "ETF"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 19 May 2026 10:19:46 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Elon Musk&apos;s SpaceX may be heading for an IPO. Someone created a new wallet and opened a 1x long on 5,200 $SPCX($1.05M). https://hypurrscan.io/address/0x8b6f7fbe7c49a1e52e5b68035965f49a82d32ccf#perps",
+      "pubDate": "Tue, 19 May 2026 10:19:46 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056681212446663106#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Tue, 19 May 2026 09:00:48 GMT",
       "handle": "lookonchain",
@@ -397,20 +488,6 @@
       ]
     },
     {
-      "id": "lookonchain__Sun, 17 May 2026 14:36:38 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales appear to be buying $UNI! Over the past 5 hours, 2 wallets spent $2.33M to buy 656,338 $UNI. https://intel.arkm.com/explorer/address/0xdFf8C618A93156a260d1e9b6b38b4Edc6aD64DCc https://intel.arkm.com/explorer/address/0x09cF91d5e137CF047Eb9E0551CEB18239B46d3Dd",
-      "pubDate": "Sun, 17 May 2026 14:36:38 GMT",
-      "link": "https://nitter.net/lookonchain/status/2056021075948146816#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Sun, 17 May 2026 00:57:43 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -483,20 +560,6 @@
       "pubDate": "Fri, 15 May 2026 23:55:41 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2055436989906768261#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 15 May 2026 13:29:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Nexo: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a071c68f2609c4353776b0d-2026-Record-Inflows-Two-Behaviors-Reading-the-Stablecoin-Trend-on-Nexo?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
-      "pubDate": "Fri, 15 May 2026 13:29:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2055279279936598169#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR"
-      ]
     },
     {
       "id": "glassnode__Fri, 15 May 2026 12:33:31 GMT",
