@@ -43,19 +43,23 @@
     },
     {
       "id": "clarity-act-senate-2026",
-      "date": "2026-05-21",
+      "date": "2026-05-14",
       "time": "14:00",
       "tz": "ET",
-      "title": "디지털 자산 클래리티 법안 상원 심의",
+      "title": "디지털 자산 클래리티 법안 상원 심의 (완료)",
       "category": "crypto-law",
       "categoryLabel": "암호화폐 법안",
       "impact": "HIGH",
       "btcBias": "bull",
-      "description": "미국 상원 은행위원회의 Digital Asset Clarity Act 심의. BTC·ETH 등 디지털 자산의 증권/상품 분류 기준 법제화. 기관 투자자 진입 장벽 해소의 핵심 법안.",
+      "description": "미국 상원 은행위원회의 Digital Asset Clarity Act 심의 (2026-05-14 완료). BTC·ETH 등 디지털 자산의 증권/상품 분류 기준 법제화 논의. 기관 투자자 진입 장벽 해소의 핵심 법안.",
       "bull": "심의 통과 → 규제 명확성 → ETF 추가 승인 가속 → 기관 자금 대규모 유입 → 강한 매수 촉매",
       "bear": "부결 또는 장기 지연 → 규제 불확실성 지속 → 기관 관망 → 단기 실망 매도 -5~10%",
-      "confirmed": true,
-      "source": "https://www.congress.gov"
+      "confirmed": false,
+      "source": "https://www.congress.gov",
+      "occurred": true,
+      "sources": [
+        "수동 확인 필요"
+      ]
     },
     {
       "id": "trump-china-trade-2026",
