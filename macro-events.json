@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-19T07:26:21.516Z",
+  "updatedAt": "2026-05-19T07:42:46.600Z",
   "verificationSummary": {
-    "confirmed": 4,
-    "unconfirmed": 7,
+    "confirmed": 24,
+    "unconfirmed": 9,
     "mismatched": 0
   },
   "events": [
@@ -19,6 +19,27 @@
       "bear": "기대 이하 발표 → GOOGL 실망 매도 → 기술주 조정 → BTC 동반 하락 가능",
       "confirmed": true,
       "source": "https://io.google/2026"
+    },
+    {
+      "id": "earnings-NVDA-2026-05-20",
+      "date": "2026-05-20",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "엔비디아 (NVDA) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "AI 인프라 수요 바로미터. BTC-나스닥 상관계수 r=0.72. 실적 강세 시 위험자산 전반 상승 촉매. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
+      "bull": "EPS·매출 상회 + 가이던스 상향 → 나스닥 급등 → BTC 연동 상승",
+      "bear": "실적 미스 또는 공급 이슈 → 기술주 전반 매도 → BTC 동반 하락",
+      "confirmed": true,
+      "sources": [
+        "AlphaVantage",
+        "NASDAQ"
+      ],
+      "mismatch": false,
+      "autoFetched": true
     },
     {
       "id": "clarity-act-senate-2026",
@@ -93,6 +114,25 @@
       "source": "https://www.congress.gov"
     },
     {
+      "id": "bls-nfp-2026-06-05",
+      "date": "2026-06-05",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 NFP (5월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "5월 비농업 고용지수. 연준 이중 책무(고용+물가) 핵심 지표. 예상치 대비 편차가 금리 경로를 바꾼다. ✓ BLS 2026 공식 일정.",
+      "bull": "예상 하회 → 고용 둔화 → 금리 인하 근거 강화 → BTC 상승 촉매",
+      "bear": "예상 상회 → 과열 고용 → 금리 인하 지연 → 달러 강세 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ],
+      "autoFetched": true
+    },
+    {
       "id": "apple-wwdc-2026",
       "date": "2026-06-09",
       "title": "Apple WWDC 2026",
@@ -118,7 +158,29 @@
       "description": "5월 소비자물가지수. 6월 FOMC 금리 결정의 직접적 선행 지표. 컨센서스 +2.8% YoY. 인플레 재가속 여부가 단기 방향성을 결정.",
       "bull": "CPI 하회 → 인플레 진정 확인 → 6월 금리 인하 기대 상승 → BTC·위험자산 상승",
       "bear": "CPI 상회 → 인플레 재가속 → 금리 인하 지연 → DXY 강세 → BTC 하락 압력",
-      "confirmed": false
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ]
+    },
+    {
+      "id": "bls-ppi-2026-06-12",
+      "date": "2026-06-12",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 PPI (5월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "MEDIUM",
+      "btcBias": "neutral",
+      "description": "5월 생산자물가지수. CPI 선행 지표. 생산 단계 인플레이션 확인. CPI 발표 전 방향성 힌트. ✓ BLS 2026 공식 일정.",
+      "bull": "예상 하회 → 생산자 비용 안정 → CPI 하락 전망 강화 → BTC 간접 수혜",
+      "bear": "예상 상회 → 생산 단계 인플레 → 향후 CPI 상승 우려 → 위험자산 경계",
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ],
+      "autoFetched": true
     },
     {
       "id": "fomc-jun2026",
@@ -133,8 +195,11 @@
       "description": "연방공개시장위원회 6월 금리 결정 및 파월 의장 기자회견. CME FedWatch 금리 인하 확률 및 점도표(Dot Plot) 변화가 핵심. BTC-달러 역상관 반응 패턴.",
       "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
       "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력 강화",
-      "confirmed": false,
-      "source": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      "confirmed": true,
+      "source": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "sources": [
+        "federalreserve.gov (공식)"
+      ]
     },
     {
       "id": "g7-summit-2026",
@@ -161,6 +226,371 @@
       "bull": "협상 지연 + 달러 신뢰도 하락 → BTC 디지털 금 포지셔닝 급증 → 강세 촉매",
       "bear": "조기 합의 + 재정 긴축 → 시장 유동성 흡수 → 위험자산 전반 관망 심리 강화",
       "confirmed": false
+    },
+    {
+      "id": "bls-nfp-2026-07-10",
+      "date": "2026-07-10",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 NFP (6월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "6월 비농업 고용지수. 연준 이중 책무(고용+물가) 핵심 지표. 예상치 대비 편차가 금리 경로를 바꾼다. ✓ BLS 2026 공식 일정.",
+      "bull": "예상 하회 → 고용 둔화 → 금리 인하 근거 강화 → BTC 상승 촉매",
+      "bear": "예상 상회 → 과열 고용 → 금리 인하 지연 → 달러 강세 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "bls-ppi-2026-07-14",
+      "date": "2026-07-14",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 PPI (6월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "MEDIUM",
+      "btcBias": "neutral",
+      "description": "6월 생산자물가지수. CPI 선행 지표. 생산 단계 인플레이션 확인. CPI 발표 전 방향성 힌트. ✓ BLS 2026 공식 일정.",
+      "bull": "예상 하회 → 생산자 비용 안정 → CPI 하락 전망 강화 → BTC 간접 수혜",
+      "bear": "예상 상회 → 생산 단계 인플레 → 향후 CPI 상승 우려 → 위험자산 경계",
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "bls-cpi-2026-07-15",
+      "date": "2026-07-15",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 CPI (6월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "6월 소비자물가지수. 연준 금리 결정의 핵심 선행 지표. 컨센서스 대비 편차가 BTC·위험자산 단기 방향성을 결정. ✓ BLS 2026 공식 일정.",
+      "bull": "CPI 하회 → 인플레 진정 → 금리 인하 기대 상승 → BTC·위험자산 상승",
+      "bear": "CPI 상회 → 인플레 재가속 → 금리 인하 지연 → DXY 강세 → BTC 하락",
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-TSLA-2026-07-22",
+      "date": "2026-07-22",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "테슬라 (TSLA) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "위험자산 대표 주자. BTC와 높은 상관관계. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "강한 실적 + 에너지 사업 성장 → 위험자산 + BTC 상승",
+      "bear": "마진 압박 + 수요 둔화 → 위험자산 전반 약세",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2026-07-29",
+      "date": "2026-07-29",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-META-2026-07-29",
+      "date": "2026-07-29",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "메타 (META) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "디지털 광고·AI 인프라 지출 지표. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "광고 성장 + AI ROI 입증 → 위험자산 선호 강화",
+      "bear": "비용 증가 + 광고 둔화 → 기술주 매도 압력",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-AAPL-2026-07-30",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "애플 (AAPL) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "세계 시총 1위 기술주. AI 기능 확장·아이폰 수요가 나스닥 방향성을 결정. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "EPS 상회 + AI 서비스 성장 → 나스닥 강세 → BTC 간접 수혜",
+      "bear": "아이폰 판매 둔화 → 기술주 조정 → 위험자산 약세",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-AMD-2026-08-04",
+      "date": "2026-08-04",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "AMD 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "AI 칩 경쟁자. NVDA 이후 두 번째 AI 인프라 수요 확인 지점. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "데이터센터 GPU 수요 강세 → AI 테마 지속 → BTC 간접 수혜",
+      "bear": "NVDA 대비 시장 점유율 손실 → 기술주 차익 실현",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2026-09-16",
+      "date": "2026-09-16",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2026-10-28",
+      "date": "2026-10-28",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2026-12-09",
+      "date": "2026-12-09",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-01-29",
+      "date": "2027-01-29",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-03-19",
+      "date": "2027-03-19",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-05-07",
+      "date": "2027-05-07",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-06-18",
+      "date": "2027-06-18",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-07-30",
+      "date": "2027-07-30",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-08-22",
+      "date": "2027-08-22",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-09-17",
+      "date": "2027-09-17",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
+    },
+    {
+      "id": "fomc-2027-10-29",
+      "date": "2027-10-29",
+      "time": "14:00",
+      "tz": "ET",
+      "title": "FOMC 금리 결정",
+      "category": "macro",
+      "categoryLabel": "통화정책",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
+      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
+      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "confirmed": true,
+      "sources": [
+        "federalreserve.gov (공식)"
+      ],
+      "autoFetched": true
     }
   ]
 }

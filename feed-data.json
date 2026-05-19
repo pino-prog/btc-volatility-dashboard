@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T07:26:20.937Z",
+  "updatedAt": "2026-05-19T07:42:15.732Z",
   "items": [
     {
       "id": "lookonchain__Tue, 19 May 2026 04:18:14 GMT",
@@ -412,17 +412,6 @@
       ]
     },
     {
-      "id": "ColinTCrypto__Fri, 15 May 2026 23:55:41 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "From time to time I see some individuals (mostly beginners) mock technical analysis. I used to doubt it as well, years ago. Here are some actual success rates, in percentages, for various TA patterns from a legendary Classical Chartist and trader, @TechCharts. Yes, sometimes the odds are slim, but an edge is an edge. T",
-      "pubDate": "Fri, 15 May 2026 23:55:41 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055436989906768261#m",
-      "keywords": []
-    },
-    {
       "id": "cryptoquant_com__Fri, 15 May 2026 13:29:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -553,6 +542,17 @@
         "Whale",
         "BTC"
       ]
+    },
+    {
+      "id": "ColinTCrypto__Wed, 13 May 2026 16:09:37 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "Local top is in, boys. I think that was it. $BTC If it wasn’t I’ll delete this post",
+      "pubDate": "Wed, 13 May 2026 16:09:37 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2054594924880806206#m",
+      "keywords": []
     }
   ]
 }
