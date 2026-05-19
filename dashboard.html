@@ -1857,19 +1857,23 @@ function renderMacroCalendar() {
     `;
   }
 
-  const byDate = e => new Date(e.date).getTime();
+  const byDate   = e => new Date(e.date + 'T12:00:00Z').getTime();
+  const D30_MS   = 30 * 86400000;
   const isUpcoming = e => byDate(e) + 86400000 >= now;
+  const isD30    = e => byDate(e) >= now - 86400000 && byDate(e) <= now + D30_MS;
   const upcoming = events.filter(isUpcoming).sort((a,b) => byDate(a) - byDate(b));
+  const d30      = events.filter(isD30).sort((a,b) => byDate(a) - byDate(b));
   const past     = events.filter(e => !isUpcoming(e)).sort((a,b) => byDate(b) - byDate(a));
   const sorted   = [...upcoming, ...past];
 
-  const upcomingCount = upcoming.length;
-  const pastCount     = past.length;
+  const d30Count = d30.length;
+  const pastCount = past.length;
+  const upcomingBeyond = upcoming.filter(e => byDate(e) > now + D30_MS).length;
   const cats = [...new Set(events.map(e => e.categoryLabel))];
   const specialBtns = [
-    `<button class="macro-filter-btn${_macroFilter==='__upcoming__'?' active':''}" onclick="setMacroFilter('__upcoming__')">예정 ${upcomingCount}</button>`,
+    `<button class="macro-filter-btn${_macroFilter==='__upcoming__'?' active':''}" onclick="setMacroFilter('__upcoming__')">D-30 <span style="background:var(--red);color:#fff;border-radius:3px;padding:0 4px;font-size:9px">${d30Count}</span></button>`,
+    `<button class="macro-filter-btn${_macroFilter==='__all_upcoming__'?' active':''}" onclick="setMacroFilter('__all_upcoming__')" style="opacity:.8">전체 예정${upcomingBeyond>0?` +${upcomingBeyond}`:''}</button>`,
     `<button class="macro-filter-btn${_macroFilter==='__past__'?' active':''}" onclick="setMacroFilter('__past__')" style="opacity:.7">완료 ${pastCount}</button>`,
-    `<button class="macro-filter-btn${_macroFilter==='ALL'?' active':''}" onclick="setMacroFilter('ALL')">전체</button>`,
   ].join('');
   const catBtns = cats.map(c =>
     `<button class="macro-filter-btn${_macroFilter===c?' active':''}" onclick="setMacroFilter('${c}')">${c}</button>`
@@ -1880,9 +1884,10 @@ function renderMacroCalendar() {
   document.getElementById('macroFilterWrap').innerHTML = specialBtns + catBtns + mismatchBtn;
 
   let filtered = sorted;
-  if      (_macroFilter === '__upcoming__') filtered = upcoming;
-  else if (_macroFilter === '__past__')     filtered = past;
-  else if (_macroFilter === '__mismatch__') filtered = sorted.filter(e => e.mismatch);
+  if      (_macroFilter === '__upcoming__')     filtered = d30;
+  else if (_macroFilter === '__all_upcoming__') filtered = upcoming;
+  else if (_macroFilter === '__past__')         filtered = past;
+  else if (_macroFilter === '__mismatch__')     filtered = sorted.filter(e => e.mismatch);
   else if (_macroFilter !== 'ALL')          filtered = sorted.filter(e => e.categoryLabel === _macroFilter);
 
   if (!filtered.length) {
@@ -1901,7 +1906,7 @@ function renderMacroCalendar() {
                   : ms < 86400000*2   ? 'var(--red)'
                   : ms < 86400000*7   ? 'var(--yellow)'
                   : 'var(--text)';
-    const dateStr = new Date(e.date).toLocaleDateString('ko-KR',{month:'long',day:'numeric'})
+    const dateStr = new Date(e.date + 'T12:00:00Z').toLocaleDateString('ko-KR',{month:'long',day:'numeric',timeZone:'UTC'})
                   + (e.time ? ` ${e.time} ${e.tz||''}` : '');
     const srcLine = e.sources?.length ? `<div class="macro-sources">검증 소스: ${e.sources.join(' · ')}</div>` : '';
     const cardBorder = e.mismatch ? 'border-left:3px solid var(--red)' : e.confirmed && (e.sources||[]).some(s=>s.includes('.gov')) ? 'border-left:3px solid var(--cyan)' : '';
