@@ -16,15 +16,15 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Fetch intel feed (nitter/RSSHub)
         run: node scripts/fetch-feed.mjs
 
-      - name: Fetch macro events (FMP earnings + economic calendar)
+      - name: Fetch macro events (멀티소스 크로스체크)
         run: node scripts/fetch-macro-events.mjs
         env:
-          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}   # 없으면 demo 키 사용
+          AV_API_KEY: ${{ secrets.AV_API_KEY }}
 
       - name: Commit and push if changed
         run: |
