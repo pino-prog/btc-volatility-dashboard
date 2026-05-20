@@ -1,6 +1,139 @@
 {
-  "updatedAt": "2026-05-20T04:15:43.503Z",
+  "updatedAt": "2026-05-20T09:49:59.746Z",
   "items": [
+    {
+      "id": "whale_alert__Wed, 20 May 2026 09:12:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 648 $BTC (50,246,437 USD) transferred from #Kucoin to unknown wallet https://whale-alert.io/tx/bitcoin/6be74b4ed2a91a1c9cad5d28a0e3e5a8433fa806452ce7c21b3f0adfa4d0ada2",
+      "pubDate": "Wed, 20 May 2026 09:12:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2057026646796857614#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 20 May 2026 08:58:55 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,047,124 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/y6xmYRZBukf2v9Fe8dLEmGmmsZyghQEUarKW34gXcLhHmZ1w4vWyUPBLkm5LzhH1yD9a2T6Ko5u95qZh7jjGJku",
+      "pubDate": "Wed, 20 May 2026 08:58:55 GMT",
+      "link": "https://nitter.net/whale_alert/status/2057023252644438363#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 20 May 2026 08:43:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Analyse markets using natural language ⤵️ https://cryptoquant.com/promotion?utm_source=twitter&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day",
+      "pubDate": "Wed, 20 May 2026 08:43:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057019244861382912#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 20 May 2026 08:36:48 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Crypto research workflow in 2026. Before: Dashboard hopping → CSV exports → Python scripts → spreadsheet archaeology → manual annotations Now, one prompt with CryptoQuant MCP: “Pull BTC historical data, compare post-halving cycles, mark bottoms, extend 2024.” Effortless.",
+      "pubDate": "Wed, 20 May 2026 08:36:48 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057017686224175591#m",
+      "keywords": [
+        "반감기",
+        "사이클",
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 20 May 2026 08:30:40 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💸 A fee of 89 $ETH (190,530 USD) has just been paid for a single transaction! https://whale-alert.io/tx/ethereum/0xed14b8a7dbfa078281c8523c35266efd6c17250db56d5cfbfdc6e88ce66394a7",
+      "pubDate": "Wed, 20 May 2026 08:30:40 GMT",
+      "link": "https://nitter.net/whale_alert/status/2057016141172637952#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 20 May 2026 08:16:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 390,000,040 $USDT (389,814,790 USD) transferred from #Spark to #HTX https://whale-alert.io/tx/ethereum/0x0a857d219d69792d1a7fb79561ef01d390294e03ca53581ed5dd3a0354ef1d2a",
+      "pubDate": "Wed, 20 May 2026 08:16:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2057012534066937880#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Wed, 20 May 2026 06:29:21 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Last month an ABC News analysis concluded that the cost of the NDIS in 2029-30 was projected to be around $28.2bn in the 2015-16 budget. In reality its on track to be $67.2nbn (PBO baseline), depending on the effect of the changes. The blow out is $39.0bn a year. To put that into perspective, it&ap",
+      "pubDate": "Wed, 20 May 2026 06:29:21 GMT",
+      "link": "https://nitter.net/AvidCommentator/status/2056985610284613648#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 20 May 2026 06:22:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "R to @lookonchain: Correction: #Bitcoin ETFs 7D NetFlow: -21,470 $BTC(-$1.64B)🔴",
+      "pubDate": "Wed, 20 May 2026 06:22:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056983923780120873#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 20 May 2026 05:59:26 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Evaded (@ICanPlug) made $2.1M in just 2 days! Yesterday, he opened 10x longs on 36,875 $ZEC($21.59M) and 287,618 $HYPE($13.89M), and is now sitting on $2.1M in unrealized profit. https://hypurrscan.io/address/0x86523927bffeafe2e532f0218feb1f3c29f6120d#perps",
+      "pubDate": "Wed, 20 May 2026 05:59:26 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056978082565939527#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 20 May 2026 05:47:35 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "8Qef2u, the largest $ASTEROID holder on Solana, bought 10.04M $VIRL ($17.7K). This wallet already holds 25.03M $ASTEROID ($301.6K) and bought $VIRL after the official @solana account followed @virlfun. https://solscan.io/account/8Qef2u6fYQ3fgeJmoySLPoQQV68GQr9oNwUV15PT5YSQ#transfers",
+      "pubDate": "Wed, 20 May 2026 05:47:35 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056975100625477910#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Wed, 20 May 2026 03:14:39 GMT",
       "handle": "lookonchain",
@@ -200,6 +333,17 @@
         "고래",
         "Whale"
       ]
+    },
+    {
+      "id": "JSeyff__Tue, 19 May 2026 23:09:46 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Minnesota might as well try to ban the NYSE. States can&apos;t ban federally regulated exchanges. Doing so is a blatant violation of the constitution and federal law (and a giant waste of taxpayer resources and everyone’s time). Outside of this ban being unenforceable, it&apos;s also a terrible idea for ",
+      "pubDate": "Tue, 19 May 2026 23:09:46 GMT",
+      "link": "https://nitter.net/BrianQuintenz/status/2056874988259418351#m",
+      "keywords": []
     },
     {
       "id": "EricBalchunas__Tue, 19 May 2026 22:48:42 GMT",
@@ -938,58 +1082,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Mon, 18 May 2026 08:36:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This whale, holding 131K $ETH, made a perfect buy-low, sell-high trade a month ago, earning $1.09M. 4 hours ago, he bought another 5,001 $ETH($10.6M) at $2,119. https://x.com/lookonchain/status/2043512821368119751",
-      "pubDate": "Mon, 18 May 2026 08:36:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2056292943259156910#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 18 May 2026 07:09:21 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A massive $HYPE buy! Wallet 0xb5E4, linked to #a16z, bought another 372,000 $HYPE($16.91M) over the past 3 hours. Since April 14, this wallet has bought a total of 2.11M $HYPE ($90.87M). https://intel.arkm.com/explorer/address/0xb5E4d21240e9356caFc3a1261d10383f62DFc24e https://x.com/lookonchain/status/20552215895670133",
-      "pubDate": "Mon, 18 May 2026 07:09:21 GMT",
-      "link": "https://nitter.net/lookonchain/status/2056270903332446684#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 18 May 2026 04:42:50 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Trader GyBRmk sold 21,911 $SOL($1.85M) after holding for over 2 years, taking a $1.05M loss. Over the past 2 years, he accumulated 20,200 $SOL($2.91M) at ~$144 and staked them, earning 1,711 $SOL ($145K) in staking rewards. But as $SOL fell, he still ended up losing $1.05M. https://intel.arkm.com/explorer/address/GyBRm",
-      "pubDate": "Mon, 18 May 2026 04:42:50 GMT",
-      "link": "https://nitter.net/lookonchain/status/2056234031445078233#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Mon, 18 May 2026 01:42:08 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC 🟡 REJECTION #1 (YELLOW ARROW): UPPER CHANNEL TREND LINE. ⚪ REJECTION #2 (WHITE ARROW): 200 DAY MOVING AVERAGE. 🟣 REJECTION #3 (PURPLE ARROW): UNDERSIDE OF TREND LINE (significance: had been respected as resistance and support many times-- now broken, to the downside). This is all bearish, folks.",
-      "pubDate": "Mon, 18 May 2026 01:42:08 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2056188553764151650#m",
-      "keywords": [
-        "약세장",
-        "저항선",
-        "TA",
-        "지지선"
-      ]
-    },
-    {
       "id": "spotonchain__Sun, 17 May 2026 13:25:08 GMT",
       "handle": "spotonchain",
       "label": "Spot On Chain",
@@ -1014,21 +1106,6 @@
       ]
     },
     {
-      "id": "ColinTCrypto__Sun, 17 May 2026 00:57:43 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC Low time frame (4H candles) Channel rejected from underside. Bearish. Some were hoping this was a bull flag. Not currently.",
-      "pubDate": "Sun, 17 May 2026 00:57:43 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055814989965918586#m",
-      "keywords": [
-        "강세장",
-        "약세장",
-        "약세 신호"
-      ]
-    },
-    {
       "id": "_Checkmatey___Sun, 17 May 2026 00:48:20 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1039,72 +1116,6 @@
       "link": "https://nitter.net/_Checkmatey_/status/2055812629822894541#m",
       "keywords": [
         "LTH 보유자"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Sat, 16 May 2026 14:32:20 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: 😮 https://x.com/ColinTCrypto/status/2055657154808316212?s=20",
-      "pubDate": "Sat, 16 May 2026 14:32:20 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055657608913072212#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Sat, 16 May 2026 14:30:32 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Did I get it? 👀 $BTC tagged the 200 MA about 4-5 times.",
-      "pubDate": "Sat, 16 May 2026 14:30:32 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055657154808316212#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Sat, 16 May 2026 13:41:06 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Treasury Bills/Notes/Bonds are a NET LOSS of purchasing power. They are a way to let the government slowly steal from you while allowing yourself to feel placated by interest payments that are *less* than the theft. They are only a way to slow bleeding— not a way to “earn more”, as is commonly depicted. The problem is:",
-      "pubDate": "Sat, 16 May 2026 13:41:06 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055644714783670497#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "LTH 보유자"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sat, 16 May 2026 08:55:34 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "Really enjoyed this pod with @pahueg, talking everything from the fourth turning world we&apos;re living through, to Bitcoin, to commodities, and we even discuss the lore of Satoshi! Enjoy!",
-      "pubDate": "Sat, 16 May 2026 08:55:34 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2055572857519022128#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Sat, 16 May 2026 08:30:39 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC is bumping into overhead resistance from: 1. The prior consolidation channel (bear flag from $80k-$98k). 2. The 200 day moving average. 3. The current price channel’s upper boundary. All 3 are acting as resistance. Plus, BTC’s momentum has been stalling during the last 2 weeks. I don’t see BTC going meaningfully a",
-      "pubDate": "Sat, 16 May 2026 08:30:39 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055566587248234826#m",
-      "keywords": [
-        "약세장",
-        "저항선",
-        "TA",
-        "BTC"
       ]
     },
     {
@@ -1119,17 +1130,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 15 May 2026 23:55:41 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "From time to time I see some individuals (mostly beginners) mock technical analysis. I used to doubt it as well, years ago. Here are some actual success rates, in percentages, for various TA patterns from a legendary Classical Chartist and trader, @TechCharts. Yes, sometimes the odds are slim, but an edge is an edge. T",
-      "pubDate": "Fri, 15 May 2026 23:55:41 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2055436989906768261#m",
-      "keywords": []
     },
     {
       "id": "rektcapital__Fri, 15 May 2026 12:42:00 GMT",
