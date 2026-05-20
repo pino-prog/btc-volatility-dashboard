@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-05-20T02:13:46.949Z",
+  "updatedAt": "2026-05-20T04:15:43.503Z",
   "items": [
+    {
+      "id": "lookonchain__Wed, 20 May 2026 03:14:39 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Two wallets opened 10x longs on $PEPE at the same time, with a total position of 924.7M $kPEPE($3.37M). https://hypurrscan.io/address/0xdfe25cd6745aca3bdb94499b0a71a8f3356b0f1f#perps https://hypurrscan.io/address/0xd129d392e5db2bb3bd6db5c2580c9634ac570aa6#perps",
+      "pubDate": "Wed, 20 May 2026 03:14:39 GMT",
+      "link": "https://nitter.net/lookonchain/status/2056936612836376654#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Wed, 20 May 2026 02:44:38 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "I’m not sure I’ve ever seen a 99.9% chance blown. My god.",
+      "pubDate": "Wed, 20 May 2026 02:44:38 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2056929059162956045#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Wed, 20 May 2026 02:35:33 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Was literally just about to tweet what the hell happened to the Knicks (they looked like the Sixers for 3.5 quarters) but holy moly what a late run. I (along with Adam Silver and ABC execs) are pulling hard for them. Cleveland can’t be in the Finals.",
+      "pubDate": "Wed, 20 May 2026 02:35:33 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2056926774219456776#m",
+      "keywords": []
+    },
     {
       "id": "whale_alert__Wed, 20 May 2026 01:48:34 GMT",
       "handle": "whale_alert",
@@ -46,6 +79,17 @@
         "기관 수급",
         "BTC"
       ]
+    },
+    {
+      "id": "JSeyff__Wed, 20 May 2026 00:54:08 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Don’t think of it as losing a Congressman. Think of it as gaining a podcaster.",
+      "pubDate": "Wed, 20 May 2026 00:54:08 GMT",
+      "link": "https://nitter.net/jarvis_best/status/2056901253389844963#m",
+      "keywords": []
     },
     {
       "id": "_Checkmatey___Wed, 20 May 2026 00:46:41 GMT",
@@ -589,6 +633,19 @@
       ]
     },
     {
+      "id": "ki_young_ju__Tue, 19 May 2026 07:49:06 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "RT by @ki_young_ju: 16 years ago this week, someone paid 10,000 BTC for two pizzas. The chain has evolved. So have the tools to analyze it. Bitcoin Pizza Day sale is live: up to 35% off Pro plans. Ends May 24.",
+      "pubDate": "Tue, 19 May 2026 07:49:06 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2056643294654836946#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
       "id": "lookonchain__Tue, 19 May 2026 04:18:14 GMT",
       "handle": "lookonchain",
       "label": "Lookonchain",
@@ -917,17 +974,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Mon, 18 May 2026 02:30:32 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Verus-Ethereum Bridge(@VerusCoin) appears to have been exploited, with ~$11.5M stolen. The exploiter has already swapped all the funds into 5,402 $ETH($11.5M). https://intel.arkm.com/explorer/address/0x65Cb8b128Bf6e690761044CCECA422bb239C25F9",
-      "pubDate": "Mon, 18 May 2026 02:30:32 GMT",
-      "link": "https://nitter.net/lookonchain/status/2056200736082714973#m",
-      "keywords": []
-    },
-    {
       "id": "ColinTCrypto__Mon, 18 May 2026 01:42:08 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -1193,54 +1239,6 @@
       "pubDate": "Thu, 07 May 2026 17:06:48 GMT",
       "link": "https://nitter.net/KobeissiLetter/status/2052434987618640033#m",
       "keywords": []
-    },
-    {
-      "id": "spotonchain__Tue, 05 May 2026 12:58:00 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "RT by @spotonchain: BREAKING: The UK&apos;s 30Y Government Bond Yield surges to 5.79%, the highest level since May 1998. Inflation is back and interest rates are surging.",
-      "pubDate": "Tue, 05 May 2026 12:58:00 GMT",
-      "link": "https://nitter.net/KobeissiLetter/status/2051647599732457720#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Tue, 05 May 2026 10:31:04 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "RT by @ki_young_ju: How do you actually use the CryptoQuant MCP for trading? Plug it into n8n, let it fetch on-chain data, convert it into trading signals, run it through risk management, and execute orders on your exchange. Step-by-step example 👇",
-      "pubDate": "Tue, 05 May 2026 10:31:04 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2051610625856475340#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Mon, 04 May 2026 13:10:03 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "RT by @ki_young_ju: Guys, I added alerts: Bitcoin Squeeze Detector, this indicator uses price data only, so treat it accordingly. The SQL is configured on the 1-hour timeframe, when the signal fires, a Squeeze can be expected. The SQL cannot determine the direction of the Squeeze. https://cryptoquant.com/alert/preset?i",
-      "pubDate": "Mon, 04 May 2026 13:10:03 GMT",
-      "link": "https://nitter.net/AxelAdlerJr/status/2051288245359820808#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Thu, 30 Apr 2026 14:34:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: I share price analysis on Bitcoin and Altcoins every Monday, Wednesday & Friday in my newsletter 86,000+ people read it for practical guidance to better understand and navigate the Crypto market in real-time Join for free here: https://rektcapital.ghost.io/#/portal/ #BTC #Crypto #Bitcoin",
-      "pubDate": "Thu, 30 Apr 2026 14:34:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2049859819910377889#m",
-      "keywords": [
-        "BTC"
-      ]
     }
   ]
 }
