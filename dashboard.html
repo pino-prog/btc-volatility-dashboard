@@ -1720,10 +1720,23 @@ function toggleGuide() {
 // 트레이딩 인텔 피드 (실시간 크롤링 데이터)
 // ════════════════════════════════════════════════════════
 const FEED_HANDLE_STYLE = {
-  'cryptoquant_com': {bg:'rgba(57,211,83,.15)',  color:'var(--cyan)'},
-  'ColinTCrypto':    {bg:'rgba(240,136,62,.15)', color:'var(--orange)'},
-  'lookonchain':     {bg:'rgba(88,166,255,.15)', color:'var(--blue)'},
-  'glassnode':       {bg:'rgba(188,140,255,.15)',color:'var(--purple)'},
+  // 온체인 / 파생상품
+  'cryptoquant_com': {bg:'rgba(57,211,83,.15)',   color:'var(--cyan)'},
+  'ki_young_ju':     {bg:'rgba(56,189,248,.15)',  color:'#38bdf8'},
+  // 온체인 심리
+  'glassnode':       {bg:'rgba(188,140,255,.15)', color:'var(--purple)'},
+  '_Checkmatey_':    {bg:'rgba(129,140,248,.15)', color:'#818cf8'},
+  'woonomic':        {bg:'rgba(167,139,250,.15)', color:'#a78bfa'},
+  // 기술적 분석
+  'ColinTCrypto':    {bg:'rgba(240,136,62,.15)',  color:'var(--orange)'},
+  'rektcapital':     {bg:'rgba(251,191,36,.15)',  color:'#fbbf24'},
+  // 고래 추적
+  'lookonchain':     {bg:'rgba(88,166,255,.15)',  color:'var(--blue)'},
+  'whale_alert':     {bg:'rgba(45,212,191,.15)',  color:'#2dd4bf'},
+  'spotonchain':     {bg:'rgba(52,211,153,.15)',  color:'#34d399'},
+  // ETF / 기관 수급
+  'EricBalchunas':   {bg:'rgba(16,185,129,.15)',  color:'#10b981'},
+  'JSeyff':          {bg:'rgba(163,230,53,.15)',  color:'#84cc16'},
 };
 
 let _feedData = null;
