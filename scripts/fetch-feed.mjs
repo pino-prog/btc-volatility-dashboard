@@ -3,10 +3,22 @@ import http from 'http';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 
 const ACCOUNTS = [
-  { handle: 'cryptoquant_com', label: 'CryptoQuant', category: '온체인/파생상품', color: 'cyan'   },
-  { handle: 'ColinTCrypto',    label: 'Colin',        category: '기술적 분석',     color: 'orange' },
-  { handle: 'lookonchain',     label: 'Lookonchain',  category: '고래 추적',        color: 'blue'   },
-  { handle: 'glassnode',       label: 'Glassnode',    category: '온체인 심리',      color: 'purple' },
+  // 온체인 / 파생상품
+  { handle: 'cryptoquant_com', label: 'CryptoQuant',    category: '온체인/파생상품', color: 'cyan'   },
+  { handle: 'ki_young_ju',     label: 'Ki Young Ju',    category: '온체인/파생상품', color: 'sky'    },
+  { handle: '_Checkmatey_',    label: 'James Check',    category: '온체인 심리',     color: 'indigo' },
+  { handle: 'woonomic',        label: 'Willy Woo',      category: '온체인 심리',     color: 'purple' },
+  { handle: 'glassnode',       label: 'Glassnode',      category: '온체인 심리',     color: 'violet' },
+  // 기술적 분석
+  { handle: 'ColinTCrypto',    label: 'Colin',          category: '기술적 분석',     color: 'orange' },
+  { handle: 'rektcapital',     label: 'Rekt Capital',   category: '기술적 분석',     color: 'amber'  },
+  // 고래 추적
+  { handle: 'lookonchain',     label: 'Lookonchain',    category: '고래 추적',        color: 'blue'   },
+  { handle: 'whale_alert',     label: 'Whale Alert',    category: '고래 추적',        color: 'teal'   },
+  { handle: 'spotonchain',     label: 'Spot On Chain',  category: '고래 추적',        color: 'green'  },
+  // ETF / 기관 수급
+  { handle: 'EricBalchunas',   label: 'Balchunas (ETF)',category: 'ETF/기관 수급',    color: 'emerald'},
+  { handle: 'JSeyff',          label: 'Seyffart (ETF)', category: 'ETF/기관 수급',    color: 'lime'   },
 ];
 
 const NITTER_INSTANCES = [
@@ -74,10 +86,16 @@ const KW_MAP = [
   ['netflow',           ['Netflow', '거래소 흐름']],
   ['miner',             ['Miner Flow']],
   ['whale',             ['고래', 'Whale']],
+  ['large transaction', ['대형 트랜잭션']],
+  ['moved',             ['고래 이동']],
   ['etf',               ['ETF 수급']],
+  ['spot etf',          ['스팟 ETF']],
+  ['etf inflow',        ['ETF 유입']],
+  ['etf outflow',       ['ETF 유출']],
   ['blackrock',         ['BlackRock', 'ETF']],
   ['fidelity',          ['Fidelity', 'ETF']],
   ['microstrategy',     ['MicroStrategy', '기관 매집']],
+  ['strategy',          ['Strategy(MSTR)', '기관 매집']],
   ['institutional',     ['기관 수급']],
   ['funding rate',      ['펀딩비']],
   ['funding',           ['Funding Rate']],
@@ -90,6 +108,10 @@ const KW_MAP = [
   ['lth',               ['LTH 보유자']],
   ['sth',               ['STH 보유자']],
   ['realized cap',      ['Realized Cap']],
+  ['halving',           ['반감기', '사이클']],
+  ['cycle',             ['BTC 사이클']],
+  ['bull',              ['강세장']],
+  ['bear',              ['약세장']],
   ['resistance',        ['저항선', 'TA']],
   ['support',           ['지지선', 'TA']],
   ['bullish',           ['강세 신호']],
@@ -211,7 +233,7 @@ async function main() {
 
   const output = {
     updatedAt: new Date().toISOString(),
-    items: merged.slice(0, 60),
+    items: merged.slice(0, 96),   // 12계정 × 8개 = 96
   };
 
   writeFileSync(outPath, JSON.stringify(output, null, 2));
