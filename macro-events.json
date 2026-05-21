@@ -2,7 +2,7 @@
   "updatedAt": "2026-05-21T04:24:12.757Z",
   "verifiedAt": "2026-05-21",
   "verificationSummary": {
-    "confirmed": 26,
+    "confirmed": 25,
     "unconfirmed": 10,
     "mismatched": 0
   },
@@ -46,21 +46,26 @@
       "date": "2026-05-20",
       "time": "16:00",
       "tz": "ET",
-      "title": "엔비디아 (NVDA) 실적 발표",
+      "title": "엔비디아 Q1 FY27 실적 발표 (NVDA)",
       "category": "earnings",
       "categoryLabel": "기업 실적",
       "impact": "HIGH",
       "btcBias": "correlated",
-      "description": "AI 인프라 수요 바로미터. BTC-나스닥 상관계수 r=0.72. 실적 강세 시 위험자산 전반 상승 촉매. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
+      "description": "AI 인프라 수요 바로미터. BTC-나스닥 상관계수 r=0.72. SEC 8-K 기준 2026-05-20 16:00 ET 발표 완료. ✓ AlphaVantage + NASDAQ + SEC 교차 검증.",
       "bull": "EPS·매출 상회 + 가이던스 상향 → 나스닥 급등 → BTC 연동 상승",
       "bear": "실적 미스 또는 공급 이슈 → 기술주 전반 매도 → BTC 동반 하락",
       "confirmed": true,
       "sources": [
         "AlphaVantage",
-        "NASDAQ"
+        "NASDAQ",
+        "SEC 8-K (nvda-20260520)"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "occurred": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "Q1 FY27 실적 SEC 8-K 확정 (2026-05-20 발표 완료). 중복 등록되어 있던 5/28 항목은 제거됨."
     },
     {
       "id": "trump-china-trade-2026",
@@ -91,22 +96,6 @@
         "NYSE 공식 휴장 캘린더"
       ],
       "autoFetched": false
-    },
-    {
-      "id": "nvidia-q1fy27-earnings",
-      "date": "2026-05-28",
-      "time": "16:00",
-      "tz": "ET",
-      "title": "엔비디아 Q1 FY27 실적 발표 (NVDA)",
-      "category": "earnings",
-      "categoryLabel": "기업 실적",
-      "impact": "HIGH",
-      "btcBias": "correlated",
-      "description": "AI 인프라 수요 바로미터. BTC-나스닥 상관계수 r=0.72 구간에서 NVDA 실적은 위험자산 전체 심리를 견인. EPS 컨센서스 $5.8~$6.2 범위.",
-      "bull": "EPS·매출 상회 + 강한 데이터센터 가이던스 → 나스닥 급등 → BTC 연동 상승. AI 붐 지속 확인",
-      "bear": "실적 미스 또는 공급망 이슈 → 기술주 전반 매도 → BTC 동반 하락. 단기 -5~10% 가능",
-      "confirmed": true,
-      "source": "https://investor.nvidia.com"
     },
     {
       "id": "pce-apr-2026",
