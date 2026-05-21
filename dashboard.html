@@ -153,6 +153,32 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
 @keyframes blink{0%,100%{opacity:1;}50%{opacity:.5;}}
 .macro-date    {font-size:10px;color:var(--muted);margin-top:4px;}
 .macro-sources {font-size:9px;color:var(--muted);margin-top:3px;opacity:.7;}
+
+/* ── 검증 메타 호버 툴팁 ── */
+.mv-wrap{position:relative;display:inline-flex;cursor:help;}
+.mv-wrap .macro-badge{cursor:help;}
+.mv-tip{
+  position:absolute;bottom:calc(100% + 6px);left:0;
+  background:#0a0d12;border:1px solid var(--border);border-radius:6px;
+  padding:9px 11px;min-width:240px;max-width:340px;
+  font-size:10.5px;color:var(--text);line-height:1.55;
+  box-shadow:0 6px 24px rgba(0,0,0,.55);
+  opacity:0;visibility:hidden;transform:translateY(4px);
+  transition:opacity .15s,transform .15s,visibility .15s;
+  z-index:200;pointer-events:none;white-space:normal;font-family:'Inter','SF Mono',monospace;
+}
+.mv-wrap:hover .mv-tip,.mv-wrap:focus-within .mv-tip{opacity:1;visibility:visible;transform:translateY(0);pointer-events:auto;}
+.mv-tip-row{display:flex;justify-content:space-between;gap:8px;padding:2px 0;}
+.mv-tip-row .lbl{color:var(--muted);font-size:9.5px;text-transform:uppercase;letter-spacing:.5px;}
+.mv-tip-row .val{color:var(--text);font-weight:600;}
+.mv-tip-divider{border-top:1px solid var(--border);margin:6px 0;}
+.mv-tip-sources{font-size:10px;color:var(--muted);}
+.mv-tip-sources a{color:var(--blue);text-decoration:none;word-break:break-all;display:block;padding:2px 0;}
+.mv-tip-sources a:hover{text-decoration:underline;color:#7cc4ff;}
+.mv-tip-note{color:var(--yellow);margin-top:4px;font-size:10px;font-weight:600;}
+.mv-conf-high{color:var(--green);}
+.mv-conf-medium{color:var(--yellow);}
+.mv-conf-low{color:var(--red);}
 .macro-desc    {font-size:11px;color:var(--muted);line-height:1.65;}
 .macro-scenarios{display:grid;grid-template-columns:1fr 1fr;gap:6px;}
 .macro-sc      {padding:7px 9px;border-radius:5px;font-size:10px;line-height:1.55;color:var(--muted);}
@@ -1840,14 +1866,62 @@ let _macroData   = null;
 let _macroFilter = '__upcoming__';
 
 function macroVerifyBadge(e) {
-  if (e.occurred)   return '<span class="macro-badge mb-unconf">✓ 완료</span>';
-  if (e.mismatch)   return '<span class="macro-badge mb-mismatch">⚠️ 소스 불일치 — 수동 확인</span>';
-  if (!e.confirmed) return '<span class="macro-badge mb-unconf">❓ 미검증</span>';
-  const src = (e.sources || []).join(', ');
-  const isOfficial = src.includes('.gov') || src.includes('(공식)');
-  return isOfficial
-    ? `<span class="macro-badge mb-official">✓ 공식</span>`
-    : `<span class="macro-badge mb-verified">✓ ${e.sources?.length || 1}소스</span>`;
+  // 1) 뱃지 자체
+  let badge;
+  if      (e.occurred)   badge = '<span class="macro-badge mb-unconf">✓ 완료</span>';
+  else if (e.mismatch)   badge = '<span class="macro-badge mb-mismatch">⚠️ 소스 불일치 — 수동 확인</span>';
+  else if (!e.confirmed) badge = '<span class="macro-badge mb-unconf">❓ 미검증</span>';
+  else {
+    const src = (e.sources || []).join(', ');
+    const isOfficial = src.includes('.gov') || src.includes('(공식)');
+    badge = isOfficial
+      ? `<span class="macro-badge mb-official">✓ 공식</span>`
+      : `<span class="macro-badge mb-verified">✓ ${e.sources?.length || 1}소스</span>`;
+  }
+
+  // 2) 신뢰도 추론 (명시 confidence 우선 → 그 외 상태 기반 폴백)
+  let conf = e.confidence;
+  let confLabel = { high:'높음', medium:'보통', low:'낮음' }[conf];
+  if (!conf) {
+    if (e.mismatch)        { conf = 'low';    confLabel = '낮음 (소스 불일치)'; }
+    else if (!e.confirmed) { conf = 'low';    confLabel = '낮음 (미검증)'; }
+    else {
+      const isOfficial = (e.sources || []).some(s => s.includes('.gov') || s.includes('(공식)'));
+      if (isOfficial)            { conf = 'high';   confLabel = '높음 (공식)'; }
+      else if ((e.sources||[]).length >= 2) { conf = 'high'; confLabel = '높음 (다중 소스)'; }
+      else                        { conf = 'medium'; confLabel = '보통 (단일 소스)'; }
+    }
+  }
+
+  // 3) 검증일
+  const verifiedAt = e.verifiedAt || _macroData?.verifiedAt || _macroData?.updatedAt?.slice(0,10) || '미상';
+
+  // 4) 소스 링크 (URL이면 a 태그, 텍스트면 그대로)
+  const sourceLinks = (e.sources && e.sources.length)
+    ? e.sources.map(s => {
+        const m = s.match(/(https?:\/\/[^\s)]+)/);
+        if (m) return `<a href="${m[1]}" target="_blank" rel="noopener">${s}</a>`;
+        return `<span>${s}</span>`;
+      }).join('')
+    : '<span style="color:var(--muted)">기록된 소스 없음</span>';
+
+  // 5) 비고/주의
+  const note = e.verificationNote
+    ? `<div class="mv-tip-note">⚠️ ${e.verificationNote}</div>`
+    : (e.mismatch ? `<div class="mv-tip-note">⚠️ 소스 간 불일치 — 발표 직전 수동 확인 권장</div>` : '');
+
+  // 6) 툴팁 조립
+  const tip = `
+    <div class="mv-tip" role="tooltip">
+      <div class="mv-tip-row"><span class="lbl">검증일</span><span class="val">${verifiedAt}</span></div>
+      <div class="mv-tip-row"><span class="lbl">신뢰도</span><span class="val mv-conf-${conf}">${confLabel}</span></div>
+      <div class="mv-tip-row"><span class="lbl">소스 수</span><span class="val">${(e.sources||[]).length}건${e.autoFetched ? ' · 자동' : ''}</span></div>
+      <div class="mv-tip-divider"></div>
+      <div class="mv-tip-sources">${sourceLinks}</div>
+      ${note}
+    </div>`;
+
+  return `<span class="mv-wrap" tabindex="0" aria-label="검증 메타 ${confLabel}">${badge}${tip}</span>`;
 }
 
 function renderMacroCalendar() {
@@ -1921,7 +1995,7 @@ function renderMacroCalendar() {
                   : 'var(--text)';
     const dateStr = new Date(e.date + 'T12:00:00Z').toLocaleDateString('ko-KR',{month:'long',day:'numeric',timeZone:'UTC'})
                   + (e.time ? ` ${e.time} ${e.tz||''}` : '');
-    const srcLine = e.sources?.length ? `<div class="macro-sources">검증 소스: ${e.sources.join(' · ')}</div>` : '';
+    // srcLine 제거 — 검증 소스/검증일/신뢰도는 macroVerifyBadge() 호버 툴팁에서 표시
     const cardBorder = e.mismatch ? 'border-left:3px solid var(--red)' : e.confirmed && (e.sources||[]).some(s=>s.includes('.gov')) ? 'border-left:3px solid var(--cyan)' : '';
 
     return `<div class="macro-card${isPast?' past':''}" style="${cardBorder}">
@@ -1940,7 +2014,6 @@ function renderMacroCalendar() {
             ${macroVerifyBadge(e)}
           </div>
           <div class="macro-date">📅 ${dateStr}</div>
-          ${srcLine}
         </div>
       </div>
       <div class="macro-desc">${e.description}</div>
