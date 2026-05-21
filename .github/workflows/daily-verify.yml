@@ -1,0 +1,41 @@
+name: Daily Macro Events Verification
+
+# 하루 1회 (09:00 UTC = 18:00 KST) macro-events.json을 공식 출처와 cross-check.
+# - 과거 이벤트에 occurred 자동 마킹
+# - Fed FOMC 일정 재파싱 → phantom 감지
+# - confidence 자동 추론 / verifiedAt 갱신
+# - verificationSummary 재계산
+# - 변경사항 있으면 자동 커밋·푸시
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # 매일 09:00 UTC (18:00 KST)
+  workflow_dispatch:       # 수동 트리거도 지원
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Verify macro events (daily)
+        run: node scripts/verify-events.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add macro-events.json
+          if git diff --staged --quiet; then
+            echo "변경사항 없음"
+          else
+            git commit -m "chore: daily macro events verification [skip ci]"
+            git push
+          fi
