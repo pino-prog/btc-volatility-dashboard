@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-05-21T04:23:48.202Z",
+  "updatedAt": "2026-05-21T09:57:26.018Z",
   "items": [
+    {
+      "id": "lookonchain__Thu, 21 May 2026 09:48:30 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "SpaceX (@SpaceX), which is reportedly preparing for an #IPO, currently holds a total of 18,712 $BTC ($1.46B). https://intel.arkm.com/explorer/entity/5627e098-f2c1-4f0d-8982-5b9c49295cb7",
+      "pubDate": "Thu, 21 May 2026 09:48:30 GMT",
+      "link": "https://nitter.net/lookonchain/status/2057398115691601932#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Thu, 21 May 2026 09:34:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Woo_Minkyu: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a0eab7a2f49764f5f1f45df-Where-Are-Bitcoin-Whales-Moving?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu",
+      "pubDate": "Thu, 21 May 2026 09:34:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057394467494044037#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 21 May 2026 09:29:09 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Where Are Bitcoin Whales Moving? “Whales bought low at $78K and are now distributing near $77K–$81K. With exchange reserves at a monthly high, selling pressure remains elevated.” – By @Woo_Minkyu",
+      "pubDate": "Thu, 21 May 2026 09:29:09 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057393247916298254#m",
+      "keywords": [
+        "Exchange Reserve",
+        "거래소 잔량",
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 21 May 2026 07:49:39 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Get full access at 35% off ⤵️ https://cryptoquant.com/promotion?utm_source=twitter&utm_medium=sns&utm_campaign=promotion&utm_content=pizza-day",
+      "pubDate": "Thu, 21 May 2026 07:49:39 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057368206092775913#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 21 May 2026 07:46:29 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "loracle.hl(@loraclexyz)&apos;s $HYPE short has now grown to over $100M! He is currently down over $23M, with a liquidation price of $69.49. https://x.com/lookonchain/status/2057295017484628258",
+      "pubDate": "Thu, 21 May 2026 07:46:29 GMT",
+      "link": "https://nitter.net/lookonchain/status/2057367411188437043#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 21 May 2026 07:46:19 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Want on-chain data from CryptoQuant inside Claude? Setup takes ~2 mins: 1. Claude → Customize → Connectors 2. Add custom connector 3. Name: CryptoQuant 4. URL: https://mcp.cryptoquant.com/mcp 5. Connect → choose API Key or Keyless Done. Now ask Claude things like: “Is BTC exchange inflow rising?”",
+      "pubDate": "Thu, 21 May 2026 07:46:19 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057367369828180315#m",
+      "keywords": [
+        "Exchange Inflow",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 21 May 2026 05:08:44 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A newly created wallet (t3TFwP) just withdrew 11,827 $ZEC($7.96M) from #Binance. https://intel.arkm.com/explorer/address/t3TFwPuumbL3daxgngWrfkXeBS1Apr1Tz1Y",
+      "pubDate": "Thu, 21 May 2026 05:08:44 GMT",
+      "link": "https://nitter.net/lookonchain/status/2057327713065808101#m",
+      "keywords": []
+    },
     {
       "id": "JSeyff__Thu, 21 May 2026 04:07:53 GMT",
       "handle": "JSeyff",
@@ -898,7 +989,7 @@
       "label": "Glassnode",
       "category": "온체인 심리",
       "color": "violet",
-      "text": "Pinned: x.com/i/article/205703354655…",
+      "text": "RT by @glassnode: x.com/i/article/205703354655…",
       "pubDate": "Wed, 20 May 2026 10:19:03 GMT",
       "link": "https://nitter.net/glassnode/status/2057043418694463559#m",
       "keywords": []
@@ -930,6 +1021,20 @@
       "keywords": [
         "고래",
         "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Wed, 20 May 2026 08:45:31 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: US Spot BTC ETFs had another day of heavy outflows. Check out the 5 and 10 day changes. Un-mined BTC supplies are now down to only 968,584 (in the next 114 years) so I’d take this temporary lull in corporate demand as an opportunity to “get some / get yours”. Your future self will thank you. Remember, wh",
+      "pubDate": "Wed, 20 May 2026 08:45:31 GMT",
+      "link": "https://nitter.net/EdmondsonShaun/status/2057019877634802061#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC"
       ]
     },
     {
@@ -1192,110 +1297,6 @@
       "text": "The U.S. Government(FTX Alameda Seized Funds) deposited 319 $ETH($673K), 643,035 $DAI, and 290,416 $USDT to Coinbase Prime 8 hours ago. https://intel.arkm.com/explorer/entity/usg",
       "pubDate": "Wed, 20 May 2026 00:27:56 GMT",
       "link": "https://nitter.net/lookonchain/status/2056894657377046887#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 20 May 2026 00:20:58 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0xde42 sold 50K $HYPE ($2.41M) over the past 10 hours while also opening a 10x short on 223,404 $HYPE($10.55M). https://hypurrscan.io/address/0xde4247f0db1e4c32842049a1904Bc733779F952B#perps",
-      "pubDate": "Wed, 20 May 2026 00:20:58 GMT",
-      "link": "https://nitter.net/lookonchain/status/2056892904904474930#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 20 May 2026 00:15:36 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This #a16z-linked whale created another new wallet and bought 206,325 $HYPE ($9.95M) over the past 10 hours, then staked it. Since April 14, this whale has bought a total of 2.34M $HYPE($102M). https://intel.arkm.com/explorer/address/0x4c6B8e7D1A5DEc99AA726240e1957F8Df657f828 https://x.com/lookonchain/status/2056270903",
-      "pubDate": "Wed, 20 May 2026 00:15:36 GMT",
-      "link": "https://nitter.net/lookonchain/status/2056891553868919196#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 20 May 2026 00:09:44 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 209,757,864 $USDC (209,793,418 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/solana/33GaUcsERzsDMKzdpemv2gEvXg3vPwBZsEubXkTjBqfpSU1Yewhk6t6FdUt2r22QFbB9RrQbBSmAGKWBwgAixdVS",
-      "pubDate": "Wed, 20 May 2026 00:09:44 GMT",
-      "link": "https://nitter.net/whale_alert/status/2056890080057241867#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 19 May 2026 23:35:50 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,312,053 $USDC (128,331,813 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xc176ab34f157fba44237f8309fb29494cf7aab5b5a121608ec9f130ac0bb0241",
-      "pubDate": "Tue, 19 May 2026 23:35:50 GMT",
-      "link": "https://nitter.net/whale_alert/status/2056881546351542368#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Tue, 19 May 2026 23:09:46 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Minnesota might as well try to ban the NYSE. States can&apos;t ban federally regulated exchanges. Doing so is a blatant violation of the constitution and federal law (and a giant waste of taxpayer resources and everyone’s time). Outside of this ban being unenforceable, it&apos;s also a terrible idea for ",
-      "pubDate": "Tue, 19 May 2026 23:09:46 GMT",
-      "link": "https://nitter.net/BrianQuintenz/status/2056874988259418351#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Tue, 19 May 2026 22:48:42 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Roundhill looks to follow $DRAM blockbuster with a Compute ETF $GPUX, which provides economic exposure to computing capacity through compute futures contracts. ProShares filed for similar one few days ago.",
-      "pubDate": "Tue, 19 May 2026 22:48:42 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2056869686554378539#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 19 May 2026 22:48:42 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Roundhill looks to follow $DRAM blockbuster with a Compute ETF $GPUX, which provides economic exposure to computing capacity through compute futures contracts. ProShares filed for similar one few days ago.",
-      "pubDate": "Tue, 19 May 2026 22:48:42 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2056869686554378539#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 19 May 2026 22:15:08 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Welcome to your life, there’s no turning back",
-      "pubDate": "Tue, 19 May 2026 22:15:08 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2056861236713644148#m",
       "keywords": []
     }
   ]
