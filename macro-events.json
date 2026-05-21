@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T15:44:50.306Z",
+  "updatedAt": "2026-05-21T20:04:00.388Z",
   "verificationSummary": {
     "confirmed": 27,
     "unconfirmed": 9,
@@ -512,6 +512,7 @@
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -556,6 +557,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
@@ -643,6 +645,7 @@
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -687,6 +690,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
@@ -752,6 +756,7 @@
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -796,6 +801,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
