@@ -2,8 +2,8 @@
   "updatedAt": "2026-05-21T04:24:12.757Z",
   "verifiedAt": "2026-05-21",
   "verificationSummary": {
-    "confirmed": 25,
-    "unconfirmed": 10,
+    "confirmed": 26,
+    "unconfirmed": 9,
     "mismatched": 0
   },
   "events": [
@@ -29,7 +29,7 @@
     },
     {
       "id": "google-io-2026",
-      "date": "2026-05-20",
+      "date": "2026-05-19",
       "title": "Google I/O 2026 개발자 회의",
       "category": "tech",
       "categoryLabel": "기술 이벤트",
@@ -39,7 +39,11 @@
       "bull": "AI 신제품 발표 강세 → 기술주·나스닥 상승 → BTC 간접 수혜. AI 인프라 테마 강화",
       "bear": "기대 이하 발표 → GOOGL 실망 매도 → 기술주 조정 → BTC 동반 하락 가능",
       "confirmed": true,
-      "source": "https://io.google/2026"
+      "source": "https://io.google/2026",
+      "occurred": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "키노트 2026-05-19 진행. 행사 5/19~20 양일. 직전 dashboard 5/20은 둘째날 — 키노트일로 정정."
     },
     {
       "id": "earnings-NVDA-2026-05-20",
@@ -107,14 +111,17 @@
       "categoryLabel": "경제지표",
       "impact": "HIGH",
       "btcBias": "volatile",
-      "description": "4월 개인소비지출(PCE) 물가지수. 연준이 CPI보다 더 중시하는 인플레이션 지표. NVIDIA 실적(05-28 장 마감 후)과 같은 날 — 거시 surprise + 실적 surprise가 동시 작용해 양방향 변동성 극단화 가능. 블랙아웃(05-29 시작) 직전 마지막 데이터 포인트.",
+      "description": "4월 개인소비지출(PCE) 물가지수. 연준이 CPI보다 더 중시하는 인플레이션 지표. FOMC 블랙아웃(05-29 시작) 직전 마지막 거시 데이터 포인트로 6월 금리 결정 경로에 직접 영향.",
       "bull": "PCE 하회 → 인플레 진정 확인 → 6월 FOMC 금리 인하 확률 급등 → BTC 강세 촉매",
       "bear": "PCE 상회 → 인플레 재가속 → 금리 인하 불가 시나리오 강화 → 위험자산 전반 급락",
       "confirmed": true,
       "sources": [
         "BEA Release Schedule (bea.gov)"
       ],
-      "autoFetched": false
+      "autoFetched": false,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "NVDA 실적 연관 문구 제거 (NVDA Q1 FY27는 5/20 발표 완료, 5/28 아님)"
     },
     {
       "id": "deribit-btc-may-expiry",
@@ -183,7 +190,7 @@
     },
     {
       "id": "apple-wwdc-2026",
-      "date": "2026-06-09",
+      "date": "2026-06-08",
       "title": "Apple WWDC 2026",
       "category": "tech",
       "categoryLabel": "기술 이벤트",
@@ -192,7 +199,13 @@
       "description": "애플 세계 개발자 회의. Apple Intelligence AI 기능 확장 발표 예상. 기술주 심리를 통해 나스닥에 간접 영향. BTC 직접 연관성은 낮음.",
       "bull": "혁신적 AI 발표 → AAPL 강세 → 나스닥 상승 → BTC 간접 수혜",
       "bear": "기대 이하 발표 → AAPL 실망 매도 → 기술주 조정 → BTC 소폭 연동",
-      "confirmed": false
+      "confirmed": true,
+      "sources": [
+        "https://developer.apple.com/wwdc26/"
+      ],
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "키노트·State of the Union 2026-06-08(월). WWDC26 행사 6/8~12. 직전 6/9는 1일 오차."
     },
     {
       "id": "cpi-may2026",
@@ -490,8 +503,8 @@
       "autoFetched": true
     },
     {
-      "id": "fomc-2027-01-29",
-      "date": "2027-01-29",
+      "id": "fomc-2027-01-27",
+      "date": "2027-01-27",
       "time": "14:00",
       "tz": "ET",
       "title": "FOMC 금리 결정",
@@ -504,13 +517,16 @@
       "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "Wed, 1/26-27 회의 → 1/27 결정"
     },
     {
-      "id": "fomc-2027-03-19",
-      "date": "2027-03-19",
+      "id": "fomc-2027-03-17",
+      "date": "2027-03-17",
       "time": "14:00",
       "tz": "ET",
       "title": "FOMC 금리 결정",
@@ -523,32 +539,38 @@
       "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "Wed, 3/16-17 회의 → 3/17 결정"
     },
     {
-      "id": "fomc-2027-05-07",
-      "date": "2027-05-07",
+      "id": "fomc-2027-04-28",
+      "date": "2027-04-28",
       "time": "14:00",
       "tz": "ET",
-      "title": "FOMC 금리 결정",
+      "title": "FOMC 금리 결정 (4월)",
       "category": "macro",
-      "categoryLabel": "통화정책",
+      "categoryLabel": "경제지표",
       "impact": "HIGH",
       "btcBias": "neutral",
-      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
-      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
-      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "description": "2027년 4월 FOMC 금리 결정. 4/27-28 회의 → 4/28(수) 결정.",
+      "bull": "금리 인하 또는 비둘기 시그널 → 위험자산 강세 → BTC 상승",
+      "bear": "동결 또는 매파 시그널 → 달러 강세 → BTC 하락 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": false,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "직전 데이터에 누락되어 있던 회의 (대시보드는 5/7 phantom으로 4월을 5월로 잘못 표기)"
     },
     {
-      "id": "fomc-2027-06-18",
-      "date": "2027-06-18",
+      "id": "fomc-2027-06-09",
+      "date": "2027-06-09",
       "time": "14:00",
       "tz": "ET",
       "title": "FOMC 금리 결정",
@@ -561,13 +583,16 @@
       "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "Wed, 6/8-9 회의 → 6/9 결정 (대시보드는 9일 차이)"
     },
     {
-      "id": "fomc-2027-07-30",
-      "date": "2027-07-30",
+      "id": "fomc-2027-07-28",
+      "date": "2027-07-28",
       "time": "14:00",
       "tz": "ET",
       "title": "FOMC 금리 결정",
@@ -580,13 +605,16 @@
       "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "Wed, 7/27-28 회의 → 7/28 결정"
     },
     {
-      "id": "fomc-2027-08-22",
-      "date": "2027-08-22",
+      "id": "fomc-2027-09-15",
+      "date": "2027-09-15",
       "time": "14:00",
       "tz": "ET",
       "title": "FOMC 금리 결정",
@@ -599,13 +627,16 @@
       "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "Wed, 9/14-15 회의 → 9/15 결정"
     },
     {
-      "id": "fomc-2027-09-17",
-      "date": "2027-09-17",
+      "id": "fomc-2027-10-27",
+      "date": "2027-10-27",
       "time": "14:00",
       "tz": "ET",
       "title": "FOMC 금리 결정",
@@ -618,28 +649,34 @@
       "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "Wed, 10/26-27 회의 → 10/27 결정"
     },
     {
-      "id": "fomc-2027-10-29",
-      "date": "2027-10-29",
+      "id": "fomc-2027-12-08",
+      "date": "2027-12-08",
       "time": "14:00",
       "tz": "ET",
-      "title": "FOMC 금리 결정",
+      "title": "FOMC 금리 결정 (12월)",
       "category": "macro",
-      "categoryLabel": "통화정책",
+      "categoryLabel": "경제지표",
       "impact": "HIGH",
       "btcBias": "neutral",
-      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
-      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
-      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
+      "description": "2027년 12월 FOMC 금리 결정. 12/7-8 회의 → 12/8(수) 결정 + Dot Plot · SEP 동시 발표 (분기 회의).",
+      "bull": "금리 인하 또는 비둘기 시그널 → 위험자산 강세 → BTC 상승",
+      "bear": "동결 또는 매파 시그널 → 달러 강세 → BTC 하락 압력",
       "confirmed": true,
       "sources": [
-        "federalreserve.gov (공식)"
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm"
       ],
-      "autoFetched": true
+      "autoFetched": false,
+      "verifiedAt": "2026-05-21",
+      "confidence": "high",
+      "verificationNote": "직전 데이터에 누락되어 있던 분기 FOMC. SEP·Dot Plot 동반."
     }
   ]
 }
