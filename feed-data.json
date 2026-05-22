@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-05-22T04:18:46.346Z",
+  "updatedAt": "2026-05-22T09:42:23.855Z",
   "items": [
+    {
+      "id": "whale_alert__Fri, 22 May 2026 09:19:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 121,600,100 $USDT (121,522,853 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x5e249d8327543401fd785d28f17bbfa0638c8ead205a74e786eb07eca97b9604",
+      "pubDate": "Fri, 22 May 2026 09:19:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2057753080498717089#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 22 May 2026 09:01:09 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Warning: #Polymarket&apos;s contract appears to be exploited, and the attacker is stealing funds. So far, more than $660K has already been stolen. Source: @zachxbt https://intel.arkm.com/explorer/address/0x8F98075db5d6C620e8D420A8c516E2F2059d9B91",
+      "pubDate": "Fri, 22 May 2026 09:01:09 GMT",
+      "link": "https://nitter.net/lookonchain/status/2057748590806892802#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:17:02 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: What you have now: → Hourly BTC divergence scanner → OI + price structure signals → Telegram alerts No more hourly chart checks, your workflow + CryptoQuant handles it. Get CryptoQuant plans with API & MCP access. Up to 35% off 👇 https://cryptoquant.com/promotion?utm_source=twitter&utm_medium=sn",
+      "pubDate": "Fri, 22 May 2026 07:17:02 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057722388582641730#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:14:54 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 7. Next steps: take action. ▶ Send trade signal to execution node ▶ Log the event in Sheets/database ▶ Wait for manual confirmation Automation is useful. But action makes the difference.",
+      "pubDate": "Fri, 22 May 2026 07:14:54 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057721850487058531#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:14:11 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 6. Telegram alert 🔔 Example message: BTC Signal Alert Open Interest is rising sharply while price momentum is fading. - OI 24h Change: 1.24% - Price 24h Change: 2.4% - Current BTC Price: $78200 Signal: Potential bearish divergence",
+      "pubDate": "Fri, 22 May 2026 07:14:11 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057721671918702658#m",
+      "keywords": [
+        "OI",
+        "미결제약정",
+        "약세장",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:12:33 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 5. IF logic Keep it simple: - IF OI 24h change > 5% - AND price is making lower highs - THEN trigger signal ELSE do nothing.",
+      "pubDate": "Fri, 22 May 2026 07:12:33 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057721261300572194#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:11:46 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 4. Combine the two This is where it gets interesting: OI rising fast = more leverage entering Lower highs = buyers losing strength Together, that can signal a bearish divergence / top-risk setup.",
+      "pubDate": "Fri, 22 May 2026 07:11:46 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057721060158493000#m",
+      "keywords": [
+        "약세장",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:10:51 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 3. Fetch BTC Price Pull hourly BTC price data. Calculate: - Current price - Price 24h ago - 24h price % Change - Recent swing highs Now check if the price is making lower highs. If true → momentum may be fading.",
+      "pubDate": "Fri, 22 May 2026 07:10:51 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057720832252600744#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:10:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 2. Fetch Open Interest Pull hourly BTC Open Interest. Calculate: - Current OI - OI 24h agop - 24h OI % Change Signal condition: - OI 24h change > 5% If true: leverage is building.",
+      "pubDate": "Fri, 22 May 2026 07:10:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057720616594092491#m",
+      "keywords": [
+        "OI",
+        "미결제약정",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 22 May 2026 07:09:16 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 1. Trigger Start with a Cron node. Run it every hour. You want this signal to scan quietly in the background.",
+      "pubDate": "Fri, 22 May 2026 07:09:16 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2057720434070626573#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Fri, 22 May 2026 05:07:07 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "Good, sell it all. Flush all the grift out. Bitcoin has a spectacular way of shedding its skin each cycle, and leaving all the scams, and crime behind. Sit tight.",
+      "pubDate": "Fri, 22 May 2026 05:07:07 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2057689694914453885#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 22 May 2026 04:49:08 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Evaded (@ICanPlug) is already up over $7.5M in less than 4 days from his longs on 36,875 $ZEC($24.15M) and 287,618 $HYPE($20.94M)! Today, he opened another 25x long on 18,100 $ETH($38.63M). https://hypurrscan.io/address/0x86523927bffeafe2e532f0218feb1f3c29f6120d#perps",
+      "pubDate": "Fri, 22 May 2026 04:49:08 GMT",
+      "link": "https://nitter.net/lookonchain/status/2057685169230995573#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Fri, 22 May 2026 04:06:28 GMT",
       "handle": "lookonchain",
@@ -1100,166 +1254,6 @@
       "link": "https://nitter.net/EricBalchunas/status/2057200194551238959#m",
       "keywords": [
         "ETF 수급"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 20 May 2026 20:40:55 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 124,000,000 $USDC (124,025,606 USD) transferred from unknown wallet to #Paxos https://whale-alert.io/tx/ethereum/0x87a8ff46f993e332a72027a8475ca3ffb76e237d5b5a348a599fc2609ee0bdb1",
-      "pubDate": "Wed, 20 May 2026 20:40:55 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057199915768373525#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 20 May 2026 20:17:07 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: NEW: @roundhill files for yet another AI related ETF with concentrated holdings. This time its the Roundhill Photonics & Optics ETF -- Ticker will be $LYTE",
-      "pubDate": "Wed, 20 May 2026 20:17:07 GMT",
-      "link": "https://nitter.net/JSeyff/status/2057193927455772873#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 20 May 2026 19:35:35 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: CryptoQuant says bitcoin mirrors 2022 bear market pattern as sentiment turns &apos;extremely bearish&apos; https://www.theblock.co/post/402091/cryptoquant-bitcoin-bear-market-pattern-sentiment-extremely-bearish?utm_source=twitter&utm_medium=social",
-      "pubDate": "Wed, 20 May 2026 19:35:35 GMT",
-      "link": "https://nitter.net/TheBlockCo/status/2057183476093190418#m",
-      "keywords": [
-        "약세장",
-        "약세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 20 May 2026 19:27:16 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "SEC Chair is seeking public comments on prediction market ETFs.. the commission is clearly wrestling with these and wants more time and input. I get it. These are a whole new thing (kinda like crypto) and want to feel comfortable bf they open the barn door.",
-      "pubDate": "Wed, 20 May 2026 19:27:16 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2057181382397362346#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "JSeyff__Wed, 20 May 2026 19:27:16 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: SEC Chair is seeking public comments on prediction market ETFs.. the commission is clearly wrestling with these and wants more time and input. I get it. These are a whole new thing (kinda like crypto) and want to feel comfortable bf they open the barn door.",
-      "pubDate": "Wed, 20 May 2026 19:27:16 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2057181382397362346#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 20 May 2026 19:22:30 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Here&apos;s a look at the volume growth for both of them together. Giant step increases from Day One, which is very rare. Normally big splash day one then drop off. OR oblivion for months until ppl notice it. Rare to build in first week like this.",
-      "pubDate": "Wed, 20 May 2026 19:22:30 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2057180182037798916#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 20 May 2026 19:17:08 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "$THYP & $BHYP both with a 50% jump in volume (again) today, headed for a combined $40m in trading. A perfectly timed launch as EVERYTHING (stocks, bonds, gold, btc, cryptos) is down lately except the HYPE, which is up 27% since THYP&apos;s 5/12 launch.",
-      "pubDate": "Wed, 20 May 2026 19:17:08 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2057178829974593720#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Wed, 20 May 2026 19:17:08 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: $THYP & $BHYP both with a 50% jump in volume (again) today, headed for a combined $40m in trading. A perfectly timed launch as EVERYTHING (stocks, bonds, gold, btc, cryptos) is down lately except the HYPE, which is up 27% since THYP&apos;s 5/12 launch.",
-      "pubDate": "Wed, 20 May 2026 19:17:08 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2057178829974593720#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Wed, 20 May 2026 19:06:41 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erdős in 1946. For nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids. An OpenAI model has now disproved that belief, discovering an entirely n",
-      "pubDate": "Wed, 20 May 2026 19:06:41 GMT",
-      "link": "https://nitter.net/OpenAI/status/2057176201782075690#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Wed, 20 May 2026 17:43:05 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 974 $BTC (75,603,865 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/30b92eb50f8b9858ed52a2a6e65178c578bfcab53b2205e8fc0e6ee1238207aa",
-      "pubDate": "Wed, 20 May 2026 17:43:05 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057155161068298487#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 20 May 2026 17:30:25 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 873 $BTC (67,740,534 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/1267527735e1f4b8735aeb486cd9e6f073d0655e6f4e1ab5b0cb244c107dbe48",
-      "pubDate": "Wed, 20 May 2026 17:30:25 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057151973489528899#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 20 May 2026 16:44:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 670 $BTC (51,807,950 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/7698dda43cb07df2397e8a666bd6cba866e305309419a7f45892872dd0b56d3a",
-      "pubDate": "Wed, 20 May 2026 16:44:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057140375601496394#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
       ]
     }
   ]
