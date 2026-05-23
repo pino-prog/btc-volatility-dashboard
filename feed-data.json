@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-05-23T13:53:47.201Z",
+  "updatedAt": "2026-05-23T19:22:05.763Z",
   "items": [
+    {
+      "id": "EricBalchunas__Sat, 23 May 2026 18:58:10 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Re all the ‘index funds are the exit liquidity, those poor dumb saps’ feigned concern responses to this. I’ve heard this many times bf and yet it still outperforms the vast majority of the “smart money” out there so 🤷",
+      "pubDate": "Sat, 23 May 2026 18:58:10 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2058261222412145072#m",
+      "keywords": [
+        "유동성"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 23 May 2026 16:12:50 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "The Fed Funds Rate forecast table shows no rate drop expected until 2028, minimum. Not great for risk assets. Read more below for why the Fed Funds Rate is not expected to drop any time soon. (TL;DR: The macro economy is bad with high inflation)",
+      "pubDate": "Sat, 23 May 2026 16:12:50 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2058219613091995682#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sat, 23 May 2026 15:07:05 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Watched Obsession last night (the little indie theatre I go to was packed, rare, prob bc 95% RT). Rare mix of scary and funny with fleshed out characters but was overly abrasive and bleak. Some dialogue scenes felt too slow as well, could have cut 15min. 6/10.",
+      "pubDate": "Sat, 23 May 2026 15:07:05 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2058203065929347311#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sat, 23 May 2026 14:47:48 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Worse than COVID and GFC? Cmon. Who runs this survey, Ann Selzer?",
+      "pubDate": "Sat, 23 May 2026 14:47:48 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2058198213669048643#m",
+      "keywords": []
+    },
     {
       "id": "whale_alert__Sat, 23 May 2026 12:57:20 GMT",
       "handle": "whale_alert",
@@ -269,6 +315,17 @@
         "고래",
         "Whale"
       ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 23 May 2026 00:13:01 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: My chili dog drew more viewers than the series finale of “The Late Show With Stephen Colbert.”",
+      "pubDate": "Sat, 23 May 2026 00:13:01 GMT",
+      "link": "https://nitter.net/TiffanyFong/status/2057978066786463812#m",
+      "keywords": []
     },
     {
       "id": "whale_alert__Fri, 22 May 2026 23:53:50 GMT",
@@ -1177,71 +1234,6 @@
       "pubDate": "Fri, 22 May 2026 09:01:09 GMT",
       "link": "https://nitter.net/lookonchain/status/2057748590806892802#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:17:02 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: What you have now: → Hourly BTC divergence scanner → OI + price structure signals → Telegram alerts No more hourly chart checks, your workflow + CryptoQuant handles it. Get CryptoQuant plans with API & MCP access. Up to 35% off 👇 https://cryptoquant.com/promotion?utm_source=twitter&utm_medium=sn",
-      "pubDate": "Fri, 22 May 2026 07:17:02 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057722388582641730#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:14:54 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 7. Next steps: take action. ▶ Send trade signal to execution node ▶ Log the event in Sheets/database ▶ Wait for manual confirmation Automation is useful. But action makes the difference.",
-      "pubDate": "Fri, 22 May 2026 07:14:54 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057721850487058531#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:14:11 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 6. Telegram alert 🔔 Example message: BTC Signal Alert Open Interest is rising sharply while price momentum is fading. - OI 24h Change: 1.24% - Price 24h Change: 2.4% - Current BTC Price: $78200 Signal: Potential bearish divergence",
-      "pubDate": "Fri, 22 May 2026 07:14:11 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057721671918702658#m",
-      "keywords": [
-        "OI",
-        "미결제약정",
-        "약세장",
-        "약세 신호"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:12:33 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 5. IF logic Keep it simple: - IF OI 24h change > 5% - AND price is making lower highs - THEN trigger signal ELSE do nothing.",
-      "pubDate": "Fri, 22 May 2026 07:12:33 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057721261300572194#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:11:46 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 4. Combine the two This is where it gets interesting: OI rising fast = more leverage entering Lower highs = buyers losing strength Together, that can signal a bearish divergence / top-risk setup.",
-      "pubDate": "Fri, 22 May 2026 07:11:46 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057721060158493000#m",
-      "keywords": [
-        "약세장",
-        "약세 신호"
-      ]
     }
   ]
 }
