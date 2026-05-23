@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-05-23T08:28:39.104Z",
+  "updatedAt": "2026-05-23T13:53:47.201Z",
   "items": [
+    {
+      "id": "whale_alert__Sat, 23 May 2026 12:57:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 50,783 $ETH (103,089,192 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/ethereum/0x15f729f2bb7f9526852dfbae16e1772042ff1ee641e025933de2f9b4bb7c8103",
+      "pubDate": "Sat, 23 May 2026 12:57:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058170413830541753#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 23 May 2026 12:08:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 65,631 $ETH (133,258,253 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/ethereum/0x94feca886b8c44cc84c590748af86fcadcdc21b279eb6579cf9500b4526c15ab",
+      "pubDate": "Sat, 23 May 2026 12:08:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058158082367054275#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 23 May 2026 12:03:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 33,996 $ETH (69,034,327 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/ethereum/0xebd4e95d6888a7735784d604506e2a6788baf2ebc069ed3c3ad79040cef4ceac",
+      "pubDate": "Sat, 23 May 2026 12:03:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058156824159809967#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Sat, 23 May 2026 11:41:00 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: \"Wall Street is quietly buying.\" James Seyffart (@JSeyff) is ETF analyst at Bloomberg Intelligence. Predicted spot Bitcoin ETF approval timing months before consensus. Tracks every dollar flowing through US ETF markets. On the @new_era_finance podcast, he broke down what&apos;s really happening: \"The fir",
+      "pubDate": "Sat, 23 May 2026 11:41:00 GMT",
+      "link": "https://nitter.net/new_era_finance/status/2058151204031443176#m",
+      "keywords": [
+        "ETF 수급",
+        "MicroStrategy",
+        "기관 매집",
+        "Strategy(MSTR)"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 23 May 2026 10:38:56 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "As the market drops, another #EthereumOG who made $34.2M(376x return) is buying the dip on $ETH! 10 years ago, this OG received 12,001 $ETH from ShapeShift at just $7.58 each. Over a year ago, he sold them for 34.3M $USDC at $2,856, making $34.2M in profit - a 376x return. Today, after $ETH fell, he started buying agai",
+      "pubDate": "Sat, 23 May 2026 10:38:56 GMT",
+      "link": "https://nitter.net/lookonchain/status/2058135584137523670#m",
+      "keywords": []
+    },
     {
       "id": "whale_alert__Sat, 23 May 2026 07:10:45 GMT",
       "handle": "whale_alert",
@@ -345,7 +414,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $ZEC $PENGU $NEAR $HYPE $TAO $TIA I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-274-2/ #BTC #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $ZEC $PENGU $NEAR $HYPE $TAO $TIA I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-274-2/ #BTC #Bitcoin",
       "pubDate": "Fri, 22 May 2026 20:44:53 GMT",
       "link": "https://nitter.net/rektcapital/status/2057925690193035508#m",
       "keywords": [
@@ -1173,70 +1242,6 @@
         "약세장",
         "약세 신호"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:10:51 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 3. Fetch BTC Price Pull hourly BTC price data. Calculate: - Current price - Price 24h ago - 24h price % Change - Recent swing highs Now check if the price is making lower highs. If true → momentum may be fading.",
-      "pubDate": "Fri, 22 May 2026 07:10:51 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057720832252600744#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:10:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 2. Fetch Open Interest Pull hourly BTC Open Interest. Calculate: - Current OI - OI 24h agop - 24h OI % Change Signal condition: - OI 24h change > 5% If true: leverage is building.",
-      "pubDate": "Fri, 22 May 2026 07:10:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057720616594092491#m",
-      "keywords": [
-        "OI",
-        "미결제약정",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 07:09:16 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 1. Trigger Start with a Cron node. Run it every hour. You want this signal to scan quietly in the background.",
-      "pubDate": "Fri, 22 May 2026 07:09:16 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057720434070626573#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Fri, 22 May 2026 05:07:07 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "Good, sell it all. Flush all the grift out. Bitcoin has a spectacular way of shedding its skin each cycle, and leaving all the scams, and crime behind. Sit tight.",
-      "pubDate": "Fri, 22 May 2026 05:07:07 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2057689694914453885#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 22 May 2026 04:49:08 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Evaded (@ICanPlug) is already up over $7.5M in less than 4 days from his longs on 36,875 $ZEC($24.15M) and 287,618 $HYPE($20.94M)! Today, he opened another 25x long on 18,100 $ETH($38.63M). https://hypurrscan.io/address/0x86523927bffeafe2e532f0218feb1f3c29f6120d#perps",
-      "pubDate": "Fri, 22 May 2026 04:49:08 GMT",
-      "link": "https://nitter.net/lookonchain/status/2057685169230995573#m",
-      "keywords": []
     }
   ]
 }
