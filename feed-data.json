@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-05-24T08:40:42.000Z",
+  "updatedAt": "2026-05-24T13:50:37.292Z",
   "items": [
+    {
+      "id": "JSeyff__Sun, 24 May 2026 13:49:02 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Sunday funday — hilly and rainy",
+      "pubDate": "Sun, 24 May 2026 13:49:02 GMT",
+      "link": "https://nitter.net/JSeyff/status/2058545814964785316#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Sun, 24 May 2026 13:00:01 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: \"This really does feel like a silent IPO.\" James Seyffart (@JSeyff) is the ETF analyst at Bloomberg Intelligence. Spent his career inside the machine that tracks every dollar flowing through US ETFs. Predicted the spot Bitcoin ETF approval timing months before Wall Street consensus. Now tracking what adv",
+      "pubDate": "Sun, 24 May 2026 13:00:01 GMT",
+      "link": "https://nitter.net/new_era_finance/status/2058533476719051247#m",
+      "keywords": [
+        "ETF 수급",
+        "LTH 보유자",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sun, 24 May 2026 12:58:40 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: The other thing I noticed with writing and readership is if you do the routine recurring boring work or exhausting deep dives (which most of time doesn&apos;t get a lot of hits, the odds increase of getting struck with killer idea that you bang out in an hour (which tends to crush w/ reads). But it",
+      "pubDate": "Sun, 24 May 2026 12:58:40 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2058533136892313881#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sun, 24 May 2026 12:53:20 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "He&apos;s like the Buddha of cool music. I&apos;ve come to similar conclusion in writing and research, it&apos;s like digging a mine, boring, but eventually a) you will tap into new energy sources and b) spot something amazing on the side of hole that wasn&apos;t even what you were originally digging for. Both those th",
+      "pubDate": "Sun, 24 May 2026 12:53:20 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2058531794052346073#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sun, 24 May 2026 09:46:30 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "HYPE just hit a new all-time high again! A newly created wallet withdrew 63,780 $HYPE($4.06M) from #Bybit. https://intel.arkm.com/explorer/address/0x35270069b7a3C6d8c2CAF73965F07A8a8b051e16",
+      "pubDate": "Sun, 24 May 2026 09:46:30 GMT",
+      "link": "https://nitter.net/lookonchain/status/2058484779851579595#m",
+      "keywords": []
+    },
     {
       "id": "ColinTCrypto__Sun, 24 May 2026 02:44:02 GMT",
       "handle": "ColinTCrypto",
@@ -1104,77 +1163,6 @@
       ]
     },
     {
-      "id": "whale_alert__Fri, 22 May 2026 13:50:00 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,133 $BTC (87,476,657 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/d878161cb5274dbef2c64f6a5fc56d8f659ccc315f87eddc80cbf6c87ed56865",
-      "pubDate": "Fri, 22 May 2026 13:50:00 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057821279604920814#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 22 May 2026 13:44:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 883 $BTC (68,288,643 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/6b33f44515dc256b67d90a25d5979537a8fcfdf1d30634d68662e7040822f7c7",
-      "pubDate": "Fri, 22 May 2026 13:44:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057819852635558014#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 22 May 2026 13:30:42 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,068,124 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/4FzfuJkQJa4SCCTruhLSW8H7F2BFFfXNV1ULiR8NTZcvXdHGJZWrjfa4ZfdFdkUvbnResZ1F2EW316W1uyUieBsS",
-      "pubDate": "Fri, 22 May 2026 13:30:42 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057816422185668684#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 22 May 2026 13:27:15 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🔥 🔥 🔥 🔥 🔥 100,399,673 $USDC (100,444,244 USD) burned at USDC Treasury https://whale-alert.io/tx/ethereum/0x7613f05370aaac17a0b303b7299497d497ec43f26b2fee96887820a4bd46fd2e",
-      "pubDate": "Fri, 22 May 2026 13:27:15 GMT",
-      "link": "https://nitter.net/whale_alert/status/2057815554648334535#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Fri, 22 May 2026 13:23:41 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: every crypto policy person and tokenization firm is debating this morning what hester means with this specific word",
-      "pubDate": "Fri, 22 May 2026 13:23:41 GMT",
-      "link": "https://nitter.net/intangiblecoins/status/2057814659982311567#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Fri, 22 May 2026 13:08:58 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -1184,19 +1172,6 @@
       "pubDate": "Fri, 22 May 2026 13:08:58 GMT",
       "link": "https://nitter.net/n3ocortex/status/2057810953748533546#m",
       "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 22 May 2026 12:24:33 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "What if you had the absolute worst timing and only bought stocks at “tops” throughout the past 50yrs? You’d still have gotten 8%/year and become millionaire. This study from @awealthofcs was his most read blog and basis for his new book “Risk & Reward” where he rebuts every pushback he’s heard over years w conclusion t",
-      "pubDate": "Fri, 22 May 2026 12:24:33 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2057799775945154972#m",
-      "keywords": [
-        "LTH 보유자"
-      ]
     },
     {
       "id": "glassnode__Fri, 22 May 2026 12:06:22 GMT",
@@ -1232,6 +1207,19 @@
       "keywords": [
         "저항선",
         "TA"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 22 May 2026 12:06:20 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Volatility Spread Expands Further 1M realized volatility has fallen near 27%, while 1M implied volatility remains closer to 35%. That leaves volatility risk premium near recent highs. Options still price more movement than BTC has recently delivered. https://glassno.de/4uWGeY2",
+      "pubDate": "Fri, 22 May 2026 12:06:20 GMT",
+      "link": "https://nitter.net/glassnode/status/2057795193433100306#m",
+      "keywords": [
+        "BTC"
       ]
     }
   ]
