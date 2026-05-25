@@ -1,6 +1,112 @@
 {
-  "updatedAt": "2026-05-25T15:23:34.659Z",
+  "updatedAt": "2026-05-25T19:51:52.034Z",
   "items": [
+    {
+      "id": "rektcapital__Mon, 25 May 2026 17:58:05 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "New edition of the RC Newsletter is out! Bitcoin - New Lower Highs Developing? Bitcoin would ascend level by level in recent weeks, but is now losing those same levels Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-new-lower-highs-developing/ #BTC #Crypto #Bitcoin",
+      "pubDate": "Mon, 25 May 2026 17:58:05 GMT",
+      "link": "https://nitter.net/rektcapital/status/2058970877086056708#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Mon, 25 May 2026 16:38:05 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: TLDR: Youth is the original, biggest and best PED out there. Doping likely only gets you a few percentage points of improvement from whatever your natural ceiling is. At least in many instances/events",
+      "pubDate": "Mon, 25 May 2026 16:38:05 GMT",
+      "link": "https://nitter.net/JSeyff/status/2058950745731326369#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Mon, 25 May 2026 16:25:57 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: 🤣",
+      "pubDate": "Mon, 25 May 2026 16:25:57 GMT",
+      "link": "https://nitter.net/JSeyff/status/2058947689463660666#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 25 May 2026 16:21:05 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 50,656 $ETH (107,716,033 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/ethereum/0x49e8c08eaf14ea6dc122c18df3b00fc39fd98bc2c1949708671818ef638bdbb0",
+      "pubDate": "Mon, 25 May 2026 16:21:05 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058946465074905540#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 25 May 2026 15:57:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 914 $BTC (70,985,187 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/f7b7ddcb9e4210b4521e7074cd2e1ec345d8fa8a557385f1f8f47e3a51323e41",
+      "pubDate": "Mon, 25 May 2026 15:57:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058940444327784559#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Mon, 25 May 2026 15:51:03 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Holiday mornings when the weather sucks call for lazy coffee drinking with the cats who are watching and listening to all the birds outside",
+      "pubDate": "Mon, 25 May 2026 15:51:03 GMT",
+      "link": "https://nitter.net/JSeyff/status/2058938908340007263#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 25 May 2026 15:34:42 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "May 18–May 24, 2026 #LookonchainWeeklyReport 🟢 Overview Stablecoin liquidity fell $687M, and DEX spot and perp volumes both declined. Public companies still added 612 BTC ($47.5M), while Strategy and Bitmine paused buying. 🟢 Stablecoin Market The total stablecoin market cap decreased by $687M. 🟢 Spot & Perps Trading",
+      "pubDate": "Mon, 25 May 2026 15:34:42 GMT",
+      "link": "https://nitter.net/lookonchain/status/2058934794034282848#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "Strategy(MSTR)",
+        "기관 매집"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 25 May 2026 15:18:40 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 700 $BTC (54,352,556 USD) transferred from #Kraken to #Coinbase https://whale-alert.io/tx/bitcoin/bafa0cca183afedbc471c7963d99e54d2a40479febbe34673d5a7d7be876ebae",
+      "pubDate": "Mon, 25 May 2026 15:18:40 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058930759205888190#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 25 May 2026 14:42:15 GMT",
       "handle": "lookonchain",
@@ -852,19 +958,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Sat, 23 May 2026 18:58:10 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Re all the ‘index funds are the exit liquidity, those poor dumb saps’ feigned concern responses to this. I’ve heard this many times bf and yet it still outperforms the vast majority of the “smart money” out there so 🤷",
-      "pubDate": "Sat, 23 May 2026 18:58:10 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2058261222412145072#m",
-      "keywords": [
-        "유동성"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Sat, 23 May 2026 16:12:50 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -993,17 +1086,16 @@
       "keywords": []
     },
     {
-      "id": "glassnode__Fri, 22 May 2026 12:06:21 GMT",
+      "id": "glassnode__Fri, 22 May 2026 12:06:18 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
       "category": "온체인 심리",
       "color": "violet",
-      "text": "R to @glassnode: Acceleration Zone Sits Below Spot A large short gamma cluster sits near 75K with roughly $3.2B of negative exposure below spot. Positive gamma clusters near 78K and 80K may act as resistance. This structure can accelerate downside volatility near 75K. https://glassno.de/4uqCn5B",
-      "pubDate": "Fri, 22 May 2026 12:06:21 GMT",
-      "link": "https://nitter.net/glassnode/status/2057795195626734019#m",
+      "text": "BTC broke back below $78K after being rejected near the recent local range highs. Here’s what BTC options data shows on positioning, volatility expectations, and sentiment beneath the surface.",
+      "pubDate": "Fri, 22 May 2026 12:06:18 GMT",
+      "link": "https://nitter.net/glassnode/status/2057795182381203548#m",
       "keywords": [
-        "저항선",
-        "TA"
+        "BTC"
       ]
     },
     {
@@ -1115,106 +1207,6 @@
       "pubDate": "Wed, 20 May 2026 16:35:45 GMT",
       "link": "https://nitter.net/rektcapital/status/2057138215606157368#m",
       "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 20 May 2026 14:53:21 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: In case you missed it… New edition of the RC Newsletter is out! Bitcoin - Have the Bears Taken Control? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-have-the-bears-taken-control/ #BTC $BTC #Bitcoin",
-      "pubDate": "Wed, 20 May 2026 14:53:21 GMT",
-      "link": "https://nitter.net/rektcapital/status/2057112447484411965#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 20 May 2026 14:52:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Any upcoming rebound could potentially turn the 21-week EMA into new resistance Especially if price Weekly Closes below the EMA following the rebound $BTC #Crypto #Bitcoin",
-      "pubDate": "Wed, 20 May 2026 14:52:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2057112109482213468#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Wed, 20 May 2026 07:04:32 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Bitcoin’s Bull Market Is Back | @_Checkmatey_ We discuss: - The $60k bottom - The road to $1 million Bitcoin - The bond market breaking - Australia&apos;s new CGT laws Watch it here: https://youtu.be/ccNF72m1mBw",
-      "pubDate": "Wed, 20 May 2026 07:04:32 GMT",
-      "link": "https://nitter.net/_DannyKnowles/status/2056994465278259656#m",
-      "keywords": [
-        "강세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 19 May 2026 19:14:32 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Shorter Bitcoin Bear Market? A Reasonable Debate #BTC #Crypto #Bitcoin",
-      "pubDate": "Tue, 19 May 2026 19:14:32 GMT",
-      "link": "https://nitter.net/rektcapital/status/2056815790125391931#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 19 May 2026 13:49:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "I just published a new #BTC YouTube Short: Shorter Bitcoin Bear Market? A Reasonable Debate Check it out here: https://youtube.com/shorts/qhBOStMPBRE?si=ZG-ivq1mpkYrWcRt Enjoy and Subscribe! $BTC #Crypto #Bitcoin",
-      "pubDate": "Tue, 19 May 2026 13:49:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2056733864685621313#m",
-      "keywords": [
-        "약세장",
-        "BOS",
-        "구조 전환",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 19 May 2026 12:50:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "R to @rektcapital: I send Bitcoin analysis like this every week if you’re interested: https://newsletter.rektcapital.co.uk/#/portal/account/plans $BTC #BTC #Bitcoin",
-      "pubDate": "Tue, 19 May 2026 12:50:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2056719016627220754#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 19 May 2026 11:47:29 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Shorter Bitcoin Bear Market? A Reasonable Debate If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/0U1_kmvM18k?si=8dqaG7NKR9h_HvVr Enjoy and Subscribe! $BTC #Crypto #Bitcoin",
-      "pubDate": "Tue, 19 May 2026 11:47:29 GMT",
-      "link": "https://nitter.net/rektcapital/status/2056703283717161104#m",
-      "keywords": [
-        "약세장",
         "BTC"
       ]
     }
