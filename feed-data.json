@@ -1,6 +1,183 @@
 {
-  "updatedAt": "2026-05-25T04:39:45.557Z",
+  "updatedAt": "2026-05-25T10:24:24.972Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 25 May 2026 09:02:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💤 A dormant pre-mine address containing 2,000 $ETH (4,234,171 USD) has just been activated after 10.8 years (worth 620 USD in 2015)! https://whale-alert.io/tx/ethereum/0xfd43a90f7cedcec132fc56888329b58ceec9a3d841ad0afe22e6ddf8f4159486",
+      "pubDate": "Mon, 25 May 2026 09:02:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058836093630296304#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Mon, 25 May 2026 08:46:31 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "Peak Apathy. My latest piece is out for @_checkonchain subscribers, and we have a special treat. Today I build ontop of a terrific work @SullyMichaelvan has done measuring Bitcoiner sentiment, and overlay where onchain data corroborates, or diverges. https://newsletter.checkonchain.com/p/peak-apathy",
+      "pubDate": "Mon, 25 May 2026 08:46:31 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2058832070173184383#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 25 May 2026 08:29:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Darkfost_Coc: Read more 👇 https://cryptoquant.com/insights/quicktake/6a1340412f49764f5f1f4ad2-Bitcoin-Demand-has-fallen-to-Its-most-Bearish-level-of-the-year?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Mon, 25 May 2026 08:29:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2058827660961444119#m",
+      "keywords": [
+        "약세장",
+        "약세 신호",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 25 May 2026 08:22:45 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Demand has Fallen to Its Most Bearish Level of the Year “Even if this situation appears relatively bearish in the short term, these types of environments have historically also created interesting opportunities for long-term investors” – By @Darkfost_Coc",
+      "pubDate": "Mon, 25 May 2026 08:22:45 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2058826089711968362#m",
+      "keywords": [
+        "약세장",
+        "약세 신호",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 25 May 2026 07:21:04 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0xfa93 has capitulated and started selling the 5.41M $UNI($51.53M at the time) and 228,704 $COMP($11.3M at the time) he bought 10 months ago. He just deposited 2.705M $UNI($9.23M) and 114,352 $COMP($2.31M) into #Binance. He is currently down over $39.7M! https://intel.arkm.com/explorer/address/0xfa9389e80Cd9dd9b0",
+      "pubDate": "Mon, 25 May 2026 07:21:04 GMT",
+      "link": "https://nitter.net/lookonchain/status/2058810567952138624#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 25 May 2026 07:01:56 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Someone just opened a huge $ETH short worth over $100M! Gambler 0x50b3 opened a 23x leveraged short on 47,604 $ETH ($100.33M). Liquidation price: $2,149.84 https://hypurrscan.io/address/0x50b309f78e774a756a2230e1769729094cac9f20#perps",
+      "pubDate": "Mon, 25 May 2026 07:01:56 GMT",
+      "link": "https://nitter.net/lookonchain/status/2058805751892893758#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 25 May 2026 06:47:14 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,024 $BTC (79,281,610 USD) transferred from #Binance to #Ceffu https://whale-alert.io/tx/bitcoin/db4fd0d0d8804d686470ada5f7a57845a31f2dba84edccb07747608cbb187cfc",
+      "pubDate": "Mon, 25 May 2026 06:47:14 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058802053850284358#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 25 May 2026 06:24:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 101,336,811 $USDC (101,368,327 USD) transferred from #Ceffu to unknown wallet https://whale-alert.io/tx/ethereum/0x2a1d803a7d6ae0a82d0a250bc302b5ef6353aed75edd72dc11db81e8578c7966",
+      "pubDate": "Mon, 25 May 2026 06:24:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058796329724268983#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 25 May 2026 06:19:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 101,336,811 $USDC (101,367,263 USD) transferred from #Binance to #Ceffu https://whale-alert.io/tx/ethereum/0x6422be49302fca51993f0e86dfba4d48697a40a201191de025c75d51bd80ab94",
+      "pubDate": "Mon, 25 May 2026 06:19:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058795092333264981#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 25 May 2026 06:18:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 194,298,739 $USDT (194,270,566 USD) transferred from #Ceffu to #Binance https://whale-alert.io/tx/ethereum/0x4b0b784e53c533df8aa08ad364535b454f370741f73fdf9878821478e5b8c8d6",
+      "pubDate": "Mon, 25 May 2026 06:18:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2058794777731125301#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 25 May 2026 05:40:30 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Not all whales are chasing $HYPE higher — some are selling to take profits. 0x632B sold 151,574 $HYPE($9.25M) today and also placed limit sell orders for 170,000 $HYPE($10.58M) between $63.45 and $70.55. https://hypurrscan.io/address/0x632B0a6bb6B6184B97F61a6C773077cAb99d1838#txs",
+      "pubDate": "Mon, 25 May 2026 05:40:30 GMT",
+      "link": "https://nitter.net/lookonchain/status/2058785256573137074#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Mon, 25 May 2026 05:00:06 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: Next they need to add the mile or something and let them take a bunch of EPO in addition to testosterone and whatever else. We’ll be bound to see something there lol",
+      "pubDate": "Mon, 25 May 2026 05:00:06 GMT",
+      "link": "https://nitter.net/JSeyff/status/2058775090154639858#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Mon, 25 May 2026 04:57:56 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: Okay. There’s one!",
+      "pubDate": "Mon, 25 May 2026 04:57:56 GMT",
+      "link": "https://nitter.net/JSeyff/status/2058774543871742251#m",
+      "keywords": []
+    },
     {
       "id": "JSeyff__Mon, 25 May 2026 04:12:35 GMT",
       "handle": "JSeyff",
@@ -600,34 +777,6 @@
       "keywords": []
     },
     {
-      "id": "whale_alert__Sat, 23 May 2026 07:10:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 140,000,000 $USDT (139,835,220 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0x9b359ee5b4b1e1b283bae735c5b475b1ffa5d87452ef2e6adf254a470e003862",
-      "pubDate": "Sat, 23 May 2026 07:10:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2058083193069199748#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 23 May 2026 07:09:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 140,000,000 $USDT (139,938,400 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/solana/2MQExg1EGhbD5Kqu6LDEAMFWKFA1YN4PJbVoX95kdZBfMx9CshwkjueATBdAxtEUj6jkbCurF5qscbBmF33RxkhR",
-      "pubDate": "Sat, 23 May 2026 07:09:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2058082831801192865#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Sat, 23 May 2026 01:39:57 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -727,17 +876,6 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Fri, 22 May 2026 15:27:31 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: 🚨 Coinbase is seeing its STRONGEST SELLING PRESSURE since February.",
-      "pubDate": "Fri, 22 May 2026 15:27:31 GMT",
-      "link": "https://nitter.net/JA_Maartun/status/2057845823170376120#m",
-      "keywords": []
-    },
-    {
       "id": "ColinTCrypto__Fri, 22 May 2026 15:24:26 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -747,21 +885,6 @@
       "pubDate": "Fri, 22 May 2026 15:24:26 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2057845045726703802#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 22 May 2026 14:51:46 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Read the full report ⤵️ https://cryptoquant.com/insights/research/6a0dd34bf2609c43537774f2-20-May-2026-Resistance-Hit-Bitcoin-Reverses-From-the-200-Day-MA-as-Demand-Contra?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
-      "pubDate": "Fri, 22 May 2026 14:51:46 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2057836824173662650#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "BTC"
-      ]
     },
     {
       "id": "glassnode__Fri, 22 May 2026 13:08:58 GMT",
@@ -1015,17 +1138,6 @@
       ]
     },
     {
-      "id": "_Checkmatey___Wed, 20 May 2026 06:29:21 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Last month an ABC News analysis concluded that the cost of the NDIS in 2029-30 was projected to be around $28.2bn in the 2015-16 budget. In reality its on track to be $67.2nbn (PBO baseline), depending on the effect of the changes. The blow out is $39.0bn a year. To put that into perspective, it&ap",
-      "pubDate": "Wed, 20 May 2026 06:29:21 GMT",
-      "link": "https://nitter.net/AvidCommentator/status/2056985610284613648#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Tue, 19 May 2026 19:14:32 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -1104,98 +1216,6 @@
       "text": "$SPCX is live. Start trading now: https://hupzy.com/trade",
       "pubDate": "Mon, 18 May 2026 08:41:47 GMT",
       "link": "https://nitter.net/spotonchain/status/2056294163717800034#m",
-      "keywords": []
-    },
-    {
-      "id": "spotonchain__Sun, 17 May 2026 13:25:08 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "Pinned: Trade, predict, earn, and pay — from a wallet you own, on a platform built by its users, open to everyone. https://hupzy.com/",
-      "pubDate": "Sun, 17 May 2026 13:25:08 GMT",
-      "link": "https://nitter.net/spotonchain/status/2056003084686639411#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 13 May 2026 08:14:29 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin short-term holders are no longer under pressure to sell at a loss.",
-      "pubDate": "Wed, 13 May 2026 08:14:29 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2054475354132361623#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "spotonchain__Tue, 12 May 2026 13:57:00 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "RT by @spotonchain: While April CPI inflation rose to 3.8%, inflation is much higher in many basic necessities: 1. Energy Commodity Inflation: +29.2% 2. Gasoline Inflation: +28.4% 3. Airfare Inflation: +20.7% 4. Energy Inflation: +17.9% 5. Electricity Inflation: +6.1% 6. Fruits and Vegetables Inflation: +6.1% 7. Hospit",
-      "pubDate": "Tue, 12 May 2026 13:57:00 GMT",
-      "link": "https://nitter.net/KobeissiLetter/status/2054199162753671375#m",
-      "keywords": []
-    },
-    {
-      "id": "spotonchain__Thu, 07 May 2026 17:06:48 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "RT by @spotonchain: BREAKING: US oil prices erase all losses and turn green after WSJ reports that Iran has rejected a US proposal to reopen the Strait of Hormuz.",
-      "pubDate": "Thu, 07 May 2026 17:06:48 GMT",
-      "link": "https://nitter.net/KobeissiLetter/status/2052434987618640033#m",
-      "keywords": []
-    },
-    {
-      "id": "spotonchain__Tue, 05 May 2026 12:58:00 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "RT by @spotonchain: BREAKING: The UK&apos;s 30Y Government Bond Yield surges to 5.79%, the highest level since May 1998. Inflation is back and interest rates are surging.",
-      "pubDate": "Tue, 05 May 2026 12:58:00 GMT",
-      "link": "https://nitter.net/KobeissiLetter/status/2051647599732457720#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Tue, 05 May 2026 10:31:04 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "RT by @ki_young_ju: How do you actually use the CryptoQuant MCP for trading? Plug it into n8n, let it fetch on-chain data, convert it into trading signals, run it through risk management, and execute orders on your exchange. Step-by-step example 👇",
-      "pubDate": "Tue, 05 May 2026 10:31:04 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2051610625856475340#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Mon, 04 May 2026 13:10:03 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "RT by @ki_young_ju: Guys, I added alerts: Bitcoin Squeeze Detector, this indicator uses price data only, so treat it accordingly. The SQL is configured on the 1-hour timeframe, when the signal fires, a Squeeze can be expected. The SQL cannot determine the direction of the Squeeze. https://cryptoquant.com/alert/preset?i",
-      "pubDate": "Mon, 04 May 2026 13:10:03 GMT",
-      "link": "https://nitter.net/AxelAdlerJr/status/2051288245359820808#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Mon, 27 Apr 2026 08:02:21 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "\"Claude sucks\" hit #1 on Google Trends, followed by \"ChatGPT sucks.\"",
-      "pubDate": "Mon, 27 Apr 2026 08:02:21 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2048674097287336371#m",
       "keywords": []
     }
   ]
