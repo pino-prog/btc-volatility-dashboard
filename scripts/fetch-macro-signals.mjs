@@ -20,7 +20,8 @@
  */
 
 import https from 'https';
-import { writeFileSync } from 'fs';
+import { writeFileSync, readFileSync, existsSync, appendFileSync, mkdirSync } from 'fs';
+import { dirname } from 'path';
 
 // ────────────────────────────────────────────────────────────────
 // HTTP 유틸
@@ -527,6 +528,87 @@ async function main() {
   writeFileSync('macro-signals.json', JSON.stringify(payload, null, 2));
   console.log(`\n✅ Saved ${out.length} signals → macro-signals.json`);
   console.log(`   ALERT: ${summary.alert} | WATCH: ${summary.watch} | NORMAL: ${summary.normal} | errors: ${errors.length}`);
+
+  // ── 이벤트 로그 누적 (칼리브레이션용) ──
+  appendEventLog(out);
+}
+
+// ────────────────────────────────────────────────────────────────
+// 이벤트 로그 누적 — Week 1 관찰 단계에서 시그널 빈도/패턴 데이터 누적
+//   - ALERT/WATCH 만 기록 (NORMAL 제외 — 노이즈 방지)
+//   - 같은 (id, level) 페어가 4시간 이내 재발생하면 dedup (한 사건당 1행)
+//   - JSONL 포맷, append-only, 영구 누적
+//   - 출력: logs/macro-signals-events.jsonl
+// ────────────────────────────────────────────────────────────────
+function appendEventLog(signals) {
+  const logPath = 'logs/macro-signals-events.jsonl';
+  const DEDUP_WINDOW_MS = 4 * 3600 * 1000; // 4시간
+  const nowMs = Date.now();
+
+  // 1. 기존 로그 tail 읽어서 (id, level) → 가장 최근 ts 맵 구성
+  const recentByKey = {};
+  if (existsSync(logPath)) {
+    try {
+      const lines = readFileSync(logPath, 'utf8').trim().split('\n').slice(-500);
+      for (const line of lines) {
+        if (!line.trim()) continue;
+        try {
+          const e = JSON.parse(line);
+          if (!e.id || !e.level) continue;
+          const key = `${e.id}::${e.level}`;
+          const t = new Date(e.ts).getTime();
+          if (!Number.isFinite(t)) continue;
+          if (!recentByKey[key] || t > recentByKey[key]) recentByKey[key] = t;
+        } catch (_) { /* skip malformed line */ }
+      }
+    } catch (e) {
+      console.warn(`  ⚠ 로그 tail 읽기 실패: ${e.message} — append만 진행`);
+    }
+  } else {
+    // logs 디렉토리 보장
+    try { mkdirSync(dirname(logPath), { recursive: true }); } catch (_) {}
+  }
+
+  // 2. ALERT/WATCH 만 + dedup 통과한 이벤트 append
+  const toAppend = [];
+  for (const s of signals) {
+    if (s.level === 'NORMAL') continue;
+    const key = `${s.id}::${s.level}`;
+    const lastTs = recentByKey[key];
+    if (lastTs && (nowMs - lastTs) < DEDUP_WINDOW_MS) continue;
+
+    toAppend.push({
+      ts:              new Date().toISOString(),
+      id:              s.id,
+      label:           s.label,
+      category:        s.category,
+      level:           s.level,
+      price:           s.price,
+      dailyChangePct:  s.dailyChangePct,
+      weeklyChangePct: s.weeklyChangePct,
+      reasons:         s.reasons || [],
+      // 칼리브레이션용 빈 필드 (사람이 채움)
+      label_outcome:   null,    // "signal" | "noise" | "missed-context" | null
+      content_link:    null,    // 콘텐츠化 했을 경우 URL/path
+      note:            null,    // 자유 메모
+    });
+  }
+
+  if (toAppend.length === 0) {
+    console.log(`📒 이벤트 로그: 새 항목 없음 (4h dedup 윈도우)`);
+    return;
+  }
+
+  try {
+    const block = toAppend.map(e => JSON.stringify(e)).join('\n') + '\n';
+    appendFileSync(logPath, block);
+    console.log(`📒 이벤트 로그: ${toAppend.length}건 신규 append → ${logPath}`);
+    for (const e of toAppend) {
+      console.log(`   + ${e.ts.slice(0,16)} ${e.id} [${e.level}] ${e.reasons.join(' / ')}`);
+    }
+  } catch (e) {
+    console.error(`  ✗ 이벤트 로그 append 실패: ${e.message}`);
+  }
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

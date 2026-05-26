@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T02:14:17.599Z",
+  "updatedAt": "2026-05-26T02:52:30.755Z",
   "summary": {
     "alert": 1,
     "watch": 0,
@@ -17,13 +17,13 @@
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF",
       "unit": "$",
       "decimals": 2,
-      "price": 91.75,
+      "price": 91.68,
       "prevClose": 96.5999984741211,
-      "dailyChangePct": -5.020702433468875,
-      "weeklyChangePct": -15.562307281612977,
+      "dailyChangePct": -5.093166202729436,
+      "weeklyChangePct": -15.626728409572504,
       "level": "ALERT",
       "reasons": [
-        "일중 -5.02% 변동 (ALERT 4%↑)"
+        "일중 -5.09% 변동 (ALERT 4%↑)"
       ],
       "thresholds": {
         "daily": {
@@ -145,10 +145,10 @@
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "unit": "$",
       "decimals": 1,
-      "price": 4537.9,
+      "price": 4537.5,
       "prevClose": 4521,
-      "dailyChangePct": 0.373811103738103,
-      "weeklyChangePct": -0.32070291048875044,
+      "dailyChangePct": 0.36496350364963503,
+      "weeklyChangePct": -0.3294892915980231,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {
@@ -167,34 +167,6 @@
         "low": "금 하락 → 위험자산 선호 회복 시그널 또는 강달러 환경."
       },
       "contentAngle": "금과 BTC의 30일 상관계수 추적. 디커플링/커플링 변화는 \"BTC = 디지털 금\" 논제 검증 콘텐츠로 활용."
-    },
-    {
-      "id": "stablecoin_mcap",
-      "label": "스테이블코인 총 시총 (7일 델타)",
-      "category": "crypto",
-      "categoryLabel": "크립토 구조",
-      "source": "DefiLlama",
-      "sourceUrl": "https://defillama.com/stablecoins",
-      "unit": "$B",
-      "decimals": 2,
-      "price": 320.68977554189,
-      "deltaUSD24h": -263369951.10998535,
-      "deltaUSD7d": -705980620.1099854,
-      "dailyChangePct": -0.08205869137236091,
-      "weeklyChangePct": -0.21966084074680026,
-      "level": "NORMAL",
-      "reasons": [],
-      "thresholds": {
-        "absUSD7d": {
-          "watch": 2000000000,
-          "alert": 5000000000
-        }
-      },
-      "interpretation": {
-        "high": "스테이블코인 발행 증가 → 크립토 신규 유동성 유입 → BTC 매수 잠재력.",
-        "low": "스테이블코인 시총 감소 → 시장 자금 이탈 → 위험 회피 신호."
-      },
-      "contentAngle": "주간 ±$5B 변동은 의미있는 자금 흐름. ETF 플로우와 함께 분석 시 신뢰도 상승."
     },
     {
       "id": "dxy",
@@ -230,6 +202,34 @@
       "contentAngle": "DXY가 임계 라운드 넘버를 돌파/이탈하면 \"달러 vs BTC\" 구도 콘텐츠로 즉시 배포 가능. 방향 베팅이 아닌 상관관계 구조 설명."
     },
     {
+      "id": "stablecoin_mcap",
+      "label": "스테이블코인 총 시총 (7일 델타)",
+      "category": "crypto",
+      "categoryLabel": "크립토 구조",
+      "source": "DefiLlama",
+      "sourceUrl": "https://defillama.com/stablecoins",
+      "unit": "$B",
+      "decimals": 2,
+      "price": 320.55110661366996,
+      "deltaUSD24h": -138668928.3300171,
+      "deltaUSD7d": -600419413.3300171,
+      "dailyChangePct": -0.04324083238876318,
+      "weeklyChangePct": -0.1869582937244204,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "absUSD7d": {
+          "watch": 2000000000,
+          "alert": 5000000000
+        }
+      },
+      "interpretation": {
+        "high": "스테이블코인 발행 증가 → 크립토 신규 유동성 유입 → BTC 매수 잠재력.",
+        "low": "스테이블코인 시총 감소 → 시장 자금 이탈 → 위험 회피 신호."
+      },
+      "contentAngle": "주간 ±$5B 변동은 의미있는 자금 흐름. ETF 플로우와 함께 분석 시 신뢰도 상승."
+    },
+    {
       "id": "usdjpy",
       "label": "USD/JPY (엔/달러)",
       "category": "fx",
@@ -238,10 +238,10 @@
       "sourceUrl": "https://finance.yahoo.com/quote/JPY%3DX",
       "unit": "",
       "decimals": 2,
-      "price": 158.95,
+      "price": 158.954,
       "prevClose": 158.9459991455078,
-      "dailyChangePct": 0.0025171155698694445,
-      "weeklyChangePct": 0.0560285863741311,
+      "dailyChangePct": 0.005033693540704232,
+      "weeklyChangePct": 0.058546510968955925,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {
@@ -270,8 +270,8 @@
       "sourceUrl": "https://www.binance.com/en/futures/funding-history/perpetual/real-time-funding-rate",
       "unit": "%",
       "decimals": 4,
-      "price": 0.007666,
-      "annualPct": 8.39427,
+      "price": 0.007203,
+      "annualPct": 7.887285,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {
