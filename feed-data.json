@@ -1,6 +1,107 @@
 {
-  "updatedAt": "2026-05-26T15:59:26.656Z",
+  "updatedAt": "2026-05-26T20:22:42.804Z",
   "items": [
+    {
+      "id": "EricBalchunas__Tue, 26 May 2026 19:54:05 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Tech sector ETFs have taken in $23b while every other sector has basically gotten nothing since Feb, nice chart from @Todd_Sohn",
+      "pubDate": "Tue, 26 May 2026 19:54:05 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2059362457303277941#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "JSeyff__Tue, 26 May 2026 19:19:26 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Munificent Seven ETF on its way from Harbor Funds ... will invest in \"ExxonMobil, Chevron, ConocoPhillips, Shell, TotalEnergies, BP and Equinor— due to their central role in global energy markets.\" 👀 $XOM $COP",
+      "pubDate": "Tue, 26 May 2026 19:19:26 GMT",
+      "link": "https://nitter.net/JSeyff/status/2059353738024824884#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 26 May 2026 17:59:27 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "$THYP is now up 50% since launching only 2wks ago. That may be a record for an unleveraged ETF. $DRAM was a total phenomenon and it took 5 weeks to hit 50%. $IBIT took 2mo.",
+      "pubDate": "Tue, 26 May 2026 17:59:27 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2059333607752179964#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "JSeyff__Tue, 26 May 2026 17:59:27 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: $THYP is now up 50% since launching only 2wks ago. That may be a record for an unleveraged ETF. $DRAM was a total phenomenon and it took 5 weeks to hit 50%. $IBIT took 2mo.",
+      "pubDate": "Tue, 26 May 2026 17:59:27 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2059333607752179964#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "JSeyff__Tue, 26 May 2026 17:53:02 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Where the hell was this weather the past three days. wtf",
+      "pubDate": "Tue, 26 May 2026 17:53:02 GMT",
+      "link": "https://nitter.net/JSeyff/status/2059331992915775712#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Tue, 26 May 2026 17:34:58 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: (Yes Kerley and Matadi would have qualified based on their pre-lim times)",
+      "pubDate": "Tue, 26 May 2026 17:34:58 GMT",
+      "link": "https://nitter.net/JSeyff/status/2059327448966209689#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Tue, 26 May 2026 17:34:23 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "According to the new standards to qualify for the world championships of track — solely looking at the men’s and women’s 100m finals of the @enhanced_games. Zero athletes would have qualified",
+      "pubDate": "Tue, 26 May 2026 17:34:23 GMT",
+      "link": "https://nitter.net/JSeyff/status/2059327299175022967#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 26 May 2026 17:34:14 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 761 $BTC (57,879,093 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/f77f329fcf6d5617cdae18624eae7dc85561914e6b011a93b736ccdd02ab7c0d",
+      "pubDate": "Tue, 26 May 2026 17:34:14 GMT",
+      "link": "https://nitter.net/whale_alert/status/2059327264064491947#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
     {
       "id": "ColinTCrypto__Tue, 26 May 2026 15:32:52 GMT",
       "handle": "ColinTCrypto",
@@ -1145,107 +1246,6 @@
       "pubDate": "Mon, 25 May 2026 02:55:13 GMT",
       "link": "https://nitter.net/enhanced_games/status/2058743661274509418#m",
       "keywords": []
-    },
-    {
-      "id": "JSeyff__Mon, 25 May 2026 02:37:18 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "R to @JSeyff: (The doping admittedly seems to be working better for the swimming than track/running)",
-      "pubDate": "Mon, 25 May 2026 02:37:18 GMT",
-      "link": "https://nitter.net/JSeyff/status/2058739152233873670#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Mon, 25 May 2026 02:23:56 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Lmaoooo. This is slower than a Texas high school meet",
-      "pubDate": "Mon, 25 May 2026 02:23:56 GMT",
-      "link": "https://nitter.net/JSeyff/status/2058735790746644756#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 25 May 2026 00:36:29 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Garrett Jin(@GarrettBullish) is buying $HYPE! Over the past 4 days, Garrett Jin has bought 145,050 $HYPE($9.05M) and has also placed a TWAP order to keep buying another 39,940 $HYPE($2.44M). He still holds a 504.4 $BTC ($38.9M) long and a 57,460 $ZEC ($38M) short, currently down $2.11M. https://hypurrscan.io/address/0x",
-      "pubDate": "Mon, 25 May 2026 00:36:29 GMT",
-      "link": "https://nitter.net/lookonchain/status/2058708750584914250#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 25 May 2026 00:19:17 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Arthur Hayes(@CryptoHayes) sold $HYPE low and bought it back high again? 2 days ago, wallet (0x827c) linked to #ArthurHayes deposited 115,453 $HYPE($6.33M) into #Bybit at $54.81. 3 hours ago, the wallet withdrew 85,714 $HYPE($5.37M) from #Bybit at $62.69.",
-      "pubDate": "Mon, 25 May 2026 00:19:17 GMT",
-      "link": "https://nitter.net/lookonchain/status/2058704421731914220#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Mon, 25 May 2026 00:11:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,552,276 $USDC (128,601,961 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0xb596a09172012f01549cabe5e77f705096e890938d86e363c1a7facb80576f9e",
-      "pubDate": "Mon, 25 May 2026 00:11:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2058702419228238153#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 25 May 2026 00:07:23 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Two wallets deposited 1,650 $BTC($127M) into #FalconX 6 hours ago after more than a year of inactivity. https://intel.arkm.com/explorer/address/bc1qqypmnyxtmj0ft7fx32snrdmum5y7jwawyatn0az0y8rczjvl763s5tc3a5 https://intel.arkm.com/explorer/address/bc1q8pmu9krakqs50dfezlh757r47xal7s7s9jxmycfs2dnxw30kx06sg2mkxp",
-      "pubDate": "Mon, 25 May 2026 00:07:23 GMT",
-      "link": "https://nitter.net/lookonchain/status/2058701424545210609#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Sun, 24 May 2026 23:21:10 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,523,902 $USDC (128,577,753 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xfb997ca7a03ce69da142dc7950e68cb71e73ee6271fd5bed695343e9a7515983",
-      "pubDate": "Sun, 24 May 2026 23:21:10 GMT",
-      "link": "https://nitter.net/whale_alert/status/2058689794528494034#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 24 May 2026 21:13:44 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,404 $BTC (107,717,592 USD) transferred from unknown wallet to #FalconX https://whale-alert.io/tx/bitcoin/0c71d75171bf58ca5bfb8f86cb807d4e50ca94122a501c5ba112185c9126a1e3",
-      "pubDate": "Sun, 24 May 2026 21:13:44 GMT",
-      "link": "https://nitter.net/whale_alert/status/2058657727203688734#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
     }
   ]
 }
