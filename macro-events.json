@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-25T19:52:17.775Z",
+  "updatedAt": "2026-05-26T04:15:36.653Z",
   "verificationSummary": {
     "confirmed": 28,
-    "unconfirmed": 9,
+    "unconfirmed": 15,
     "mismatched": 6
   },
   "events": [
@@ -361,6 +361,26 @@
       "autoFetched": true
     },
     {
+      "id": "earnings-GOOGL-2026-07-23",
+      "date": "2026-07-23",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "알파벳 (GOOGL) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "디지털 광고·AI 수요 지표. Gemini 사업화 속도가 관건. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "광고 회복 + AI 수익화 → 나스닥 강세 → BTC 연동",
+      "bear": "광고 둔화 → 기술주 약세 → 위험자산 하락",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
       "id": "fomc-2026-07-29",
       "date": "2026-07-29",
       "time": "14:00",
@@ -400,6 +420,26 @@
       "autoFetched": true
     },
     {
+      "id": "earnings-MSFT-2026-07-29",
+      "date": "2026-07-29",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "마이크로소프트 (MSFT) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "클라우드·AI 수요 지표. Azure OpenAI 매출 성장률이 핵심. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "클라우드 성장 가속 → 기술주 랠리 → BTC 상승 동반",
+      "bear": "클라우드 둔화 → 기술주 조정 → 위험자산 약세",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
       "id": "earnings-AAPL-2026-07-30",
       "date": "2026-07-30",
       "time": "16:00",
@@ -412,6 +452,86 @@
       "description": "세계 시총 1위 기술주. AI 기능 확장·아이폰 수요가 나스닥 방향성을 결정. (단일 소스 — 공식 IR 확인 권장)",
       "bull": "EPS 상회 + AI 서비스 성장 → 나스닥 강세 → BTC 간접 수혜",
       "bear": "아이폰 판매 둔화 → 기술주 조정 → 위험자산 약세",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-AMZN-2026-07-30",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "AMZN 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "AMZN 분기 실적 발표. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "EPS 상회 → 주가 상승",
+      "bear": "EPS 미스 → 주가 하락",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-COIN-2026-07-30",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "코인베이스 (COIN) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "크립토 시장 직접 노출. COIN 실적 = 크립토 거래량·심리 확인. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "거래량·수수료 증가 → 크립토 시장 건강성 확인 → BTC 강세",
+      "bear": "거래량 감소 → 크립토 시장 침체 신호 → BTC 약세",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-MSTR-2026-07-30",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "마이크로스트래티지 (MSTR) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "최대 기업 BTC 보유자. 추가 매입 공시 가능성. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "추가 BTC 매입 공시 → BTC 수급 긍정 + 심리 강화",
+      "bear": "매입 중단 또는 손실 → BTC 약세 심리 확산",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-RIOT-2026-07-30",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "라이엇 플랫폼 (RIOT) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "LOW",
+      "btcBias": "correlated",
+      "description": "BTC 채굴 상장사. MARA와 동반 움직임. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "채굴 효율 + BTC 강세 연동",
+      "bear": "에너지 비용 + 규제 리스크",
       "confirmed": false,
       "sources": [
         "AlphaVantage"
@@ -549,6 +669,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -593,6 +714,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -714,6 +836,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -758,6 +881,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -857,6 +981,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -901,6 +1026,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
