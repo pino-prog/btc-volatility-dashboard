@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T02:52:30.755Z",
+  "updatedAt": "2026-05-26T03:24:55.718Z",
   "summary": {
     "alert": 1,
     "watch": 0,
@@ -17,13 +17,13 @@
       "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF",
       "unit": "$",
       "decimals": 2,
-      "price": 91.68,
+      "price": 91.57,
       "prevClose": 96.5999984741211,
-      "dailyChangePct": -5.093166202729436,
-      "weeklyChangePct": -15.626728409572504,
+      "dailyChangePct": -5.2070378401389155,
+      "weeklyChangePct": -15.72796161065178,
       "level": "ALERT",
       "reasons": [
-        "일중 -5.09% 변동 (ALERT 4%↑)"
+        "일중 -5.21% 변동 (ALERT 4%↑)"
       ],
       "thresholds": {
         "daily": {
@@ -118,10 +118,10 @@
       "sourceUrl": "https://www.binance.com/en/futures/funding-history/perpetual/open-interest",
       "unit": "%",
       "decimals": 2,
-      "price": 0.505036451778891,
-      "latestBTC": 99762.855,
-      "latestUsd": 7654271347.379768,
-      "dailyChangePct": 0.505036451778891,
+      "price": 0.42167580903758595,
+      "latestBTC": 99758,
+      "latestUsd": 7644535346.4,
+      "dailyChangePct": 0.42167580903758595,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {
@@ -145,10 +145,10 @@
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "unit": "$",
       "decimals": 1,
-      "price": 4537.5,
+      "price": 4537.7,
       "prevClose": 4521,
-      "dailyChangePct": 0.36496350364963503,
-      "weeklyChangePct": -0.3294892915980231,
+      "dailyChangePct": 0.369387303693869,
+      "weeklyChangePct": -0.32509610104338676,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {
@@ -210,11 +210,11 @@
       "sourceUrl": "https://defillama.com/stablecoins",
       "unit": "$B",
       "decimals": 2,
-      "price": 320.55110661366996,
-      "deltaUSD24h": -138668928.3300171,
-      "deltaUSD7d": -600419413.3300171,
-      "dailyChangePct": -0.04324083238876318,
-      "weeklyChangePct": -0.1869582937244204,
+      "price": 320.53972460841,
+      "deltaUSD24h": -150050933.59002686,
+      "deltaUSD7d": -611801418.5900269,
+      "dailyChangePct": -0.046790058503245,
+      "weeklyChangePct": -0.19050241677462595,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {
@@ -238,10 +238,10 @@
       "sourceUrl": "https://finance.yahoo.com/quote/JPY%3DX",
       "unit": "",
       "decimals": 2,
-      "price": 158.954,
+      "price": 158.91,
       "prevClose": 158.9459991455078,
-      "dailyChangePct": 0.005033693540704232,
-      "weeklyChangePct": 0.058546510968955925,
+      "dailyChangePct": -0.022648664138353262,
+      "weeklyChangePct": 0.030849340426007982,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {
@@ -270,8 +270,8 @@
       "sourceUrl": "https://www.binance.com/en/futures/funding-history/perpetual/real-time-funding-rate",
       "unit": "%",
       "decimals": 4,
-      "price": 0.007203,
-      "annualPct": 7.887285,
+      "price": 0.007321,
+      "annualPct": 8.016495,
       "level": "NORMAL",
       "reasons": [],
       "thresholds": {

@@ -594,6 +594,21 @@ function appendEventLog(signals) {
     });
   }
 
+  // 신규 ALERT 만 별도 출력 → workflow가 GitHub Issue 생성 (모바일 알림용)
+  // dedup 통과한 진짜 새 ALERT만 → spam 방지
+  const newAlerts = toAppend.filter(e => e.level === 'ALERT').map(e => {
+    const orig = signals.find(s => s.id === e.id);
+    return {
+      ...e,
+      categoryLabel: orig?.categoryLabel || e.category,
+      interpretation: orig?.interpretation || null,
+      contentAngle: orig?.contentAngle || null,
+      source: orig?.source || null,
+      sourceUrl: orig?.sourceUrl || null,
+    };
+  });
+  writeFileSync('new-alerts.json', JSON.stringify(newAlerts, null, 2));
+
   if (toAppend.length === 0) {
     console.log(`📒 이벤트 로그: 새 항목 없음 (4h dedup 윈도우)`);
     return;
@@ -605,6 +620,9 @@ function appendEventLog(signals) {
     console.log(`📒 이벤트 로그: ${toAppend.length}건 신규 append → ${logPath}`);
     for (const e of toAppend) {
       console.log(`   + ${e.ts.slice(0,16)} ${e.id} [${e.level}] ${e.reasons.join(' / ')}`);
+    }
+    if (newAlerts.length > 0) {
+      console.log(`🔔 신규 ALERT: ${newAlerts.length}건 → new-alerts.json (workflow가 GitHub Issue 생성 예정)`);
     }
   } catch (e) {
     console.error(`  ✗ 이벤트 로그 append 실패: ${e.message}`);

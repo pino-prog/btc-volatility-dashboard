@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 # 동시 실행 방지 — 이전 run이 commit 도중이면 skip
 concurrency:
@@ -30,10 +31,85 @@ jobs:
       - name: Fetch macro signals (Yahoo + Binance + DefiLlama)
         run: node scripts/fetch-macro-signals.mjs
 
+      - name: Create GitHub Issues for new ALERTs
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -f new-alerts.json ]; then
+            echo "no new-alerts.json — skip"
+            exit 0
+          fi
+          count=$(jq 'length' new-alerts.json)
+          if [ "$count" = "0" ]; then
+            echo "no new ALERTs — skip"
+            exit 0
+          fi
+          echo "🔔 $count new ALERT(s) — creating issues"
+
+          # macro-alert 라벨이 없으면 생성 (idempotent)
+          gh label create "macro-alert" --color "f85149" --description "Layer 1 매크로 신호 ALERT" 2>/dev/null || true
+
+          jq -c '.[]' new-alerts.json | while read -r alert; do
+            id=$(echo "$alert"      | jq -r '.id')
+            label=$(echo "$alert"   | jq -r '.label')
+            cat=$(echo "$alert"     | jq -r '.categoryLabel // .category')
+            price=$(echo "$alert"   | jq -r '.price')
+            daily=$(echo "$alert"   | jq -r '.dailyChangePct // 0 | . * 100 | round / 100')
+            weekly=$(echo "$alert"  | jq -r '.weeklyChangePct // 0 | . * 100 | round / 100')
+            reasons=$(echo "$alert" | jq -r '.reasons | join(" · ")')
+            ts=$(echo "$alert"      | jq -r '.ts')
+            interp_high=$(echo "$alert" | jq -r '.interpretation.high // "—"')
+            interp_low=$(echo "$alert"  | jq -r '.interpretation.low // "—"')
+            angle=$(echo "$alert"   | jq -r '.contentAngle // ""')
+            srcUrl=$(echo "$alert"  | jq -r '.sourceUrl // ""')
+
+            title="🚨 ALERT: ${label} — ${reasons}"
+
+            # 이슈 본문 (heredoc)
+            body=$(cat <<EOF
+**시각:** ${ts}
+**지표:** ${label} (\`${id}\`, ${cat})
+**현재값:** ${price}  · 일중 ${daily}%  · 주간 ${weekly}%
+**트리거 이유:** ${reasons}
+
+---
+
+### 시장 해석
+- ▲ **상방:** ${interp_high}
+- ▼ **하방:** ${interp_low}
+
+### 콘텐츠 각도
+${angle}
+
+---
+
+### 다음 액션
+1. **컨텍스트 확인** — 관련 헤드라인, 다른 지표 동조 여부 (대시보드에서 다른 카드 확인)
+2. **Aark 톤 적용** — 변동성=기회, 양측 검증, 방향 베팅 X
+3. **라벨링 결정** — \`signal\` (콘텐츠化) / \`noise\` / \`missed-context\` → \`workspace/learnings/macro-triggers.md\` Phase C 테이블에 기록
+4. **콘텐츠化 결정 시** → \`workspace/drafts/tweets/\` 또는 \`drafts/threads/\` 에 초안
+
+### 참조
+- 데이터 출처: ${srcUrl}
+- 대시보드: https://pino-prog.github.io/btc-volatility-dashboard/
+- 임계값 정의: \`scripts/fetch-macro-signals.mjs\` 의 \`INDICATORS\` 배열
+- 운영 프로토콜: \`workspace/learnings/macro-triggers.md\`
+EOF
+)
+            gh issue create \
+              --title "$title" \
+              --body  "$body"  \
+              --label "macro-alert" \
+            && echo "  ✓ Issue created: $title" \
+            || echo "  ✗ Issue creation failed for $id"
+          done
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # new-alerts.json 은 .gitignore 처리되어 자동 제외됨
           git add macro-signals.json logs/macro-signals-events.jsonl 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes — skip commit"
