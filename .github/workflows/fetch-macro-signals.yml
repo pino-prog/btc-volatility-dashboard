@@ -1,0 +1,44 @@
+name: Fetch Macro Signals (Layer 1)
+
+# 비예정 매크로 신호 — 시장 데이터 특성상 짧은 주기로 갱신
+# 갱신 시점: 매시 :15, :45 (장중 30분 주기)
+
+on:
+  schedule:
+    - cron: '15,45 * * * *'   # 30분마다
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 동시 실행 방지 — 이전 run이 commit 도중이면 skip
+concurrency:
+  group: macro-signals
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Fetch macro signals (Yahoo + Binance + DefiLlama)
+        run: node scripts/fetch-macro-signals.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add macro-signals.json
+          if git diff --staged --quiet; then
+            echo "No changes — skip commit"
+          else
+            git commit -m "chore: update macro signals [skip ci]"
+            git pull --rebase origin main || true
+            git push
+          fi

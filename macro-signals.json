@@ -1,0 +1,295 @@
+{
+  "updatedAt": "2026-05-26T02:14:17.599Z",
+  "summary": {
+    "alert": 1,
+    "watch": 0,
+    "normal": 8,
+    "total": 9,
+    "errorCount": 0
+  },
+  "signals": [
+    {
+      "id": "wti",
+      "label": "WTI 원유",
+      "category": "commodity",
+      "categoryLabel": "원자재",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/quote/CL%3DF",
+      "unit": "$",
+      "decimals": 2,
+      "price": 91.75,
+      "prevClose": 96.5999984741211,
+      "dailyChangePct": -5.020702433468875,
+      "weeklyChangePct": -15.562307281612977,
+      "level": "ALERT",
+      "reasons": [
+        "일중 -5.02% 변동 (ALERT 4%↑)"
+      ],
+      "thresholds": {
+        "daily": {
+          "watch": 2.5,
+          "alert": 4
+        },
+        "levels": [
+          60,
+          70,
+          80,
+          90,
+          100
+        ]
+      },
+      "interpretation": {
+        "high": "유가 급등 → 인플레 재가속 우려 → 금리 인하 지연 → 위험자산 압박.",
+        "low": "유가 하락 → 인플레 완화 → 비둘기 통화정책 기대 + 위험자산 우호."
+      },
+      "contentAngle": "지정학(중동·러시아) 헤드라인 동반 시 효과 증폭. \"에너지 → 인플레 → 금리 → BTC\" 경로 콘텐츠."
+    },
+    {
+      "id": "vix",
+      "label": "VIX (변동성 지수)",
+      "category": "volatility",
+      "categoryLabel": "변동성",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EVIX",
+      "unit": "",
+      "decimals": 2,
+      "price": 16.59,
+      "prevClose": 16.700000762939453,
+      "dailyChangePct": -0.6586871731381374,
+      "weeklyChangePct": -6.902355308016474,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "daily": {
+          "watch": 10,
+          "alert": 20
+        },
+        "levels": [
+          15,
+          20,
+          25,
+          30
+        ]
+      },
+      "interpretation": {
+        "high": "S&P 옵션 변동성 급등 → 위험 회피 모드 → BTC 단기 상관 상승 가능.",
+        "low": "저변동성 환경 → 위험자산 누적 + 캐리 트레이드 활성화."
+      },
+      "contentAngle": "VIX 20+ 진입은 \"변동성 환경\" 전환점. Aark의 변동성 거래 도구로서의 핵심 가치 제안 시점."
+    },
+    {
+      "id": "us10y",
+      "label": "미국 10년 국채 금리",
+      "category": "fx",
+      "categoryLabel": "환율/금리",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5ETNX",
+      "unit": "%",
+      "decimals": 2,
+      "price": 4.558,
+      "prevClose": 4.585999965667725,
+      "dailyChangePct": -0.6105531155111548,
+      "weeklyChangePct": -0.8052185393050335,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "daily": {
+          "watch": 2.5,
+          "alert": 4
+        },
+        "levels": [
+          4,
+          4.5,
+          5
+        ]
+      },
+      "interpretation": {
+        "high": "실질금리 상승 → 무이자 자산(금·BTC) 기회비용 증가 → 위험자산 압박.",
+        "low": "금리 하락 → 듀레이션 자산 + 위험자산 동반 상승 환경 조성."
+      },
+      "contentAngle": "10년물이 4% / 4.5% / 5% 라인을 돌파/이탈하면 매크로 변곡점. \"금리 vs 위험자산\" 흐름 설명용 콘텐츠."
+    },
+    {
+      "id": "btc_oi",
+      "label": "BTC 미결제약정 24h 변동",
+      "category": "crypto",
+      "categoryLabel": "크립토 구조",
+      "source": "Binance Futures",
+      "sourceUrl": "https://www.binance.com/en/futures/funding-history/perpetual/open-interest",
+      "unit": "%",
+      "decimals": 2,
+      "price": 0.505036451778891,
+      "latestBTC": 99762.855,
+      "latestUsd": 7654271347.379768,
+      "dailyChangePct": 0.505036451778891,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "daily": {
+          "watch": 5,
+          "alert": 10
+        }
+      },
+      "interpretation": {
+        "high": "OI 급증 → 신규 레버리지 유입 → 변동성 증폭 환경.",
+        "low": "OI 급감 → 디레버리징 진행 → 청산 후 안정 또는 추가 하락 분기점."
+      },
+      "contentAngle": "OI 급변은 변동성 사이클의 시작 또는 끝. 일중 ±10% 변동은 콘텐츠 트리거."
+    },
+    {
+      "id": "gold",
+      "label": "금 (Gold Futures)",
+      "category": "commodity",
+      "categoryLabel": "원자재",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
+      "unit": "$",
+      "decimals": 1,
+      "price": 4537.9,
+      "prevClose": 4521,
+      "dailyChangePct": 0.373811103738103,
+      "weeklyChangePct": -0.32070291048875044,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "daily": {
+          "watch": 1.2,
+          "alert": 2
+        },
+        "levels": [
+          3000,
+          3500,
+          4000
+        ]
+      },
+      "interpretation": {
+        "high": "금 상승 → 안전자산 선호 + 달러 회피 + 디지털 골드(BTC) 내러티브 강화.",
+        "low": "금 하락 → 위험자산 선호 회복 시그널 또는 강달러 환경."
+      },
+      "contentAngle": "금과 BTC의 30일 상관계수 추적. 디커플링/커플링 변화는 \"BTC = 디지털 금\" 논제 검증 콘텐츠로 활용."
+    },
+    {
+      "id": "stablecoin_mcap",
+      "label": "스테이블코인 총 시총 (7일 델타)",
+      "category": "crypto",
+      "categoryLabel": "크립토 구조",
+      "source": "DefiLlama",
+      "sourceUrl": "https://defillama.com/stablecoins",
+      "unit": "$B",
+      "decimals": 2,
+      "price": 320.68977554189,
+      "deltaUSD24h": -263369951.10998535,
+      "deltaUSD7d": -705980620.1099854,
+      "dailyChangePct": -0.08205869137236091,
+      "weeklyChangePct": -0.21966084074680026,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "absUSD7d": {
+          "watch": 2000000000,
+          "alert": 5000000000
+        }
+      },
+      "interpretation": {
+        "high": "스테이블코인 발행 증가 → 크립토 신규 유동성 유입 → BTC 매수 잠재력.",
+        "low": "스테이블코인 시총 감소 → 시장 자금 이탈 → 위험 회피 신호."
+      },
+      "contentAngle": "주간 ±$5B 변동은 의미있는 자금 흐름. ETF 플로우와 함께 분석 시 신뢰도 상승."
+    },
+    {
+      "id": "dxy",
+      "label": "DXY (달러 인덱스)",
+      "category": "fx",
+      "categoryLabel": "환율/금리",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/quote/DX-Y.NYB",
+      "unit": "",
+      "decimals": 2,
+      "price": 99.239,
+      "prevClose": 99.31999969482422,
+      "dailyChangePct": -0.0815542640687659,
+      "weeklyChangePct": 0.2717982984530959,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "daily": {
+          "watch": 0.6,
+          "alert": 1
+        },
+        "levels": [
+          100,
+          105,
+          108,
+          110
+        ]
+      },
+      "interpretation": {
+        "high": "달러 강세 심화 → 위험자산 + BTC 하방 압력. 글로벌 유동성 위축 시그널.",
+        "low": "달러 약세 진행 → 위험자산 선호 회복 + BTC 상승 동인."
+      },
+      "contentAngle": "DXY가 임계 라운드 넘버를 돌파/이탈하면 \"달러 vs BTC\" 구도 콘텐츠로 즉시 배포 가능. 방향 베팅이 아닌 상관관계 구조 설명."
+    },
+    {
+      "id": "usdjpy",
+      "label": "USD/JPY (엔/달러)",
+      "category": "fx",
+      "categoryLabel": "환율/금리",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/quote/JPY%3DX",
+      "unit": "",
+      "decimals": 2,
+      "price": 158.95,
+      "prevClose": 158.9459991455078,
+      "dailyChangePct": 0.0025171155698694445,
+      "weeklyChangePct": 0.0560285863741311,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "daily": {
+          "watch": 0.8,
+          "alert": 1.5
+        },
+        "levels": [
+          150,
+          155,
+          160
+        ]
+      },
+      "interpretation": {
+        "high": "엔화 약세 심화 → BOJ 개입 + 글로벌 캐리 트레이드 청산 리스크 → 위험자산 충격 가능.",
+        "low": "엔화 강세 전환 → 캐리 트레이드 언와인드 진행 → 단기 디레버리징 압력."
+      },
+      "contentAngle": "2024년 8월 5일 캐리 청산 사태 참조. 150 이상부터 BOJ 개입·캐리 청산 시나리오 콘텐츠 준비."
+    },
+    {
+      "id": "btc_funding",
+      "label": "BTC 펀딩률 (Binance Perp)",
+      "category": "crypto",
+      "categoryLabel": "크립토 구조",
+      "source": "Binance Futures",
+      "sourceUrl": "https://www.binance.com/en/futures/funding-history/perpetual/real-time-funding-rate",
+      "unit": "%",
+      "decimals": 4,
+      "price": 0.007666,
+      "annualPct": 8.39427,
+      "level": "NORMAL",
+      "reasons": [],
+      "thresholds": {
+        "abs": {
+          "watch": 0.01,
+          "alert": 0.025
+        },
+        "annualAbs": {
+          "watch": 11,
+          "alert": 27
+        }
+      },
+      "interpretation": {
+        "high": "펀딩률 과열 → 롱 과열 + 청산 압박 누적 → 단기 조정 트리거 가능.",
+        "low": "펀딩률 마이너스 → 숏 과열 + 숏 스퀴즈 + 역청산 가능 환경."
+      },
+      "contentAngle": "펀딩률 극단값(연환산 ±30%+)은 포지셔닝 쏠림 = 변동성 압력 누적 시그널. Aark \"no funding fee\" 차별점 콘텐츠 적기."
+    }
+  ],
+  "errors": []
+}

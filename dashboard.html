@@ -190,6 +190,46 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
 .macro-verify-bar{display:flex;align-items:center;gap:8px;padding:7px 20px;background:var(--bg2);border-bottom:1px solid var(--border);font-size:10px;color:var(--muted);}
 .vbar-dot{width:5px;height:5px;border-radius:50%;flex-shrink:0;}
 
+/* ── MACRO LIVE TRIGGERS (비예정 매크로 신호 — Layer 1) ── */
+.lbl-pink {background:rgba(247,120,186,.2);color:#f778ba;}
+.sec-macro-watch{border-left-color:#f778ba;background:linear-gradient(90deg,rgba(247,120,186,.07) 0%,var(--bg2) 400px);}
+.signals-bar{display:flex;flex-wrap:wrap;gap:10px;padding:10px 20px;border-bottom:1px solid var(--border);font-size:11px;align-items:center;}
+.sb-pill{display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:12px;background:var(--bg3);border:1px solid var(--border);color:var(--muted);font-weight:600;}
+.sb-pill .dot{width:7px;height:7px;border-radius:50%;display:inline-block;}
+.sb-pill .dot-alert{background:var(--red);box-shadow:0 0 8px var(--red);}
+.sb-pill .dot-watch{background:var(--yellow);}
+.sb-pill .dot-normal{background:var(--green);opacity:.6;}
+.signals-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:1px;background:var(--border);}
+.signal-card{background:var(--bg);padding:14px 16px;display:flex;flex-direction:column;gap:8px;position:relative;border-left:4px solid var(--border);}
+.signal-card.lvl-alert{border-left-color:var(--red);background:linear-gradient(180deg,rgba(248,81,73,.04) 0%,var(--bg) 60%);}
+.signal-card.lvl-watch{border-left-color:var(--yellow);background:linear-gradient(180deg,rgba(210,153,34,.04) 0%,var(--bg) 60%);}
+.signal-card.lvl-normal{border-left-color:var(--border);}
+.sc-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+.sc-label{font-size:12.5px;font-weight:700;color:var(--text);line-height:1.3;}
+.sc-cat{font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-top:3px;}
+.sc-level{font-size:9px;font-weight:800;padding:2px 7px;border-radius:3px;letter-spacing:.5px;flex-shrink:0;}
+.signal-card.lvl-alert .sc-level{background:rgba(248,81,73,.2);color:var(--red);}
+.signal-card.lvl-watch .sc-level{background:rgba(210,153,34,.2);color:var(--yellow);}
+.signal-card.lvl-normal .sc-level{background:var(--bg3);color:var(--muted);}
+.sc-price-row{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;}
+.sc-price{font-size:19px;font-weight:800;color:var(--text);line-height:1;}
+.sc-change{font-size:11px;font-weight:700;}
+.sc-change.up{color:var(--green);}
+.sc-change.down{color:var(--red);}
+.sc-change.flat{color:var(--muted);}
+.sc-meta-row{display:flex;justify-content:space-between;align-items:center;font-size:9.5px;color:var(--muted);gap:8px;}
+.sc-meta-row .sc-source-link{font-size:9.5px;color:var(--blue);text-decoration:none;flex-shrink:0;}
+.sc-meta-row .sc-source-link:hover{text-decoration:underline;}
+.sc-reason{font-size:10.5px;color:var(--red);line-height:1.5;padding:6px 9px;background:rgba(248,81,73,.07);border-left:2px solid var(--red);border-radius:3px;}
+.signal-card.lvl-watch .sc-reason{color:var(--yellow);background:rgba(210,153,34,.07);border-left-color:var(--yellow);}
+.sc-interp{font-size:10.5px;color:var(--muted);line-height:1.55;padding-top:7px;border-top:1px solid var(--border);}
+.sc-interp-row{display:flex;gap:6px;padding:2px 0;}
+.sc-interp-arrow{flex-shrink:0;font-weight:800;width:14px;text-align:center;font-size:10px;}
+.sc-interp-arrow.up{color:var(--green);}
+.sc-interp-arrow.down{color:var(--red);}
+.sc-angle{font-size:10px;color:var(--muted);line-height:1.55;padding:6px 9px;background:var(--bg2);border-radius:4px;}
+.sc-angle-lbl{color:#f778ba;font-weight:700;}
+
 /* ── CONTENT GUIDE GRID ── */
 .guide-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1px;background:var(--border);}
 .guide-card{background:var(--bg);padding:16px;}
@@ -463,6 +503,22 @@ body{background:var(--bg);color:var(--text);font-family:'SF Mono','Fira Code',mo
   </div>
 </div>
 <div id="pmGrid" class="pm-grid"></div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════
+     SECTION M-LIVE : 비예정 매크로 신호 (Layer 1)
+     달러·금리·변동성·원자재·환율 + 크립토 구조 — 임계값 트리거
+════════════════════════════════════════════════════════════ -->
+<div class="section-block">
+<div class="sec-hdr sec-macro-watch">
+  <div style="display:flex;align-items:center;">
+    <span class="sec-label lbl-pink">LIVE TRIGGERS</span>
+    <span>🌡️ 비예정 매크로 신호</span>
+  </div>
+  <span class="sec-sub" id="macroSignalsSummary">로딩 중...</span>
+</div>
+<div id="macroSignalsBar" class="signals-bar"></div>
+<div id="macroSignalsGrid" class="signals-grid"></div>
 </div>
 
 <!-- ══════════════════════════════════════════════════════════
@@ -2041,12 +2097,127 @@ async function loadMacroEvents() {
   renderMacroCalendar();
 }
 
+// ────────────────────────────────────────────────────────────────
+// 비예정 매크로 신호 (Layer 1) — macro-signals.json 로딩 + 렌더링
+// ────────────────────────────────────────────────────────────────
+let _macroSignals = null;
+
+function fmtSignalPrice(s) {
+  if (s.id === 'btc_funding') {
+    return `${s.price >= 0 ? '+' : ''}${s.price.toFixed(4)}% / 8h`;
+  }
+  if (s.id === 'btc_oi') {
+    return s.latestBTC ? `${s.latestBTC.toLocaleString('en-US', {maximumFractionDigits:0})} BTC` : '—';
+  }
+  if (s.id === 'stablecoin_mcap') {
+    return `$${s.price.toFixed(2)}B`;
+  }
+  if (s.price === undefined || s.price === null || Number.isNaN(s.price)) return '—';
+  const dec = s.decimals ?? 2;
+  const formatted = s.price >= 1000
+    ? s.price.toLocaleString('en-US', {minimumFractionDigits: dec, maximumFractionDigits: dec})
+    : s.price.toFixed(dec);
+  return s.unit === '$' ? `$${formatted}` : (s.unit ? `${formatted}${s.unit}` : formatted);
+}
+
+function fmtSignalSubMeta(s) {
+  if (s.id === 'btc_funding' && s.annualPct !== undefined) {
+    return `연환산 ${s.annualPct >= 0 ? '+' : ''}${s.annualPct.toFixed(1)}%`;
+  }
+  if (s.id === 'stablecoin_mcap' && s.deltaUSD7d !== undefined) {
+    return `7일 ${s.deltaUSD7d >= 0 ? '+' : ''}$${(s.deltaUSD7d / 1e9).toFixed(2)}B`;
+  }
+  if (s.id === 'btc_oi') {
+    return `24h ${s.dailyChangePct >= 0 ? '+' : ''}${s.dailyChangePct.toFixed(2)}%`;
+  }
+  if (s.weeklyChangePct !== undefined) {
+    return `주간 ${s.weeklyChangePct >= 0 ? '+' : ''}${s.weeklyChangePct.toFixed(2)}%`;
+  }
+  return '';
+}
+
+function renderMacroSignals() {
+  if (!_macroSignals) return;
+  const { signals = [], summary = {}, updatedAt } = _macroSignals;
+
+  const updTxt = updatedAt
+    ? new Date(updatedAt).toLocaleString('ko-KR', { month:'numeric', day:'numeric', hour:'2-digit', minute:'2-digit' })
+    : '—';
+  document.getElementById('macroSignalsSummary').textContent =
+    `${signals.length}개 지표 · 마지막 갱신 ${updTxt}`;
+
+  document.getElementById('macroSignalsBar').innerHTML = `
+    <span class="sb-pill"><span class="dot dot-alert"></span>ALERT ${summary.alert || 0}</span>
+    <span class="sb-pill"><span class="dot dot-watch"></span>WATCH ${summary.watch || 0}</span>
+    <span class="sb-pill"><span class="dot dot-normal"></span>NORMAL ${summary.normal || 0}</span>
+    <span style="color:var(--muted);font-size:10.5px;margin-left:6px;">달러·금리·변동성·원자재·환율 + 크립토 구조 · 임계값 돌파 시 콘텐츠 트리거</span>
+  `;
+
+  const grid = document.getElementById('macroSignalsGrid');
+  if (!signals.length) {
+    grid.innerHTML = '<div style="padding:24px 20px;color:var(--muted);font-size:12px;">신호 없음 — fetch-macro-signals.mjs 실행 필요</div>';
+    return;
+  }
+
+  grid.innerHTML = signals.map(s => {
+    const lvlClass = `lvl-${(s.level || 'normal').toLowerCase()}`;
+    const dailyPct = s.dailyChangePct;
+    const changeTxt = (dailyPct === undefined || dailyPct === null)
+      ? ''
+      : `${dailyPct >= 0 ? '+' : ''}${dailyPct.toFixed(2)}%`;
+    const changeCls = dailyPct > 0 ? 'up' : dailyPct < 0 ? 'down' : 'flat';
+    const showChange = !(s.id === 'btc_funding' || s.id === 'stablecoin_mcap'); // 이들은 price 자체에 부호 의미
+
+    const subMeta = fmtSignalSubMeta(s);
+    const reasonsHtml = (s.reasons && s.reasons.length)
+      ? `<div class="sc-reason">⚡ ${s.reasons.map(r => r.replace(/</g,'&lt;')).join(' · ')}</div>`
+      : '';
+
+    return `<div class="signal-card ${lvlClass}">
+      <div class="sc-head">
+        <div style="flex:1;min-width:0;">
+          <div class="sc-label">${s.label}</div>
+          <div class="sc-cat">${s.categoryLabel || s.category || ''}</div>
+        </div>
+        <span class="sc-level">${s.level}</span>
+      </div>
+      <div class="sc-price-row">
+        <span class="sc-price">${fmtSignalPrice(s)}</span>
+        ${showChange && changeTxt ? `<span class="sc-change ${changeCls}">${changeTxt}</span>` : ''}
+      </div>
+      <div class="sc-meta-row">
+        <span>${subMeta}</span>
+        ${s.sourceUrl ? `<a class="sc-source-link" href="${s.sourceUrl}" target="_blank" rel="noopener">${s.source || ''} ↗</a>` : ''}
+      </div>
+      ${reasonsHtml}
+      <div class="sc-interp">
+        <div class="sc-interp-row"><span class="sc-interp-arrow up">▲</span><span>${s.interpretation?.high || ''}</span></div>
+        <div class="sc-interp-row"><span class="sc-interp-arrow down">▼</span><span>${s.interpretation?.low || ''}</span></div>
+      </div>
+      ${s.contentAngle ? `<div class="sc-angle"><span class="sc-angle-lbl">콘텐츠 각도 →</span> ${s.contentAngle}</div>` : ''}
+    </div>`;
+  }).join('');
+}
+
+async function loadMacroSignals() {
+  try {
+    const r = await fetch('macro-signals.json?t=' + Date.now());
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    _macroSignals = await r.json();
+  } catch (_) {
+    _macroSignals = { signals: [], summary: { alert:0, watch:0, normal:0 }, updatedAt: null };
+  }
+  renderMacroSignals();
+}
+
 refreshAll();
 loadFeedData();
 loadMacroEvents();
+loadMacroSignals();
 setInterval(refreshAll, REFRESH);
 setInterval(()=>{renderEventList();renderTriggerGrid();renderGuideGrid();renderPolymarket();renderMacroCalendar();}, 30000);
 setInterval(loadFeedData, 30 * 60 * 1000);
+setInterval(loadMacroSignals, 10 * 60 * 1000);
 </script>
 </body>
 </html>
