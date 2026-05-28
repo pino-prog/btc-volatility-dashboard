@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-05-28T12:36:23.744Z",
+  "updatedAt": "2026-05-28T16:18:48.376Z",
   "verificationSummary": {
-    "confirmed": 29,
-    "unconfirmed": 15,
+    "confirmed": 31,
+    "unconfirmed": 14,
     "mismatched": 6
   },
   "events": [
@@ -173,9 +173,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "apple-wwdc-2026",
@@ -233,9 +231,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "g7-summit-2026",
@@ -305,9 +301,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "bls-cpi-2026-07-14",
@@ -326,9 +320,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "bls-ppi-2026-07-14",
@@ -347,9 +339,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-TSLA-2026-07-22",
@@ -361,17 +351,16 @@
       "categoryLabel": "기업 실적",
       "impact": "MEDIUM",
       "btcBias": "correlated",
-      "description": "위험자산 대표 주자. BTC와 높은 상관관계. (단일 소스 — 공식 IR 확인 권장)",
+      "description": "위험자산 대표 주자. BTC와 높은 상관관계. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
       "bull": "강한 실적 + 에너지 사업 성장 → 위험자산 + BTC 상승",
       "bear": "마진 압박 + 수요 둔화 → 위험자산 전반 약세",
-      "confirmed": false,
+      "confirmed": true,
       "sources": [
-        "AlphaVantage"
+        "AlphaVantage",
+        "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-GOOGL-2026-07-23",
@@ -383,17 +372,16 @@
       "categoryLabel": "기업 실적",
       "impact": "MEDIUM",
       "btcBias": "correlated",
-      "description": "디지털 광고·AI 수요 지표. Gemini 사업화 속도가 관건. (단일 소스 — 공식 IR 확인 권장)",
+      "description": "디지털 광고·AI 수요 지표. Gemini 사업화 속도가 관건. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
       "bull": "광고 회복 + AI 수익화 → 나스닥 강세 → BTC 연동",
       "bear": "광고 둔화 → 기술주 약세 → 위험자산 하락",
-      "confirmed": false,
+      "confirmed": true,
       "sources": [
-        "AlphaVantage"
+        "AlphaVantage",
+        "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2026-07-29",
@@ -412,9 +400,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-META-2026-07-29",
@@ -434,9 +420,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-MSFT-2026-07-29",
@@ -456,9 +440,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-AAPL-2026-07-30",
@@ -478,9 +460,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-AMZN-2026-07-30",
@@ -500,9 +480,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-COIN-2026-07-30",
@@ -522,9 +500,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-MSTR-2026-07-30",
@@ -544,9 +520,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-RIOT-2026-07-30",
@@ -566,9 +540,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "earnings-AMD-2026-08-04",
@@ -588,9 +560,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "bls-nfp-2026-08-07",
@@ -609,9 +579,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "bls-ppi-2026-08-11",
@@ -630,9 +598,27 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-NVDA-2026-08-26",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "엔비디아 (NVDA) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "AI 인프라 수요 바로미터. BTC-나스닥 상관계수 r=0.72. 실적 강세 시 위험자산 전반 상승 촉매. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "EPS·매출 상회 + 가이던스 상향 → 나스닥 급등 → BTC 연동 상승",
+      "bear": "실적 미스 또는 공급 이슈 → 기술주 전반 매도 → BTC 동반 하락",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
     },
     {
       "id": "fomc-2026-09-16",
@@ -651,9 +637,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2026-10-28",
@@ -672,9 +656,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2026-12-09",
@@ -693,9 +675,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-01-28",
@@ -713,6 +693,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -767,9 +748,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-03-18",
@@ -787,6 +766,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -841,9 +821,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-04-29",
@@ -884,9 +862,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-06-17",
@@ -904,6 +880,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -958,9 +935,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-07-29",
@@ -978,6 +953,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1032,9 +1008,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-08-22",
@@ -1053,9 +1027,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-09-16",
@@ -1073,6 +1045,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1127,9 +1100,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-10-28",
@@ -1147,6 +1118,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1201,9 +1173,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-05-28"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-12-09",
@@ -1227,6 +1197,5 @@
       "confidence": "high",
       "verificationNote": "Fed fomccalendars.htm raw HTML 직접 검증. 회의 2일차(수요일)가 결정/기자회견일."
     }
-  ],
-  "verifiedAt": "2026-05-28"
+  ]
 }
