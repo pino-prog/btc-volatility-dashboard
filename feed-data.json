@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-05-30T04:05:11.667Z",
+  "updatedAt": "2026-05-30T08:36:37.976Z",
   "items": [
+    {
+      "id": "spotonchain__Sat, 30 May 2026 05:52:31 GMT",
+      "handle": "spotonchain",
+      "label": "Spot On Chain",
+      "category": "고래 추적",
+      "color": "green",
+      "text": "🔻ETF pressure isn’t letting up. $BTC spot ETFs saw $125M outflows — day 10 straight. $ETH ETFs bled $17.9M, extending the streak to 14 days. Rallies can happen, but they’re fighting a persistent ETF supply overhang. Track real-time signals: https://hupzy.com/trending",
+      "pubDate": "Sat, 30 May 2026 05:52:31 GMT",
+      "link": "https://nitter.net/spotonchain/status/2060600221047173293#m",
+      "keywords": [
+        "ETF 수급",
+        "스팟 ETF"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 30 May 2026 04:49:24 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Did Michael Saylor&apos;s @Strategy cancel its $BTC sale? Strategy withdrew 411.5 $BTC($30.2M) back from #CoinbasePrime 5 hours ago. https://x.com/lookonchain/status/2060181007844979024",
+      "pubDate": "Sat, 30 May 2026 04:49:24 GMT",
+      "link": "https://nitter.net/lookonchain/status/2060584336412512750#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 30 May 2026 04:18:00 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Ethereum OG is dumping $ETH! Over the past week, an Ethereum OG sold 55,000 $ETH($112.25M) and 9,442 $wstETH($24M) at an average price of $2,041 per ETH . https://intel.arkm.com/explorer/address/0xc1b6085ab3fd59106bE476AC91Fd04A3E4ac740e https://intel.arkm.com/explorer/address/0xB4d3bea9D824C4dD7deD7cCc93E6212E3f0B186a",
+      "pubDate": "Sat, 30 May 2026 04:18:00 GMT",
+      "link": "https://nitter.net/lookonchain/status/2060576433450418580#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sat, 30 May 2026 02:28:29 GMT",
       "handle": "lookonchain",
@@ -1204,44 +1243,6 @@
       "keywords": [
         "고래",
         "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 29 May 2026 00:01:40 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #USgovernment wallet transferred out another $805K worth of tokens. https://x.com/lookonchain/status/2059788031243264209",
-      "pubDate": "Fri, 29 May 2026 00:01:40 GMT",
-      "link": "https://nitter.net/lookonchain/status/2060149539953336607#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Thu, 28 May 2026 23:28:10 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,685,561 $USDC (128,631,899 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x091ddff70d9377c3dfc8503002b0d5539ede10d9dbab60fab8dc5c60785fee8e",
-      "pubDate": "Thu, 28 May 2026 23:28:10 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060141107564978489#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 28 May 2026 22:45:36 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Helium ETF coming soon to a brokerage near you..",
-      "pubDate": "Thu, 28 May 2026 22:45:36 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2060130395249586662#m",
-      "keywords": [
-        "ETF 수급"
       ]
     }
   ]
