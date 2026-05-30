@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-05-30T13:57:45.964Z",
+  "updatedAt": "2026-05-30T19:37:31.629Z",
   "items": [
+    {
+      "id": "EricBalchunas__Sat, 30 May 2026 18:37:27 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: My reaction to the guy putting “earnings bubbles are still bubbles” in bold font",
+      "pubDate": "Sat, 30 May 2026 18:37:27 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2060792723121037606#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sat, 30 May 2026 18:33:54 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "The buy-and-hold optimists should do a one-off post on how ‘the market looks bubble-y, stretched valuations, this can’t last blah blah’ and then whenever the mkt goes down they can point to how they totally called it too and steal the glory and satisfaction of (finally) being right from the perma bears and Big Short wa",
+      "pubDate": "Sat, 30 May 2026 18:33:54 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2060791828664725542#m",
+      "keywords": [
+        "약세장"
+      ]
+    },
+    {
+      "id": "spotonchain__Sat, 30 May 2026 16:49:21 GMT",
+      "handle": "spotonchain",
+      "label": "Spot On Chain",
+      "category": "고래 추적",
+      "color": "green",
+      "text": "🚨 Circle has blacklisted the contract address of Zama&apos;s confidential USDC (cUSDC) on Ethereum, freezing ~$𝟭𝟮.𝟲𝗠 in user funds. The freeze was flagged by on-chain investigator ZachXBT. The address had recently participated in an Overnight Finance governance vote — an entity some users have accused of a rug pul",
+      "pubDate": "Sat, 30 May 2026 16:49:21 GMT",
+      "link": "https://nitter.net/spotonchain/status/2060765520027336862#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "spotonchain__Sat, 30 May 2026 16:06:20 GMT",
+      "handle": "spotonchain",
+      "label": "Spot On Chain",
+      "category": "고래 추적",
+      "color": "green",
+      "text": "👀$4.02M → $6.87M → $9.76M before kickoff. Either this whale knows something… or this is one of the boldest conviction bets we’ve seen on Polymarket. Near-$10M on a single UCL outcome. Public, on-chain, and moving the market in real time. Track it on Hupzy: https://hupzy.com/trade?dex=Polymarket&slug=uefa-champions-lea",
+      "pubDate": "Sat, 30 May 2026 16:06:20 GMT",
+      "link": "https://nitter.net/spotonchain/status/2060754693811581360#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Sat, 30 May 2026 14:41:19 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: If you’re a terminal subscriber and you’re interested in seeing the full reports they can be viewed here: https://blinks.bloomberg.com/news/stories/TFOZHAKIUPTG https://blinks.bloomberg.com/news/stories/TFT1JFKIP3IA",
+      "pubDate": "Sat, 30 May 2026 14:41:19 GMT",
+      "link": "https://nitter.net/JSeyff/status/2060733299882914043#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Sat, 30 May 2026 14:40:25 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "These are some of the stats that came from two notes that I and @rduboff wrote",
+      "pubDate": "Sat, 30 May 2026 14:40:25 GMT",
+      "link": "https://nitter.net/JSeyff/status/2060733070567780626#m",
+      "keywords": []
+    },
     {
       "id": "spotonchain__Sat, 30 May 2026 13:52:04 GMT",
       "handle": "spotonchain",
@@ -1171,87 +1245,6 @@
       "pubDate": "Fri, 29 May 2026 11:39:10 GMT",
       "link": "https://nitter.net/glassnode/status/2060325069675475267#m",
       "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:09 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Downside Hedging Demand Eases 25 delta skew remains positive, with most tenors clustered around 14%. Skew measures put demand vs calls, positive readings show protection is still priced at a premium, though less aggressively than earlier this month. https://glassno.de/4vfaPAf",
-      "pubDate": "Fri, 29 May 2026 11:39:09 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325066802401390#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:08 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Selloff Fails to Sustain Vol Demand ATM IV briefly rose as BTC sold off, with 1W IV moving above 35%. The move quickly faded, with front end vol back near 32%. Longer dated tenors also eased, suggesting markets still view this as a contained move. https://glassno.de/43AEvfj",
-      "pubDate": "Fri, 29 May 2026 11:39:08 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325063887311186#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:08 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Bitcoin retested the 75K strike, a high gamma zone that helped pull price down to 72.5K ahead of this morning’s major options expiry. Here’s what Bitcoin options data reveals about positioning, volatility expectations, and market sentiment beneath the surface.",
-      "pubDate": "Fri, 29 May 2026 11:39:08 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325061882454352#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 29 May 2026 11:38:21 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 703 $BTC (51,769,176 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/a49649e5e580929cd94c22291e8e9b4ed575aa4646237686afc238bf3540277f",
-      "pubDate": "Fri, 29 May 2026 11:38:21 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060324866956398909#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 29 May 2026 10:07:53 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Once profit-taking cascades, Bitcoin investors&apos; PnL typically falls for about 18 months. Since the trend turned in Oct 2025, the bear market could last until early 2027. The trend only changes when unrealized profits rise and realized profits fall. We&apos;re not there yet.",
-      "pubDate": "Fri, 29 May 2026 10:07:53 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2060302097795645596#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Fri, 29 May 2026 10:07:53 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Once profit-taking cascades, Bitcoin investors&apos; PnL typically falls for about 18 months. Since the trend turned in Oct 2025, the bear market could last until early 2027. The trend only changes when unrealized profits rise and realized profits fall. We&apos;re not there yet.",
-      "pubDate": "Fri, 29 May 2026 10:07:53 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2060302097795645596#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
     }
   ]
 }
