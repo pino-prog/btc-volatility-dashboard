@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-05-31T04:40:28.255Z",
+  "updatedAt": "2026-05-31T08:57:03.083Z",
   "items": [
+    {
+      "id": "whale_alert__Sun, 31 May 2026 07:29:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 241,500,000 $USDT (241,172,526 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x53fc94fa39a441b5276ef39d4d0c9092b749b591f1a6ba4b9072ef6c754747bd",
+      "pubDate": "Sun, 31 May 2026 07:29:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2060986973087506591#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "spotonchain__Sun, 31 May 2026 03:12:15 GMT",
       "handle": "spotonchain",
@@ -1235,17 +1249,6 @@
       "text": "R to @PelinayPA: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a195ec046f3020364885e99-Ethereums-Downside-Pressure-May-Continue?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=pelinay",
       "pubDate": "Fri, 29 May 2026 12:59:00 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2060345160236708131#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 29 May 2026 12:55:37 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Ethereum’s Downside Pressure May Continue “Leverage remains elevated, long positioning is still dominant, yet price continues to struggle, and RSI reflects weakening momentum. Overall, this combination suggests that short-term downside pressure.” – By @PelinayPA",
-      "pubDate": "Fri, 29 May 2026 12:55:37 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2060344309912629497#m",
       "keywords": []
     }
   ]
