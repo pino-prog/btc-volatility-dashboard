@@ -1,6 +1,133 @@
 {
-  "updatedAt": "2026-05-30T19:37:31.629Z",
+  "updatedAt": "2026-05-31T04:40:28.255Z",
   "items": [
+    {
+      "id": "spotonchain__Sun, 31 May 2026 03:12:15 GMT",
+      "handle": "spotonchain",
+      "label": "Spot On Chain",
+      "category": "고래 추적",
+      "color": "green",
+      "text": "📈 Whale trader loracle.hl lost $35M+ on a $110M+ $HYPE short, wiping out $42M+ in perp profits in under 20 days. Account now down $829K from peak. Partially closing HYPE short (still 1.5M HYPE / $103.1M) and flipping long on ASTER, ZEC, TON. 𝗛𝘂𝗽𝘇𝘆 𝘁𝗮𝗸𝗲: Classic capitulation — squeezed trader rotating into alt",
+      "pubDate": "Sun, 31 May 2026 03:12:15 GMT",
+      "link": "https://nitter.net/spotonchain/status/2060922274778378593#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 31 May 2026 02:34:52 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "loracle.hl(@loraclexyz), who lost over $35M from shorting $110M+ worth of $HYPE, is now closing his $HYPE short and flipping long on $ASTER! He has already closed part of his $HYPE short and still holds 1.5M $HYPE($103.1M) short. At the same time, he is adding to his longs on $ASTER, $ZEC, and $TON. Because of his $HYP",
+      "pubDate": "Sun, 31 May 2026 02:34:52 GMT",
+      "link": "https://nitter.net/lookonchain/status/2060912870578430317#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sun, 31 May 2026 02:08:15 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Trader lovelystuff bet a massive $10.3M on the Champions League final and made $1.3M in profit! He first spent $7.2M betting on Paris Saint-Germain FC to win on May 30, 2026. To hedge his risk and avoid losing the full $7.2M, he also spent $3.1M betting on Arsenal to win the 2025–26 Champions League. In the end, PSG be",
+      "pubDate": "Sun, 31 May 2026 02:08:15 GMT",
+      "link": "https://nitter.net/lookonchain/status/2060906171800903751#m",
+      "keywords": []
+    },
+    {
+      "id": "spotonchain__Sun, 31 May 2026 01:23:27 GMT",
+      "handle": "spotonchain",
+      "label": "Spot On Chain",
+      "category": "고래 추적",
+      "color": "green",
+      "text": "🚨 𝗚𝗿𝗮𝘃𝗶𝘁𝘆 𝗕𝗿𝗶𝗱𝗴𝗲 drained of ~$5.4M — $4.3M in USDC, 274 ETH (~$553K), $434K USDT, and 14.164 PAYG ($64K). The attacker has already laundered portions through ChangeNow and Binance, and is currently holding 2,102 ETH (~$4.23M). Hupzy take: A $5.4M bridge exploit is a direct hit to cross-chain liquidity and",
+      "pubDate": "Sun, 31 May 2026 01:23:27 GMT",
+      "link": "https://nitter.net/spotonchain/status/2060894897633370573#m",
+      "keywords": [
+        "유동성",
+        "분배"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sun, 31 May 2026 00:46:57 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Cmon Spurs.. NYC vs The Alien is the Finals we all want and need.",
+      "pubDate": "Sun, 31 May 2026 00:46:57 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2060885711276917109#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sun, 31 May 2026 00:34:09 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Midwifing a deity is 🔥 phrasing and a good point tbh. Great clip.",
+      "pubDate": "Sun, 31 May 2026 00:34:09 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2060882488059187393#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sun, 31 May 2026 00:14:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,791,822 $USDC (128,837,157 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x42994b65a8dd8f06d854d35c8a1a74c3878e4bb579e98336f9b65d1b74f94cc9",
+      "pubDate": "Sun, 31 May 2026 00:14:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2060877501363040572#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 30 May 2026 23:42:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,763,947 $USDC (128,806,291 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x5e5b0ffeb7c198d1392dce3f2607a38e1b5c64f5bb998f1686624e7a6b07a096",
+      "pubDate": "Sat, 30 May 2026 23:42:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2060869364551713093#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "spotonchain__Sat, 30 May 2026 22:42:23 GMT",
+      "handle": "spotonchain",
+      "label": "Spot On Chain",
+      "category": "고래 추적",
+      "color": "green",
+      "text": "🔔 SpaceX&apos;s S-1 filing reveals the company holds 18,712 BTC (~$1.3B), classified as a treasury reserve asset. No Bitcoin sold since late 2024 — a long-term hold stance ahead of what&apos;s expected to be the world&apos;s largest IPO. 𝗛𝘂𝗽𝘇𝘆 𝘁𝗮𝗸𝗲: A $1.3B corporate BTC position from a pre-IPO company of thi",
+      "pubDate": "Sat, 30 May 2026 22:42:23 GMT",
+      "link": "https://nitter.net/spotonchain/status/2060854364198375742#m",
+      "keywords": [
+        "MicroStrategy",
+        "기관 매집",
+        "Strategy(MSTR)",
+        "기관 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 30 May 2026 21:05:32 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "A.. bc I really want to visit Iceland and Alaska (I’ve been to most of the rest of the country already). Has to be during normal season tho vs when it’s like dark 23hrs a day. I ain’t messing w that.",
+      "pubDate": "Sat, 30 May 2026 21:05:32 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2060829991173034232#m",
+      "keywords": []
+    },
     {
       "id": "EricBalchunas__Sat, 30 May 2026 18:37:27 GMT",
       "handle": "EricBalchunas",
@@ -385,12 +512,12 @@
       ]
     },
     {
-      "id": "EricBalchunas__Fri, 29 May 2026 21:23:43 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
+      "id": "JSeyff__Fri, 29 May 2026 21:23:43 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
       "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Defiance with a filing for a 3x SpaceX ETF.. i don&apos;t totally get it, SEC said no to 3x.. anyhow, this is like the 22nd-ish SpaceX-related single stock etf filing $SPCX",
+      "color": "lime",
+      "text": "RT by @JSeyff: Defiance with a filing for a 3x SpaceX ETF.. i don&apos;t totally get it, SEC said no to 3x.. anyhow, this is like the 22nd-ish SpaceX-related single stock etf filing $SPCX",
       "pubDate": "Fri, 29 May 2026 21:23:43 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2060472179347644796#m",
       "keywords": [
@@ -398,12 +525,12 @@
       ]
     },
     {
-      "id": "JSeyff__Fri, 29 May 2026 21:23:43 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
+      "id": "EricBalchunas__Fri, 29 May 2026 21:23:43 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
       "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Defiance with a filing for a 3x SpaceX ETF.. i don&apos;t totally get it, SEC said no to 3x.. anyhow, this is like the 22nd-ish SpaceX-related single stock etf filing $SPCX",
+      "color": "emerald",
+      "text": "Defiance with a filing for a 3x SpaceX ETF.. i don&apos;t totally get it, SEC said no to 3x.. anyhow, this is like the 22nd-ish SpaceX-related single stock etf filing $SPCX",
       "pubDate": "Fri, 29 May 2026 21:23:43 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2060472179347644796#m",
       "keywords": [
@@ -1119,131 +1246,6 @@
       "text": "Ethereum’s Downside Pressure May Continue “Leverage remains elevated, long positioning is still dominant, yet price continues to struggle, and RSI reflects weakening momentum. Overall, this combination suggests that short-term downside pressure.” – By @PelinayPA",
       "pubDate": "Fri, 29 May 2026 12:55:37 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2060344309912629497#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Fri, 29 May 2026 12:49:40 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 116,600,000 $USDT (116,446,638 USD) transferred from unknown wallet to #Bitfinex https://whale-alert.io/tx/ethereum/0x3eb8f31846bff3b46318861191fc73f7156856965ef127f80c9a1e84a07718ef",
-      "pubDate": "Fri, 29 May 2026 12:49:40 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060342811568828652#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "rektcapital__Fri, 29 May 2026 12:44:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "R to @rektcapital: I share price analysis on Bitcoin and Altcoins every Monday, Wednesday & Friday in my newsletter 86,000+ people read it for practical guidance to better understand and navigate the Crypto market in real-time Join for free here: https://newsletter.rektcapital.co.uk/#/portal/account/plans #BTC #Crypto ",
-      "pubDate": "Fri, 29 May 2026 12:44:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2060341386033942541#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 29 May 2026 12:20:47 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: I&apos;ll never forget what a high level ETF exec told me re bitcoin ETFs: the big boy money out there (institutions, advisors) is not interested in tech stock returns from btc (they can get that in QQQ et al), they want gold-like returns, a true alternative asset bc diversification is only free lu",
-      "pubDate": "Fri, 29 May 2026 12:20:47 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2060335545767567482#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 29 May 2026 12:15:44 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Bitcoin&apos;s volatility and correlation is getting closer and closer to gold&apos;s, which is underreported and perhaps one positive from this rough patch (altho believe it or not $IBIT is STILL outperforming stocks since Iran war started and >2x SPY since Blk ETF filing). Here&apos;s 60-day hist vol since IBIT launc",
-      "pubDate": "Fri, 29 May 2026 12:15:44 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2060334271017963578#m",
-      "keywords": [
-        "ETF 수급",
-        "LTH 보유자",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 29 May 2026 11:46:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,529,166 USD) transferred from #Binance to Tether Treasury https://whale-alert.io/tx/ethereum/0xf705059aac7d3deab1aca378f8e45a7fa44ed7d6699448d6ad91e474ca117aa4",
-      "pubDate": "Fri, 29 May 2026 11:46:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060326977979007244#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:12 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Wrap Up Volatility stabilized after the selloff. Hedging demand remains elevated, but has cooled. Options still price more movement than spot. Flow is balanced, while 70K protection is unwinding. With the 75K expiry behind us, gamma is rebuilding.",
-      "pubDate": "Fri, 29 May 2026 11:39:12 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325078923964894#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:11 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: 70K Protection Demand Builds Put premium bought at the 70K strike climbed to nearly $10M . Net premium rose during the selloff, reflecting stronger protection demand. The recent reversal suggests profit taking and less concern over downside. https://glassno.de/4fOHYOJ",
-      "pubDate": "Fri, 29 May 2026 11:39:11 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325076864553457#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:11 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Gamma Resets After Expiry The $75K strike carried nearly $8B of short gamma into this morning’s expiry. With that position now cleared, no single strike dominates the surface. Instead, gamma is rebuilding across several zones. https://glassno.de/49puAg7",
-      "pubDate": "Fri, 29 May 2026 11:39:11 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325074029220051#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:10 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Flow Reaches Equilibrium 7 day taker flow is almost perfectly balanced, with calls bought, puts bought, calls sold, and puts sold each near 25% of premium. The even split points to little directional conviction following the recent selloff. https://glassno.de/3RAQcQC",
-      "pubDate": "Fri, 29 May 2026 11:39:10 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325072062009630#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 29 May 2026 11:39:10 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Volatility Risk Premium Remains Elevated 1M realized volatility rebounded from 24.5% to 28% following the recent selloff, while 1M IV remains near 35%. The gap stays near 7 vols, showing options continue to price more movement than spot has delivered. https://glassno.de/4veiJd0",
-      "pubDate": "Fri, 29 May 2026 11:39:10 GMT",
-      "link": "https://nitter.net/glassnode/status/2060325069675475267#m",
       "keywords": []
     }
   ]
