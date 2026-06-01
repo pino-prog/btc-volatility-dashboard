@@ -1,6 +1,149 @@
 {
-  "updatedAt": "2026-06-01T17:56:21.357Z",
+  "updatedAt": "2026-06-01T21:41:41.645Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:44:27 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 120,000,000 $USDT (119,913,600 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/solana/3hPLzcdi5QPeJoDc91bvQjLTzeQqkxoVtBpncG6LsxEdjbGskP4Jnsm6o7brpcyu442XpZctWRLy7XUymemEyyDZ",
+      "pubDate": "Mon, 01 Jun 2026 18:44:27 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061519260342444415#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:39:13 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 774 $BTC (55,429,876 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/762259afa83e2967ba441a64466fe9204cf1283f025374e105979d6fcc4af6fb",
+      "pubDate": "Mon, 01 Jun 2026 18:39:13 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061517943091998801#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:38:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,158 $BTC (82,929,970 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/ab717b8acc3196bb52c96574a2f8aba518eb8cdf0622b67b64cfba471f5aadd9",
+      "pubDate": "Mon, 01 Jun 2026 18:38:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061517635951415555#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:24:19 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 500,000,000 $XRP (648,191,014 USD) locked in escrow at #Ripple https://whale-alert.io/tx/ripple/B6DFD3A32B90816FA1EBFE65AB6B1D4347C4E018303C907BE5B3E90AC8541C4E",
+      "pubDate": "Mon, 01 Jun 2026 18:24:19 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061514195326157279#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:22:36 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 100,000,000 $XRP (129,594,525 USD) locked in escrow at #Ripple https://whale-alert.io/tx/ripple/7A0E36E965BD580E8F7EA7E59D6ABE4C2804DB0BC14C505090CB1A24807B04A7",
+      "pubDate": "Mon, 01 Jun 2026 18:22:36 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061513761563766839#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 01 Jun 2026 18:21:40 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "My brain immediately thinks perpetrators. Watched too many cop movies I guess. While we’re here tho someone asked me if perps could threaten ETFs. Initial reaction is no. But perhaps I’m missing some advantage that you can’t get w ETF. Anyone?",
+      "pubDate": "Mon, 01 Jun 2026 18:21:40 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2061513525743210996#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:20:55 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 🔒 100,000,000 $XRP (129,628,876 USD) locked in escrow at #Ripple https://whale-alert.io/tx/ripple/44675BFA32FD16A7929CD07ADDD20D787999B28172C8AA98251A32F43293C2F5",
+      "pubDate": "Mon, 01 Jun 2026 18:20:55 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061513339763626412#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:16:48 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (249,916,500 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/38QSAdcjM7y9f5PS3Xir5jgwyyAoqnbM7gpJKSvSz68Rjss88eYqTrNf71zXEbdgt6DiX1irVNY5NDXVNoMEmQjJ",
+      "pubDate": "Mon, 01 Jun 2026 18:16:48 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061512301128118684#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 18:07:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,062,000 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3VhmsWLFfCPT47Mr1npYZbw9zx77aLZ6bmFYCqA6fxK8aGZyq5YyvwcjHnvrVqz12MJW7PEbyFjCWve4jzKMk1t4",
+      "pubDate": "Mon, 01 Jun 2026 18:07:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061509962413568182#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 01 Jun 2026 18:00:36 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: On Public Keys at the @NYSE, @EricBalchunas of @Bloomberg breaks down why $3B in BTC ETF outflows is just \"noise\" and why HYPE is the new \"Hansel from Zoolander\" of crypto ETFs. Plus, Stellar Development Foundation CEO @DenelleDixon on @The_DTCC tapping @StellarOrg as the first public blockchain f",
+      "pubDate": "Mon, 01 Jun 2026 18:00:36 GMT",
+      "link": "https://nitter.net/CoinDesk/status/2061508223564198104#m",
+      "keywords": [
+        "ETF 수급",
+        "ETF 유출",
+        "스테이블코인",
+        "SSR"
+      ]
+    },
     {
       "id": "whale_alert__Mon, 01 Jun 2026 17:32:20 GMT",
       "handle": "whale_alert",
@@ -262,6 +405,20 @@
       "link": "https://nitter.net/EricBalchunas/status/2061458328916562072#m",
       "keywords": [
         "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 01 Jun 2026 14:33:51 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: This is actually bullish for the stock market because it gives us another opportunity for the S&P 500 to hit fresh all time highs on hopes of a peace deal",
+      "pubDate": "Mon, 01 Jun 2026 14:33:51 GMT",
+      "link": "https://nitter.net/ParikPatelCFA/status/2061456194670342556#m",
+      "keywords": [
+        "강세장",
+        "강세 신호"
       ]
     },
     {
@@ -1109,144 +1266,6 @@
         "고래",
         "Whale"
       ]
-    },
-    {
-      "id": "spotonchain__Sun, 31 May 2026 03:12:15 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "📈 Whale trader loracle.hl lost $35M+ on a $110M+ $HYPE short, wiping out $42M+ in perp profits in under 20 days. Account now down $829K from peak. Partially closing HYPE short (still 1.5M HYPE / $103.1M) and flipping long on ASTER, ZEC, TON. 𝗛𝘂𝗽𝘇𝘆 𝘁𝗮𝗸𝗲: Classic capitulation — squeezed trader rotating into alt",
-      "pubDate": "Sun, 31 May 2026 03:12:15 GMT",
-      "link": "https://nitter.net/spotonchain/status/2060922274778378593#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Sun, 31 May 2026 02:34:52 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "loracle.hl(@loraclexyz), who lost over $35M from shorting $110M+ worth of $HYPE, is now closing his $HYPE short and flipping long on $ASTER! He has already closed part of his $HYPE short and still holds 1.5M $HYPE($103.1M) short. At the same time, he is adding to his longs on $ASTER, $ZEC, and $TON. Because of his $HYP",
-      "pubDate": "Sun, 31 May 2026 02:34:52 GMT",
-      "link": "https://nitter.net/lookonchain/status/2060912870578430317#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sun, 31 May 2026 02:08:15 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Trader lovelystuff bet a massive $10.3M on the Champions League final and made $1.3M in profit! He first spent $7.2M betting on Paris Saint-Germain FC to win on May 30, 2026. To hedge his risk and avoid losing the full $7.2M, he also spent $3.1M betting on Arsenal to win the 2025–26 Champions League. In the end, PSG be",
-      "pubDate": "Sun, 31 May 2026 02:08:15 GMT",
-      "link": "https://nitter.net/lookonchain/status/2060906171800903751#m",
-      "keywords": []
-    },
-    {
-      "id": "spotonchain__Sun, 31 May 2026 01:23:27 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "🚨 𝗚𝗿𝗮𝘃𝗶𝘁𝘆 𝗕𝗿𝗶𝗱𝗴𝗲 drained of ~$5.4M — $4.3M in USDC, 274 ETH (~$553K), $434K USDT, and 14.164 PAYG ($64K). The attacker has already laundered portions through ChangeNow and Binance, and is currently holding 2,102 ETH (~$4.23M). Hupzy take: A $5.4M bridge exploit is a direct hit to cross-chain liquidity and",
-      "pubDate": "Sun, 31 May 2026 01:23:27 GMT",
-      "link": "https://nitter.net/spotonchain/status/2060894897633370573#m",
-      "keywords": [
-        "유동성",
-        "분배"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 31 May 2026 00:46:57 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Cmon Spurs.. NYC vs The Alien is the Finals we all want and need.",
-      "pubDate": "Sun, 31 May 2026 00:46:57 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2060885711276917109#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 31 May 2026 00:34:09 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Midwifing a deity is 🔥 phrasing and a good point tbh. Great clip.",
-      "pubDate": "Sun, 31 May 2026 00:34:09 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2060882488059187393#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Sun, 31 May 2026 00:14:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,791,822 $USDC (128,837,157 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x42994b65a8dd8f06d854d35c8a1a74c3878e4bb579e98336f9b65d1b74f94cc9",
-      "pubDate": "Sun, 31 May 2026 00:14:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060877501363040572#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 30 May 2026 23:42:00 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,763,947 $USDC (128,806,291 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x5e5b0ffeb7c198d1392dce3f2607a38e1b5c64f5bb998f1686624e7a6b07a096",
-      "pubDate": "Sat, 30 May 2026 23:42:00 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060869364551713093#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "spotonchain__Sat, 30 May 2026 22:42:23 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "🔔 SpaceX&apos;s S-1 filing reveals the company holds 18,712 BTC (~$1.3B), classified as a treasury reserve asset. No Bitcoin sold since late 2024 — a long-term hold stance ahead of what&apos;s expected to be the world&apos;s largest IPO. 𝗛𝘂𝗽𝘇𝘆 𝘁𝗮𝗸𝗲: A $1.3B corporate BTC position from a pre-IPO company of thi",
-      "pubDate": "Sat, 30 May 2026 22:42:23 GMT",
-      "link": "https://nitter.net/spotonchain/status/2060854364198375742#m",
-      "keywords": [
-        "MicroStrategy",
-        "기관 매집",
-        "Strategy(MSTR)",
-        "기관 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sat, 30 May 2026 21:05:32 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "A.. bc I really want to visit Iceland and Alaska (I’ve been to most of the rest of the country already). Has to be during normal season tho vs when it’s like dark 23hrs a day. I ain’t messing w that.",
-      "pubDate": "Sat, 30 May 2026 21:05:32 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2060829991173034232#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sat, 30 May 2026 18:37:27 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: My reaction to the guy putting “earnings bubbles are still bubbles” in bold font",
-      "pubDate": "Sat, 30 May 2026 18:37:27 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2060792723121037606#m",
-      "keywords": []
     }
   ]
 }
