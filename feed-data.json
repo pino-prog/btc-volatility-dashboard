@@ -1,6 +1,168 @@
 {
-  "updatedAt": "2026-06-01T05:01:54.727Z",
+  "updatedAt": "2026-06-01T11:51:46.011Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 11:38:03 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 137,233,790 $USDT (137,077,480 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/solana/2w4j5shhaUSuzY5fAQ5S2Dzw4xERLm6AxzhRFWQBEUgtGXvJ3umMUh68kYdZgD8FpkzgK8Wpk2Prmp6uom5dHNu6",
+      "pubDate": "Mon, 01 Jun 2026 11:38:03 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061411954023862699#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 11:37:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 110,855,337 $USDT (110,730,957 USD) transferred from #Kraken to #Bitfinex https://whale-alert.io/tx/ethereum/0xae09eb9d8c1a7c94a50ea914ae0d0ed29a9a550c33380d7181249ec600f74bb7",
+      "pubDate": "Mon, 01 Jun 2026 11:37:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061411813753827789#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 11:11:55 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 705 $BTC (51,341,087 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/da96c7f828e724d3c5d4f2e2c24725e3db2836abeedbd90a3fba8ab3a1fe2932",
+      "pubDate": "Mon, 01 Jun 2026 11:11:55 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061405375601979517#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 01 Jun 2026 11:08:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @AxelAdlerJr: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a1d48e5ae348e5baf3fbc89-Bitcoin-Realized-Volatility-Hits-17-The-Calm-Before-the-Move?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=axeladlerjr",
+      "pubDate": "Mon, 01 Jun 2026 11:08:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061404389882171886#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 01 Jun 2026 11:02:03 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Realized Volatility Hits 17% “That places it among the lowest readings in years and well below its long-run median near 34%. For context, past stress events pushed this same metric above 90%. Today, it sits at the opposite extreme.” – By @AxelAdlerJr",
+      "pubDate": "Mon, 01 Jun 2026 11:02:03 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061402894578917480#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 10:32:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 3,900 $BTC (283,672,936 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/60c96ca3c09036f9b4dd81f0641bd6fb8c2fcba4245fdd7ea6d4db46d128b0d1",
+      "pubDate": "Mon, 01 Jun 2026 10:32:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061395433612513679#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 01 Jun 2026 09:39:34 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Turning $3,810 into $12.68M in 8 months — a 3,329x return. What a legend! On Oct 4, 2025, trader 0xd0a2 spent $3,810 to buy 19.81M $币安人生, then sold 1.31M $币安人生 the next day to take out his initial capital. Just 1 hour ago, he deposited another 3.5M $币安人生($2.39M) into #Binance. He still holds 15M $币安人生($10.29M), with to",
+      "pubDate": "Mon, 01 Jun 2026 09:39:34 GMT",
+      "link": "https://nitter.net/lookonchain/status/2061382138034082259#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 01 Jun 2026 08:38:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 912 $BTC (66,464,560 USD) transferred from #Binance to #Ceffu https://whale-alert.io/tx/bitcoin/5e611f797655848fa340fec07269735fe98ea3bd92172edd284f8ffed8ff4bc5",
+      "pubDate": "Mon, 01 Jun 2026 08:38:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061366767646114225#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 01 Jun 2026 07:56:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Dive into the details ⤵️ https://cryptoquant.com/insights/research/6a186780acd5dd4820d91057-28-May-2026-Holding-Without-Buyers-Rising-BTC-Long-Term-Holder-Supply-Masks-the-?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
+      "pubDate": "Mon, 01 Jun 2026 07:56:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061356071214829723#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Mon, 01 Jun 2026 07:50:20 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "A high in long-term holder supply is hiding a bigger problem. The buyers that drove this cycle are no longer accumulating. Whale balances are shrinking, and dolphin growth continues to deteriorate.",
+      "pubDate": "Mon, 01 Jun 2026 07:50:20 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061354646170476946#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC 사이클"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 01 Jun 2026 06:32:40 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales are accumulating $BTC. Two newly created wallets withdrew 984 $BTC($72M) from #BitGo an hour ago. https://intel.arkm.com/explorer/address/bc1qnlg6qzhlek7z7pjuxq4awr5ht83pmvzvwr0u049jk7yc9hxpfxss6a90am https://intel.arkm.com/explorer/address/bc1qza97cz46xfz9acvrze2gg7j605vspkgxgf7n3yahuu76qqcq2ndqnj5855",
+      "pubDate": "Mon, 01 Jun 2026 06:32:40 GMT",
+      "link": "https://nitter.net/lookonchain/status/2061335099820626145#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 01 Jun 2026 05:14:14 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: I have found it, the Platonic form of every New York Times op-ed.",
+      "pubDate": "Mon, 01 Jun 2026 05:14:14 GMT",
+      "link": "https://nitter.net/pmarca/status/2061315363456045233#m",
+      "keywords": []
+    },
     {
       "id": "ColinTCrypto__Mon, 01 Jun 2026 02:26:19 GMT",
       "handle": "ColinTCrypto",
@@ -575,90 +737,6 @@
       "keywords": []
     },
     {
-      "id": "whale_alert__Sat, 30 May 2026 11:32:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 1,722 $WBTC (126,731,229 USD) transferred from #HTX to unknown wallet https://whale-alert.io/tx/ethereum/0x4de73e941227b9154e080436aa630bfcd67dd64d93995201256aeab85b848d33",
-      "pubDate": "Sat, 30 May 2026 11:32:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060685737817772450#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 30 May 2026 11:00:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,393 $BTC (102,541,525 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/c5ea668edb49170acce9502204ee5d301d1fb7d482280fd4e9667e117e79a51f",
-      "pubDate": "Sat, 30 May 2026 11:00:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060677704572080141#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 30 May 2026 10:55:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,347,000 $SUSDS (219,977,244 USD) transferred from unknown wallet to Justin Sun https://whale-alert.io/tx/ethereum/0xf60aaddd2282542975c29115b24859c6fd32e57cb7b3c9a05d4df59b13a4298c",
-      "pubDate": "Sat, 30 May 2026 10:55:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060676531312001134#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 30 May 2026 10:35:55 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $SUSDS (219,635,654 USD) transferred from #Poloniex to unknown wallet https://whale-alert.io/tx/ethereum/0x8e893a694ad8bcb60cf1596d3a2e0379c12ddc721cb1d98eb242f8439bf893e5",
-      "pubDate": "Sat, 30 May 2026 10:35:55 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060671540098646018#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 30 May 2026 10:33:35 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,347,452 $SUSDS (220,017,219 USD) transferred from #HTX to unknown wallet https://whale-alert.io/tx/ethereum/0xc49147fc0fdbfb86b39aa9e88faa7b5ef5223d87b1b1d9f7c2038cae3383fbfd",
-      "pubDate": "Sat, 30 May 2026 10:33:35 GMT",
-      "link": "https://nitter.net/whale_alert/status/2060670952896176534#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "spotonchain__Sat, 30 May 2026 10:08:01 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "📈 Ethereum OG dumps $136M in ETH — 55,000 ETH + 9,442 wstETH sold at ~$2,041 avg. An Ethereum OG has been aggressively selling over the past week: 55,000 ETH ($112.25M) and 9,442 wstETH ($24M) at an average price of $2,041. Total sold: ~$136M. Hupzy take: A $136M dump from a legacy holder at ~$2,041 is a massive distr",
-      "pubDate": "Sat, 30 May 2026 10:08:01 GMT",
-      "link": "https://nitter.net/spotonchain/status/2060664519467422042#m",
-      "keywords": [
-        "분배"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Sat, 30 May 2026 09:03:15 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -681,56 +759,6 @@
       "keywords": []
     },
     {
-      "id": "spotonchain__Sat, 30 May 2026 05:52:31 GMT",
-      "handle": "spotonchain",
-      "label": "Spot On Chain",
-      "category": "고래 추적",
-      "color": "green",
-      "text": "🔻ETF pressure isn’t letting up. $BTC spot ETFs saw $125M outflows — day 10 straight. $ETH ETFs bled $17.9M, extending the streak to 14 days. Rallies can happen, but they’re fighting a persistent ETF supply overhang. Track real-time signals: https://hupzy.com/trending",
-      "pubDate": "Sat, 30 May 2026 05:52:31 GMT",
-      "link": "https://nitter.net/spotonchain/status/2060600221047173293#m",
-      "keywords": [
-        "ETF 수급",
-        "스팟 ETF"
-      ]
-    },
-    {
-      "id": "lookonchain__Sat, 30 May 2026 04:49:24 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Did Michael Saylor&apos;s @Strategy cancel its $BTC sale? Strategy withdrew 411.5 $BTC($30.2M) back from #CoinbasePrime 5 hours ago. https://x.com/lookonchain/status/2060181007844979024",
-      "pubDate": "Sat, 30 May 2026 04:49:24 GMT",
-      "link": "https://nitter.net/lookonchain/status/2060584336412512750#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "lookonchain__Sat, 30 May 2026 04:18:00 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Ethereum OG is dumping $ETH! Over the past week, an Ethereum OG sold 55,000 $ETH($112.25M) and 9,442 $wstETH($24M) at an average price of $2,041 per ETH . https://intel.arkm.com/explorer/address/0xc1b6085ab3fd59106bE476AC91Fd04A3E4ac740e https://intel.arkm.com/explorer/address/0xB4d3bea9D824C4dD7deD7cCc93E6212E3f0B186a",
-      "pubDate": "Sat, 30 May 2026 04:18:00 GMT",
-      "link": "https://nitter.net/lookonchain/status/2060576433450418580#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Fri, 29 May 2026 21:35:12 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "R to @Grayscale: This looks like its nothing but a response to the potential minor SEC comments or small clean ups or formatting changes from what they filed yesterday. Nothing substantive that i noticed???",
-      "pubDate": "Fri, 29 May 2026 21:35:12 GMT",
-      "link": "https://nitter.net/JSeyff/status/2060475066022809860#m",
-      "keywords": []
-    },
-    {
       "id": "JSeyff__Fri, 29 May 2026 21:33:52 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -741,6 +769,19 @@
       "link": "https://nitter.net/fintechfrank/status/2060474733620072743#m",
       "keywords": [
         "LTH 보유자"
+      ]
+    },
+    {
+      "id": "JSeyff__Fri, 29 May 2026 21:31:28 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "NEW: @Grayscale files Amendment number five for their Hyperliquid Staking ETF -- still no fee though !?! Ticker is still going to be $HYPG. There is still language in here for a seed of 2 million hyperliquid:native tokens (~$130 million)",
+      "pubDate": "Fri, 29 May 2026 21:31:28 GMT",
+      "link": "https://nitter.net/JSeyff/status/2060474128432284032#m",
+      "keywords": [
+        "ETF 수급"
       ]
     },
     {
@@ -818,54 +859,6 @@
       "pubDate": "Fri, 29 May 2026 20:18:22 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2060455732147896713#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 29 May 2026 20:17:38 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 5. Z-Score The engine. A z-score tells you how extreme the current delta is vs recent history: z = (value − 30p mean) / 30p std z > +2 → unusually heavy buying z < −2 → unusually heavy selling in between → noise One variable, one threshold.",
-      "pubDate": "Fri, 29 May 2026 20:17:38 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2060455545681707091#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 29 May 2026 20:16:46 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 4. Now the math. Calculate: Delta = Taker buy volume − taker sell volume One hour of delta is noise. So smooth it with a 7-period moving average. That filters the chop and surfaces the real trend in buy/sell pressure.",
-      "pubDate": "Fri, 29 May 2026 20:16:46 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2060455327527518395#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 29 May 2026 20:16:15 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 3. Fetch BTC Price (in parallel) At the same time, pull hourly BTC price (Open, High, Low, Close, Volume). You&apos;ll need it later to plot the signal in context. Running it in parallel to the volume fetch keeps the workflow fast; both land before the next step.",
-      "pubDate": "Fri, 29 May 2026 20:16:15 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2060455200121323944#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 29 May 2026 20:15:33 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 2. Fetch Taker Volume Pull hourly BTC taker buy & sell volume from CryptoQuant. This is aggressive order flow, which is market-buying vs market-selling. One call gives you both sides. The raw imbalance is where the signal lives.",
-      "pubDate": "Fri, 29 May 2026 20:15:33 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2060455024380039521#m",
-      "keywords": [
-        "BTC"
-      ]
     },
     {
       "id": "ColinTCrypto__Fri, 29 May 2026 16:52:49 GMT",
@@ -1232,6 +1225,17 @@
       "keywords": [
         "BTC"
       ]
+    },
+    {
+      "id": "ki_young_ju__Tue, 05 May 2026 10:31:04 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "RT by @ki_young_ju: How do you actually use the CryptoQuant MCP for trading? Plug it into n8n, let it fetch on-chain data, convert it into trading signals, run it through risk management, and execute orders on your exchange. Step-by-step example 👇",
+      "pubDate": "Tue, 05 May 2026 10:31:04 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2051610625856475340#m",
+      "keywords": []
     }
   ]
 }
