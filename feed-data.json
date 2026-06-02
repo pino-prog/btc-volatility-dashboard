@@ -1,6 +1,297 @@
 {
-  "updatedAt": "2026-06-02T04:48:38.421Z",
+  "updatedAt": "2026-06-02T10:49:24.799Z",
   "items": [
+    {
+      "id": "glassnode__Tue, 02 Jun 2026 10:41:48 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "US Spot ETF flows have swung back to persistent net outflows, with the 7-day average now near the weakest levels of the cycle. The shift in flows has coincided with bitcoin:native retracing from $82K to $69K, highlighting materially softer demand. 📉https://glassno.de/3POhzGl",
+      "pubDate": "Tue, 02 Jun 2026 10:41:48 GMT",
+      "link": "https://nitter.net/glassnode/status/2061760184528085323#m",
+      "keywords": [
+        "ETF 수급",
+        "스팟 ETF",
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Tue, 02 Jun 2026 10:02:52 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @ColinTCrypto: How it’s going so far:",
+      "pubDate": "Tue, 02 Jun 2026 10:02:52 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2061750386902319552#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Tue, 02 Jun 2026 10:01:57 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC Squiggles, playing out",
+      "pubDate": "Tue, 02 Jun 2026 10:01:57 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2061750155515224205#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 02 Jun 2026 09:53:44 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "pension-usdt.eth is truly a legendary trader! 2 months ago, he got trapped in his BTC and ETH short positions, with unrealized losses peaking at over $20M. 5 days ago, his $ETH short finally turned profitable and he closed with a $1.13M profit. Now, his 1,400 $BTC($97.15M) short is also back in profit.",
+      "pubDate": "Tue, 02 Jun 2026 09:53:44 GMT",
+      "link": "https://nitter.net/lookonchain/status/2061748090064052616#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 09:24:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 719 $BTC (50,027,650 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/bitcoin/713fd1ad814f92a22b295f98020d672057b2871ed14ec04c9cc5f528e8295b2d",
+      "pubDate": "Tue, 02 Jun 2026 09:24:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061740855480762839#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 02 Jun 2026 08:38:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @MorenoDV_: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a1db76facd5dd4820d91667-The-Line-That-Has-Marked-Every-Bitcoin-Bottom-For-Over-A-Decade?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
+      "pubDate": "Tue, 02 Jun 2026 08:38:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061729028738891780#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 02 Jun 2026 08:30:45 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "The Line That Has Marked Every Bitcoin Bottom For Over A Decade “The current reading near 40% shows that stress is already meaningful, but not yet at the historical &apos;maximum opportunity&apos; zone.” – By @MorenoDV_",
+      "pubDate": "Tue, 02 Jun 2026 08:30:45 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061727204086599720#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Tue, 02 Jun 2026 08:25:48 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "$BTC turning 2024 old All Time Highs into new resistance has indeed increased the chance of revisiting the 2021 All Time Highs #BTC #Crypto #Bitcoin",
+      "pubDate": "Tue, 02 Jun 2026 08:25:48 GMT",
+      "link": "https://nitter.net/rektcapital/status/2061725960605507793#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 08:15:44 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,085 $BTC (75,967,050 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/bitcoin/d95c7b7f8cdac0023013a8d9c6f5737032f7f778633b3b1d6dad1c086cd95f76",
+      "pubDate": "Tue, 02 Jun 2026 08:15:44 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061723428382462300#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 02 Jun 2026 08:03:16 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "R to @lookonchain: Correction: The wallet that deposited 20M $LDO to exchanges does not belong to @cobie.",
+      "pubDate": "Tue, 02 Jun 2026 08:03:16 GMT",
+      "link": "https://nitter.net/lookonchain/status/2061720287453102507#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 02 Jun 2026 07:27:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Live chart ⤵️ https://cryptoquant.com/community/dashboard/6696ae97041f4a7567a05eca?utm_source=twitter&utm_medium=sns&utm_campaign=dashboard&utm_content=mt-gox",
+      "pubDate": "Tue, 02 Jun 2026 07:27:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061711161159270670#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 02 Jun 2026 07:23:19 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Mt. Gox just moved 10,306 BTC ($731M). We’ve seen similar transfers before, tied to creditor repayments and distribution preparation. Importantly, they did not lead to immediate selling pressure.",
+      "pubDate": "Tue, 02 Jun 2026 07:23:19 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2061710235312476527#m",
+      "keywords": [
+        "고래 이동",
+        "분배",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 07:09:05 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 110,700,000 $USDT (110,590,370 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0xc6f865331cb6c88c1fcf86a55019ac2d04831c093839697768477518642ee589",
+      "pubDate": "Tue, 02 Jun 2026 07:09:05 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061706652542263617#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Tue, 02 Jun 2026 06:58:47 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Strategy just sold Bitcoin for only the second time in its history. The sale was small - just 32 BTC out of a treasury of 843,706 coins - but it raises a much bigger question: What does this sale tell us about how Strategy intends to manage its balance sheet going forward? In our latest newsletter ",
+      "pubDate": "Tue, 02 Jun 2026 06:58:47 GMT",
+      "link": "https://nitter.net/_checkonchain/status/2061704061876044081#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 02 Jun 2026 06:56:49 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Wallet 0x1Bb7 just deposited 86,481 $ETH(171.57M) into #Bitfinex after over 5 years of inactivity. This could simply be a transfer between internal #Bitfinex wallets. https://intel.arkm.com/explorer/address/0x1Bb762b16438f8b287626fd1042bc6f6848cc286",
+      "pubDate": "Tue, 02 Jun 2026 06:56:49 GMT",
+      "link": "https://nitter.net/lookonchain/status/2061703567132762522#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 06:53:15 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 86,480 $ETH (171,684,532 USD) transferred from unknown wallet to #Bitfinex https://whale-alert.io/tx/ethereum/0x862f5209fbcc5b0521f0fe5ce069c09e664c57864752d175a2fd1ddd947990cc",
+      "pubDate": "Tue, 02 Jun 2026 06:53:15 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061702667898884104#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 06:51:10 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 34,740 $ETH (68,956,994 USD) transferred from unknown wallet to #Bitfinex https://whale-alert.io/tx/ethereum/0x943bf5212eac49b6fa76528e6e6d90b8f52276c53b78c956921ffe7ce8ae2a64",
+      "pubDate": "Tue, 02 Jun 2026 06:51:10 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061702143774449950#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 06:49:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 86,481 $ETH (171,672,484 USD) transferred from unknown wallet to unknown new wallet https://whale-alert.io/tx/ethereum/0xe0a7b171db7f255c16440e2ebee7802fd89af69d9197dc0113126661d388b97c",
+      "pubDate": "Tue, 02 Jun 2026 06:49:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061701724352459099#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 02 Jun 2026 06:43:46 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "It seems that Cobie(@cobie) dumped 20M $LDO($6.58M)! Wallets linked to Cobie collected 20M $LDO from multiple wallets 6 hours ago and deposited it all into #Binance, #Kraken, #OKX, #Bybit, and #Gate 1 hour ago. https://intel.arkm.com/explorer/address/0xa53b02044D411066987c3d72D0ba1f3CD0A91a67",
+      "pubDate": "Tue, 02 Jun 2026 06:43:46 GMT",
+      "link": "https://nitter.net/lookonchain/status/2061700284280451143#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 06:35:55 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 34,740 $ETH (69,039,882 USD) transferred from #Bitfinex to unknown new wallet https://whale-alert.io/tx/ethereum/0xa1438a559f5357f59cce50bc91068b06144062a84586c332aa01863bfa4b9a99",
+      "pubDate": "Tue, 02 Jun 2026 06:35:55 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061698306175090787#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 02 Jun 2026 06:16:15 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 95,263 $ETH (188,841,554 USD) transferred from #Bitfinex to unknown new wallet https://whale-alert.io/tx/ethereum/0x179f851968b025af150faab3ddd613042fe5712eef491fdb21bf602ad2de340f",
+      "pubDate": "Tue, 02 Jun 2026 06:16:15 GMT",
+      "link": "https://nitter.net/whale_alert/status/2061693356510515458#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 02 Jun 2026 05:05:33 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "BREAKING: Mt. Gox just transferred 10,306 $BTC($731M) to a new wallet! https://intel.arkm.com/explorer/tx/529c1748e7fea17279007b4f1b56dba1b3d3710725d8f82ca351facc8e72e34e",
+      "pubDate": "Tue, 02 Jun 2026 05:05:33 GMT",
+      "link": "https://nitter.net/lookonchain/status/2061675565372047861#m",
+      "keywords": []
+    },
     {
       "id": "JSeyff__Tue, 02 Jun 2026 04:16:14 GMT",
       "handle": "JSeyff",
@@ -130,6 +421,21 @@
       "keywords": [
         "고래",
         "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 01 Jun 2026 23:15:07 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: CryptoQuant&apos;s Bull Score Index down to 10, extremely bearish territory.",
+      "pubDate": "Mon, 01 Jun 2026 23:15:07 GMT",
+      "link": "https://nitter.net/jjcmoreno/status/2061587376078459218#m",
+      "keywords": [
+        "강세장",
+        "약세장",
+        "약세 신호"
       ]
     },
     {
@@ -388,7 +694,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New edition of the RC Newsletter is out! Bitcoin - Is a New Breakdown In Progress? Old $BTC supports are becoming new resistances, one by one Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-is-a-new-breakdown-in-progress/ #BTC #Crypto #Bitcoin",
+      "text": "RT by @rektcapital: New edition of the RC Newsletter is out! Bitcoin - Is a New Breakdown In Progress? Old $BTC supports are becoming new resistances, one by one Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-is-a-new-breakdown-in-progress/ #BTC #Crypto #Bitcoin",
       "pubDate": "Mon, 01 Jun 2026 16:11:20 GMT",
       "link": "https://nitter.net/rektcapital/status/2061480725493268900#m",
       "keywords": [
@@ -746,7 +1052,7 @@
       "label": "Colin",
       "category": "기술적 분석",
       "color": "orange",
-      "text": "$BTC H&S Top Breakdown & Channel Breakdown Target: $61,000",
+      "text": "RT by @ColinTCrypto: $BTC H&S Top Breakdown & Channel Breakdown Target: $61,000",
       "pubDate": "Mon, 01 Jun 2026 13:44:06 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2061443672948769257#m",
       "keywords": []
@@ -966,309 +1272,6 @@
       "keywords": [
         "고래",
         "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 11:37:30 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 110,855,337 $USDT (110,730,957 USD) transferred from #Kraken to #Bitfinex https://whale-alert.io/tx/ethereum/0xae09eb9d8c1a7c94a50ea914ae0d0ed29a9a550c33380d7181249ec600f74bb7",
-      "pubDate": "Mon, 01 Jun 2026 11:37:30 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061411813753827789#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 11:11:55 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 705 $BTC (51,341,087 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/da96c7f828e724d3c5d4f2e2c24725e3db2836abeedbd90a3fba8ab3a1fe2932",
-      "pubDate": "Mon, 01 Jun 2026 11:11:55 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061405375601979517#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 01 Jun 2026 11:08:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @AxelAdlerJr: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a1d48e5ae348e5baf3fbc89-Bitcoin-Realized-Volatility-Hits-17-The-Calm-Before-the-Move?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=axeladlerjr",
-      "pubDate": "Mon, 01 Jun 2026 11:08:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2061404389882171886#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 01 Jun 2026 11:02:03 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Realized Volatility Hits 17% “That places it among the lowest readings in years and well below its long-run median near 34%. For context, past stress events pushed this same metric above 90%. Today, it sits at the opposite extreme.” – By @AxelAdlerJr",
-      "pubDate": "Mon, 01 Jun 2026 11:02:03 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2061402894578917480#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 10:32:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 3,900 $BTC (283,672,936 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/60c96ca3c09036f9b4dd81f0641bd6fb8c2fcba4245fdd7ea6d4db46d128b0d1",
-      "pubDate": "Mon, 01 Jun 2026 10:32:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061395433612513679#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 01 Jun 2026 09:39:34 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Turning $3,810 into $12.68M in 8 months — a 3,329x return. What a legend! On Oct 4, 2025, trader 0xd0a2 spent $3,810 to buy 19.81M $币安人生, then sold 1.31M $币安人生 the next day to take out his initial capital. Just 1 hour ago, he deposited another 3.5M $币安人生($2.39M) into #Binance. He still holds 15M $币安人生($10.29M), with to",
-      "pubDate": "Mon, 01 Jun 2026 09:39:34 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061382138034082259#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 08:38:30 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 912 $BTC (66,464,560 USD) transferred from #Binance to #Ceffu https://whale-alert.io/tx/bitcoin/5e611f797655848fa340fec07269735fe98ea3bd92172edd284f8ffed8ff4bc5",
-      "pubDate": "Mon, 01 Jun 2026 08:38:30 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061366767646114225#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 01 Jun 2026 07:56:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Dive into the details ⤵️ https://cryptoquant.com/insights/research/6a186780acd5dd4820d91057-28-May-2026-Holding-Without-Buyers-Rising-BTC-Long-Term-Holder-Supply-Masks-the-?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
-      "pubDate": "Mon, 01 Jun 2026 07:56:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2061356071214829723#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Mon, 01 Jun 2026 07:50:20 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "A high in long-term holder supply is hiding a bigger problem. The buyers that drove this cycle are no longer accumulating. Whale balances are shrinking, and dolphin growth continues to deteriorate.",
-      "pubDate": "Mon, 01 Jun 2026 07:50:20 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2061354646170476946#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 01 Jun 2026 06:32:40 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales are accumulating $BTC. Two newly created wallets withdrew 984 $BTC($72M) from #BitGo an hour ago. https://intel.arkm.com/explorer/address/bc1qnlg6qzhlek7z7pjuxq4awr5ht83pmvzvwr0u049jk7yc9hxpfxss6a90am https://intel.arkm.com/explorer/address/bc1qza97cz46xfz9acvrze2gg7j605vspkgxgf7n3yahuu76qqcq2ndqnj5855",
-      "pubDate": "Mon, 01 Jun 2026 06:32:40 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061335099820626145#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 01 Jun 2026 05:14:14 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: I have found it, the Platonic form of every New York Times op-ed.",
-      "pubDate": "Mon, 01 Jun 2026 05:14:14 GMT",
-      "link": "https://nitter.net/pmarca/status/2061315363456045233#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Mon, 01 Jun 2026 02:26:19 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "It seems very likely this AI bubble is going to pop in relatively short order. There&apos;s too many charts going vertical. They are unsustainable. I am not saying AI is dying or going away. But its valuations have outpaced fundamentals. AI Big 10 concentration at 41% of the S&P 500-- identical to the Nifty Fifty, Japa",
-      "pubDate": "Mon, 01 Jun 2026 02:26:19 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2061273103884308575#m",
-      "keywords": [
-        "LTH 보유자",
-        "강세장",
-        "약세장"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 01 Jun 2026 02:20:15 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Someone just dropped $5M on $币安人生. A newly created wallet (0x82C0) withdrew 5M $USDT from #Bybit to buy 8.1M $币安人生 today. https://intel.arkm.com/explorer/address/0x82C0DA65f3bE5fd4EE102337A5c560E2ae52ebD1",
-      "pubDate": "Mon, 01 Jun 2026 02:20:15 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061271580240736536#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 01 Jun 2026 01:17:32 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "loracle.hl(@loraclexyz) has become the next @JamesWynnReal and @machibigbrother! It took him nearly 10 months to make $42.2M on perps, but his $HYPE short wiped out all his profits in just 18 days and left him down another $5.19M! He has now closed most of his $HYPE short, but still holds a 843,232 $HYPE($61.4M) short ",
-      "pubDate": "Mon, 01 Jun 2026 01:17:32 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061255796302975226#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 01 Jun 2026 00:43:38 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Gambler 0xc6fe caught the $HYPE pump and made over $1.4M in just 2 days! Yesterday, he opened a 10x long on 110,735 $HYPE($7.6M) and closed it for a profit of $580K. Then he went bigger and opened another 10x long on 204,383 $HYPE($14.89M), now up $838K. Total profit: $1.4M+! https://hypurrscan.io/address/0xc6fee72e2df",
-      "pubDate": "Mon, 01 Jun 2026 00:43:38 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061247265734533542#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 01 Jun 2026 00:22:07 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Persistence pays off! 6 months ago, trader 0x082e opened a 5x long on 1.38M $HYPE($99.77M). He was once down over $25M. But as $HYPE kept rising and hitting new all-time highs, he finally turned it around. He is now sitting on over $46M in unrealized profit! https://hypurrscan.io/address/0x082e843a431aef031264dc232693D",
-      "pubDate": "Mon, 01 Jun 2026 00:22:07 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061241849277456817#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 00:21:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,831,088 $USDC (128,797,714 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x3da88562aa63ef7670ee066bc9780e8dc23c8c9bf4c6044a5c982c33e866a7ea",
-      "pubDate": "Mon, 01 Jun 2026 00:21:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061241755953975757#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 00:03:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🔓 🔓 🔓 🔓 🔓 🔓 100,000,000 $XRP (133,215,296 USD) unlocked at #Ripple https://whale-alert.io/tx/ripple/F9413250B55D60D6FECE85E40F449447EBD38D2B4967222799A02CB2F39B2C98",
-      "pubDate": "Mon, 01 Jun 2026 00:03:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061237228777451801#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 00:02:23 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 500,000,000 $XRP (666,076,481 USD) unlocked at #Ripple https://whale-alert.io/tx/ripple/DC44AE742ADA1CB3B57A8AC2DBDFCAB7674644972D61881DCA9AB4C99F67AA0B",
-      "pubDate": "Mon, 01 Jun 2026 00:02:23 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061236882927710546#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 01 Jun 2026 00:01:16 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 400,000,000 $XRP (532,861,185 USD) unlocked at #Ripple https://whale-alert.io/tx/ripple/C84DA1F79B7EBF848873F6B067E34B74C685C7047FC64C26735FBEEBC9A75DE5",
-      "pubDate": "Mon, 01 Jun 2026 00:01:16 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061236603712860195#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 31 May 2026 23:34:10 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 128,802,995 $USDC (128,845,308 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xe873a694df3e0f6bc4653f67e5136f5cd7a33d2a541343de663d18db194696fc",
-      "pubDate": "Sun, 31 May 2026 23:34:10 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061229781027270703#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Sun, 31 May 2026 21:31:31 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "I mean, how much more clear does it get than this recent consoildation? It&apos;s actually a bear flag too. Decision point soon. $BTC",
-      "pubDate": "Sun, 31 May 2026 21:31:31 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2061198917895635130#m",
-      "keywords": [
-        "약세장"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Sun, 31 May 2026 21:31:20 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: It&apos;s pretty clear when zoomed in. It&apos;s actually a bear flag too.",
-      "pubDate": "Sun, 31 May 2026 21:31:20 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2061198868222464232#m",
-      "keywords": [
-        "약세장"
       ]
     }
   ]
