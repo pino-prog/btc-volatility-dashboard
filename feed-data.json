@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-06-04T04:51:30.168Z",
+  "updatedAt": "2026-06-04T10:08:18.606Z",
   "items": [
+    {
+      "id": "rektcapital__Thu, 04 Jun 2026 09:13:26 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: You are honestly the only person on Crypto Twitter truly worth following.",
+      "pubDate": "Thu, 04 Jun 2026 09:13:26 GMT",
+      "link": "https://nitter.net/Lucio7409476507/status/2062462724286615956#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Thu, 04 Jun 2026 09:06:04 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "Planning for bear markets is part of being a long term bull.",
+      "pubDate": "Thu, 04 Jun 2026 09:06:04 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2062460870752350671#m",
+      "keywords": [
+        "강세장",
+        "약세장"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 04 Jun 2026 08:51:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Woo_Minkyu: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a2133b246f3020364886925-Hashrate-is-Bitcoins-lifeline-%E2%80%94-and-right-now-its-rolling-over-again?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu",
+      "pubDate": "Thu, 04 Jun 2026 08:51:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2062457076157452360#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 04 Jun 2026 08:44:11 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Hashrate is Bitcoin&apos;s Lifeline — And Right Now it&apos;s Rolling Over Again “The level to watch is whether this stays a shallow -3% dip or deepens toward the -10–40% drawdowns of past bottoms.” – By @Woo_Minkyu",
+      "pubDate": "Thu, 04 Jun 2026 08:44:11 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2062455360972029954#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Thu, 04 Jun 2026 08:20:00 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC just tagged the 200-week MA for the first time this bear market. However, the best bear market entries occur *below* the 200-week MA:",
+      "pubDate": "Thu, 04 Jun 2026 08:20:00 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2062449274646913087#m",
+      "keywords": [
+        "약세장"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Thu, 04 Jun 2026 08:18:37 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @ColinTCrypto: The best bear market entries happen *below* the 200-week MA:",
+      "pubDate": "Thu, 04 Jun 2026 08:18:37 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2062448927887012082#m",
+      "keywords": [
+        "약세장"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 04 Jun 2026 07:40:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "7 Siblings just borrowed another 20M $USDT from #Spark and are buying more $ETH! So far, they have spent 4M $USDT to buy 2,254 $ETH, leaving 16M $USDT unspent. https://x.com/lookonchain/status/2062363323228893488",
+      "pubDate": "Thu, 04 Jun 2026 07:40:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2062439458956517521#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Thu, 04 Jun 2026 07:39:29 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 1,000 $BTC (63,783,517 USD) transferred from #Bitfinex to #Kraken https://whale-alert.io/tx/bitcoin/1c76b2bd4046b0fe64399a27dacf36ad5473cce94670d8c7896935ae8e544a98",
+      "pubDate": "Thu, 04 Jun 2026 07:39:29 GMT",
+      "link": "https://nitter.net/whale_alert/status/2062439079308894594#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Thu, 04 Jun 2026 07:31:13 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Seeing this chart really highlights your long-term perspective and deep insight. It reminds me of what you once said about Bitcoin being a long-term investment asset, and your commitment to fellow investors who share that vision. It’s like a moment of déjà vu, truly impressive.",
+      "pubDate": "Thu, 04 Jun 2026 07:31:13 GMT",
+      "link": "https://nitter.net/0249bpark/status/2062436999735415249#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Thu, 04 Jun 2026 05:24:08 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "비트코인 OG들과 오래된 채굴자들의 매도는, 미국 전통금융 기관 투자자와 ETF로 넘어가는 큰 손바뀜 과정이라고 생각합니다. 그래서 손바뀜 이후 더 이상 들어올 유동성이 없어 비트코인이 잘 안 될 거라는 주장에는 동의하지 않습니다. 어떤 자산이든 결국 중요한 건 누가 들고 있느냐입니다. 지금 들고 있는 사람들이 앞으로 더 큰 유동성을 끌어올 수 있는 주체라면, 다음 상승은 언제든 다시 기약할 수 있다고 봅니다. 기업도 대주주가 누구냐에 따라 시장의 기대가 달라지잖아요. 비트코인도 크게 다르지 않다고 생각합니다. 솔직히 자산 가치 상승 측면에서는 비트코인 OG들보다 전",
+      "pubDate": "Thu, 04 Jun 2026 05:24:08 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2062405015818682571#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Thu, 04 Jun 2026 04:57:21 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin is at the same price as two years ago, but one thing is different. The 6m–2y cohort, who joined this cycle, now holds 53% of realized cap, up from 15% two years ago. Last cycle, Bitcoin bottomed when this hit 68%. Short-term holders are evolving into long-term holders.",
+      "pubDate": "Thu, 04 Jun 2026 04:57:21 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2062398276838781256#m",
+      "keywords": [
+        "Realized Cap",
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
     {
       "id": "_Checkmatey___Thu, 04 Jun 2026 03:51:42 GMT",
       "handle": "_Checkmatey_",
@@ -22,6 +166,22 @@
       "pubDate": "Thu, 04 Jun 2026 03:27:21 GMT",
       "link": "https://nitter.net/lookonchain/status/2062375628092142031#m",
       "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Thu, 04 Jun 2026 03:18:46 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: This distribution phase feels like a massive change of hands. Bitcoin investors&apos; average cost basis is around $53K. Historically, bear markets ended only after the price fell below the realized price. I thought that level would be hard to revisit, given institutional inflows and MSTR barely",
+      "pubDate": "Thu, 04 Jun 2026 03:18:46 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2062373468243681371#m",
+      "keywords": [
+        "Exchange Reserve",
+        "거래소 잔량",
+        "ETF 수급",
+        "기관 수급"
+      ]
     },
     {
       "id": "ki_young_ju__Thu, 04 Jun 2026 03:18:46 GMT",
@@ -242,6 +402,22 @@
       "pubDate": "Wed, 03 Jun 2026 20:42:38 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2062273777459736638#m",
       "keywords": []
+    },
+    {
+      "id": "rektcapital__Wed, 03 Jun 2026 20:19:20 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: You really are spot on. Over time bro. On a macro level. Haven’t wavered 1 inch. Short term is impossible even with indicators, you do a tremendous job tho of using history as your number 1 guidepost. And you know in the end. Bitcoin will always re sync with its multi year cycle behavior. “This time",
+      "pubDate": "Wed, 03 Jun 2026 20:19:20 GMT",
+      "link": "https://nitter.net/beleevthetruth/status/2062267915668439224#m",
+      "keywords": [
+        "BTC 사이클",
+        "약세장",
+        "약세 신호",
+        "BTC"
+      ]
     },
     {
       "id": "JSeyff__Wed, 03 Jun 2026 19:35:00 GMT",
@@ -1106,176 +1282,6 @@
       "keywords": [
         "청산"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 03 Jun 2026 08:53:43 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "BTC: Risk Profile Shift Is Now Showing in Liquidation Flows “What matters is that aggressive counter-trend longs are no longer being rewarded when liquidation dominance moves with the trend.” – By @_Crypto_glass",
-      "pubDate": "Wed, 03 Jun 2026 08:53:43 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2062095373573767251#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 03 Jun 2026 08:22:06 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #Matrixport-linked whale holding a 120,000 $ETH($224.5M) long is now down $46M+! The whale has also paid $1.78M in funding fees. Liquidation prices: $1,573.93 $1,515.91 $1,416.52 $1,355.83 https://hypurrscan.io/address/0xA875890465dA20062bCF3b024Bf7d54E69C725a8#perps https://hypurrscan.io/address/0xFd423284f6a9C73A",
-      "pubDate": "Wed, 03 Jun 2026 08:22:06 GMT",
-      "link": "https://nitter.net/lookonchain/status/2062087416106881186#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "Funding Rate",
-        "청산"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 03 Jun 2026 07:58:10 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This trader has made 23 consecutive winning $BTC trades over the past 3 days, earning a total of $1.23M. He then opened a new 20x short on 1,040 $BTC($70M), currently sitting on a loss of $874K. Liquidation price: $70,084.9 Can he continue his winning streak? https://hyperbot.network/trader/0x50b309f78e774a756a2230e176",
-      "pubDate": "Wed, 03 Jun 2026 07:58:10 GMT",
-      "link": "https://nitter.net/lookonchain/status/2062081391484174564#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Wed, 03 Jun 2026 05:04:00 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "I stopped watching Bitcoin price charts and ran every day. Lost 7 kg in two months. Quant trading is the way. Use CryptoQuant API, build a bot, and enjoy life.",
-      "pubDate": "Wed, 03 Jun 2026 05:04:00 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2062037562831823018#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Wed, 03 Jun 2026 05:02:19 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "It&apos;s time for a Bitcoin eulogy. It was fun while it lasted. https://newsletter.checkonchain.com/p/red-waterfall",
-      "pubDate": "Wed, 03 Jun 2026 05:02:19 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2062037141237227571#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 03 Jun 2026 04:57:36 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Garrett Jin(@GarrettBullish) nailed the top this time. Between May 6 and May 10, he deposited 577,717 $ETH($1.35B) to #Binance at an average price of $2,337. $ETH then went into free fall, dropping more than 20%. https://intel.arkm.com/explorer/entity/fbd33a7c-fccf-4182-9363-9361b2644d7f",
-      "pubDate": "Wed, 03 Jun 2026 04:57:36 GMT",
-      "link": "https://nitter.net/lookonchain/status/2062035954274287948#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Wed, 03 Jun 2026 03:34:26 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Resilience as an investor is all about how quickly you can rebound from the shock value of a market move, and adjust to the cards that lay on the table. In our latest newsletter piece, @_Checkmatey_ examines Bitcoin&apos;s latest sell-off, how investors are responding beneath the surface, and what ",
-      "pubDate": "Wed, 03 Jun 2026 03:34:26 GMT",
-      "link": "https://nitter.net/_checkonchain/status/2062015024131084737#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 03 Jun 2026 03:20:05 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "JUST IN: Tom Lee (@fundstrat)&apos;s #Bitmine is down $8.9B on 5,416,901 $ETH ($10.03B). Michael Saylor (@saylor)&apos;s #Strategy is down $7.6B on 843,706 $BTC ($56.26B).",
-      "pubDate": "Wed, 03 Jun 2026 03:20:05 GMT",
-      "link": "https://nitter.net/lookonchain/status/2062011412965405059#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 03 Jun 2026 02:57:13 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "James Fickel(@jamesfickel), who previously lost ~25K $ETH($46.3M) on long ETH/BTC, just deposited another 10,000 $ETH($18.6M) into #CoinbasePrime. https://x.com/lookonchain/status/1872845308037874119",
-      "pubDate": "Wed, 03 Jun 2026 02:57:13 GMT",
-      "link": "https://nitter.net/lookonchain/status/2062005657398808776#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Wed, 03 Jun 2026 02:50:40 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Sometimes people go back and make things right. It’s rare but apparently it happens",
-      "pubDate": "Wed, 03 Jun 2026 02:50:40 GMT",
-      "link": "https://nitter.net/JSeyff/status/2062004010203201708#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 03 Jun 2026 02:24:41 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales/Institutions keep buying HYPE! Galaxy Digital withdrew 179,000 $HYPE($12.62M) from #Coinbase in the past 7 hours. New wallet 0x6436 withdrew another 135,824 $HYPE($9.73M) 8 hours ago, bringing its 2-day total to 399,730 $HYPE($28.92M). https://intel.arkm.com/explorer/address/0x33566c9D8BE6Cf0B23795E0d380E112Be9d",
-      "pubDate": "Wed, 03 Jun 2026 02:24:41 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061997468590674358#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 03 Jun 2026 02:21:25 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,083,750 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/2FfNUcrh3TseGUpL96TwTHBdZoH8xkM7x5yiNiU88zYhao1sQfX52KNV9zWwKjE1ugTWryy5e3kVmp2EXCXVAR15",
-      "pubDate": "Wed, 03 Jun 2026 02:21:25 GMT",
-      "link": "https://nitter.net/whale_alert/status/2061996646242648214#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 03 Jun 2026 01:58:27 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Despite the market downturn, Tom Lee(@fundstrat)&apos;s #Bitmine keeps buying $ETH. 10 hours ago, #Bitmine received another 25,000 $ETH($47.98M) from #BitGo. https://intel.arkm.com/explorer/address/0x873Fd7Ab30c9507Fb0e57c1F2b0C651b0Fd13bB9",
-      "pubDate": "Wed, 03 Jun 2026 01:58:27 GMT",
-      "link": "https://nitter.net/lookonchain/status/2061990865913139633#m",
-      "keywords": []
     }
   ]
 }
