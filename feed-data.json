@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-06-06T04:08:50.364Z",
+  "updatedAt": "2026-06-06T08:43:06.356Z",
   "items": [
+    {
+      "id": "glassnode__Sat, 06 Jun 2026 07:35:38 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: The 30D-SMA of US Spot ETF netflows has reached -2.45k BTC/day, the fastest sustained pace of outflows since ETF launch. This is no longer a short-term reaction. A month-long average at record negative territory reflects a structural shift in institutional positioning, not episodic selling. Until this",
+      "pubDate": "Sat, 06 Jun 2026 07:35:38 GMT",
+      "link": "https://nitter.net/CryptoVizArt/status/2063162887661580788#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "스팟 ETF"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 06 Jun 2026 07:24:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 990 $BTC (60,336,040 USD) transferred from unknown wallet to #Kraken https://whale-alert.io/tx/bitcoin/acedb29abbfcb33fc6c306f8540c6d0f5b41c6c186366bc37f9644fe98335d34",
+      "pubDate": "Sat, 06 Jun 2026 07:24:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063159998662779362#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 06 Jun 2026 06:50:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 137,170,415 $USDT (137,099,293 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x5287ee4cb12e2ca4222ae9024c23532402e7fb04349b0ae376ea5d37a97320d4",
+      "pubDate": "Sat, 06 Jun 2026 06:50:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063151503720767690#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "glassnode__Sat, 06 Jun 2026 06:25:25 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: The Cost Basis Distribution heatmap shows a dense supply cluster in the $80k–$126k range, representing coins still held by buyers near cycle highs. For a sustained recovery to take shape, this supply needs to gradually migrate into new buyers&apos; hands at lower cost basis levels. As that wall soften",
+      "pubDate": "Sat, 06 Jun 2026 06:25:25 GMT",
+      "link": "https://nitter.net/CryptoVizArt/status/2063145214152265763#m",
+      "keywords": [
+        "BTC 사이클",
+        "약세장",
+        "분배"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 06 Jun 2026 05:14:14 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Chun Wang (@satofishi) seems to be accumulating $ETH. A wallet linked to #ChunWang withdrew 17,560 $ETH($28.67M) from #Binance in the past 16 hours. https://arkm.com/explorer/address/0xF42BcFD3dd5fcdd984d24FD2787383195C7f2b51",
+      "pubDate": "Sat, 06 Jun 2026 05:14:14 GMT",
+      "link": "https://nitter.net/lookonchain/status/2063127303996240038#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 06 Jun 2026 04:42:17 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Is #Ethereum co-founder Joseph Lubin(@ethereumJoseph) preparing to dump $ETH? A wallet linked to Joseph Lubin, which holds 243,300 $ETH($370M), transferred out 80,001 $ETH($121.6M) after more than 3 years of inactivity. https://arkm.com/explorer/address/0x1b3cB81E51011b549d78bf720b0d924ac763A7C2",
+      "pubDate": "Sat, 06 Jun 2026 04:42:17 GMT",
+      "link": "https://nitter.net/lookonchain/status/2063119262999556366#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 06 Jun 2026 04:32:02 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Arthur Hayes(@CryptoHayes) called $ZEC, $NEAR, and $WLD. He sold near the top, then disclosed his exit and turned bearish. $ZEC, $NEAR, and $WLD are now back to where they were before his calls.",
+      "pubDate": "Sat, 06 Jun 2026 04:32:02 GMT",
+      "link": "https://nitter.net/lookonchain/status/2063116680738607279#m",
+      "keywords": [
+        "약세장",
+        "약세 신호"
+      ]
+    },
     {
       "id": "lookonchain__Sat, 06 Jun 2026 03:57:30 GMT",
       "handle": "lookonchain",
@@ -915,7 +1011,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I&apos;ve spent months compiling my knowledge of #Crypto Technical Analysis into a FREE course for beginners → Master 5 key chart patterns → Trading support/resistance → Utilise trendlines & moving averages Learn it all for FREE here: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;ve spent months compiling my knowledge of #Crypto Technical Analysis into a FREE course for beginners → Master 5 key chart patterns → Trading support/resistance → Utilise trendlines & moving averages Learn it all for FREE here: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #",
       "pubDate": "Fri, 05 Jun 2026 11:39:33 GMT",
       "link": "https://nitter.net/rektcapital/status/2062861883321745423#m",
       "keywords": [
@@ -1193,105 +1289,6 @@
         "고래",
         "Whale",
         "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Fri, 05 Jun 2026 07:31:30 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "$BTC If you think about diminishing returns to the upside in Bitcoin Bull Markets then one could make a good argument for deep deviations below old All Time Highs occurring in Bear Markets becoming the norm Of course, you have to balance that with the progressive shallowing of Bitcoin Bear Market retracements But this ",
-      "pubDate": "Fri, 05 Jun 2026 07:31:30 GMT",
-      "link": "https://nitter.net/rektcapital/status/2062799457222004996#m",
-      "keywords": [
-        "BTC 사이클",
-        "강세장",
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Fri, 05 Jun 2026 07:23:41 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "$BTC Bitcoin is on the cusp of entering a period that comes along only once every four years and will set your portfolio up for the entire upcoming multi-year Bull Market Navigate the market with me here: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
-      "pubDate": "Fri, 05 Jun 2026 07:23:41 GMT",
-      "link": "https://nitter.net/rektcapital/status/2062797492014432503#m",
-      "keywords": [
-        "강세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Fri, 05 Jun 2026 07:22:29 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin has only just started deviating below the 200-week SMA The significance of this is that historical Bear Market Bottoming out formations have started to develop via such deviations $BTC #Crypto #Bitcoin",
-      "pubDate": "Fri, 05 Jun 2026 07:22:29 GMT",
-      "link": "https://nitter.net/rektcapital/status/2062797190720827629#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 05 Jun 2026 07:18:41 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "While $ZEC was rallying, Garrett Jin(@GarrettBullish) went against the trend and shorted it. He is now sitting on over $21.5M in unrealized profit! https://hypurrscan.io/address/0x92ea19ECeB7a8dE0f50978A1583A5D8b018050e9#perps",
-      "pubDate": "Fri, 05 Jun 2026 07:18:41 GMT",
-      "link": "https://nitter.net/lookonchain/status/2062796234864328870#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "rektcapital__Fri, 05 Jun 2026 07:14:31 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "$BTC Bitcoin is now breaking down from the 50-Month EMA (purple) #BTC #Crypto #Bitcoin",
-      "pubDate": "Fri, 05 Jun 2026 07:14:31 GMT",
-      "link": "https://nitter.net/rektcapital/status/2062795185558372684#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Fri, 05 Jun 2026 06:36:44 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC In the previous 2022 Bear Market, Bitcoin deviated -22% below its 2017 old All Time Highs to mark a Bear Market bottom In this current 2026 Bear Market, Bitcoin has deviated only -10.5% below its 2021 old All Time Highs Bitcoin is getting close to a bottom but it&apos;s not there quite yet and there&apos;s still t",
-      "pubDate": "Fri, 05 Jun 2026 06:36:44 GMT",
-      "link": "https://nitter.net/rektcapital/status/2062785677406646467#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 05 Jun 2026 03:58:09 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "As the market dropped: Strategy is down $11.07B on $BTC; Bitmine is down $9.58B on $ETH; SharpLink is down $1.59B on $ETH; Metaplanet is down $1.38B on $BTC; Forward Industries is down $1.13B on $SOL;",
-      "pubDate": "Fri, 05 Jun 2026 03:58:09 GMT",
-      "link": "https://nitter.net/lookonchain/status/2062745765295054973#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
       ]
     }
   ]
