@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T04:45:12.687Z",
+  "updatedAt": "2026-06-07T09:28:13.135Z",
   "items": [
+    {
+      "id": "whale_alert__Sun, 07 Jun 2026 08:36:54 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 130,000,000 $USDT (129,956,916 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0x0a6d5a7610e7607253b426359ab81081c1ddfd15a02c701bfd31c562dff93718",
+      "pubDate": "Sun, 07 Jun 2026 08:36:54 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063540694187176447#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 07 Jun 2026 06:14:52 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "James Wynn (@JamesWynnReal) has flipped from short to long! He closed his $BTC and $SOL shorts for a $6.4K profit. Then opened max leverage longs on 6.05 $BTC($373K) and 5.3 $ETH($8.5K). https://hyperbot.network/trader/0x5078c2fbea2b2ad61bc840bc023e35fce56bedb6",
+      "pubDate": "Sun, 07 Jun 2026 06:14:52 GMT",
+      "link": "https://nitter.net/lookonchain/status/2063504947120124171#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sun, 07 Jun 2026 02:24:38 GMT",
       "handle": "lookonchain",
@@ -1255,31 +1280,6 @@
         "기관 수급",
         "BTC"
       ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 05 Jun 2026 14:09:57 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RT @ColinTCrypto: 🔵 How to Buy the $BTC Bottom: 20%-25% below the 200-week moving average. All past Bitcoin bear markets have provided at…",
-      "pubDate": "Fri, 05 Jun 2026 14:09:57 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2062899730582041029#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 05 Jun 2026 14:07:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @JA_Maartun: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a22cdf1178f3b625a4b355c-%F0%9F%93%8A-Equity-volumes-on-Gate-hit-their-second-highest-level-in-3-months?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=maartunn",
-      "pubDate": "Fri, 05 Jun 2026 14:07:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2062898988215656548#m",
-      "keywords": []
     }
   ]
 }
