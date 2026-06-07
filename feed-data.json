@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-06-07T09:28:13.135Z",
+  "updatedAt": "2026-06-07T14:10:25.238Z",
   "items": [
+    {
+      "id": "EricBalchunas__Sun, 07 Jun 2026 12:35:32 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "This is why Apple is a $4T company. Altho in fairness to me my kid is to blame for losing pair #6.",
+      "pubDate": "Sun, 07 Jun 2026 12:35:32 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2063600747086852561#m",
+      "keywords": [
+        "LTH 보유자"
+      ]
+    },
+    {
+      "id": "whale_alert__Sun, 07 Jun 2026 12:18:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 502,650,921 $PYUSD (502,863,861 USD) transferred from #Ethena to unknown wallet https://whale-alert.io/tx/ethereum/0x19b63bf2cc8adbd0d1e867aa616970a3f044473b1653b197de4f301b7d68171d",
+      "pubDate": "Sun, 07 Jun 2026 12:18:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063596372524171353#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "rektcapital__Sun, 07 Jun 2026 11:12:21 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "In case you missed it… New YouTube video is live! Bitcoin Macro Triangles - Four Year Cycle Prevails Check it out here: https://youtu.be/pbz9WcSBgAo?si=RE2UOiwfA5hkE5HV Enjoy and Subscribe! $BTC #BTC #Bitcoin",
+      "pubDate": "Sun, 07 Jun 2026 11:12:21 GMT",
+      "link": "https://nitter.net/rektcapital/status/2063579812204060835#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
     {
       "id": "whale_alert__Sun, 07 Jun 2026 08:36:54 GMT",
       "handle": "whale_alert",
@@ -113,7 +154,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "In case you missed it... I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $CRO $DOGE $HYPE $INJ $LINK $SOL I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-276-2/ $BTC #BTC",
+      "text": "RT by @rektcapital: In case you missed it... I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $CRO $DOGE $HYPE $INJ $LINK $SOL I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-27",
       "pubDate": "Sat, 06 Jun 2026 20:56:24 GMT",
       "link": "https://nitter.net/rektcapital/status/2063364405547663459#m",
       "keywords": []
@@ -1235,50 +1276,6 @@
       "link": "https://nitter.net/ColinTCrypto/status/2062908938077540449#m",
       "keywords": [
         "약세장"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 05 Jun 2026 14:26:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,269 $BTC (77,039,553 USD) transferred from #Coinbase to unknown wallet https://whale-alert.io/tx/bitcoin/edeb3eacf6e6add0a9149b5f27af66ee85395168db5937222e6d58e08ae0a0c0",
-      "pubDate": "Fri, 05 Jun 2026 14:26:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2062903855537426742#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 05 Jun 2026 14:14:53 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "The best bear market entries occur *below* the 200-week MA. Historically, you always get at least one amazing buy opportunity 20-25% *below* the 200wk MA Currently the 200 wk MA is $61,700 20% below it is $49.3k 25% below it is $46.3k (Keep in mind it&apos;s uptrending so it moves up as time goes on) Learn more here:",
-      "pubDate": "Fri, 05 Jun 2026 14:14:53 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2062900971252969824#m",
-      "keywords": [
-        "약세장"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 05 Jun 2026 14:10:49 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,394 $BTC (85,067,983 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/be90d52f9503f40b3b8c6a62c6e285cde8f36259d16b9eeedd8683b4968ab7e2",
-      "pubDate": "Fri, 05 Jun 2026 14:10:49 GMT",
-      "link": "https://nitter.net/whale_alert/status/2062899949642056151#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
       ]
     }
   ]
