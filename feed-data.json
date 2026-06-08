@@ -1,6 +1,205 @@
 {
-  "updatedAt": "2026-06-08T04:50:10.354Z",
+  "updatedAt": "2026-06-08T11:11:36.912Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 10:44:16 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,874,333 USD) transferred from Tether Treasury to #Binance https://whale-alert.io/tx/solana/2hoAr3grN6AkuehDerEbfhLBeoTpqeDg5RF7bxEhzgqSmGxbF1g6s5KCP3M3hPRmuPuFWxMnf6PgJB3eSAsaDukB",
+      "pubDate": "Mon, 08 Jun 2026 10:44:16 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063935131925033103#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 10:22:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 825 $BTC (52,229,280 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/646ef2c82e327cb1ff950f0445edece727cb18e40b1087987d1b2551ea22ce47",
+      "pubDate": "Mon, 08 Jun 2026 10:22:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063929630638194699#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 10:20:34 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,626,249 USD) transferred from #Binance to Tether Treasury https://whale-alert.io/tx/ethereum/0xac2288080a9731096b3975433aa684d59f6b73e98e21971a01e3fd47f3c8a2cf",
+      "pubDate": "Mon, 08 Jun 2026 10:20:34 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063929169638039700#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 08 Jun 2026 10:17:00 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "BlackRock just deposited 3,580 $BTC($226.8M) to Coinbase Prime. https://arkm.com/explorer/entity/blackrock",
+      "pubDate": "Mon, 08 Jun 2026 10:17:00 GMT",
+      "link": "https://nitter.net/lookonchain/status/2063928270303920375#m",
+      "keywords": [
+        "BlackRock",
+        "ETF"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 10:06:29 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 825 $BTC (52,368,598 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/7d13f400a2179e263758d93f45da45deeb594a265b98e8ebc5fe4e4a56cb65ee",
+      "pubDate": "Mon, 08 Jun 2026 10:06:29 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063925625853734923#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 10:05:04 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 825 $BTC (52,389,941 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/4ca2146c4b2de2c29196c58740a1ef1e0d4e15400f4befc0e66baff7bac5bec7",
+      "pubDate": "Mon, 08 Jun 2026 10:05:04 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063925268494930341#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 09:46:04 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,720 $BTC (172,363,377 USD) transferred from #Ceffu to #Binance https://whale-alert.io/tx/bitcoin/d86d8ece123170f5f303f21b4bcdff0369fbc0468485e367bcf5f406c0cecf05",
+      "pubDate": "Mon, 08 Jun 2026 09:46:04 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063920488347217987#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 09:11:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 41,553 $ETH (69,181,203 USD) transferred from #Ceffu to #Binance https://whale-alert.io/tx/ethereum/0x2b246af101379e964b7b95db63667f1e7287e71e0f7c6a27067d4d603da97d70",
+      "pubDate": "Mon, 08 Jun 2026 09:11:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063911910400053296#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 08 Jun 2026 09:06:07 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The newly created wallet \"0x6436\" withdrew another 82,089 $HYPE($5.16M) from exchanges in the past 2 hours. Over the past week, this wallet has withdrawn a total of 1.14M $HYPE ($79.22M) from exchanges and deposited it into Hyperliquid for staking. https://arkm.com/explorer/address/0x6436D88D376Ea7FbDe1AB5A8Db7151579Bc",
+      "pubDate": "Mon, 08 Jun 2026 09:06:07 GMT",
+      "link": "https://nitter.net/lookonchain/status/2063910432671429029#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 08 Jun 2026 08:54:39 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,010,500 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/4jkEdyWPAsUcM8DUsb2JdsbQnpA6uqU1P2YtJES595hhBHqCj77ygrioa51LCWTKSQNPrPRtibihnmyRaJieSEtN",
+      "pubDate": "Mon, 08 Jun 2026 08:54:39 GMT",
+      "link": "https://nitter.net/whale_alert/status/2063907547912802551#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 08 Jun 2026 08:54:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a25234ba8af494cbea1e969-Bitcoin-Faces-Distribution-Pressure-as-Older-Coins-Flow-Back-to-Exchanges?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=shayanbtc",
+      "pubDate": "Mon, 08 Jun 2026 08:54:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2063907382585892923#m",
+      "keywords": [
+        "분배",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 08 Jun 2026 08:46:30 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Faces Distribution Pressure “Medium-term holders have become increasingly active during the recent correction… they could continue to generate supply pressure and make a sustained recovery more difficult in the near term.” – By @ShayanBTC7",
+      "pubDate": "Mon, 08 Jun 2026 08:46:30 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2063905496453591420#m",
+      "keywords": [
+        "분배",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 08 Jun 2026 07:53:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a24dc0b9139404af2b00890-Bitcoin-Price-%E2%80%94-Entering-a-Cheap-Zone?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crypto-dan",
+      "pubDate": "Mon, 08 Jun 2026 07:53:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2063892031421001986#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 08 Jun 2026 07:46:44 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Price — Entering a Cheap Zone “Bitcoin&apos;s MVRV is currently at 1.1, sitting just above the green undervaluation zone that has historically marked major market bottoms.” – By @DanCoinInvestor",
+      "pubDate": "Mon, 08 Jun 2026 07:46:44 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2063890456132427970#m",
+      "keywords": [
+        "MVRV Z-Score",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 08 Jun 2026 03:35:29 GMT",
       "handle": "lookonchain",
@@ -269,7 +468,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I’ve spent months compiling my knowledge of #Crypto Technical Analysis into a FREE course for beginners → Master 5 key chart patterns → Trading support/resistance → Utilise trendlines & moving averages Learn it all for FREE here: https://rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: I’ve spent months compiling my knowledge of #Crypto Technical Analysis into a FREE course for beginners → Master 5 key chart patterns → Trading support/resistance → Utilise trendlines & moving averages Learn it all for FREE here: https://rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC ",
       "pubDate": "Sun, 07 Jun 2026 15:43:16 GMT",
       "link": "https://nitter.net/rektcapital/status/2063647989411774468#m",
       "keywords": [
@@ -364,7 +563,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "In case you missed it… New YouTube video is live! Bitcoin Macro Triangles - Four Year Cycle Prevails Check it out here: https://youtu.be/pbz9WcSBgAo?si=RE2UOiwfA5hkE5HV Enjoy and Subscribe! $BTC #BTC #Bitcoin",
+      "text": "RT by @rektcapital: In case you missed it… New YouTube video is live! Bitcoin Macro Triangles - Four Year Cycle Prevails Check it out here: https://youtu.be/pbz9WcSBgAo?si=RE2UOiwfA5hkE5HV Enjoy and Subscribe! $BTC #BTC #Bitcoin",
       "pubDate": "Sun, 07 Jun 2026 11:12:21 GMT",
       "link": "https://nitter.net/rektcapital/status/2063579812204060835#m",
       "keywords": [
@@ -835,19 +1034,6 @@
       ]
     },
     {
-      "id": "lookonchain__Sat, 06 Jun 2026 09:58:51 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A gambler opened a 20x short on 1,588 $BTC($96.78M) in the past 5 hours. Liquidation price: $63,939.37 https://hypurrscan.io/address/0x50b309f78e774a756a2230e1769729094cac9f20#perps",
-      "pubDate": "Sat, 06 Jun 2026 09:58:51 GMT",
-      "link": "https://nitter.net/lookonchain/status/2063198926698901957#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
       "id": "glassnode__Sat, 06 Jun 2026 07:35:38 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -864,35 +1050,6 @@
       ]
     },
     {
-      "id": "whale_alert__Sat, 06 Jun 2026 07:24:09 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 990 $BTC (60,336,040 USD) transferred from unknown wallet to #Kraken https://whale-alert.io/tx/bitcoin/acedb29abbfcb33fc6c306f8540c6d0f5b41c6c186366bc37f9644fe98335d34",
-      "pubDate": "Sat, 06 Jun 2026 07:24:09 GMT",
-      "link": "https://nitter.net/whale_alert/status/2063159998662779362#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 06 Jun 2026 06:50:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 137,170,415 $USDT (137,099,293 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x5287ee4cb12e2ca4222ae9024c23532402e7fb04349b0ae376ea5d37a97320d4",
-      "pubDate": "Sat, 06 Jun 2026 06:50:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2063151503720767690#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "glassnode__Sat, 06 Jun 2026 06:25:25 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -906,39 +1063,6 @@
         "약세장",
         "분배"
       ]
-    },
-    {
-      "id": "rektcapital__Sat, 06 Jun 2026 06:19:40 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: One person who has been nailing the path for years is rekt.",
-      "pubDate": "Sat, 06 Jun 2026 06:19:40 GMT",
-      "link": "https://nitter.net/Itisretro/status/2063143769575145718#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sat, 06 Jun 2026 05:22:37 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: There is no doubt, I always tell my friends that you are the best analyst.",
-      "pubDate": "Sat, 06 Jun 2026 05:22:37 GMT",
-      "link": "https://nitter.net/mohammad1431363/status/2063129411306520742#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sat, 06 Jun 2026 05:14:14 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Chun Wang (@satofishi) seems to be accumulating $ETH. A wallet linked to #ChunWang withdrew 17,560 $ETH($28.67M) from #Binance in the past 16 hours. https://arkm.com/explorer/address/0xF42BcFD3dd5fcdd984d24FD2787383195C7f2b51",
-      "pubDate": "Sat, 06 Jun 2026 05:14:14 GMT",
-      "link": "https://nitter.net/lookonchain/status/2063127303996240038#m",
-      "keywords": []
     },
     {
       "id": "rektcapital__Fri, 05 Jun 2026 21:10:28 GMT",
@@ -1014,34 +1138,6 @@
       "pubDate": "Fri, 05 Jun 2026 13:59:39 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2062897139668197612#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 05 Jun 2026 13:34:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a229fa2a8af494cbea1e481-MVRV-Drops-to-119-Analyzing-MA-Crosses-and-Accumulation-Zones?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=yonsei-dent",
-      "pubDate": "Fri, 05 Jun 2026 13:34:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2062890683917086730#m",
-      "keywords": [
-        "MVRV Z-Score",
-        "매집"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 05 Jun 2026 13:25:49 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "MVRV Drops to 1.19: Analyzing MA Crosses and Accumulation Zones “We observed a death cross between the 4000DMA and the 365DMA. While this indicates that there is still a possibility for further downside, it also strongly suggests that we are entering a phase of gradual accumulation.” – By @Yonsei_dent",
-      "pubDate": "Fri, 05 Jun 2026 13:25:49 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2062888626065740260#m",
-      "keywords": [
-        "MVRV Z-Score",
-        "매집"
-      ]
     },
     {
       "id": "rektcapital__Fri, 05 Jun 2026 11:39:33 GMT",
@@ -1150,32 +1246,6 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Fri, 05 Jun 2026 08:41:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: See the market impact ⤵️ https://cryptoquant.com/insights/research/6a2284a59139404af2b003b2-05-June-2026-Institutional-Footprints-Trade-Sizes-Signal-Institutional-Activity-?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
-      "pubDate": "Fri, 05 Jun 2026 08:41:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2062816947398664354#m",
-      "keywords": [
-        "기관 수급"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 05 Jun 2026 08:32:06 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Crypto spot trading volume fell to its lowest level since October 2023. As activity slows, liquidity is concentrating around a small group of exchanges, with Gate ranking among the deepest across spot and perpetual futures markets.",
-      "pubDate": "Fri, 05 Jun 2026 08:32:06 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2062814709674336510#m",
-      "keywords": [
-        "유동성"
-      ]
-    },
-    {
       "id": "_Checkmatey___Thu, 04 Jun 2026 12:05:28 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1195,58 +1265,6 @@
       "text": "Three charts to contextualise how different investor cohorts are reacting to this sell-off. Simple framework: - Coins below $60k are in profit (old hands) - Coins above $60k are in loss (top buyers) - These charts show who is spending. Goodnight.",
       "pubDate": "Thu, 04 Jun 2026 11:59:07 GMT",
       "link": "https://nitter.net/_Checkmatey_/status/2062504416985702849#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Thu, 04 Jun 2026 07:31:13 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Seeing this chart really highlights your long-term perspective and deep insight. It reminds me of what you once said about Bitcoin being a long-term investment asset, and your commitment to fellow investors who share that vision. It’s like a moment of déjà vu, truly impressive.",
-      "pubDate": "Thu, 04 Jun 2026 07:31:13 GMT",
-      "link": "https://nitter.net/0249bpark/status/2062436999735415249#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 04 Jun 2026 05:24:08 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "비트코인 OG들과 오래된 채굴자들의 매도는, 미국 전통금융 기관 투자자와 ETF로 넘어가는 큰 손바뀜 과정이라고 생각합니다. 그래서 손바뀜 이후 더 이상 들어올 유동성이 없어 비트코인이 잘 안 될 거라는 주장에는 동의하지 않습니다. 어떤 자산이든 결국 중요한 건 누가 들고 있느냐입니다. 지금 들고 있는 사람들이 앞으로 더 큰 유동성을 끌어올 수 있는 주체라면, 다음 상승은 언제든 다시 기약할 수 있다고 봅니다. 기업도 대주주가 누구냐에 따라 시장의 기대가 달라지잖아요. 비트코인도 크게 다르지 않다고 생각합니다. 솔직히 자산 가치 상승 측면에서는 비트코인 OG들보다 전",
-      "pubDate": "Thu, 04 Jun 2026 05:24:08 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2062405015818682571#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 04 Jun 2026 04:57:21 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin is at the same price as two years ago, but one thing is different. The 6m–2y cohort, who joined this cycle, now holds 53% of realized cap, up from 15% two years ago. Last cycle, Bitcoin bottomed when this hit 68%. Short-term holders are evolving into long-term holders.",
-      "pubDate": "Thu, 04 Jun 2026 04:57:21 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2062398276838781256#m",
-      "keywords": [
-        "Realized Cap",
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Thu, 04 Jun 2026 03:51:42 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "Thanks for the sats, whomever you were. They&apos;re on ice already.",
-      "pubDate": "Thu, 04 Jun 2026 03:51:42 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2062381756507168779#m",
       "keywords": []
     }
   ]
