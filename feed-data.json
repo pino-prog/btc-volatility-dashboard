@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-06-11T04:46:05.573Z",
+  "updatedAt": "2026-06-11T10:50:43.872Z",
   "items": [
+    {
+      "id": "whale_alert__Thu, 11 Jun 2026 10:12:07 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,086,125 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/5RSKFMPLzaNy5EPep6UNxWHa6EKj1tihRAUGaoc4cdm4SGUxrhd6DoMHhV5ydNtJkJ5vkGJMCMn3Uts2hYsdyNTh",
+      "pubDate": "Thu, 11 Jun 2026 10:12:07 GMT",
+      "link": "https://nitter.net/whale_alert/status/2065014206701683026#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Thu, 11 Jun 2026 09:52:20 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "R to @_Checkmatey_: I forgot, Mythos hacked Peter Schiffs gold vault code...turns out it was all bars of chocolate wrapped in gold foil after all. Wasn&apos;t worth the effort to nick it.",
+      "pubDate": "Thu, 11 Jun 2026 09:52:20 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2065009228197371944#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Thu, 11 Jun 2026 09:50:51 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "BREAKING: Jane Street just used a quantum computer to solve the asteroid mining problem, which looks set to inflate the gold and silver supply to infinity! The SpaceX IPO is just the tip of the spear for this catastrophic bug of using money derived from the periodic table!",
+      "pubDate": "Thu, 11 Jun 2026 09:50:51 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2065008852274422030#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Thu, 11 Jun 2026 07:07:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Complete data breakdown ⤵️ https://cryptoquant.com/insights/research/6a296ef0a8af494cbea1efb7-10-June-2026-Closer-to-the-Floor-Bitcoin-Reaches-the-Value-Zone-But-Demand-Contr?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
+      "pubDate": "Thu, 11 Jun 2026 07:07:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2064967618633642362#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 11 Jun 2026 06:59:46 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Is the Bitcoin bottom in? On-chain demand says not yet.",
+      "pubDate": "Thu, 11 Jun 2026 06:59:46 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2064965799857520804#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Thu, 11 Jun 2026 04:48:19 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: What if the next big $BTC move isn’t a $100K moonshot, but a deep reset? 🤔 @AnolShaeed sits down with one of the most respected analysts in the space, @rektcapital. Rekt decodes why his bearish take is the most normal part of the cycle - and we haven&apos;t bottomed yet! 👀 WATCH the full podcast \ud83d",
+      "pubDate": "Thu, 11 Jun 2026 04:48:19 GMT",
+      "link": "https://nitter.net/beincrypto/status/2064932719356989815#m",
+      "keywords": [
+        "BTC 사이클",
+        "약세장",
+        "약세 신호"
+      ]
+    },
     {
       "id": "JSeyff__Thu, 11 Jun 2026 03:51:40 GMT",
       "handle": "JSeyff",
@@ -241,6 +318,20 @@
       "text": "Hedgeeye planning a Hedged Bitcoin ETF $HBIT.. will invest in a bitcoin ETF and then buy and sell call options to manage downside risk and generate income.",
       "pubDate": "Wed, 10 Jun 2026 21:12:14 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2064817940629700900#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Wed, 10 Jun 2026 21:04:39 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: Here&apos;s how it will work according to the filing. basically it will hold spot Bitcoin ETFs and use options strategies to reduce vol and downside risk.",
+      "pubDate": "Wed, 10 Jun 2026 21:04:39 GMT",
+      "link": "https://nitter.net/JSeyff/status/2064816034607964330#m",
       "keywords": [
         "ETF 수급",
         "BTC"
@@ -1154,110 +1245,6 @@
       "keywords": [
         "고래",
         "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 09 Jun 2026 20:40:30 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 830 $BTC (51,593,438 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/3e4124100a47f3e717449b4a2b3bd272654cc65661e05a65a7eb23b7ea97c5a7",
-      "pubDate": "Tue, 09 Jun 2026 20:40:30 GMT",
-      "link": "https://nitter.net/whale_alert/status/2064447566440268251#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 09 Jun 2026 20:27:04 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "I knew this was going to happen. 2x SpaceX ETFs launching same day as SpaceX IPO. Time has collapsed.",
-      "pubDate": "Tue, 09 Jun 2026 20:27:04 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2064444186783289647#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 09 Jun 2026 20:23:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "R to @rektcapital: #BTC EMA Crossover played out, preceding -39% downside If you&apos;re interested in following analysis that can help grow your capital in Bull Markets & protect it in Bear Markets... Signup to the Rekt Capital Newsletter here: https://newsletter.rektcapital.co.uk/#/portal/ $BTC #Crypto #Bitcoin",
-      "pubDate": "Tue, 09 Jun 2026 20:23:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2064443162916159507#m",
-      "keywords": [
-        "강세장",
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 09 Jun 2026 20:07:39 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,625 $BTC (100,851,437 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/7d95c2860f9c9c73023dd3201d436499195357826b211f2ae22c077d77adefb1",
-      "pubDate": "Tue, 09 Jun 2026 20:07:39 GMT",
-      "link": "https://nitter.net/whale_alert/status/2064439301539012718#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 09 Jun 2026 19:56:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin Bear Market Progress: ▓▓▓▓▓▓░░░░ 67.3% $BTC #Crypto #Bitcoin",
-      "pubDate": "Tue, 09 Jun 2026 19:56:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2064436368076632270#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 09 Jun 2026 18:54:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,625 $BTC (100,299,781 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/735c7ab10b8482e21e5095b4bc313801c327c467904d2cefeaaa45fd17d4b9c2",
-      "pubDate": "Tue, 09 Jun 2026 18:54:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2064420848333664260#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 09 Jun 2026 18:34:04 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,624 $BTC (100,263,192 USD) transferred from #Robinhood to unknown wallet https://whale-alert.io/tx/bitcoin/5576894e72a7b5598c529692a052928fcafad463625864876c9df203cc48b34e",
-      "pubDate": "Tue, 09 Jun 2026 18:34:04 GMT",
-      "link": "https://nitter.net/whale_alert/status/2064415750123655625#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
       ]
     }
   ]
