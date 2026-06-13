@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-12T20:21:51.387Z",
+  "updatedAt": "2026-06-13T04:28:46.088Z",
   "verificationSummary": {
-    "confirmed": 39,
+    "confirmed": 38,
     "unconfirmed": 6,
     "mismatched": 6
   },
@@ -200,25 +200,6 @@
       "confidence": "high",
       "verifiedAt": "2026-06-11",
       "occurred": true
-    },
-    {
-      "id": "bls-ppi-2026-06-11",
-      "date": "2026-06-11",
-      "time": "08:30",
-      "tz": "ET",
-      "title": "미국 PPI (5월) 발표",
-      "category": "macro",
-      "categoryLabel": "경제지표",
-      "impact": "MEDIUM",
-      "btcBias": "neutral",
-      "description": "5월 생산자물가지수. CPI 선행 지표. 생산 단계 인플레이션 확인. CPI 발표 전 방향성 힌트. ✓ BLS 2026 공식 일정.",
-      "bull": "예상 하회 → 생산자 비용 안정 → CPI 하락 전망 강화 → BTC 간접 수혜",
-      "bear": "예상 상회 → 생산 단계 인플레 → 향후 CPI 상승 우려 → 위험자산 경계",
-      "confirmed": true,
-      "sources": [
-        "bls.gov 2026 공식 일정"
-      ],
-      "autoFetched": true
     },
     {
       "id": "g7-summit-2026",
@@ -797,6 +778,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -841,6 +823,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1106,6 +1089,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1150,6 +1134,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1393,6 +1378,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1437,6 +1423,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
