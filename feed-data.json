@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-06-13T09:27:36.107Z",
+  "updatedAt": "2026-06-13T14:16:32.759Z",
   "items": [
+    {
+      "id": "whale_alert__Sat, 13 Jun 2026 14:02:28 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 103,728,297 $USDC (103,704,440 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/ethereum/0x4712e0293e706b1fc24489988f935c739790c868b9d46969bde1ead417a7ffd7",
+      "pubDate": "Sat, 13 Jun 2026 14:02:28 GMT",
+      "link": "https://nitter.net/whale_alert/status/2065796950973182442#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 13 Jun 2026 13:56:39 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Morning jog views: guy taking the trash out of Ben Franklin’s house on 3rd and Market on a gorgeous morning here in Philly",
+      "pubDate": "Sat, 13 Jun 2026 13:56:39 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2065795487072977120#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sat, 13 Jun 2026 12:21:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (249,966,416 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3HEbAGkaUfNVhnzoqkpu3bZ3xXiALUNaGPfXygEpZ1No3xvb5wg6LRyRGwKpaQCAchjyvfFJkqe5JmNvE8F1oFkX",
+      "pubDate": "Sat, 13 Jun 2026 12:21:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2065771455846010953#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "JSeyff__Sat, 13 Jun 2026 07:20:14 GMT",
       "handle": "JSeyff",
@@ -1202,47 +1241,6 @@
         "Whale",
         "기관 수급",
         "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 12 Jun 2026 03:35:39 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 100,000,000 $USDC (100,044,700 USD) transferred from #Binance to unknown wallet https://whale-alert.io/tx/ethereum/0x5ffadbffd58b17e1e1d8163f23dddc9e9998d01ea6d31dc937358ccc3dae38b6",
-      "pubDate": "Fri, 12 Jun 2026 03:35:39 GMT",
-      "link": "https://nitter.net/whale_alert/status/2065276820396667135#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 12 Jun 2026 03:24:23 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "\"Never sell your Bitcoin,\" @saylor said. Not \"our company will never sell Bitcoin.\"",
-      "pubDate": "Fri, 12 Jun 2026 03:24:23 GMT",
-      "link": "https://nitter.net/lookonchain/status/2065273986511180230#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 12 Jun 2026 01:58:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $USDC (200,078,200 USD) transferred from #Binance to unknown wallet https://whale-alert.io/tx/ethereum/0xbb97a0fb362dcd0ac42f58881feed91184933efa0b7c61ac3d4bb2bb0a25732b",
-      "pubDate": "Fri, 12 Jun 2026 01:58:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2065252346649596030#m",
-      "keywords": [
-        "고래",
-        "Whale"
       ]
     }
   ]
