@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-13T04:27:27.105Z",
+  "updatedAt": "2026-06-13T09:27:36.107Z",
   "items": [
+    {
+      "id": "JSeyff__Sat, 13 Jun 2026 07:20:14 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Can’t wait to watch the documentary about this saga",
+      "pubDate": "Sat, 13 Jun 2026 07:20:14 GMT",
+      "link": "https://nitter.net/JSeyff/status/2065695725862752293#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 13 Jun 2026 05:26:37 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The $SIREN whale is dumping $SIREN! So far, the whale has received over 7.5M $USDT from selling $SIREN. The whale still holds 595.7M $SIREN($91.86M), and the selling is ongoing. https://arkm.com/explorer/entity/68296674-4a23-4fd4-ab30-72a06400ecf7",
+      "pubDate": "Sat, 13 Jun 2026 05:26:37 GMT",
+      "link": "https://nitter.net/lookonchain/status/2065667135171649976#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "JSeyff__Sat, 13 Jun 2026 02:17:26 GMT",
       "handle": "JSeyff",
@@ -1215,33 +1240,6 @@
       "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $USDC (200,078,200 USD) transferred from #Binance to unknown wallet https://whale-alert.io/tx/ethereum/0xbb97a0fb362dcd0ac42f58881feed91184933efa0b7c61ac3d4bb2bb0a25732b",
       "pubDate": "Fri, 12 Jun 2026 01:58:24 GMT",
       "link": "https://nitter.net/whale_alert/status/2065252346649596030#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 12 Jun 2026 01:39:21 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Meet a gambler who turned $106K into $550K in just 2 days — a return of over 419%. He has completed 6 trades, with 5 winners, for an 83% win rate. He is currently short 344.6 $BTC($21.81M). Liquidation price: $64,080 https://hyperbot.network/trader/0xc1a1a3a3a981e9cec449113bb7ab27dd97cbe3eb",
-      "pubDate": "Fri, 12 Jun 2026 01:39:21 GMT",
-      "link": "https://nitter.net/lookonchain/status/2065247551369179262#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 12 Jun 2026 00:36:26 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Betting big on the #SpaceX IPO? A whale just opened a 2x long on 100,992 xyz:SPCX ($17.33M) and is already sitting on a $608K profit. https://hypurrscan.io/address/0x9cc10bd3c7e2486c0ae4623e4f7cc3ff143fac56#perps",
-      "pubDate": "Fri, 12 Jun 2026 00:36:26 GMT",
-      "link": "https://nitter.net/lookonchain/status/2065231719167582504#m",
       "keywords": [
         "고래",
         "Whale"
