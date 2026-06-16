@@ -1,6 +1,194 @@
 {
-  "updatedAt": "2026-06-16T05:17:11.884Z",
+  "updatedAt": "2026-06-16T11:26:35.932Z",
   "items": [
+    {
+      "id": "EricBalchunas__Tue, 16 Jun 2026 11:09:01 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "HUGE first day in the 2x SpaceX Derby w/ a combined volume of over $1b. Notable that LeverageShares (who isn&apos;t nearly as big in US) is out to such a big lead, $281m makes it the biggest first day since $IBIT. Even $ETHA and $DRAM didn&apos;t do that much. And it had to share the demand w 11 dif ETFs. Would not hav",
+      "pubDate": "Tue, 16 Jun 2026 11:09:01 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2066840463466701088#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 10:59:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Full article ⤵️ https://cryptoquant.com/insights/quicktake/6a311c4ca8af494cbea1fadd-XRP-Leverage-Ratio-on-Binance-Hits-Highest-Level-Since-Early-2026?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=arab-chain",
+      "pubDate": "Tue, 16 Jun 2026 10:59:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066837942744522789#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 10:57:38 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "XRP Leverage Ratio on Binance Hits Highest Level Since Early 2026 “Leverage reaching its highest level since the beginning of 2026 could indicate growing trader confidence in the continuation of the short-term upward trend.” – By @ArabxChain",
+      "pubDate": "Tue, 16 Jun 2026 10:57:38 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066837601466687558#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Tue, 16 Jun 2026 10:55:58 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: Binance orderbooks are showing a sharp shift in market structure. Buy-side depth has expanded aggressively, pushing depth imbalance to cycle highs. The move suggests passive demand is returning to absorb bitcoin:native supply. https://glassno.de/4fOOGEE",
+      "pubDate": "Tue, 16 Jun 2026 10:55:58 GMT",
+      "link": "https://nitter.net/ChrisBeamish_/status/2066837178894745728#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 10:13:45 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: SpaceX has outperformed Nvidia since 2008: +147,977% vs. +125,000%.",
+      "pubDate": "Tue, 16 Jun 2026 10:13:45 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2066826555456892952#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 09:36:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a3027349139404af2b019d3-Nexos-Stablecoin-Balances-Record-Consistent-Growth-Reflecting-Growing-Platform-A?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=cryptoonchain",
+      "pubDate": "Tue, 16 Jun 2026 09:36:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066817055265878302#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 09:29:31 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Nexo’s Stablecoin Balances Record Consistent Growth “Net stablecoin balances stand at $8.44M, up approximately 7.5% from the ~$7.85M baseline, reflecting a meaningful increase in user engagement and capital directed toward @Nexo&apos;s ecosystem.” – By @CryptoOnchain",
+      "pubDate": "Tue, 16 Jun 2026 09:29:31 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066815424960839719#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 09:04:45 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Circle(@circle) minted another 1B $USDC on #Solana today! In the past week, #Circle has minted a total of 3.5B $USDC on #Solana. https://solscan.io/account/7VHUFJHWu2CuExkJcJrzhQPJ2oygupTWkL2A2For4BmE?activity_type=ACTIVITY_SPL_MINT&activity_type=ACTIVITY_SPL_BURN&exclude_amount_zero=true&remove_spam=false&page_size=10",
+      "pubDate": "Tue, 16 Jun 2026 09:04:45 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066809191818490348#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 08:53:18 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Has Arthur Hayes(@CryptoHayes) bought back $HYPE? A week ago, wallet 0xf7A4, which is linked to Arthur Hayes, withdrew 33,978 $HYPE($2.09M) from #Bybit shortly after Arthur Hayes announced that he had sold all of his $HYPE. Arthur Hayes later denied buying $HYPE, and wallet 0xf7A4 sent the 33,978 $HYPE back to #Bybit. ",
+      "pubDate": "Tue, 16 Jun 2026 08:53:18 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066806311690588390#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 08:51:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (249,937,750 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/636EMHvMvPmf7rEfjwr1rqPEDyoMfBdSJ4jYHk69sYC5eNr3MGcASAoqMBrWuMCraFVRBcsLQ5GYYoVvrL7hHs9k",
+      "pubDate": "Tue, 16 Jun 2026 08:51:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066805769496867195#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 07:59:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a3060e59139404af2b01a16-Binance-Futures-trading-reaches-800T-Fueled-by-recent-speculation?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Tue, 16 Jun 2026 07:59:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066792644261425569#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 07:57:30 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Binance Futures Trading Reaches $800T, Fueled by Speculation “Recent surge in trading activity likely contributed to the formation of a local bottom. However, caution remains, as a market structure driven primarily by leverage is generally less resilient.” – By @Darkfost_Coc",
+      "pubDate": "Tue, 16 Jun 2026 07:57:30 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066792266845352173#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 07:29:57 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 130,000,000 $USDT (129,951,120 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/solana/5jH3S8JCjZXhgkibpv3f6UEoqgXoFR2imzS3ToE9WdAXCvu7SBTjgR4emoBBFyypV7k4Fw2NmqxRFAEfy5QhyRJg",
+      "pubDate": "Tue, 16 Jun 2026 07:29:57 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066785334713598452#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 07:28:58 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 180,000,000 $USDT (179,933,400 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0x7d1b66ef7771ecf3960cf39a9cace8165c6b5a2d11ddafc45c241cd75c0b1a4e",
+      "pubDate": "Tue, 16 Jun 2026 07:28:58 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066785086129746269#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 07:25:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 180,000,000 $USDT (179,924,399 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/04ee432a9456302dbb41364d99c6e22610ba947dd6da7c39adf3709f2cd1f64d",
+      "pubDate": "Tue, 16 Jun 2026 07:25:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066784193153999026#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 16 Jun 2026 04:14:14 GMT",
       "handle": "lookonchain",
@@ -411,12 +599,12 @@
       ]
     },
     {
-      "id": "EricBalchunas__Mon, 15 Jun 2026 14:08:02 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
+      "id": "JSeyff__Mon, 15 Jun 2026 14:08:02 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
       "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "And they&apos;re off.. 11 leveraged SpaceX ETFs hitting market today. Here&apos;s how they stand in first half hour re $ volume. $SPCH in the lead by a nose.. $SPCL is no longer halted in 2nd place despite $SPCU in mix. All told $119m in 30min. Solid. Anything over $1m on Day One is impressive so all of these are above",
+      "color": "lime",
+      "text": "RT by @JSeyff: And they&apos;re off.. 11 leveraged SpaceX ETFs hitting market today. Here&apos;s how they stand in first half hour re $ volume. $SPCH in the lead by a nose.. $SPCL is no longer halted in 2nd place despite $SPCU in mix. All told $119m in 30min. Solid. Anything over $1m on Day One is impressive so all of ",
       "pubDate": "Mon, 15 Jun 2026 14:08:02 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2066523127681601804#m",
       "keywords": [
@@ -424,12 +612,12 @@
       ]
     },
     {
-      "id": "JSeyff__Mon, 15 Jun 2026 14:08:02 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
+      "id": "EricBalchunas__Mon, 15 Jun 2026 14:08:02 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
       "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: And they&apos;re off.. 11 leveraged SpaceX ETFs hitting market today. Here&apos;s how they stand in first half hour re $ volume. $SPCH in the lead by a nose.. $SPCL is no longer halted in 2nd place despite $SPCU in mix. All told $119m in 30min. Solid. Anything over $1m on Day One is impressive so all of ",
+      "color": "emerald",
+      "text": "And they&apos;re off.. 11 leveraged SpaceX ETFs hitting market today. Here&apos;s how they stand in first half hour re $ volume. $SPCH in the lead by a nose.. $SPCL is no longer halted in 2nd place despite $SPCU in mix. All told $119m in 30min. Solid. Anything over $1m on Day One is impressive so all of these are above",
       "pubDate": "Mon, 15 Jun 2026 14:08:02 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2066523127681601804#m",
       "keywords": [
@@ -1037,180 +1225,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "rektcapital__Sun, 14 Jun 2026 14:53:31 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "In case you missed it... New YouTube video is live! The One Bitcoin Chart That You Need For Success In 2026 And Beyond Check it out here: https://youtu.be/RiGFQYJXVdk?si=81WaCXxiwCWJkibg Enjoy and Subscribe! $BTC #BTC",
-      "pubDate": "Sun, 14 Jun 2026 14:53:31 GMT",
-      "link": "https://nitter.net/rektcapital/status/2066172187942305848#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 14 Jun 2026 14:14:49 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,035,875 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/5y6rGeCA26A6JNcRLnPL1G1BrJwuCTF44juKfkDxUaVeNDXGdfKVrDry7iTom3Sf6xe4CvpSdasdxqTWyJGgZVJk",
-      "pubDate": "Sun, 14 Jun 2026 14:14:49 GMT",
-      "link": "https://nitter.net/whale_alert/status/2066162446272774393#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 14 Jun 2026 12:17:48 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "My dad would have loved this. He grew up in Bayonne NJ going to Knicks games in &apos;60s and went to college at Villanova and was a die-hard Nova fan (had Brunson/Hart natty clippings hanging in garage). He passed away in March and one of the hardest parts of losing him is not being able to shoot him a text or call to",
-      "pubDate": "Sun, 14 Jun 2026 12:17:48 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2066132999742046271#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 14 Jun 2026 11:46:52 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Wild stat. Defines series. Last night, even when they up 15 you felt like they was still gonna lose. Mostly it is bc Knicks have a total assassin in Brunson and the Spurs don’t. Fox used to be kinda clutch but lost it. Rest of team too young. Sixers in same boat. We always lacked the assassin. We had it once w/ Butler ",
-      "pubDate": "Sun, 14 Jun 2026 11:46:52 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2066125216011444593#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 14 Jun 2026 09:11:51 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Top quality work by @BurnieSendersX",
-      "pubDate": "Sun, 14 Jun 2026 09:11:51 GMT",
-      "link": "https://nitter.net/TheAliceSmith/status/2066086202311164055#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sat, 13 Jun 2026 01:26:21 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: \"There are only 25 satellites launched a year, every year, and that&apos;s not going to change.\" Ryhmes with the current defense ecosystem.",
-      "pubDate": "Sat, 13 Jun 2026 01:26:21 GMT",
-      "link": "https://nitter.net/PalmerLuckey/status/2065606667958620562#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Fri, 12 Jun 2026 18:02:50 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: \"Bear market floors occur on PEAK APATHY. Nobody cares... My plan is to buy like a madman... Once we go above $80k we are back off and to the races.\" - @_Checkmatey_ \"DOUBLE DOWN.\" - @SullyMichaelvan",
-      "pubDate": "Fri, 12 Jun 2026 18:02:50 GMT",
-      "link": "https://nitter.net/titcoinpodcast/status/2065495052969767345#m",
-      "keywords": [
-        "약세장"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Fri, 12 Jun 2026 17:56:06 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: PEAK APATHY: NO ONE CARES ABOUT BITCOIN - TIME TO DOUBLE DOWN @_Checkmatey_ & @SullyMichaelvan with @WalkerAmerica FOUNTAIN: https://www.fountain.fm/episode/uAq9Q8VFX9wdH367aedf YOUTUBE: https://youtu.be/V0nywS9dLBM RUMBLE: https://rumble.com/v7b6yc4-peak-apathy-no-one-cares-about-bitcoin-time-to-d",
-      "pubDate": "Fri, 12 Jun 2026 17:56:06 GMT",
-      "link": "https://nitter.net/titcoinpodcast/status/2065493361264333213#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 12 Jun 2026 16:06:33 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: More on why:",
-      "pubDate": "Fri, 12 Jun 2026 16:06:33 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2065465791953215819#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Fri, 12 Jun 2026 16:04:39 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: $SPCX goes live!",
-      "pubDate": "Fri, 12 Jun 2026 16:04:39 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2065465311902536135#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Fri, 12 Jun 2026 16:04:19 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "𝙲𝚘𝚕𝚒𝚗 𝚃𝚊𝚕𝚔𝚜 𝙲𝚛𝚢𝚙𝚝𝚘 (@ColinTCrypto) I fully expect @SpaceX to become a very valuable company, but I don't expect it to go vertical overnight after the IPO. In fact, I wouldnt be surprised if we see short term excitement culminate in a pretty quick local top, with lower entries than the IPO price possible",
-      "pubDate": "Fri, 12 Jun 2026 16:04:19 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2065465229480272217#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Fri, 12 Jun 2026 16:01:58 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$SPCX trading is live! Here&apos;s the very first candle of history in the making. @elonmusk @SpaceX",
-      "pubDate": "Fri, 12 Jun 2026 16:01:58 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2065464638146310246#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 12 Jun 2026 13:52:52 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Watch this Signal - Percent Supply in Supply in Profit Watch the Chart of the Week Below👇 https://glassno.de/4v73Dqp",
-      "pubDate": "Fri, 12 Jun 2026 13:52:52 GMT",
-      "link": "https://nitter.net/glassnode/status/2065432145741447461#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 12 Jun 2026 13:48:41 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Gate Took 85% of the Market Alone With 295.8 Billion Dollars in TradFi Perp Volume in March 2026 “Gate produced a total of 377.5 billion dollars in volume in the TradFi perp segment in the first half of the year. ” – By @burak_kesmeci",
-      "pubDate": "Fri, 12 Jun 2026 13:48:41 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2065431095819051246#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 12 Jun 2026 10:11:27 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Wrap Up Volatility spiked, then normalized. Protection demand surged, then faded. The volatility risk premium has largely closed. Flow remains defensive, while short gamma sits above spot. The market has absorbed the initial shock, but options positioning remains cautious.",
-      "pubDate": "Fri, 12 Jun 2026 10:11:27 GMT",
-      "link": "https://nitter.net/glassnode/status/2065376425331310920#m",
-      "keywords": []
     }
   ]
 }
