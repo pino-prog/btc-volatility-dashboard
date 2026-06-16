@@ -1,6 +1,145 @@
 {
-  "updatedAt": "2026-06-15T21:13:32.151Z",
+  "updatedAt": "2026-06-16T05:17:11.884Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 04:14:14 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Bitwise bought another 77,097 $HYPE($5.18M) through #FalconX an hour ago. https://arkm.com/explorer/entity/bitwise",
+      "pubDate": "Tue, 16 Jun 2026 04:14:14 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066736079722721449#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 03:22:02 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "MARA(@MARA) seems to have bought 1,000 $BTC($66.7M) via #FalconX. In Q1 2026, MARA sold 20,880 $BTC($1.5B) at an average price of $70,137. https://arkm.com/explorer/entity/mara-pool https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000016/mara-20260331.htm",
+      "pubDate": "Tue, 16 Jun 2026 03:22:02 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066722942696992813#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 16 Jun 2026 03:14:53 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Corgi filed for a MANGOS ETF. That’s the latest attempt at a cute acronym which stands for Meta, Anthropic, Nvidia, Google, OpenAI and SpaceX.",
+      "pubDate": "Tue, 16 Jun 2026 03:14:53 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2066721146859331662#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 01:41:40 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Lucky or insider info? Someone created a new wallet, spent $4.22M betting that Spain would not win and Cabo Verde +2.5 when most people expected Spain to win. The match ended in a draw, and both bets won. In just a few hours, the wallet made over $9M in profit. https://polymarket.com/0xed64a7bf029040aa331abc87902434d81",
+      "pubDate": "Tue, 16 Jun 2026 01:41:40 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066697688570384387#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 01:31:13 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (249,932,827 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/5bCSeG2fqWXujw7NeebFAJBzbTGRMtPWmjC1LRHKjmNjKxaFZHzY1STDLxUiX2yZodiTHetMBMsqGsHyNT6kemdN",
+      "pubDate": "Tue, 16 Jun 2026 01:31:13 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066695056656859173#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 16 Jun 2026 01:12:23 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: The 3 fatal flaws of unsuccessful investors… 1) Pessimism 2) Political bias 3) Believe you’re smarter than crowd Avoid these & you’ll likely be a successful long-term investor. And don’t day trade. That’s it. Actually pretty simple.",
+      "pubDate": "Tue, 16 Jun 2026 01:12:23 GMT",
+      "link": "https://nitter.net/NateGeraci/status/2066690315788878247#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 00:53:55 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "James Wynn(@JamesWynnReal) is back again! This time, he&apos;s chasing the rally in gold, opening a 25x long on 10.03 xyz:GOLD($43K), with a liquidation price of $4,267. This is his first #gold trade on Hyperliquid. https://hypurrscan.io/address/0x5078c2fbea2b2ad61bc840bc023e35fce56bedb6#perps",
+      "pubDate": "Tue, 16 Jun 2026 00:53:55 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066685668764578090#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 00:44:31 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The OTC whale made another great swing trade. 5 hours ago, he sold the 29,000 $ETH($53.1M) he bought during last week&apos;s dip, making a $6.4M profit! https://arkm.com/explorer/entity/a922a9df-6a8f-4db8-aecc-1c059525ffcb",
+      "pubDate": "Tue, 16 Jun 2026 00:44:31 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066683304733233487#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 00:15:48 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,219,644 $USDC (135,196,115 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x44c9e1e25d80238c54a726cf0f2a052a9cbc62b6e34b8e4aa46a288b6dfc3f7e",
+      "pubDate": "Tue, 16 Jun 2026 00:15:48 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066676076235870340#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 16 Jun 2026 00:15:27 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The U.S. government transferred out $349K worth of assets again today. In the past month alone, the U.S. government has moved $8.31M in assets. https://arkm.com/explorer/entity/usg",
+      "pubDate": "Tue, 16 Jun 2026 00:15:27 GMT",
+      "link": "https://nitter.net/lookonchain/status/2066675990198440050#m",
+      "keywords": [
+        "고래 이동"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 15 Jun 2026 23:23:58 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,191,716 $USDC (135,163,191 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xf6f0f159fa6cf77f6f50e64ce553989711750f6f8d69ae6843390547f5112464",
+      "pubDate": "Mon, 15 Jun 2026 23:23:58 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066663031870792090#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "cryptoquant_com__Mon, 15 Jun 2026 21:05:13 GMT",
       "handle": "cryptoquant_com",
@@ -307,6 +446,19 @@
       "pubDate": "Mon, 15 Jun 2026 13:59:52 GMT",
       "link": "https://nitter.net/lookonchain/status/2066521072456147334#m",
       "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Mon, 15 Jun 2026 13:58:19 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Ya&apos;ll asked... I listened. I&apos;m officially kicking off a weekly newsletter for anyone that wants to stay up to date with the most recent changes across the Bitcoin sentiment landscape. First issue is live! https://sentimentsully.substack.com/p/bitcoin-sentiment-weekly-bitcoiners",
+      "pubDate": "Mon, 15 Jun 2026 13:58:19 GMT",
+      "link": "https://nitter.net/SullyMichaelvan/status/2066520682519826909#m",
+      "keywords": [
+        "BTC"
+      ]
     },
     {
       "id": "lookonchain__Mon, 15 Jun 2026 13:51:35 GMT",
@@ -802,7 +954,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "Reading a #BTC chart is a learnable skill Most people just never had anyone walk them through it properly This free Technical Analysis Blueprint does exactly that Step by step, no experience needed Download it free: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: Reading a #BTC chart is a learnable skill Most people just never had anyone walk them through it properly This free Technical Analysis Blueprint does exactly that Step by step, no experience needed Download it free: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bitcoin",
       "pubDate": "Sun, 14 Jun 2026 17:05:00 GMT",
       "link": "https://nitter.net/rektcapital/status/2066205274386714910#m",
       "keywords": [
@@ -947,92 +1099,6 @@
       "keywords": []
     },
     {
-      "id": "EricBalchunas__Sun, 14 Jun 2026 01:44:35 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "How the hell do you play Fox (who lost his edge à la Cougar from Top Gun) so much when Harper is so red hot? Coaches sometimes are too stubborn. You gotta be more like a momentum trader and not a value manager.",
-      "pubDate": "Sun, 14 Jun 2026 01:44:35 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2065973643390111877#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sun, 14 Jun 2026 01:35:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Absolutely insane! Over the past 24 hours, the $SIREN whale has received 28M $USDT from selling $SIREN on-chain and has already deposited 25.7M $USDT to #Bitget and #Bybit. The whale still holds 478M $SIREN. The dump isn&apos;t over yet. https://arkm.com/explorer/entity/68296674-4a23-4fd4-ab30-72a06400ecf7",
-      "pubDate": "Sun, 14 Jun 2026 01:35:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2065971468580872196#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 14 Jun 2026 01:15:18 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Brunson tripped after flying into lane recklessly and then whined no foul call then went over and whined again to ref at end of quarter. He should be above that. You’re up 3-1. You score 25 a game. You have nothing to whine about. Just play.",
-      "pubDate": "Sun, 14 Jun 2026 01:15:18 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2065966274937504067#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 14 Jun 2026 01:05:38 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Fox can’t be in game a lot. Mental case I fear. He lost his edge like Cougar in Top Gun.",
-      "pubDate": "Sun, 14 Jun 2026 01:05:38 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2065963844359344569#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 14 Jun 2026 00:59:14 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "If I’m coaching the Spurs I’m playing Dylan Harper and Keldon Johnson way more than Fox and I’m telling Castle to guard Brunson extra annoying, like Danny Hurley taught him. Finally they all have to crash the offensive boards like their lives depend on it. They can do it. And If they win ALL the pressure goes back onto",
-      "pubDate": "Sun, 14 Jun 2026 00:59:14 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2065962231821382128#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Sun, 14 Jun 2026 00:13:48 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,141,200 $USDC (135,121,740 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x92e5ee49b81cccca263a0833264e9041584ad0328111f80b494c282587e11dca",
-      "pubDate": "Sun, 14 Jun 2026 00:13:48 GMT",
-      "link": "https://nitter.net/whale_alert/status/2065950797578322315#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 13 Jun 2026 23:19:28 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,113,257 $USDC (135,119,810 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x918b33247c0563764eead24fb7bcff7f741b757429327cda682f5edcdbc78956",
-      "pubDate": "Sat, 13 Jun 2026 23:19:28 GMT",
-      "link": "https://nitter.net/whale_alert/status/2065937123430056204#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "JSeyff__Sat, 13 Jun 2026 01:26:21 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -1114,17 +1180,6 @@
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Fri, 12 Jun 2026 13:57:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a2b2d689139404af2b01303-Gate-Took-85-Percent-of-the-Market-Alone-With-2958-Billion-Dollars-in-TradFi-Per?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=burakkesmeci",
-      "pubDate": "Fri, 12 Jun 2026 13:57:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2065433186604130722#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Fri, 12 Jun 2026 13:52:52 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -1133,6 +1188,17 @@
       "text": "Watch this Signal - Percent Supply in Supply in Profit Watch the Chart of the Week Below👇 https://glassno.de/4v73Dqp",
       "pubDate": "Fri, 12 Jun 2026 13:52:52 GMT",
       "link": "https://nitter.net/glassnode/status/2065432145741447461#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 12 Jun 2026 13:48:41 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Gate Took 85% of the Market Alone With 295.8 Billion Dollars in TradFi Perp Volume in March 2026 “Gate produced a total of 377.5 billion dollars in volume in the TradFi perp segment in the first half of the year. ” – By @burak_kesmeci",
+      "pubDate": "Fri, 12 Jun 2026 13:48:41 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2065431095819051246#m",
       "keywords": []
     },
     {
@@ -1145,72 +1211,6 @@
       "pubDate": "Fri, 12 Jun 2026 10:11:27 GMT",
       "link": "https://nitter.net/glassnode/status/2065376425331310920#m",
       "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 12 Jun 2026 10:11:26 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Short Gamma Sits Above Spot The largest negative gamma cluster now sits at 65K, just above current spot near 63.8K. With several other short gamma strikes concentrated up to 70K, dealer hedging could amplify upward moves if BTC reclaims this area. https://glassno.de/3QdixMy",
-      "pubDate": "Fri, 12 Jun 2026 10:11:26 GMT",
-      "link": "https://nitter.net/glassnode/status/2065376422017876147#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Thu, 11 Jun 2026 09:52:20 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "R to @_Checkmatey_: I forgot, Mythos hacked Peter Schiffs gold vault code...turns out it was all bars of chocolate wrapped in gold foil after all. Wasn&apos;t worth the effort to nick it.",
-      "pubDate": "Thu, 11 Jun 2026 09:52:20 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2065009228197371944#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Thu, 11 Jun 2026 09:50:51 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "BREAKING: Jane Street just used a quantum computer to solve the asteroid mining problem, which looks set to inflate the gold and silver supply to infinity! The SpaceX IPO is just the tip of the spear for this catastrophic bug of using money derived from the periodic table!",
-      "pubDate": "Thu, 11 Jun 2026 09:50:51 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2065008852274422030#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Wed, 10 Jun 2026 06:31:31 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Bear market bottoms are a process, not an event. First, price-sensitive investors capitulate. Then comes the harder phase: months of sideways action that slowly wear down the conviction of those who remain. In our latest newsletter piece, @_Checkmatey_ examines the evidence suggesting Bitcoin may b",
-      "pubDate": "Wed, 10 Jun 2026 06:31:31 GMT",
-      "link": "https://nitter.net/_checkonchain/status/2064596303414481314#m",
-      "keywords": [
-        "BTC 사이클",
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 09 Jun 2026 18:13:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Go from crypto beginner to confident chart reader in under an hour The free TA Blueprint covers candlesticks, trends, support & resistance, and market psychology Everything you need to stop guessing Download it free: https://www.rektcapital.co.uk/free-technical-analysis-blueprint $BTC #BTC #Bitcoin",
-      "pubDate": "Tue, 09 Jun 2026 18:13:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2064410447558713745#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "지지선",
-        "BTC"
-      ]
     }
   ]
 }
