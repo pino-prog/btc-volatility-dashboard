@@ -1,6 +1,143 @@
 {
-  "updatedAt": "2026-06-16T17:11:53.667Z",
+  "updatedAt": "2026-06-16T21:12:48.229Z",
   "items": [
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 20:01:12 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,285 $BTC (84,315,481 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/1c45bf2396ef15c8416fb7ebc4ff756f7d2af2c296ff145a6a937485860c8a4e",
+      "pubDate": "Tue, 16 Jun 2026 20:01:12 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066974394807640408#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 16 Jun 2026 19:49:42 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,588 $BTC (104,339,282 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/29a6b1b7b3b34ef2ba5bd04cd36559ebb1558624a223de9be7d5e07bbffd0a31",
+      "pubDate": "Tue, 16 Jun 2026 19:49:42 GMT",
+      "link": "https://nitter.net/whale_alert/status/2066971498271682899#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 19:30:03 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: This is the bigger shift: Less “open chart → check metric → copy signal.” More “call endpoint → pipe into workflow → act faster.” Get your API keys and start building ⤵️ https://alpha.cryptoquant.com/indicators",
+      "pubDate": "Tue, 16 Jun 2026 19:30:03 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066966551970869411#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 19:26:31 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Bull-Bear Market Indicator A cycle momentum signal based on the gap between the PnL Index and its 365-day moving average. Helpful for tracking whether the market is leaning bull, bear, early bull, or overheating. Endpoint: GET /v2/community/bitcoin-bull-bear-indicator",
+      "pubDate": "Tue, 16 Jun 2026 19:26:31 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066965664678527396#m",
+      "keywords": [
+        "BTC 사이클",
+        "강세장",
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 19:25:57 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Trader Realized Price Shows the realized price of Bitcoin held for 1–3 months, with max, upper, lower, and min price bands. Useful for tracking where recent buyers may be sitting in profit or stress. Endpoint: GET /v2/community/bitcoin-trader-realized-price",
+      "pubDate": "Tue, 16 Jun 2026 19:25:57 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066965520386044319#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 19:25:14 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Apparent Demand Tracks Bitcoin spot demand changes over 30 days and one year. Useful for spotting when demand is expanding, cooling, or flipping direction. Endpoint: GET /v2/community/bitcoin-apparent-demand",
+      "pubDate": "Tue, 16 Jun 2026 19:25:14 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066965341905805757#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 16 Jun 2026 19:24:30 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "New on the CryptoQuant API 👀 10 Bitcoin signals built as queries are now API endpoints. The metrics you’ve been reading on charts can now be pulled in one call, straight into bots, alerts, dashboards, and models. Here are three we’d watch closely 👇",
+      "pubDate": "Tue, 16 Jun 2026 19:24:30 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2066965156312035576#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 16 Jun 2026 18:26:40 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Another 41 ETFs filed by Corgi. Fun fact: there were 100 ETFs launched in June so far, Corgi was 50(!) of them. Never seen the zone flooded like this.",
+      "pubDate": "Tue, 16 Jun 2026 18:26:40 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2066950604614701479#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 16 Jun 2026 17:58:46 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Update on the 2x SpaceX ETF race: over $3b traded (vs $1b yest) and shocker EVERY SINGLE ONE is pretty much at $100m or more. Hard to believe. Also, $SPCH at $1.3b is the most volume ever recorded by ETF on a Day Two ($IBIT &apos;only&apos; did $500m). Total feeding frenzy. To the ppl who doubted there was enough degen",
+      "pubDate": "Tue, 16 Jun 2026 17:58:46 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2066943581110071524#m",
+      "keywords": [
+        "ETF 수급",
+        "지지선",
+        "TA"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 16 Jun 2026 17:37:05 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "The number of ETFs that held SpaceX went from 4 to 40 to now 120 in a couple days (few billion total). These are all active ETFs choosing to buy, not indexes (they coming later). Here&apos;s a look at the list sorted by new buy, $JEPQ (the 2nd largest active ETF in world) at the top. Looks like a lot of JPM funds bough",
+      "pubDate": "Tue, 16 Jun 2026 17:37:05 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2066938125059047669#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
     {
       "id": "whale_alert__Tue, 16 Jun 2026 16:56:37 GMT",
       "handle": "whale_alert",
@@ -667,7 +804,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New edition of the RC Newsletter is out! Bitcoin - Is Bitcoin Going For Another Lower High? Seller exhaustion precede local bottoms and new relief rallies Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-is-bitcoin-going-for-another-lower-high/ #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: New edition of the RC Newsletter is out! Bitcoin - Is Bitcoin Going For Another Lower High? Seller exhaustion precede local bottoms and new relief rallies Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-is-bitcoin-going-for-another-lower-high/ #BTC $BTC #Bitcoin",
       "pubDate": "Mon, 15 Jun 2026 19:28:50 GMT",
       "link": "https://nitter.net/rektcapital/status/2066603860274352486#m",
       "keywords": [
@@ -1105,140 +1242,6 @@
       "keywords": [
         "지지선",
         "TA"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Mon, 15 Jun 2026 10:33:55 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Observation: it looks like a backtest and subsequent rejection from the diagonal line in RSI is where the low occurred last cycle. See the blue lines I drew in the RSI (top) chart. I do think lower prices are coming. To @CryptoJelleNL’s point: he’s not trying to catch the absolute bottom.",
-      "pubDate": "Mon, 15 Jun 2026 10:33:55 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2066469243273527730#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 15 Jun 2026 10:28:42 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: $BTC has rebounded from $60K as geopolitical tensions eased and risk sentiment improved. Coinbase Spot CVD Bias has turned higher while Binance remains net sell-side, suggesting US buyers are absorbing supply during the recovery. https://glassno.de/4e9FdGH",
-      "pubDate": "Mon, 15 Jun 2026 10:28:42 GMT",
-      "link": "https://nitter.net/ChrisBeamish_/status/2066467931639148852#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 15 Jun 2026 09:02:02 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The trader who lost $3M on $BTC long is back after 10 days! He tried to short $BTC today but failed, losing another $360K. He then flipped to long $ETH, opening a 5x long on 31,956 $ETH($54.98M). https://hyperbot.network/trader/0x9137bd9347f07990a8ce22869f8b93d190479c5a",
-      "pubDate": "Mon, 15 Jun 2026 09:02:02 GMT",
-      "link": "https://nitter.net/lookonchain/status/2066446120738521549#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Mon, 15 Jun 2026 08:47:31 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Introducing CryptoQuant Alpha Library 📚 A single heatmap for technical, on-chain, sentiment, and valuation indicators across assets, including Bitcoin, altcoins, tokenized stocks, and other RWAs. Our goal is to build the world&apos;s largest alpha library, starting with Bitcoin and expanding in",
-      "pubDate": "Mon, 15 Jun 2026 08:47:31 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2066442468330287137#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 15 Jun 2026 08:39:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "SpaceX&apos;s Market Debut Sparks Massive Demand “On Gate, SPCX trading volume exceeded $100M on its very first day of listing. For comparison, trading volumes for Circle and Tesla reached $4M and $3.5M, respectively.” – By @Darkfost_Coc Link ⤵️ https://cryptoquant.com/insights/quicktake/6a2ef7539139404af2b0178f-SpaceX",
-      "pubDate": "Mon, 15 Jun 2026 08:39:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2066440322687610898#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 15 Jun 2026 07:52:05 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x54d2 borrowed another 10M $USDe from #Aave and bought 5,818 $ETH at $1,719. So far, this whale has borrowed a total of $153M in stablecoins from Aave. His current health rate is 1.21, with an estimated liquidation price of ~$1,420. https://debank.com/profile/0x54d250405d22e858d125ce2c1affc7d73afe6029/history",
-      "pubDate": "Mon, 15 Jun 2026 07:52:05 GMT",
-      "link": "https://nitter.net/lookonchain/status/2066428515248120013#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "청산",
-        "LTH 보유자"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 15 Jun 2026 07:32:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a2f760e9139404af2b01827-Whales-Complete-Selling-Trigger-657K-Rebound-Whale-Supply-U-Turn?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu",
-      "pubDate": "Mon, 15 Jun 2026 07:32:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2066423461812027518#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 15 Jun 2026 07:25:39 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Whales Complete Selling & Trigger $65.7K Rebound (Whale Supply U-Turn) “Whales have locked in the $60,000–$61,500 range as a rock-solid floor. With exchange reserves depleted, the path of least resistance for Bitcoin is now firmly upward.” – By @Woo_Minkyu",
-      "pubDate": "Mon, 15 Jun 2026 07:25:39 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2066421866835669333#m",
-      "keywords": [
-        "Exchange Reserve",
-        "거래소 잔량",
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 15 Jun 2026 04:07:55 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The $SIREN whale has sold 670M $SIREN (92% of the total supply) in just 2 days, causing the price to crash by over 90%! By selling $SIREN, the whale has received 64.8M $USDT. Of that, 25.7M $USDT has been deposited to exchanges, while 39.1M $USDT remains on-chain. https://x.com/lookonchain/status/2065971468580872196",
-      "pubDate": "Mon, 15 Jun 2026 04:07:55 GMT",
-      "link": "https://nitter.net/lookonchain/status/2066372104631791619#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 15 Jun 2026 04:04:11 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 3,986 $BTC (262,617,700 USD) transferred from #Paypal to unknown wallet https://whale-alert.io/tx/bitcoin/c3408a90c4de037991db1977ebd91ffef8499e7d06dd60addd7e636b0ff97998",
-      "pubDate": "Mon, 15 Jun 2026 04:04:11 GMT",
-      "link": "https://nitter.net/whale_alert/status/2066371162951614551#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
       ]
     }
   ]
