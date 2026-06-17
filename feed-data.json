@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-06-17T04:57:02.656Z",
+  "updatedAt": "2026-06-17T11:10:38.510Z",
   "items": [
+    {
+      "id": "rektcapital__Wed, 17 Jun 2026 10:08:41 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Even though temporary Seller Exhaustion is clear, the buy-side volume to take advantage of that hasn&apos;t been strong at all Price continues to struggle with February lows (~$65.7k, blue) which act as resistance since breakdown earlier this month $BTC #Bitcoin",
+      "pubDate": "Wed, 17 Jun 2026 10:08:41 GMT",
+      "link": "https://nitter.net/rektcapital/status/2067187669646332037#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 17 Jun 2026 10:04:27 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After a week of inactivity, new wallet 0x6436 is accumulating $HYPE again. Over the past hour, wallet 0x6436 withdrew 88,350 $HYPE($6.41M) from exchanges. In total, the wallet has withdrawn 1.23M $HYPE($85.34M) from exchanges.",
+      "pubDate": "Wed, 17 Jun 2026 10:04:27 GMT",
+      "link": "https://nitter.net/lookonchain/status/2067186603974664413#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 17 Jun 2026 09:50:44 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Andrew Tate (@Cobratate) just got partially liquidated again. New liquidation price: $64,824.44",
+      "pubDate": "Wed, 17 Jun 2026 09:50:44 GMT",
+      "link": "https://nitter.net/lookonchain/status/2067183150170779896#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 17 Jun 2026 09:37:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "STH SOPR Has Not Entered Panic Territory Yet “Fragile recovery phase rather than full capitulation; a reclaim of 1.0 would confirm improving short-term sentiment, while a renewed drop below 0.95 would signal rising panic risk” – By COINDREAM Link ⤵️ https://cryptoquant.com/insights/quicktake/6a31f82da8af494cbea1fc5d-Ti",
+      "pubDate": "Wed, 17 Jun 2026 09:37:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067179694630613048#m",
+      "keywords": [
+        "SOPR",
+        "온체인",
+        "STH 보유자"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 17 Jun 2026 08:26:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @IT_Tech_PL: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a319b71178f3b625a4b4d9a-Altcoin-sell-pressure-just-hit-a-5-year-extreme?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=it-tech",
+      "pubDate": "Wed, 17 Jun 2026 08:26:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067161826828402859#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 17 Jun 2026 08:19:51 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Altcoin Sell Pressure Hits a 5-Year Extreme “This is not a dip. It’s 15 months of continuous net selling on Spot Exchanges. Cumulative buy/sell volume diff (alts excluded BTC/ETH): deepest negative reading since data began in 2020.” – By @IT_Tech_PL",
+      "pubDate": "Wed, 17 Jun 2026 08:19:51 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067160278517547258#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 17 Jun 2026 06:56:23 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Andrew Tate (@Cobratate), who&apos;s been liquidated 107 times, is back! He opened a 40x long on 57.36 $BTC($3.76M). Liquidation price: $65,215.87 https://hypurrscan.io/address/0xB78D97390a96A17Fd2B58FeDBEB3DD876c8F660A#perps",
+      "pubDate": "Wed, 17 Jun 2026 06:56:23 GMT",
+      "link": "https://nitter.net/lookonchain/status/2067139275955880060#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 17 Jun 2026 06:54:12 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Morning jog views (Frankfurt edition): ECB headquarters. Had to see it. Neat design, next to River. Beautiful day in the making here.",
+      "pubDate": "Wed, 17 Jun 2026 06:54:12 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067138725788975287#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Wed, 17 Jun 2026 02:37:59 GMT",
       "handle": "lookonchain",
@@ -507,7 +607,7 @@
       "label": "Colin",
       "category": "기술적 분석",
       "color": "orange",
-      "text": "⚠️ WARNING to @SpaceX investors ⚠️ Only about 5% of $SPCX shares are liquid right now due to the large, locked float (non-tradeable shares). This lack of availability is making it much easier to push the price up. I&apos;ve seen this type of highly-restricted token release schedule in cryptocurrencies that pump massive",
+      "text": "RT by @ColinTCrypto: ⚠️ WARNING to @SpaceX investors ⚠️ Only about 5% of $SPCX shares are liquid right now due to the large, locked float (non-tradeable shares). This lack of availability is making it much easier to push the price up. I&apos;ve seen this type of highly-restricted token release schedule in cryptocurrenc",
       "pubDate": "Tue, 16 Jun 2026 12:12:51 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2066856530570260920#m",
       "keywords": []
@@ -540,7 +640,7 @@
       "label": "Colin",
       "category": "기술적 분석",
       "color": "orange",
-      "text": "Here&apos;s what the $SPCX unlock schedule looks like for the 95% of the shares that are currently frozen: IPO (June 12, 2026): Only ~4–5% public float initially available. First major unlock (~Aug 11, after Q2 earnings): Up to 20% of eligible locked shares. Rolling 7% releases every ~15 days from late August through l",
+      "text": "RT by @ColinTCrypto: Here&apos;s what the $SPCX unlock schedule looks like for the 95% of the shares that are currently frozen: IPO (June 12, 2026): Only ~4–5% public float initially available. First major unlock (~Aug 11, after Q2 earnings): Up to 20% of eligible locked shares. Rolling 7% releases every ~15 days from ",
       "pubDate": "Tue, 16 Jun 2026 11:52:10 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2066851322750542122#m",
       "keywords": []
@@ -1138,114 +1238,6 @@
         "OI",
         "미결제약정",
         "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 15 Jun 2026 15:04:16 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "June 15 Update: #Bitcoin ETFs: 1D NetFlow: +1,000 $BTC(+$66.61M)🟢 7D NetFlow: -6,155 $BTC(-$409.89M)🔴 #Ethereum ETFs: 1D NetFlow: -5,316 $ETH(-$9.64M)🔴 7D NetFlow: -24,405 $ETH(-$44.27M)🔴",
-      "pubDate": "Mon, 15 Jun 2026 15:04:16 GMT",
-      "link": "https://nitter.net/lookonchain/status/2066537279997554830#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Mon, 15 Jun 2026 14:08:02 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: And they&apos;re off.. 11 leveraged SpaceX ETFs hitting market today. Here&apos;s how they stand in first half hour re $ volume. $SPCH in the lead by a nose.. $SPCL is no longer halted in 2nd place despite $SPCU in mix. All told $119m in 30min. Solid. Anything over $1m on Day One is impressive so all of ",
-      "pubDate": "Mon, 15 Jun 2026 14:08:02 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2066523127681601804#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 15 Jun 2026 14:08:02 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "And they&apos;re off.. 11 leveraged SpaceX ETFs hitting market today. Here&apos;s how they stand in first half hour re $ volume. $SPCH in the lead by a nose.. $SPCL is no longer halted in 2nd place despite $SPCU in mix. All told $119m in 30min. Solid. Anything over $1m on Day One is impressive so all of these are above",
-      "pubDate": "Mon, 15 Jun 2026 14:08:02 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2066523127681601804#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 15 Jun 2026 13:59:52 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Ethereum is pumping, and geministar.eth is buying more $ETH! Today, geministar.eth has bought 21,136 $ETH($37.05M) from #Binance. https://arkm.com/explorer/address/0x49C59d74B371C429aF70FafEc10cCCBE97eFF1f2",
-      "pubDate": "Mon, 15 Jun 2026 13:59:52 GMT",
-      "link": "https://nitter.net/lookonchain/status/2066521072456147334#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Mon, 15 Jun 2026 13:58:19 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Ya&apos;ll asked... I listened. I&apos;m officially kicking off a weekly newsletter for anyone that wants to stay up to date with the most recent changes across the Bitcoin sentiment landscape. First issue is live! https://sentimentsully.substack.com/p/bitcoin-sentiment-weekly-bitcoiners",
-      "pubDate": "Mon, 15 Jun 2026 13:58:19 GMT",
-      "link": "https://nitter.net/SullyMichaelvan/status/2066520682519826909#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 15 Jun 2026 13:51:35 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "As the market rebounded, this whale borrowed another 19,000 $ETH($33.48M) from #Aave to sell today. In total, the whale has borrowed a total of 44,389 $ETH($80.56M) from Aave for selling, and may sell even more. https://arkm.com/explorer/address/0x1be45feF92C4E2538fEcd150757Ed62b7B3757D7",
-      "pubDate": "Mon, 15 Jun 2026 13:51:35 GMT",
-      "link": "https://nitter.net/lookonchain/status/2066518989229228339#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 15 Jun 2026 13:09:51 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Here&apos;s link to piece: https://www.bloomberg.com/news/features/2026-06-14/spacex-open-ai-anthropic-ipos-have-wall-street-bullish-on-equities-again?srnd=homepage-americas",
-      "pubDate": "Mon, 15 Jun 2026 13:09:51 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2066508486318448741#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 15 Jun 2026 12:55:05 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "The Accumulation Trend Score measures the relative size of entities actively adding to their holdings on-chain, combining balance size with recent balance change. Values near 1 indicate broad accumulation; near 0, distribution. As price pushed into the $60k zone in early June, the aggregate score began shifting toward ",
-      "pubDate": "Mon, 15 Jun 2026 12:55:05 GMT",
-      "link": "https://nitter.net/glassnode/status/2066504768088875012#m",
-      "keywords": [
-        "매집",
-        "분배"
       ]
     }
   ]
