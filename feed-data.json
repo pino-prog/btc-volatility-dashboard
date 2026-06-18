@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-06-18T04:47:28.576Z",
+  "updatedAt": "2026-06-18T10:41:44.244Z",
   "items": [
+    {
+      "id": "whale_alert__Thu, 18 Jun 2026 10:32:54 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 300,000,000 $USDT (299,714,850 USD) transferred from #Binance to Tether Treasury https://whale-alert.io/tx/ethereum/0xe5865eb4e57f68e3413ab42f7f7ed9f3fa3cb286eaa45e392139e3a91f3ba594",
+      "pubDate": "Thu, 18 Jun 2026 10:32:54 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067556153140088982#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 18 Jun 2026 10:25:49 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After Aster announced its tokenomics update, whale 0x5f91 FOMOed into a 5.33M $ASTER($3.97M) long. As $ASTER pulled back, he was fully liquidated, losing $530.6K. Now he&apos;s back again, opening another 5x long on 3.86M $ASTER($2.61M). https://hyperbot.network/trader/0x5f912dbde4530bc43f8322196db54592e3dd65aa",
+      "pubDate": "Thu, 18 Jun 2026 10:25:49 GMT",
+      "link": "https://nitter.net/lookonchain/status/2067554368166166928#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 18 Jun 2026 09:09:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Satoureireal: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a32ae73a8af494cbea1fd72-Positive-signal-from-Spot-Average-Order-Size?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=rei-researcher",
+      "pubDate": "Thu, 18 Jun 2026 09:09:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067535036140691559#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Thu, 18 Jun 2026 09:03:30 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Positive signal from Spot Average Order Size “This reflects the accumulation activity of large capital flows beginning to emerge, reducing the current selling pressure on $BTC.” – By @Satoureireal",
+      "pubDate": "Thu, 18 Jun 2026 09:03:30 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067533652951457963#m",
+      "keywords": [
+        "매집"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 18 Jun 2026 07:59:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Crazzyblockk: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a32b0e3178f3b625a4b4f3d-Binance-Is-Pricing-Bearish-While-Retail-Buys-the-Dip-%E2%80%94-4-Signals-to-Watch?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crazzyblockk",
+      "pubDate": "Thu, 18 Jun 2026 07:59:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067517419887956174#m",
+      "keywords": [
+        "약세장",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 18 Jun 2026 07:58:04 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Binance Is Pricing Bearish While Retail Buys the Dip — 4 Signals to Watch “Binance funding rate is running 370bps below the 3-exchange median — bottom 2.8% of all readings since 2021.” – By @Crazzyblockk",
+      "pubDate": "Thu, 18 Jun 2026 07:58:04 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067517187342876793#m",
+      "keywords": [
+        "펀딩비",
+        "Funding Rate",
+        "약세장",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 18 Jun 2026 07:50:01 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x55C1 deposited 43,235 $ETH($74.68M) into #Binance an hour ago, incurring a $11.37M loss. https://arkm.com/explorer/address/0x55C11477577636024F8c4e776CdA758c6f81cDaf",
+      "pubDate": "Thu, 18 Jun 2026 07:50:01 GMT",
+      "link": "https://nitter.net/lookonchain/status/2067515160911364140#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Thu, 18 Jun 2026 07:00:52 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,150 $BTC (137,786,343 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/05de088959afa1db15addbabbb584297872d1715f3de608107ef6d6eb0ef3b7a",
+      "pubDate": "Thu, 18 Jun 2026 07:00:52 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067502789505237068#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Thu, 18 Jun 2026 05:58:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 43,234 $ETH (74,701,340 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/ethereum/0x602da36b68d7a2d418b514ee6d5f637095ebae9ffdeeec77ffe926316c933bb4",
+      "pubDate": "Thu, 18 Jun 2026 05:58:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067487009577247092#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Thu, 18 Jun 2026 03:41:09 GMT",
       "handle": "lookonchain",
@@ -1132,113 +1257,6 @@
       "pubDate": "Tue, 16 Jun 2026 12:15:39 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2066857231816003858#m",
       "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Tue, 16 Jun 2026 12:12:51 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RT by @ColinTCrypto: ⚠️ WARNING to @SpaceX investors ⚠️ Only about 5% of $SPCX shares are liquid right now due to the large, locked float (non-tradeable shares). This lack of availability is making it much easier to push the price up. I&apos;ve seen this type of highly-restricted token release schedule in cryptocurrenc",
-      "pubDate": "Tue, 16 Jun 2026 12:12:51 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2066856530570260920#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 16 Jun 2026 12:08:54 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Meet gardenshed: $764K profit in just 4 days from #WorldCup betting. He has placed 8 bets, winning 7 of them for an 87.5% win rate. Currently, he&apos;s betting $66.2K on the France vs. Senegal match a few hours later, predicting France won&apos;t win. If France doesn&apos;t win, he&apos;ll make another ~$132K. https:/",
-      "pubDate": "Tue, 16 Jun 2026 12:08:54 GMT",
-      "link": "https://nitter.net/lookonchain/status/2066855535857873006#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Tue, 16 Jun 2026 12:00:42 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: Here&apos;s the $SPCX unlock chart that shows the maximum scenario with the +10% performance bonus (green line) compared with the non-bonus schedule (blue line): @SpaceX",
-      "pubDate": "Tue, 16 Jun 2026 12:00:42 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2066853470729081184#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Tue, 16 Jun 2026 11:52:10 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RT by @ColinTCrypto: Here&apos;s what the $SPCX unlock schedule looks like for the 95% of the shares that are currently frozen: IPO (June 12, 2026): Only ~4–5% public float initially available. First major unlock (~Aug 11, after Q2 earnings): Up to 20% of eligible locked shares. Rolling 7% releases every ~15 days from ",
-      "pubDate": "Tue, 16 Jun 2026 11:52:10 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2066851322750542122#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Tue, 16 Jun 2026 11:25:28 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $USDT (199,874,999 USD) transferred from unknown wallet to #Aave https://whale-alert.io/tx/ethereum/0x7d761e8f613d48a8ad8a83b8cc37c6c793e3dbb93c827ba860aa611959f8ac6b",
-      "pubDate": "Tue, 16 Jun 2026 11:25:28 GMT",
-      "link": "https://nitter.net/whale_alert/status/2066844603165159760#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 16 Jun 2026 11:09:01 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "HUGE first day in the 2x SpaceX Derby w/ a combined volume of over $1b. Notable that LeverageShares (who isn&apos;t nearly as big in US) is out to such a big lead, $281m makes it the biggest first day since $IBIT. Even $ETHA and $DRAM didn&apos;t do that much. And it had to share the demand w 11 dif ETFs. Would not hav",
-      "pubDate": "Tue, 16 Jun 2026 11:09:01 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2066840463466701088#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 16 Jun 2026 10:59:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @ArabxChain: Full article ⤵️ https://cryptoquant.com/insights/quicktake/6a311c4ca8af494cbea1fadd-XRP-Leverage-Ratio-on-Binance-Hits-Highest-Level-Since-Early-2026?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=arab-chain",
-      "pubDate": "Tue, 16 Jun 2026 10:59:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2066837942744522789#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Tue, 16 Jun 2026 10:57:38 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "XRP Leverage Ratio on Binance Hits Highest Level Since Early 2026 “Leverage reaching its highest level since the beginning of 2026 could indicate growing trader confidence in the continuation of the short-term upward trend.” – By @ArabxChain",
-      "pubDate": "Tue, 16 Jun 2026 10:57:38 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2066837601466687558#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Tue, 16 Jun 2026 10:55:58 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: Binance orderbooks are showing a sharp shift in market structure. Buy-side depth has expanded aggressively, pushing depth imbalance to cycle highs. The move suggests passive demand is returning to absorb bitcoin:native supply. https://glassno.de/4fOOGEE",
-      "pubDate": "Tue, 16 Jun 2026 10:55:58 GMT",
-      "link": "https://nitter.net/ChrisBeamish_/status/2066837178894745728#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
     }
   ]
 }
