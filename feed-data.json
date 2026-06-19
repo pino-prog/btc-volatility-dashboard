@@ -1,6 +1,206 @@
 {
-  "updatedAt": "2026-06-19T05:07:51.712Z",
+  "updatedAt": "2026-06-19T10:50:46.264Z",
   "items": [
+    {
+      "id": "EricBalchunas__Fri, 19 Jun 2026 10:10:44 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: There&apos;s now been about 125 ESG ETF closures in US in past 3-4yrs. And many are changing name to remove ESG. We called this multiple times in multiple ways but most specifically we warned the issuers not to launch them all the way back in 2020 bf it was cool to be bearish ESG. The big this is t",
+      "pubDate": "Fri, 19 Jun 2026 10:10:44 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067912959557325212#m",
+      "keywords": [
+        "ETF 수급",
+        "약세장",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 19 Jun 2026 09:58:33 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: That is astonishing vs even 3yrs ago. There were literal entire panels on it w/ a lot of moral posturing etc. I think when the European govt declared nuclear weapons ESG (bc they desperately wanted private investment in defense cos, but inst were like we can&apos;t bc you told us we could only buy ",
+      "pubDate": "Fri, 19 Jun 2026 09:58:33 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067909894032789547#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Fri, 19 Jun 2026 09:56:32 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,062,875 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/oonccVczFRoCrVj9b9rfjBb3ZrXJyFc4iQAeStKLPbRgbQMDSmKBSFhZuuYtuUYLTNPP7HpVySmbecsivStMNLK",
+      "pubDate": "Fri, 19 Jun 2026 09:56:32 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067909385620197736#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 19 Jun 2026 09:55:50 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "I was in Europe for an entire week, sat through multiple panels, networked with a bunch of ETF people, and did not hear the phrase \"ESG\" one time.",
+      "pubDate": "Fri, 19 Jun 2026 09:55:50 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067909209945944569#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:29 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Wrap Up Implied volatility has cooled. Protection demand has normalized. Calls remain out of favor. Realized volatility exceeds implied volatility. BTC sits on a major short gamma cluster. Flow continues to favor puts. Defensive positioning persists near key support.",
+      "pubDate": "Fri, 19 Jun 2026 09:31:29 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903083968119057#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:29 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Put Buying Continues to Lead Put buying dominated taker flow over the past 7 days, accounting for 28% of premium traded. Put selling followed at 26.8%, while call buying represented 24.1%. The tape continues to favor protection over upside exposure. https://glassno.de/44kFm4a",
+      "pubDate": "Fri, 19 Jun 2026 09:31:29 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903081279631734#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:28 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Short Gamma Remains Dominant The largest negative gamma cluster sits at 62K, just below spot, where $1.8B of short gamma is concentrated. A move lower could accelerate a retest of 60K, where a small pocket of long gamma may help contain volatility. https://glassno.de/3QvDHFC",
+      "pubDate": "Fri, 19 Jun 2026 09:31:28 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903078268060021#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:27 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Volatility Risk Premium Turns Negative 1M IV has fallen below realized volatility. Implied volatility sits near 39%, while realized volatility has risen above 42%. Recent price swings have exceeded what options markets are currently pricing. https://glassno.de/4xID4cM",
+      "pubDate": "Fri, 19 Jun 2026 09:31:27 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903075604721857#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:26 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Calls Continue to Lose Ground The skew index ratio compares upside IV against downside IV. Near term options continue to favor downside exposure over upside participation. https://glassno.de/44j2eRD",
+      "pubDate": "Fri, 19 Jun 2026 09:31:26 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903072412766445#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:26 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Protection Demand Normalizes 25D skew has eased from the extreme levels reached during the June selloff. 1 week skew has fallen from nearly 30% to 15%, with the rest of the curve also normalizing. The rush for downside protection has largely subsided. https://glassno.de/4oCtPGR",
+      "pubDate": "Fri, 19 Jun 2026 09:31:26 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903069166453071#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:25 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Volatility Cools From Recent Highs BTC implied volatility has eased despite price testing the Feb lows. 1 week IV has fallen from 60% to 35%, with the rest of the curve also drifting lower. The market is pricing less uncertainty than two weeks ago. https://glassno.de/4elkXSs",
+      "pubDate": "Fri, 19 Jun 2026 09:31:25 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903066108723638#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:24 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "BTC is back at a major support zone as price tests the February lows. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.",
+      "pubDate": "Fri, 19 Jun 2026 09:31:24 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903063537709366#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 19 Jun 2026 08:25:28 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Equity Bitcoin DRIP: proposed ETFs will invest in US stocks but then broad index of stocks pay out dvds the ETF will buy btc with that money. Trying it w innovation stocks too. Interesting..",
+      "pubDate": "Fri, 19 Jun 2026 08:25:28 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067886468677136434#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 19 Jun 2026 08:21:15 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Yet another attempt at a new buzzword to acct for the new hot shot IPOs: The Fab 10 which is Mag 7 + OpenAI SpaceX and Anthropic. This comes on heels of the MANGOS.",
+      "pubDate": "Fri, 19 Jun 2026 08:21:15 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067885408151589307#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Fri, 19 Jun 2026 07:58:36 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Road closure in London for 4th of July. Can’t say I saw that coming but hey, the more the merrier! 🎆 🇺🇸",
+      "pubDate": "Fri, 19 Jun 2026 07:58:36 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067879710298604015#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Fri, 19 Jun 2026 07:49:11 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Morgan Stanley Ether and Solana ETFs nearing launch. The fee on each is going to be 14bps making them the cheapest in U.S. and world. 🔥",
+      "pubDate": "Fri, 19 Jun 2026 07:49:11 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2067877337622786478#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
     {
       "id": "whale_alert__Fri, 19 Jun 2026 04:28:02 GMT",
       "handle": "whale_alert",
@@ -518,6 +718,17 @@
       "text": "R to @cryptoquant_com: 1. Human in the Loop Let AI do the heavy lifting: → Fetch market data → Run calculations → Analyze signals → Generate trade setups But before any trade is executed, a human reviews the result and gives the final approval.",
       "pubDate": "Thu, 18 Jun 2026 12:20:31 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2067583232472690910#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Thu, 18 Jun 2026 12:20:08 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "CryptoQuant MCP offers data for Vibe Quants. However, LLMs are inherently prone to hallucinations and errors. Especially when real money is on the line. Luckily, there are solutions 🧵",
+      "pubDate": "Thu, 18 Jun 2026 12:20:08 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2067583138956452327#m",
       "keywords": []
     },
     {
@@ -1051,218 +1262,6 @@
         "고래",
         "Whale"
       ]
-    },
-    {
-      "id": "rektcapital__Wed, 17 Jun 2026 14:03:13 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Downside deviations below old All Time Highs tend to take the shape of a multi-month cluster So it&apos;s a little premature to say this cluster is over after only a few weeks here $BTC #Bitcoin",
-      "pubDate": "Wed, 17 Jun 2026 14:03:13 GMT",
-      "link": "https://nitter.net/rektcapital/status/2067246691829284974#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 13:59:22 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #UXLINK exploiter is buying $ETH and laundering funds through #TornadoCash. Over the past 30 minutes, the #UXLINK exploiter has spent 6.5M $DAI to buy 3,686 $ETH at an average price of $1,764. https://arkm.com/explorer/entity/uxlink-exploiter",
-      "pubDate": "Wed, 17 Jun 2026 13:59:22 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067245722085519759#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 13:55:04 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Link to intro re what Bloomberg Money is from editor Nikki Waller: https://www.bloomberg.com/news/articles/2026-06-02/introducing-bloomberg-money-investing-retirement-taxes",
-      "pubDate": "Wed, 17 Jun 2026 13:55:04 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067244642236784898#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 13:53:04 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Link to article: https://www.bloomberg.com/news/articles/2026-06-15/how-to-invest-in-spacex-spcx-with-etfs",
-      "pubDate": "Wed, 17 Jun 2026 13:53:04 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067244135665537042#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "JSeyff__Wed, 17 Jun 2026 13:50:23 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Excited to be a contributor to Bloomberg Money, a brand new personal finance vertical. I’ll be doing a weekly-ish Q&A on the wild world of ETFs drawing on our team’s research. First one is out and on (what else?) SpaceX that I did w @joelwebershow. Link in next post. FYI !",
-      "pubDate": "Wed, 17 Jun 2026 13:50:23 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067243461426966619#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 13:50:23 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Excited to be a contributor to Bloomberg Money, a brand new personal finance vertical. I’ll be doing a weekly-ish Q&A on the wild world of ETFs drawing on our team’s research. First one is out and on (what else?) SpaceX that I did w @joelwebershow. Link in next post. FYI !",
-      "pubDate": "Wed, 17 Jun 2026 13:50:23 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067243461426966619#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 13:25:44 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: *then sorry grammar police. Pls don’t jail me.",
-      "pubDate": "Wed, 17 Jun 2026 13:25:44 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067237260182057123#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 13:16:02 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: If $SPCX is value than what’s growth?",
-      "pubDate": "Wed, 17 Jun 2026 13:16:02 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067234817100386625#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 13:06:35 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Schwab&apos;s large cap value ETF purchased $SPCX yesterday. It&apos;s a tiny weighting but still.. what?",
-      "pubDate": "Wed, 17 Jun 2026 13:06:35 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067232440574173434#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 17 Jun 2026 12:49:37 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Crypto beginners usually make one mistake: They buy and sell based on emotion But charts can help you replace fear and greed with structure And that&apos;s why the free TA Blueprint begins with market psychology Download it free here: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #",
-      "pubDate": "Wed, 17 Jun 2026 12:49:37 GMT",
-      "link": "https://nitter.net/rektcapital/status/2067228169225031921#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 17 Jun 2026 12:42:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @MorenoDV_: Read more ⤵️ http://cryptoquant.com/insights/quicktake/6a31a33b9139404af2b01c77-Nearly-Half-of-All-Stablecoins-Are-Waiting-on-Exchanges-Bitcoin-Is-Feeling-Every?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
-      "pubDate": "Wed, 17 Jun 2026 12:42:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067226251417530566#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 17 Jun 2026 12:36:13 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Nearly Half of All Stablecoins Are Waiting on Exchanges “Liquidity remains abundant, but highly selective. As a result, modest changes in investor conviction, risk appetite, or capital deployment continue to generate disproportionate volatility across Bitcoin.” – By @MorenoDV_",
-      "pubDate": "Wed, 17 Jun 2026 12:36:13 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067224798162198666#m",
-      "keywords": [
-        "유동성",
-        "스테이블코인",
-        "SSR",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Wed, 17 Jun 2026 11:52:42 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Interesting, while LeverageShares has by far won the volume race, ProShares&apos; $SPCF has taken in most cash $184, next most is only $45m (all of them took in at least something) for total of $308m. Won&apos;t really have clear pic for a week or two re who The One is.",
-      "pubDate": "Wed, 17 Jun 2026 11:52:42 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067213845546848689#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 11:52:42 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Interesting, while LeverageShares has by far won the volume race, ProShares&apos; $SPCF has taken in most cash $184, next most is only $45m (all of them took in at least something) for total of $308m. Won&apos;t really have clear pic for a week or two re who The One is.",
-      "pubDate": "Wed, 17 Jun 2026 11:52:42 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067213845546848689#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 11:28:59 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Random story this morning I had meeting at client on top floor of 40-story building. We walk off the elevator into meeting toom and boom there&apos;s fire drill but it&apos;s the kind but it&apos;s the kind where they make you use stairs to exit. Dude. What are the odds? Ending up a bonding experie",
-      "pubDate": "Wed, 17 Jun 2026 11:28:59 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067207877933084885#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Wed, 17 Jun 2026 10:08:41 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Even though temporary Seller Exhaustion is clear, the buy-side volume to take advantage of that hasn&apos;t been strong at all Price continues to struggle with February lows (~$65.7k, blue) which act as resistance since breakdown earlier this month $BTC #Bitcoin",
-      "pubDate": "Wed, 17 Jun 2026 10:08:41 GMT",
-      "link": "https://nitter.net/rektcapital/status/2067187669646332037#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 10:04:27 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "After a week of inactivity, new wallet 0x6436 is accumulating $HYPE again. Over the past hour, wallet 0x6436 withdrew 88,350 $HYPE($6.41M) from exchanges. In total, the wallet has withdrawn 1.23M $HYPE($85.34M) from exchanges.",
-      "pubDate": "Wed, 17 Jun 2026 10:04:27 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067186603974664413#m",
-      "keywords": []
     }
   ]
 }
