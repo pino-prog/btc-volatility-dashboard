@@ -1,6 +1,133 @@
 {
-  "updatedAt": "2026-06-18T20:34:29.226Z",
+  "updatedAt": "2026-06-19T05:07:51.712Z",
   "items": [
+    {
+      "id": "whale_alert__Fri, 19 Jun 2026 04:28:02 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,500 $BTC (156,841,350 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/fa9829db5003448e29dae23a76258298d5cb8fb081654284eda890beedde16bd",
+      "pubDate": "Fri, 19 Jun 2026 04:28:02 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067826715649343720#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Fri, 19 Jun 2026 03:25:58 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "Saylor&apos;s Sticky Situation My write up assessing the STRC sell-off, and what I think it means for Strategy and Bitcoin is live for @_checkonchain subscribers. https://newsletter.checkonchain.com/p/saylors-sticky-situation",
+      "pubDate": "Fri, 19 Jun 2026 03:25:58 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2067811099857371148#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 19 Jun 2026 00:18:23 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Garrett Jin(@GarrettBullish) has closed his $ZEC long for a $417K profit and his $UNI long for a $314K loss. He is still holding a 1,268 $BTC($79.69M) long, with unrealized losses exceeding $16.85M.",
+      "pubDate": "Fri, 19 Jun 2026 00:18:23 GMT",
+      "link": "https://nitter.net/lookonchain/status/2067763889945890997#m",
+      "keywords": [
+        "강세장",
+        "강세 신호"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 19 Jun 2026 00:10:54 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,336,857 $USDC (135,384,361 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x5368167a6321be347fcb8093c5c7227b24ea591ee20bd54224a722b3745e6d1c",
+      "pubDate": "Fri, 19 Jun 2026 00:10:54 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067762009387479150#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Thu, 18 Jun 2026 23:23:46 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,308,901 $USDC (135,366,340 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x24d202b6e348a4a7ddecb539ecfc6c804d1a7026d61e10a77458cdf4677718d7",
+      "pubDate": "Thu, 18 Jun 2026 23:23:46 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067750144901103911#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Thu, 18 Jun 2026 21:43:19 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 111,837 $ETH (190,698,947 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/ethereum/0xe0d8b185f2da743837a02f6597e12e44c13430db437d17cac6add1aea3264c3f",
+      "pubDate": "Thu, 18 Jun 2026 21:43:19 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067724868586537134#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Thu, 18 Jun 2026 21:15:11 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "NEW: @MorganStanley just filed amendments for both their Ethereum and Solana ETFS. ethereum:native solana:So11111111111111111111111111111111111111112",
+      "pubDate": "Thu, 18 Jun 2026 21:15:11 GMT",
+      "link": "https://nitter.net/JSeyff/status/2067717785455579576#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 18 Jun 2026 21:07:54 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=twitter&utm_medium=social",
+      "pubDate": "Thu, 18 Jun 2026 21:07:54 GMT",
+      "link": "https://nitter.net/TheBlockCo/status/2067715956185370776#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Thu, 18 Jun 2026 20:29:17 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,891 $BTC (118,717,585 USD) transferred from #Paypal to unknown wallet https://whale-alert.io/tx/bitcoin/3099f9967928adaeb8414a7b7e202814196b8c97f1d10b5d7739f0d345d18a81",
+      "pubDate": "Thu, 18 Jun 2026 20:29:17 GMT",
+      "link": "https://nitter.net/whale_alert/status/2067706237102309555#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
     {
       "id": "whale_alert__Thu, 18 Jun 2026 18:25:32 GMT",
       "handle": "whale_alert",
@@ -456,6 +583,17 @@
         "고래",
         "Whale"
       ]
+    },
+    {
+      "id": "EricBalchunas__Thu, 18 Jun 2026 10:29:41 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: Gen X was so feral that the television had to remind parents to go find their kids at ten p.m.",
+      "pubDate": "Thu, 18 Jun 2026 10:29:41 GMT",
+      "link": "https://nitter.net/JebraFaushay/status/2067555339969441922#m",
+      "keywords": []
     },
     {
       "id": "lookonchain__Thu, 18 Jun 2026 10:25:49 GMT",
@@ -1125,130 +1263,6 @@
       "pubDate": "Wed, 17 Jun 2026 10:04:27 GMT",
       "link": "https://nitter.net/lookonchain/status/2067186603974664413#m",
       "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 09:50:44 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Andrew Tate (@Cobratate) just got partially liquidated again. New liquidation price: $64,824.44",
-      "pubDate": "Wed, 17 Jun 2026 09:50:44 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067183150170779896#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 17 Jun 2026 09:37:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "STH SOPR Has Not Entered Panic Territory Yet “Fragile recovery phase rather than full capitulation; a reclaim of 1.0 would confirm improving short-term sentiment, while a renewed drop below 0.95 would signal rising panic risk” – By COINDREAM Link ⤵️ https://cryptoquant.com/insights/quicktake/6a31f82da8af494cbea1fc5d-Ti",
-      "pubDate": "Wed, 17 Jun 2026 09:37:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067179694630613048#m",
-      "keywords": [
-        "SOPR",
-        "온체인",
-        "STH 보유자"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 17 Jun 2026 08:26:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @IT_Tech_PL: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a319b71178f3b625a4b4d9a-Altcoin-sell-pressure-just-hit-a-5-year-extreme?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=it-tech",
-      "pubDate": "Wed, 17 Jun 2026 08:26:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067161826828402859#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Wed, 17 Jun 2026 08:19:51 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Altcoin Sell Pressure Hits a 5-Year Extreme “This is not a dip. It’s 15 months of continuous net selling on Spot Exchanges. Cumulative buy/sell volume diff (alts excluded BTC/ETH): deepest negative reading since data began in 2020.” – By @IT_Tech_PL",
-      "pubDate": "Wed, 17 Jun 2026 08:19:51 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067160278517547258#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 06:56:23 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Andrew Tate (@Cobratate), who&apos;s been liquidated 107 times, is back! He opened a 40x long on 57.36 $BTC($3.76M). Liquidation price: $65,215.87 https://hypurrscan.io/address/0xB78D97390a96A17Fd2B58FeDBEB3DD876c8F660A#perps",
-      "pubDate": "Wed, 17 Jun 2026 06:56:23 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067139275955880060#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 17 Jun 2026 06:54:12 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Morning jog views (Frankfurt edition): ECB headquarters. Had to see it. Neat design, next to River. Beautiful day in the making here.",
-      "pubDate": "Wed, 17 Jun 2026 06:54:12 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067138725788975287#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 02:37:59 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "What an incredible #WorldCup bettor! He made $9.24M in a single day, winning all 4 of his bets for a 100% win rate. In the Iran vs. New Zealand match, he spent $7.03M betting that Iran would not win. He was right — and made $7.34M from that bet alone! https://polymarket.com/0x96cfcb0c30942cfcd1cdf76c7d408794d66b1acb",
-      "pubDate": "Wed, 17 Jun 2026 02:37:59 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067074246485168129#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 02:21:21 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The wallet linked to Arthur Hayes(@CryptoHayes) bought another 1,400 $ETH($2.51M) 4 hours ago. https://arkm.com/explorer/address/0x795d5CFE89FbeB1e2b54f51230F25675C9Ff5eA0",
-      "pubDate": "Wed, 17 Jun 2026 02:21:21 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067070060381036852#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 02:03:07 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale geministar.eth just bought another 11,142 $ETH($19.94M). In the past 2 days, geministar.eth has bought a total of 32,278 $ETH($57M).",
-      "pubDate": "Wed, 17 Jun 2026 02:03:07 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067065473804722587#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 17 Jun 2026 00:39:02 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Garrett Jin(@GarrettBullish) has sold all 184,102 $HYPE($13.55M) at ~$73.6, making a profit of $2.83M. He then went long on $UNI! Current positions: • Long 1,268 $BTC($83.39M) • Long 50,013 $ZEC($25.2M) • Long 80,000 $UNI($271K) https://hypurrscan.io/address/0x92ea19ECeB7a8dE0f50978A1583A5D8b018050e9#perps",
-      "pubDate": "Wed, 17 Jun 2026 00:39:02 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067044312979042694#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
     }
   ]
 }
