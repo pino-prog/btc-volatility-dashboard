@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-20T19:47:59.058Z",
+  "updatedAt": "2026-06-21T05:03:50.412Z",
   "items": [
+    {
+      "id": "lookonchain__Sun, 21 Jun 2026 03:01:41 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "pension-usdt.eth, the smart trader who won 23 trades in a row, is back! He just opened a 3x short on 27,450 $ETH($47.63M).",
+      "pubDate": "Sun, 21 Jun 2026 03:01:41 GMT",
+      "link": "https://nitter.net/lookonchain/status/2068529763715875112#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sun, 21 Jun 2026 02:51:42 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The MEV bot jaredfromsubway was exploited for $7.7M! Including: 1,583.5 $ETH($2.75M) 2.87M $USDC 2.09M $USDT The attacker has already swapped all the funds for 4,427 $ETH($7.7M). So far, 1,000 $ETH has been deposited into #TornadoCash for laundering. https://arkm.com/explorer/entity/a4358628-c0e0-4ce2-b5ec-b18af3dd9439",
+      "pubDate": "Sun, 21 Jun 2026 02:51:42 GMT",
+      "link": "https://nitter.net/lookonchain/status/2068527251440963941#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sun, 21 Jun 2026 00:07:34 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,415,575 $USDC (135,466,221 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x812d5ebfad58053bef60be582e4951942ddb07e4b38a4d03d4ac419597712281",
+      "pubDate": "Sun, 21 Jun 2026 00:07:34 GMT",
+      "link": "https://nitter.net/whale_alert/status/2068485945855250650#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 20 Jun 2026 23:23:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,387,405 $USDC (135,446,231 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x904af4f101b9dd8d2ee5f2ea97fd22faf7e8ed8c25f462ce221f4d5fa007dca7",
+      "pubDate": "Sat, 20 Jun 2026 23:23:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2068474977783861395#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "EricBalchunas__Sat, 20 Jun 2026 19:13:01 GMT",
       "handle": "EricBalchunas",
@@ -768,6 +818,17 @@
       "label": "Glassnode",
       "category": "온체인 심리",
       "color": "violet",
+      "text": "R to @glassnode: Put Buying Continues to Lead Put buying dominated taker flow over the past 7 days, accounting for 28% of premium traded. Put selling followed at 26.8%, while call buying represented 24.1%. The tape continues to favor protection over upside exposure. https://glassno.de/44kFm4a",
+      "pubDate": "Fri, 19 Jun 2026 09:31:29 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903081279631734#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:29 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
       "text": "R to @glassnode: Wrap Up Implied volatility has cooled. Protection demand has normalized. Calls remain out of favor. Realized volatility exceeds implied volatility. BTC sits on a major short gamma cluster. Flow continues to favor puts. Defensive positioning persists near key support.",
       "pubDate": "Fri, 19 Jun 2026 09:31:29 GMT",
       "link": "https://nitter.net/glassnode/status/2067903083968119057#m",
@@ -776,17 +837,6 @@
         "TA",
         "BTC"
       ]
-    },
-    {
-      "id": "glassnode__Fri, 19 Jun 2026 09:31:29 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Put Buying Continues to Lead Put buying dominated taker flow over the past 7 days, accounting for 28% of premium traded. Put selling followed at 26.8%, while call buying represented 24.1%. The tape continues to favor protection over upside exposure. https://glassno.de/44kFm4a",
-      "pubDate": "Fri, 19 Jun 2026 09:31:29 GMT",
-      "link": "https://nitter.net/glassnode/status/2067903081279631734#m",
-      "keywords": []
     },
     {
       "id": "glassnode__Fri, 19 Jun 2026 09:31:28 GMT",
@@ -859,6 +909,17 @@
         "TA",
         "BTC"
       ]
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:15:32 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: Proud day at @glassnode as we unveil the Market Compass. The analyst team essentially condensed our favourite metrics across 7 different lenses in order to give you the most comprehensive read on the digital asset market. Go check it out: https://studio.glassnode.com/market-compass",
+      "pubDate": "Fri, 19 Jun 2026 09:15:32 GMT",
+      "link": "https://nitter.net/ChrisBeamish_/status/2067899069796585595#m",
+      "keywords": []
     },
     {
       "id": "rektcapital__Fri, 19 Jun 2026 09:03:16 GMT",
@@ -950,21 +1011,6 @@
       ]
     },
     {
-      "id": "whale_alert__Fri, 19 Jun 2026 04:28:02 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,500 $BTC (156,841,350 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/fa9829db5003448e29dae23a76258298d5cb8fb081654284eda890beedde16bd",
-      "pubDate": "Fri, 19 Jun 2026 04:28:02 GMT",
-      "link": "https://nitter.net/whale_alert/status/2067826715649343720#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
       "id": "_Checkmatey___Fri, 19 Jun 2026 03:25:58 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -977,62 +1023,6 @@
         "Strategy(MSTR)",
         "기관 매집",
         "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 19 Jun 2026 00:18:23 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Garrett Jin(@GarrettBullish) has closed his $ZEC long for a $417K profit and his $UNI long for a $314K loss. He is still holding a 1,268 $BTC($79.69M) long, with unrealized losses exceeding $16.85M.",
-      "pubDate": "Fri, 19 Jun 2026 00:18:23 GMT",
-      "link": "https://nitter.net/lookonchain/status/2067763889945890997#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 19 Jun 2026 00:10:54 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,336,857 $USDC (135,384,361 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x5368167a6321be347fcb8093c5c7227b24ea591ee20bd54224a722b3745e6d1c",
-      "pubDate": "Fri, 19 Jun 2026 00:10:54 GMT",
-      "link": "https://nitter.net/whale_alert/status/2067762009387479150#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 18 Jun 2026 23:23:46 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,308,901 $USDC (135,366,340 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x24d202b6e348a4a7ddecb539ecfc6c804d1a7026d61e10a77458cdf4677718d7",
-      "pubDate": "Thu, 18 Jun 2026 23:23:46 GMT",
-      "link": "https://nitter.net/whale_alert/status/2067750144901103911#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 18 Jun 2026 21:43:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 111,837 $ETH (190,698,947 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/ethereum/0xe0d8b185f2da743837a02f6597e12e44c13430db437d17cac6add1aea3264c3f",
-      "pubDate": "Thu, 18 Jun 2026 21:43:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2067724868586537134#m",
-      "keywords": [
-        "고래",
-        "Whale"
       ]
     },
     {
@@ -1058,21 +1048,6 @@
       "pubDate": "Thu, 18 Jun 2026 21:07:54 GMT",
       "link": "https://nitter.net/TheBlockCo/status/2067715956185370776#m",
       "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 18 Jun 2026 20:29:17 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,891 $BTC (118,717,585 USD) transferred from #Paypal to unknown wallet https://whale-alert.io/tx/bitcoin/3099f9967928adaeb8414a7b7e202814196b8c97f1d10b5d7739f0d345d18a81",
-      "pubDate": "Thu, 18 Jun 2026 20:29:17 GMT",
-      "link": "https://nitter.net/whale_alert/status/2067706237102309555#m",
-      "keywords": [
-        "고래",
-        "Whale",
         "BTC"
       ]
     },
@@ -1217,6 +1192,21 @@
       "link": "https://nitter.net/ColinTCrypto/status/2067264214280888416#m",
       "keywords": [
         "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Wed, 17 Jun 2026 14:57:31 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "A Market in Repair bitcoin:native fell to nearly $60K as losses mounted and recent buyers came under pressure. Yet improving liquidity, stronger passive bids, and patient ETF holders suggest the market may be building a floor. Read the full Week On-Chain👇 https://glassno.de/4uDgdML",
+      "pubDate": "Wed, 17 Jun 2026 14:57:31 GMT",
+      "link": "https://nitter.net/glassnode/status/2067260357161165041#m",
+      "keywords": [
+        "ETF 수급",
+        "유동성",
         "BTC"
       ]
     },
