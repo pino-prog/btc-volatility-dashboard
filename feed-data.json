@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-06-21T05:03:50.412Z",
+  "updatedAt": "2026-06-21T10:00:20.308Z",
   "items": [
+    {
+      "id": "whale_alert__Sun, 21 Jun 2026 08:32:34 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 181,034,200 $USDT (180,895,708 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/ethereum/0xeb576885460ac1d16bacf2b8d3e7c48a678df5fe67f3a5397690b31042f47e4c",
+      "pubDate": "Sun, 21 Jun 2026 08:32:34 GMT",
+      "link": "https://nitter.net/whale_alert/status/2068613033790775619#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sun, 21 Jun 2026 06:43:10 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 220,000,000 $USDT (219,831,810 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0x6f257356f4d8bc030c6200318b84373e9c9e24065971cf6d9e0865480616f925",
+      "pubDate": "Sun, 21 Jun 2026 06:43:10 GMT",
+      "link": "https://nitter.net/whale_alert/status/2068585500235972718#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sun, 21 Jun 2026 06:41:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 150,000,000 $USDT (149,882,475 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/7e6986e786239ac70f3a692cd86f0c1524f3c186d9027f441f940387e801ad52",
+      "pubDate": "Sun, 21 Jun 2026 06:41:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2068585057749500330#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 21 Jun 2026 06:26:33 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A suspected insider made $24.25M from #WorldCup betting: • mintblade: $9.24M profit, 5 wins out of 5 bets. • GRIMDRIP: $7.6M profit, 2 wins out of 2 bets. • endlessFate: $7.41M profit, 6 wins out of 9 bets. All three wallets sent their profits to Binance through the same deposit address (0xB08B...317D), suggesting the ",
+      "pubDate": "Sun, 21 Jun 2026 06:26:33 GMT",
+      "link": "https://nitter.net/lookonchain/status/2068581320197021801#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sun, 21 Jun 2026 03:01:41 GMT",
       "handle": "lookonchain",
@@ -775,55 +828,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 09:58:33 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: That is astonishing vs even 3yrs ago. There were literal entire panels on it w/ a lot of moral posturing etc. I think when the European govt declared nuclear weapons ESG (bc they desperately wanted private investment in defense cos, but inst were like we can&apos;t bc you told us we could only buy ",
-      "pubDate": "Fri, 19 Jun 2026 09:58:33 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067909894032789547#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Fri, 19 Jun 2026 09:56:32 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,062,875 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/oonccVczFRoCrVj9b9rfjBb3ZrXJyFc4iQAeStKLPbRgbQMDSmKBSFhZuuYtuUYLTNPP7HpVySmbecsivStMNLK",
-      "pubDate": "Fri, 19 Jun 2026 09:56:32 GMT",
-      "link": "https://nitter.net/whale_alert/status/2067909385620197736#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 09:55:50 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "I was in Europe for an entire week, sat through multiple panels, networked with a bunch of ETF people, and did not hear the phrase \"ESG\" one time.",
-      "pubDate": "Fri, 19 Jun 2026 09:55:50 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067909209945944569#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 19 Jun 2026 09:31:29 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Put Buying Continues to Lead Put buying dominated taker flow over the past 7 days, accounting for 28% of premium traded. Put selling followed at 26.8%, while call buying represented 24.1%. The tape continues to favor protection over upside exposure. https://glassno.de/44kFm4a",
-      "pubDate": "Fri, 19 Jun 2026 09:31:29 GMT",
-      "link": "https://nitter.net/glassnode/status/2067903081279631734#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Fri, 19 Jun 2026 09:31:29 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -837,6 +841,17 @@
         "TA",
         "BTC"
       ]
+    },
+    {
+      "id": "glassnode__Fri, 19 Jun 2026 09:31:29 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Put Buying Continues to Lead Put buying dominated taker flow over the past 7 days, accounting for 28% of premium traded. Put selling followed at 26.8%, while call buying represented 24.1%. The tape continues to favor protection over upside exposure. https://glassno.de/44kFm4a",
+      "pubDate": "Fri, 19 Jun 2026 09:31:29 GMT",
+      "link": "https://nitter.net/glassnode/status/2067903081279631734#m",
+      "keywords": []
     },
     {
       "id": "glassnode__Fri, 19 Jun 2026 09:31:28 GMT",
@@ -896,57 +911,6 @@
       ]
     },
     {
-      "id": "glassnode__Fri, 19 Jun 2026 09:31:24 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "BTC is back at a major support zone as price tests the February lows. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.",
-      "pubDate": "Fri, 19 Jun 2026 09:31:24 GMT",
-      "link": "https://nitter.net/glassnode/status/2067903063537709366#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 19 Jun 2026 09:15:32 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: Proud day at @glassnode as we unveil the Market Compass. The analyst team essentially condensed our favourite metrics across 7 different lenses in order to give you the most comprehensive read on the digital asset market. Go check it out: https://studio.glassnode.com/market-compass",
-      "pubDate": "Fri, 19 Jun 2026 09:15:32 GMT",
-      "link": "https://nitter.net/ChrisBeamish_/status/2067899069796585595#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Fri, 19 Jun 2026 09:03:16 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Follow people like @rektcapital Nothing but clear and unbiased analysis. He was right all along",
-      "pubDate": "Fri, 19 Jun 2026 09:03:16 GMT",
-      "link": "https://nitter.net/csp_jem7/status/2067895981258219890#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 08:25:28 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Equity Bitcoin DRIP: proposed ETFs will invest in US stocks but then broad index of stocks pay out dvds the ETF will buy btc with that money. Trying it w innovation stocks too. Interesting..",
-      "pubDate": "Fri, 19 Jun 2026 08:25:28 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067886468677136434#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
       "id": "ki_young_ju__Fri, 19 Jun 2026 08:23:33 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -963,47 +927,12 @@
       ]
     },
     {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 08:21:15 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Yet another attempt at a new buzzword to acct for the new hot shot IPOs: The Fab 10 which is Mag 7 + OpenAI SpaceX and Anthropic. This comes on heels of the MANGOS.",
-      "pubDate": "Fri, 19 Jun 2026 08:21:15 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067885408151589307#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 07:58:36 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Road closure in London for 4th of July. Can’t say I saw that coming but hey, the more the merrier! 🎆 🇺🇸",
-      "pubDate": "Fri, 19 Jun 2026 07:58:36 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067879710298604015#m",
-      "keywords": []
-    },
-    {
       "id": "JSeyff__Fri, 19 Jun 2026 07:49:11 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
       "category": "ETF/기관 수급",
       "color": "lime",
       "text": "RT by @JSeyff: Morgan Stanley Ether and Solana ETFs nearing launch. The fee on each is going to be 14bps making them the cheapest in U.S. and world. 🔥",
-      "pubDate": "Fri, 19 Jun 2026 07:49:11 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2067877337622786478#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 07:49:11 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Morgan Stanley Ether and Solana ETFs nearing launch. The fee on each is going to be 14bps making them the cheapest in U.S. and world. 🔥",
       "pubDate": "Fri, 19 Jun 2026 07:49:11 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2067877337622786478#m",
       "keywords": [
@@ -1196,21 +1125,6 @@
       ]
     },
     {
-      "id": "glassnode__Wed, 17 Jun 2026 14:57:31 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "A Market in Repair bitcoin:native fell to nearly $60K as losses mounted and recent buyers came under pressure. Yet improving liquidity, stronger passive bids, and patient ETF holders suggest the market may be building a floor. Read the full Week On-Chain👇 https://glassno.de/4uDgdML",
-      "pubDate": "Wed, 17 Jun 2026 14:57:31 GMT",
-      "link": "https://nitter.net/glassnode/status/2067260357161165041#m",
-      "keywords": [
-        "ETF 수급",
-        "유동성",
-        "BTC"
-      ]
-    },
-    {
       "id": "JSeyff__Wed, 17 Jun 2026 13:50:23 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -1254,6 +1168,89 @@
       "text": "R to @ki_young_ju: SK하이닉스도 비슷합니다. 삼전·닉스 모두 멀티플 부담은 꽤 커진 것 같습니다. 다만 이익과 마진은 아직 탄탄합니다. 하이닉스도 수급상으로는 외국인 주도라기보다는 국내 기관 중심의 랠리에 가까워 보입니다.",
       "pubDate": "Wed, 17 Jun 2026 06:15:07 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2067128890355773554#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Wed, 17 Jun 2026 04:03:19 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Chart Link https://alpha.cryptoquant.com/equities/samsung-electronics",
+      "pubDate": "Wed, 17 Jun 2026 04:03:19 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2067095722680524910#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Wed, 17 Jun 2026 04:03:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "삼성전자 상황 > 주가가 펀더멘털보다 앞서가는 중. 매출과 이익은 개선되고 있지만, 과거 PE/PB/PS 밴드로 보면 밸류 부담은 꽤 올라온 구간 > 외국인 수급은 약해지고, 국내 기관이 물량 받아주고 있음 > 지금은 순수한 실적 랠리라기보다는 멀티플이 먼저 열린 장세에 가까워 보임",
+      "pubDate": "Wed, 17 Jun 2026 04:03:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2067095719157059714#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Tue, 16 Jun 2026 12:12:51 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "RT by @ColinTCrypto: ⚠️ WARNING to @SpaceX investors ⚠️ Only about 5% of $SPCX shares are liquid right now due to the large, locked float (non-tradeable shares). This lack of availability is making it much easier to push the price up. I&apos;ve seen this type of highly-restricted token release schedule in cryptocurrenc",
+      "pubDate": "Tue, 16 Jun 2026 12:12:51 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2066856530570260920#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Mon, 15 Jun 2026 13:58:19 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Ya&apos;ll asked... I listened. I&apos;m officially kicking off a weekly newsletter for anyone that wants to stay up to date with the most recent changes across the Bitcoin sentiment landscape. First issue is live! https://sentimentsully.substack.com/p/bitcoin-sentiment-weekly-bitcoiners",
+      "pubDate": "Mon, 15 Jun 2026 13:58:19 GMT",
+      "link": "https://nitter.net/SullyMichaelvan/status/2066520682519826909#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Fri, 12 Jun 2026 18:02:50 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: \"Bear market floors occur on PEAK APATHY. Nobody cares... My plan is to buy like a madman... Once we go above $80k we are back off and to the races.\" - @_Checkmatey_ \"DOUBLE DOWN.\" - @SullyMichaelvan",
+      "pubDate": "Fri, 12 Jun 2026 18:02:50 GMT",
+      "link": "https://nitter.net/titcoinpodcast/status/2065495052969767345#m",
+      "keywords": [
+        "약세장"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Fri, 12 Jun 2026 17:56:06 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: PEAK APATHY: NO ONE CARES ABOUT BITCOIN - TIME TO DOUBLE DOWN @_Checkmatey_ & @SullyMichaelvan with @WalkerAmerica FOUNTAIN: https://www.fountain.fm/episode/uAq9Q8VFX9wdH367aedf YOUTUBE: https://youtu.be/V0nywS9dLBM RUMBLE: https://rumble.com/v7b6yc4-peak-apathy-no-one-cares-about-bitcoin-time-to-d",
+      "pubDate": "Fri, 12 Jun 2026 17:56:06 GMT",
+      "link": "https://nitter.net/titcoinpodcast/status/2065493361264333213#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Thu, 11 Jun 2026 09:52:20 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "R to @_Checkmatey_: I forgot, Mythos hacked Peter Schiffs gold vault code...turns out it was all bars of chocolate wrapped in gold foil after all. Wasn&apos;t worth the effort to nick it.",
+      "pubDate": "Thu, 11 Jun 2026 09:52:20 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2065009228197371944#m",
       "keywords": []
     }
   ]
