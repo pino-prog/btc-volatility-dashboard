@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-06-22T05:12:50.358Z",
+  "updatedAt": "2026-06-22T12:19:38.428Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 22 Jun 2026 09:27:58 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (249,913,000 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3k4ruJZutH6RJe2o9EX42wJcJRJXyGcLCeSsx1EUmfgcFPjurPCoAr8iopdZuP6igVcckYLVVf1ijkqLGCTc9QX9",
+      "pubDate": "Mon, 22 Jun 2026 09:27:58 GMT",
+      "link": "https://nitter.net/whale_alert/status/2068989360117006728#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:24:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: That&apos;s all the new community metrics now available through the CryptoQuant API. No more manually checking charts. Just query the endpoint → build your dashboard → automate your workflow. See them all ⤵️ https://docs.cryptoquant.com/v2/overview",
+      "pubDate": "Mon, 22 Jun 2026 09:24:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068988363827245070#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:21:58 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 6. Bitcoin PnL Index CryptoQuant&apos;s composite Bitcoin valuation indicator, combining MVRV, NUPL, and SOPR into a single signal. GET /v2/community/bitcoin-pnl-index",
+      "pubDate": "Mon, 22 Jun 2026 09:21:58 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068987850360545644#m",
+      "keywords": [
+        "SOPR",
+        "온체인",
+        "NUPL",
+        "MVRV Z-Score"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:21:35 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 5. Satoshi-Era Miner Activity Track flows, reserves, and active addresses tied to early miner wallets. GET /v2/community/bitcoin-satoshi-era-miner",
+      "pubDate": "Mon, 22 Jun 2026 09:21:35 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068987753925050706#m",
+      "keywords": [
+        "Miner Flow",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:21:13 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 4. Bitcoin OP_RETURN Count A more niche but fascinating signal. Daily count of OP_RETURN outputs — proxy for non-monetary chain usage (Ordinals, inscriptions, etc.). GET /v2/community/bitcoin-op-return-count",
+      "pubDate": "Mon, 22 Jun 2026 09:21:13 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068987662539588053#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:20:42 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 3. Bitcoin Realized Profit / Loss Tracks how much profit or loss Bitcoin sellers are actually locking in. GET /v2/community/bitcoin-realized-profit-loss",
+      "pubDate": "Mon, 22 Jun 2026 09:20:42 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068987532021207100#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:20:16 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 2. Trader Unrealized Profit Margin How much profit (or loss) are recent Bitcoin holders sitting on? This metric tracks the unrealized P/L margin of coins aged 1 – 3 months, offering a window into market sentiment and positioning. GET /v2/community/bitcoin-trader-unrealized-profit-margin",
+      "pubDate": "Mon, 22 Jun 2026 09:20:16 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068987425058144327#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:19:52 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: 1. Bitcoin MVRV Z-Score One of the most widely followed Bitcoin valuation indicators. Measures how far market value deviates from realized value, helping identify historically overheated or undervalued periods. GET /v2/community/bitcoin-mvrv-z-score",
+      "pubDate": "Mon, 22 Jun 2026 09:19:52 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068987322968781033#m",
+      "keywords": [
+        "MVRV Z-Score",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:19:26 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "CryptoQuant API V2 = live. Here are six Bitcoin metrics that are now available as API endpoints. From valuation and profit-taking to Satoshi-era miner activity 👇",
+      "pubDate": "Mon, 22 Jun 2026 09:19:26 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068987214462165035#m",
+      "keywords": [
+        "Miner Flow",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 22 Jun 2026 03:09:40 GMT",
       "handle": "lookonchain",
@@ -512,17 +634,6 @@
       ]
     },
     {
-      "id": "lookonchain__Sat, 20 Jun 2026 10:12:00 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #Humanity Protocol exploiter swapped part of the stolen funds for $USDC and deposited it to #KuCoin. https://arkm.com/explorer/address/0x50EC8cC7d6c52ddB0B13c38C6427504F9C57c23c",
-      "pubDate": "Sat, 20 Jun 2026 10:12:00 GMT",
-      "link": "https://nitter.net/lookonchain/status/2068275666630705545#m",
-      "keywords": []
-    },
-    {
       "id": "ki_young_ju__Sat, 20 Jun 2026 02:29:17 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -606,22 +717,6 @@
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Fri, 19 Jun 2026 15:40:20 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Pinned: Unbiased Ep. 2 is live with @jjcmoreno, @BenSizelove, & @TXMCtrades BTC bottom signals, why treasury companies are mostly unprofitable businesses with great PR, and why Ethereum&apos;s stablecoin market cap crossover should worry ETH bulls. Watch now ⤵️ https://youtu.be/DqoPSFsYFn8",
-      "pubDate": "Fri, 19 Jun 2026 15:40:20 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067995909099536824#m",
-      "keywords": [
-        "강세장",
-        "스테이블코인",
-        "SSR",
-        "BTC"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Fri, 19 Jun 2026 15:21:22 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -642,32 +737,6 @@
       "pubDate": "Fri, 19 Jun 2026 14:57:52 GMT",
       "link": "https://nitter.net/PeterLBrandt/status/2067985219832222039#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 19 Jun 2026 12:50:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @MorenoDV_: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a3407bd178f3b625a4b50e2-The-Final-Flush-Before-Bitcoin-Finds-Its-Bottom-Bitcoins-Weak-Hands-May-Already-?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
-      "pubDate": "Fri, 19 Jun 2026 12:50:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067953041060380774#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 19 Jun 2026 12:45:25 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "The Final Flush Before Bitcoin Finds Its Bottom? “The key question now is whether BTC can stabilize while realized losses continue to decline, or whether one last downside wave is needed to complete the capitulation process.” – By @MorenoDV_",
-      "pubDate": "Fri, 19 Jun 2026 12:45:25 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067951888780157441#m",
-      "keywords": [
-        "BTC"
-      ]
     },
     {
       "id": "glassnode__Fri, 19 Jun 2026 12:09:36 GMT",
@@ -823,19 +892,6 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Thu, 18 Jun 2026 21:07:54 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=twitter&utm_medium=social",
-      "pubDate": "Thu, 18 Jun 2026 21:07:54 GMT",
-      "link": "https://nitter.net/TheBlockCo/status/2067715956185370776#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Thu, 18 Jun 2026 17:17:27 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -886,57 +942,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 18 Jun 2026 15:39:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Read the full report ⤵️ https://cryptoquant.com/insights/research/6a340f769139404af2b01f8f-18-June-2026-The-Surge-Near-Record-Bitcoin-Micro-Transaction-Counts-Drive-Networ?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
-      "pubDate": "Thu, 18 Jun 2026 15:39:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067633183072391329#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 18 Jun 2026 15:33:15 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin network activity is surging. Micro-transactions below 0.01 BTC now make up ~80% of all BTC transactions, up from under 50% in 2023, while OP_RETURN usage nears record highs driven by Runes, Ordinals, and inscriptions. The surge is activity-driven, not value-driven.",
-      "pubDate": "Thu, 18 Jun 2026 15:33:15 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067631735370633428#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 18 Jun 2026 15:03:05 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: ETF&apos;s Bitcoin purchase growth is about to be zero. Bitcoin demand remains in contraction.",
-      "pubDate": "Thu, 18 Jun 2026 15:03:05 GMT",
-      "link": "https://nitter.net/jjcmoreno/status/2067624145941086357#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 18 Jun 2026 12:25:14 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: If you want to use CryptoQuant MCP as a Vibe Quant. Check out 👇 https://userguide.cryptoquant.com/api/mcp-server-beta/remote-mcp-recommended",
-      "pubDate": "Thu, 18 Jun 2026 12:25:14 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2067584422254133343#m",
-      "keywords": []
     },
     {
       "id": "ki_young_ju__Thu, 18 Jun 2026 11:36:05 GMT",
