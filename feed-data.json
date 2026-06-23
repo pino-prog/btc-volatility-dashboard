@@ -1,6 +1,119 @@
 {
-  "updatedAt": "2026-06-22T20:58:40.913Z",
+  "updatedAt": "2026-06-23T04:09:38.569Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 03:04:51 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The wallet(0xf7A4) linked to Arthur Hayes(@CryptoHayes) withdrew another 44,156 $HYPE($2.93M) from #Gate 1 hour ago. Over the past 2 weeks, the wallet has completed two profitable $HYPE swing trades, making a $508K profit. https://arkm.com/explorer/address/0xf7A4D9c590A860f17D0305DaB743108De9C07494",
+      "pubDate": "Tue, 23 Jun 2026 03:04:51 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069255334540222483#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 01:09:20 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "James Wynn(@JamesWynnReal) has been liquidated 5 more times in the past 24 hours! New liquidation price: $65,674.74 https://hypurrscan.io/address/0x5078C2fBeA2b2aD61bc840Bc023E35Fce56BeDb6#perps",
+      "pubDate": "Tue, 23 Jun 2026 01:09:20 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069226265673097525#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 01:01:40 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Another whale is making a huge leveraged bet on $BTC. The whale opened a 40x long on 1,100 $BTC($70.54M). Liquidation price: $61,724.22 https://hypurrscan.io/address/0x7c4b71c1d8a11ed426f301c372a72e06f528e00b#perps",
+      "pubDate": "Tue, 23 Jun 2026 01:01:40 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069224335395729609#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 00:33:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Trader 0x50b3 just opened a 20x long on 1,653.8 $BTC($105.77M)! He is a high-frequency trader who has made 100 trades since June 2, winning 93 of them for a 93% win rate. His total profit has exceeded $6M. https://hyperbot.network/trader/0x50b309f78e774a756a2230e1769729094cac9f20",
+      "pubDate": "Tue, 23 Jun 2026 00:33:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069217369843814448#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 23 Jun 2026 00:23:13 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Soccer ppl: Who is the NBA equiv of Mbappe?",
+      "pubDate": "Tue, 23 Jun 2026 00:23:13 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2069214659123573013#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 23 Jun 2026 00:14:39 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,494,330 $USDC (135,539,179 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x962404e57991746f2b7e50f62fb8e5d05658d8e03b391720b5f21823c2fa82ad",
+      "pubDate": "Tue, 23 Jun 2026 00:14:39 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069212504228573565#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 23 Jun 2026 00:12:51 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "World Cup: Just found out Mbappe’s first name is Killian. That is such a cool first name, esp for sports.",
+      "pubDate": "Tue, 23 Jun 2026 00:12:51 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2069212049498927304#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 22 Jun 2026 23:23:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,466,164 $USDC (135,515,474 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x75605af0fae7fd591ed5260c1c144da1bb51c279eb5ec04a75ed62f2a9c865c9",
+      "pubDate": "Mon, 22 Jun 2026 23:23:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069199607486185547#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "rektcapital__Mon, 22 Jun 2026 21:45:09 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Reading a #BTC chart is a learnable skill Most people just never had anyone walk them through it properly This free Technical Analysis Blueprint does exactly that Step by step, no experience needed Download it free: https://www.rektcapital.co.uk/free-technical-analysis-blueprint $BTC #Bitcoin",
+      "pubDate": "Mon, 22 Jun 2026 21:45:09 GMT",
+      "link": "https://nitter.net/rektcapital/status/2069174880944169242#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "whale_alert__Mon, 22 Jun 2026 20:47:57 GMT",
       "handle": "whale_alert",
@@ -508,6 +621,49 @@
       ]
     },
     {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 07:59:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Historically, this kind of divergence has preceded major cycle turning points. Full report ⤵️ https://cryptoquant.com/insights/research/6a340f769139404af2b01f8f-18-June-2026-The-Surge-Near-Record-Bitcoin-Micro-Transaction-Counts-Drive-Networ?utm_source=twitter&utm_medium=sns&utm_campaign=research",
+      "pubDate": "Mon, 22 Jun 2026 07:59:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068966971358724103#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 07:55:52 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin&apos;s price is weak, but the network isn&apos;t.",
+      "pubDate": "Mon, 22 Jun 2026 07:55:52 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068966185207492666#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 22 Jun 2026 07:32:56 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Cycle Momentum Indicates The Bear Market Is Not Over Yet “Historically, this range has formed the main support levels for BTC. However, to confirm a trend reversal, the price must form a bullish pattern with the indicator breaking above the Neutral zone.” – By @gaah_im",
+      "pubDate": "Mon, 22 Jun 2026 07:32:56 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2068960413996232807#m",
+      "keywords": [
+        "BTC 사이클",
+        "강세장",
+        "약세장",
+        "지지선"
+      ]
+    },
+    {
       "id": "lookonchain__Mon, 22 Jun 2026 03:09:40 GMT",
       "handle": "lookonchain",
       "label": "Lookonchain",
@@ -795,56 +951,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Sun, 21 Jun 2026 03:01:41 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "pension-usdt.eth, the smart trader who won 23 trades in a row, is back! He just opened a 3x short on 27,450 $ETH($47.63M).",
-      "pubDate": "Sun, 21 Jun 2026 03:01:41 GMT",
-      "link": "https://nitter.net/lookonchain/status/2068529763715875112#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sun, 21 Jun 2026 02:51:42 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The MEV bot jaredfromsubway was exploited for $7.7M! Including: 1,583.5 $ETH($2.75M) 2.87M $USDC 2.09M $USDT The attacker has already swapped all the funds for 4,427 $ETH($7.7M). So far, 1,000 $ETH has been deposited into #TornadoCash for laundering. https://arkm.com/explorer/entity/a4358628-c0e0-4ce2-b5ec-b18af3dd9439",
-      "pubDate": "Sun, 21 Jun 2026 02:51:42 GMT",
-      "link": "https://nitter.net/lookonchain/status/2068527251440963941#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Sun, 21 Jun 2026 00:07:34 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,415,575 $USDC (135,466,221 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x812d5ebfad58053bef60be582e4951942ddb07e4b38a4d03d4ac419597712281",
-      "pubDate": "Sun, 21 Jun 2026 00:07:34 GMT",
-      "link": "https://nitter.net/whale_alert/status/2068485945855250650#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 20 Jun 2026 23:23:59 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 135,387,405 $USDC (135,446,231 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x904af4f101b9dd8d2ee5f2ea97fd22faf7e8ed8c25f462ce221f4d5fa007dca7",
-      "pubDate": "Sat, 20 Jun 2026 23:23:59 GMT",
-      "link": "https://nitter.net/whale_alert/status/2068474977783861395#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "EricBalchunas__Sat, 20 Jun 2026 19:13:01 GMT",
       "handle": "EricBalchunas",
       "label": "Balchunas (ETF)",
@@ -856,17 +962,6 @@
       "keywords": [
         "ETF 수급"
       ]
-    },
-    {
-      "id": "rektcapital__Sat, 20 Jun 2026 16:37:28 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: You&apos;d better believe Rekt!! He provides the highest levels of discipline, indicators, price similations and integrity on Xcrypto.",
-      "pubDate": "Sat, 20 Jun 2026 16:37:28 GMT",
-      "link": "https://nitter.net/JCCO9/status/2068372673957110019#m",
-      "keywords": []
     },
     {
       "id": "EricBalchunas__Sat, 20 Jun 2026 13:59:20 GMT",
@@ -954,28 +1049,6 @@
         "약세 신호",
         "BTC"
       ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 23:49:50 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Leveraged Mangos",
-      "pubDate": "Fri, 19 Jun 2026 23:49:50 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2068119094826516900#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 19 Jun 2026 20:56:00 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "I want to look down on this and be like wtf, but I could totally see this happening in Philly.",
-      "pubDate": "Fri, 19 Jun 2026 20:56:00 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2068075347191484601#m",
-      "keywords": []
     },
     {
       "id": "JSeyff__Fri, 19 Jun 2026 18:55:46 GMT",
@@ -1187,63 +1260,6 @@
       "link": "https://nitter.net/ki_young_ju/status/2067572051632902493#m",
       "keywords": [
         "MVRV Z-Score",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Wed, 17 Jun 2026 09:10:46 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "I’m definitely not a stock expert, but I think there’s room for CryptoQuant to contribute a few useful data-driven insights on stocks and RWAs. As crypto capital increasingly flows into stocks, commodities, and other RWAs, we’re considering building dashboards and APIs around them. Which assets would you like us to cov",
-      "pubDate": "Wed, 17 Jun 2026 09:10:46 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2067173092435104169#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 17 Jun 2026 06:15:07 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: SK하이닉스도 비슷합니다. 삼전·닉스 모두 멀티플 부담은 꽤 커진 것 같습니다. 다만 이익과 마진은 아직 탄탄합니다. 하이닉스도 수급상으로는 외국인 주도라기보다는 국내 기관 중심의 랠리에 가까워 보입니다.",
-      "pubDate": "Wed, 17 Jun 2026 06:15:07 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2067128890355773554#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 17 Jun 2026 04:03:19 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Chart Link https://alpha.cryptoquant.com/equities/samsung-electronics",
-      "pubDate": "Wed, 17 Jun 2026 04:03:19 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2067095722680524910#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 17 Jun 2026 04:03:18 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "삼성전자 상황 > 주가가 펀더멘털보다 앞서가는 중. 매출과 이익은 개선되고 있지만, 과거 PE/PB/PS 밴드로 보면 밸류 부담은 꽤 올라온 구간 > 외국인 수급은 약해지고, 국내 기관이 물량 받아주고 있음 > 지금은 순수한 실적 랠리라기보다는 멀티플이 먼저 열린 장세에 가까워 보임",
-      "pubDate": "Wed, 17 Jun 2026 04:03:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2067095719157059714#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Mon, 15 Jun 2026 13:58:19 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Ya&apos;ll asked... I listened. I&apos;m officially kicking off a weekly newsletter for anyone that wants to stay up to date with the most recent changes across the Bitcoin sentiment landscape. First issue is live! https://sentimentsully.substack.com/p/bitcoin-sentiment-weekly-bitcoiners",
-      "pubDate": "Mon, 15 Jun 2026 13:58:19 GMT",
-      "link": "https://nitter.net/SullyMichaelvan/status/2066520682519826909#m",
-      "keywords": [
         "BTC"
       ]
     }
