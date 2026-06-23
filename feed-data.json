@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-06-23T04:09:38.569Z",
+  "updatedAt": "2026-06-23T09:57:17.021Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 09:22:56 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Tron reached 3.93M active addresses in the past 24 hours, far ahead of all other blockchains. https://defillama.com/chains",
+      "pubDate": "Tue, 23 Jun 2026 09:22:56 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069350481475014933#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 09:10:19 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A whale is extremely bearish on $SOL. One hour ago, whale 0x9137 opened a 20x short on 554,680 $SOL($38.15M). https://hypurrscan.io/address/0x9137bd9347f07990a8ce22869f8b93d190479c5a#perps",
+      "pubDate": "Tue, 23 Jun 2026 09:10:19 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069347306164592726#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "약세장",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 23 Jun 2026 09:10:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @CryptoOnchain: Full article ⤵️ https://cryptoquant.com/insights/quicktake/6a394e0f718c636ace57a579-Gatecom-Has-Quietly-Built-the-Smartest-TradFi-Hub-in-Crypto?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=cryptoonchain",
+      "pubDate": "Tue, 23 Jun 2026 09:10:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2069347227600822623#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 23 Jun 2026 09:03:53 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Gate Has Quietly Built the Smartest TradFi Hub in Crypto “A trader can go long Nvidia during earnings, then hedge into tokenized gold when uncertainty hits — without ever leaving the platform or touching a traditional brokerage.” – By @CryptoOnchain",
+      "pubDate": "Tue, 23 Jun 2026 09:03:53 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2069345687121039660#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 09:02:53 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "pension-usdt.eth, the smart trader who won 23 trades in a row, is winning again! He shorted 50,000 $ETH($82.36M) two days ago and is now sitting on an unrealized profit of $4.35M.",
+      "pubDate": "Tue, 23 Jun 2026 09:02:53 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069345436255887472#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Tue, 23 Jun 2026 08:26:24 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Hyperliquid traders are increasingly leaning long despite $BTC remaining well below its highs. Positioning has become progressively more bullish through the downtrend, highlighting persistent dip-buying and growing squeeze potential. 📈https://glassno.de/4g0NjTp",
+      "pubDate": "Tue, 23 Jun 2026 08:26:24 GMT",
+      "link": "https://nitter.net/glassnode/status/2069336255062507681#m",
+      "keywords": [
+        "강세장",
+        "강세 신호"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 23 Jun 2026 07:47:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Darkfost_Coc: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a397fcb3eb04801bdf15ce6-OG-selling-slows-to-Its-lowest-level-snce-late-2024?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Tue, 23 Jun 2026 07:47:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2069326339648180321#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 23 Jun 2026 07:39:55 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "OG Selling Slows to Its Lowest Level Since Late 2024 “Today, the 90-day average of BTC spent by these OGs has dropped below 1,000, sitting at 962, its lowest level since November 2024.” – By @Darkfost_Coc",
+      "pubDate": "Tue, 23 Jun 2026 07:39:55 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2069324559031877717#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 23 Jun 2026 06:39:36 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x2558 gave up and closed his entire 500,000 xyz:CL ($36.85M) long. He lost $2.9M in just 33 hours.",
+      "pubDate": "Tue, 23 Jun 2026 06:39:36 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069309379573412216#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 23 Jun 2026 06:21:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 150,562,000 $USDT (150,384,035 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/f9db3050a3f417718b2abad52414ce1d9eb6218ae69484d5fbeb83229aa54058",
+      "pubDate": "Tue, 23 Jun 2026 06:21:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069304699723850057#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 23 Jun 2026 03:04:51 GMT",
       "handle": "lookonchain",
@@ -898,59 +1024,6 @@
       ]
     },
     {
-      "id": "whale_alert__Sun, 21 Jun 2026 08:32:34 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 181,034,200 $USDT (180,895,708 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/ethereum/0xeb576885460ac1d16bacf2b8d3e7c48a678df5fe67f3a5397690b31042f47e4c",
-      "pubDate": "Sun, 21 Jun 2026 08:32:34 GMT",
-      "link": "https://nitter.net/whale_alert/status/2068613033790775619#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 21 Jun 2026 06:43:10 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 220,000,000 $USDT (219,831,810 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0x6f257356f4d8bc030c6200318b84373e9c9e24065971cf6d9e0865480616f925",
-      "pubDate": "Sun, 21 Jun 2026 06:43:10 GMT",
-      "link": "https://nitter.net/whale_alert/status/2068585500235972718#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 21 Jun 2026 06:41:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 150,000,000 $USDT (149,882,475 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/7e6986e786239ac70f3a692cd86f0c1524f3c186d9027f441f940387e801ad52",
-      "pubDate": "Sun, 21 Jun 2026 06:41:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2068585057749500330#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Sun, 21 Jun 2026 06:26:33 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A suspected insider made $24.25M from #WorldCup betting: • mintblade: $9.24M profit, 5 wins out of 5 bets. • GRIMDRIP: $7.6M profit, 2 wins out of 2 bets. • endlessFate: $7.41M profit, 6 wins out of 9 bets. All three wallets sent their profits to Binance through the same deposit address (0xB08B...317D), suggesting the ",
-      "pubDate": "Sun, 21 Jun 2026 06:26:33 GMT",
-      "link": "https://nitter.net/lookonchain/status/2068581320197021801#m",
-      "keywords": []
-    },
-    {
       "id": "EricBalchunas__Sat, 20 Jun 2026 19:13:01 GMT",
       "handle": "EricBalchunas",
       "label": "Balchunas (ETF)",
@@ -1156,17 +1229,6 @@
       "keywords": []
     },
     {
-      "id": "glassnode__Fri, 19 Jun 2026 09:31:26 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Calls Continue to Lose Ground The skew index ratio compares upside IV against downside IV. Near term options continue to favor downside exposure over upside participation. https://glassno.de/44j2eRD",
-      "pubDate": "Fri, 19 Jun 2026 09:31:26 GMT",
-      "link": "https://nitter.net/glassnode/status/2067903072412766445#m",
-      "keywords": []
-    },
-    {
       "id": "ki_young_ju__Fri, 19 Jun 2026 08:23:33 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1193,74 +1255,6 @@
       "link": "https://nitter.net/EricBalchunas/status/2067877337622786478#m",
       "keywords": [
         "ETF 수급"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Fri, 19 Jun 2026 03:25:58 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "Saylor&apos;s Sticky Situation My write up assessing the STRC sell-off, and what I think it means for Strategy and Bitcoin is live for @_checkonchain subscribers. https://newsletter.checkonchain.com/p/saylors-sticky-situation",
-      "pubDate": "Fri, 19 Jun 2026 03:25:58 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2067811099857371148#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 18 Jun 2026 17:17:27 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: My prior post, going against the herd (there was SO much bull-posting about STRC at that time):",
-      "pubDate": "Thu, 18 Jun 2026 17:17:27 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2067657960348696724#m",
-      "keywords": [
-        "강세장"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 18 Jun 2026 17:16:37 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: How it’s going, just months later.",
-      "pubDate": "Thu, 18 Jun 2026 17:16:37 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2067657750536933789#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Thu, 18 Jun 2026 17:16:16 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "At this rate of depegging, Strategy might *contribute* to the bear market. $STRC",
-      "pubDate": "Thu, 18 Jun 2026 17:16:16 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2067657659952603405#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "약세장"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 18 Jun 2026 11:36:05 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "North Korean IP on macOS just googled Bitcoin MVRV and landed on @CryptoQuant_com. The Supreme Leader&apos;s trading desk is doing on-chain research now.",
-      "pubDate": "Thu, 18 Jun 2026 11:36:05 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2067572051632902493#m",
-      "keywords": [
-        "MVRV Z-Score",
-        "BTC"
       ]
     }
   ]
