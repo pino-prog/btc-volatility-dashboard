@@ -1,6 +1,180 @@
 {
-  "updatedAt": "2026-06-24T09:44:35.884Z",
+  "updatedAt": "2026-06-24T14:47:20.757Z",
   "items": [
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 14:16:46 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 1,000 $BTC (61,166,138 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/87da4f5ad3efe0c74ce9b49185333c2b0c1f86faf54bdd6e4263ec7081f46050",
+      "pubDate": "Wed, 24 Jun 2026 14:16:46 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069786818606739507#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 14:11:42 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 850 $BTC (52,111,039 USD) transferred from #OKEX to #Binance https://whale-alert.io/tx/bitcoin/42b0bb1e3b36b3e53eb51f699d489f95af849af0d3009cbbd1f56a37580675db",
+      "pubDate": "Wed, 24 Jun 2026 14:11:42 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069785542493974608#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 14:10:41 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 1,166 $BTC (71,496,135 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/a6d0314d9b6bfda83304227fce12d9584bdc9882021635e801bf65b26dae1afa",
+      "pubDate": "Wed, 24 Jun 2026 14:10:41 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069785287631220962#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 13:54:36 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,310 $BTC (80,681,896 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/7a0eae9d6db60ab0abf581dc694755f2ce97279d06933e107ee8d75756176355",
+      "pubDate": "Wed, 24 Jun 2026 13:54:36 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069781240064958789#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 24 Jun 2026 13:02:20 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC As it stands, here&apos;s what the path for the Summer could look like: - Monthly Close below the 50Month EMA (purple) - Bearish post-breakdown retest of the 50 EMA into new resistance (scope for brief upside wicking beyond the EMA on retest) - August cancellation of relief and additional downside due to $60k weak",
+      "pubDate": "Wed, 24 Jun 2026 13:02:20 GMT",
+      "link": "https://nitter.net/rektcapital/status/2069768084873695688#m",
+      "keywords": [
+        "약세장",
+        "저항선",
+        "TA",
+        "지지선"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 24 Jun 2026 11:59:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @MorenoDV_: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a3bb8003eb04801bdf15f64-Smart-Money-Leaves-a-Footprint-Before-Price-Moves?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
+      "pubDate": "Wed, 24 Jun 2026 11:59:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2069752145172214229#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 24 Jun 2026 11:54:58 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Smart Money Leaves a Footprint Before Price Moves “Historically, large expansions in spot or derivative volume have emerged around zones where Bitcoin was about to enter a new volatility regime.” – By @MorenoDV_",
+      "pubDate": "Wed, 24 Jun 2026 11:54:58 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2069751130322526513#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 11:06:06 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 825 $BTC (51,548,428 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/541846e510c4660f8d5532bc3676c76529208422acdf080e352a5ac31c99205b",
+      "pubDate": "Wed, 24 Jun 2026 11:06:06 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069738835727024152#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 11:02:39 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $USDT (199,733,800 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0xc8776a5463ec1ea5da5aa1eae82c8c159b20eae942e746cbcd21f96eda656d65",
+      "pubDate": "Wed, 24 Jun 2026 11:02:39 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069737966516248631#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 10:59:41 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $USDT (199,872,000 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/solana/3qfUudEoLDKfo4WDHTebH8kQ89uoxWBHxwKegK8kSGkd4cpVJfHKfFLjkjFtSwzTsRbEPG3r2FEQtGDASmcZcWcv",
+      "pubDate": "Wed, 24 Jun 2026 10:59:41 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069737217921008119#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 24 Jun 2026 10:59:15 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 107,100,000 $USDT (107,031,456 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/f895d2fbb9971eee663203692e51b0aad63125ff388ee3a0417f0863a2e155a1",
+      "pubDate": "Wed, 24 Jun 2026 10:59:15 GMT",
+      "link": "https://nitter.net/whale_alert/status/2069737111415054434#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 24 Jun 2026 10:46:30 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "BlackRock keeps selling $BTC and $ETH! Over the past 2 days, it has transferred 7,160 $BTC($447M) and 98,850 $ETH($164M) to Coinbase Prime. https://arkm.com/explorer/entity/blackrock",
+      "pubDate": "Wed, 24 Jun 2026 10:46:30 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069733900285530260#m",
+      "keywords": [
+        "BlackRock",
+        "ETF"
+      ]
+    },
     {
       "id": "lookonchain__Wed, 24 Jun 2026 06:27:01 GMT",
       "handle": "lookonchain",
@@ -13,6 +187,22 @@
       "keywords": [
         "고래",
         "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 24 Jun 2026 04:59:18 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: &apos;@Strategy&apos;s BTC buying here looks more like a liquidity sink than a price catalyst. They should pause Bitcoin purchases, rebuild cash reserves, and adopt a systematic framework for purchase timing. In a low-selling-pressure environment, that demand can move price meaningfully. Under c",
+      "pubDate": "Wed, 24 Jun 2026 04:59:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2069646523668033833#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "고래 이동",
+        "Strategy(MSTR)"
       ]
     },
     {
@@ -1124,185 +1314,6 @@
         "고래",
         "Whale"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 22 Jun 2026 15:07:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Woo_Minkyu: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a38f8c63eb04801bdf15bd0-Bitcoin-Derivatives-Market-Cools-Down-After-June-Correction?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu",
-      "pubDate": "Mon, 22 Jun 2026 15:07:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2069074681244897381#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 22 Jun 2026 15:01:01 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Derivatives Market Cools Down After June Correction “BTC price is down, but Open Interest is down even more. This suggests the futures market has gone through a meaningful leverage reset.” – By @Woo_Minkyu",
-      "pubDate": "Mon, 22 Jun 2026 15:01:01 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2069073176093442092#m",
-      "keywords": [
-        "OI",
-        "미결제약정",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 22 Jun 2026 14:53:28 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "June 15–June 22, 2026 #LookonchainWeeklyReport 🟢 Overview Market activity stayed muted, with DEX spot volume flat (-0.7%) and perp volume down 9.2% WoW. Despite the slowdown, public companies accumulated 2,399 BTC ($157M), led by MARA&apos;s 1,000 BTC purchase, while Strategy added 520 BTC and Bitmine bought another 5",
-      "pubDate": "Mon, 22 Jun 2026 14:53:28 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069071275394584664#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 22 Jun 2026 14:40:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 205,332,458 $USDC (205,388,514 USD) transferred from Coinbase Institutional to #Coinbase https://whale-alert.io/tx/ethereum/0x110269beabb090ba20576c8d4ae1ec94274f652fa342849d62d477048f708af4",
-      "pubDate": "Mon, 22 Jun 2026 14:40:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2069067989530325005#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 22 Jun 2026 14:27:22 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 949 $BTC (61,767,880 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/06691ec9bd61a1a6aa76d00f6cb783b8ec32daffd7eb6773ed542713d2ad4730",
-      "pubDate": "Mon, 22 Jun 2026 14:27:22 GMT",
-      "link": "https://nitter.net/whale_alert/status/2069064707550347434#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 22 Jun 2026 13:39:21 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale bc1qhx, who bought 2,500 $BTC ($202M) at $80,936 one month ago, just deposited the remaining 2,480 $BTC ($161M) to #Binance, incurring a loss of over $39M. https://arkm.com/explorer/address/bc1qhxaqrzg829j9382tratv8kjpau8cqwycph2smk",
-      "pubDate": "Mon, 22 Jun 2026 13:39:21 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069052622708052001#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 22 Jun 2026 13:36:52 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "bitcoin:native traded between $61K and $67K before stabilising near $65K. Institutional demand softened, but resilient holder behaviour and stable futures positioning continue to support a constructive market backdrop. Read this week’s Market Pulse👇 https://glassno.de/4xXNOUO",
-      "pubDate": "Mon, 22 Jun 2026 13:36:52 GMT",
-      "link": "https://nitter.net/glassnode/status/2069052000809988580#m",
-      "keywords": [
-        "기관 수급",
-        "지지선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Mon, 22 Jun 2026 12:51:34 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Bitcoin will rally high enough to convince you that the Bear Market is over And then it will resume its downtrend $BTC #BTC #Bitcoin",
-      "pubDate": "Mon, 22 Jun 2026 12:51:34 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069040601174098253#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 22 Jun 2026 12:37:33 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Tom Lee(@fundstrat)&apos;s #Bitmine bought another 52,203 $ETH($92M) last week and now holds 5,672,956 $ETH($10B). The average cost is ~$3,440. At current prices, this position is down over $9.5B. https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-67-million",
-      "pubDate": "Mon, 22 Jun 2026 12:37:33 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069037071663255899#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 22 Jun 2026 12:33:39 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Michael Saylor(@saylor)&apos;s @Strategy bought another 520 $BTC($35M) at $67,068 last week. Strategy now holds 847,363 $BTC($54.96B) at an average price of $75,651 and is currently sitting on an unrealized loss of $9.15B(-14.27%). https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt2e9f099c6f750e42/6a38b76",
-      "pubDate": "Mon, 22 Jun 2026 12:33:39 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069036090527494571#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "JSeyff__Mon, 22 Jun 2026 11:27:09 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Remember when we believed the global liquidity correlation",
-      "pubDate": "Mon, 22 Jun 2026 11:27:09 GMT",
-      "link": "https://nitter.net/QuintenFrancois/status/2069019353941520548#m",
-      "keywords": [
-        "유동성"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 21 Jun 2026 22:41:12 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Happy Father’s Day from the Fla panhandle, my fav refuge. Grateful to be here this week w my kids but it’s also first time down since my dad (who lived here) passed in March. Bittersweet feeling all day.",
-      "pubDate": "Sun, 21 Jun 2026 22:41:12 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2068826597721837821#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sun, 21 Jun 2026 18:18:26 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Sunday Funday on Father’s Day",
-      "pubDate": "Sun, 21 Jun 2026 18:18:26 GMT",
-      "link": "https://nitter.net/JSeyff/status/2068760471662969048#m",
-      "keywords": []
     }
   ]
 }
