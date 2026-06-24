@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-06-24T04:13:08.286Z",
+  "updatedAt": "2026-06-24T09:44:35.884Z",
   "items": [
+    {
+      "id": "lookonchain__Wed, 24 Jun 2026 06:27:01 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A whale is rotating from $ETH into $HYPE. Two weeks ago, whale 0xEe0A sold all 3,065 $ETH($5.92M) at a $380K loss. Over the past 2 days, the whale bought another 100,392 $HYPE($6.69M). He now holds 497,212 $HYPE ($30.93M) and is sitting on an unrealized profit of $8M. https://arkm.com/explorer/address/0xEe0A18B394ecE1D",
+      "pubDate": "Wed, 24 Jun 2026 06:27:01 GMT",
+      "link": "https://nitter.net/lookonchain/status/2069668599716077853#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 24 Jun 2026 04:59:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Read the full report by our Head of Research @jjcmoreno https://cryptoquant.com/insights/research/6a3abc1e7a878621f52753a5-23-June-2026-Overstretched-Strategy-Needs-To-Stop-Buying-Bitcoin-Rebuild-Its-Cas",
+      "pubDate": "Wed, 24 Jun 2026 04:59:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2069646527552000046#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 24 Jun 2026 04:59:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "&apos;@Strategy&apos;s BTC buying here looks more like a liquidity sink than a price catalyst. They should pause Bitcoin purchases, rebuild cash reserves, and adopt a systematic framework for purchase timing. In a low-selling-pressure environment, that demand can move price meaningfully. Under current conditions, with ",
+      "pubDate": "Wed, 24 Jun 2026 04:59:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2069646523668033833#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "고래 이동",
+        "Strategy(MSTR)"
+      ]
+    },
     {
       "id": "lookonchain__Wed, 24 Jun 2026 01:57:19 GMT",
       "handle": "lookonchain",
@@ -1238,72 +1283,26 @@
       ]
     },
     {
-      "id": "whale_alert__Mon, 22 Jun 2026 09:27:58 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (249,913,000 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3k4ruJZutH6RJe2o9EX42wJcJRJXyGcLCeSsx1EUmfgcFPjurPCoAr8iopdZuP6igVcckYLVVf1ijkqLGCTc9QX9",
-      "pubDate": "Mon, 22 Jun 2026 09:27:58 GMT",
-      "link": "https://nitter.net/whale_alert/status/2068989360117006728#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:24:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: That&apos;s all the new community metrics now available through the CryptoQuant API. No more manually checking charts. Just query the endpoint → build your dashboard → automate your workflow. See them all ⤵️ https://docs.cryptoquant.com/v2/overview",
-      "pubDate": "Mon, 22 Jun 2026 09:24:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2068988363827245070#m",
+      "id": "EricBalchunas__Sun, 21 Jun 2026 22:41:12 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Happy Father’s Day from the Fla panhandle, my fav refuge. Grateful to be here this week w my kids but it’s also first time down since my dad (who lived here) passed in March. Bittersweet feeling all day.",
+      "pubDate": "Sun, 21 Jun 2026 22:41:12 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2068826597721837821#m",
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:21:58 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 6. Bitcoin PnL Index CryptoQuant&apos;s composite Bitcoin valuation indicator, combining MVRV, NUPL, and SOPR into a single signal. GET /v2/community/bitcoin-pnl-index",
-      "pubDate": "Mon, 22 Jun 2026 09:21:58 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2068987850360545644#m",
-      "keywords": [
-        "SOPR",
-        "온체인",
-        "NUPL",
-        "MVRV Z-Score"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:21:35 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 5. Satoshi-Era Miner Activity Track flows, reserves, and active addresses tied to early miner wallets. GET /v2/community/bitcoin-satoshi-era-miner",
-      "pubDate": "Mon, 22 Jun 2026 09:21:35 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2068987753925050706#m",
-      "keywords": [
-        "Miner Flow",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 22 Jun 2026 09:21:13 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: 4. Bitcoin OP_RETURN Count A more niche but fascinating signal. Daily count of OP_RETURN outputs — proxy for non-monetary chain usage (Ordinals, inscriptions, etc.). GET /v2/community/bitcoin-op-return-count",
-      "pubDate": "Mon, 22 Jun 2026 09:21:13 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2068987662539588053#m",
-      "keywords": [
-        "BTC"
-      ]
+      "id": "JSeyff__Sun, 21 Jun 2026 18:18:26 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Sunday Funday on Father’s Day",
+      "pubDate": "Sun, 21 Jun 2026 18:18:26 GMT",
+      "link": "https://nitter.net/JSeyff/status/2068760471662969048#m",
+      "keywords": []
     }
   ]
 }
