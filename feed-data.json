@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-06-25T04:12:51.452Z",
+  "updatedAt": "2026-06-25T09:36:09.655Z",
   "items": [
+    {
+      "id": "lookonchain__Thu, 25 Jun 2026 06:52:23 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A whale is buying the dip in $ETH. A newly created wallet, 0xA708, withdrew 17,675 $ETH($28.58M) from #Binance 2 hours ago. https://arkm.com/explorer/address/0xA708412EEBa07d0111B3F37fB822c1F632537287",
+      "pubDate": "Thu, 25 Jun 2026 06:52:23 GMT",
+      "link": "https://nitter.net/lookonchain/status/2070037369643028647#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 25 Jun 2026 05:51:28 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After 7 years of dormancy, whale 0x0965 sold 27,585 $ETH($44.84M) at an average price of $1,625 over the past 2 days, making more than $39M in profit. At its peak, the whale&apos;s profit was once more than $130M. https://arkm.com/explorer/address/0x0965ffFb37F94D82b6F16b4C291Af43A94B24dc6",
+      "pubDate": "Thu, 25 Jun 2026 05:51:28 GMT",
+      "link": "https://nitter.net/lookonchain/status/2070022041567379673#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 25 Jun 2026 04:16:39 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Avg. USDT perp vol per asset on Binance: Metals > Oil > Equities > Altcoins Crypto exchanges are evolving into RWA exchanges.",
+      "pubDate": "Thu, 25 Jun 2026 04:16:39 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2069998181325344938#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Thu, 25 Jun 2026 04:16:39 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Avg. USDT perp vol per asset on Binance: Metals > Oil > Equities > Altcoins Crypto exchanges are evolving into RWA exchanges.",
+      "pubDate": "Thu, 25 Jun 2026 04:16:39 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2069998181325344938#m",
+      "keywords": []
+    },
     {
       "id": "_Checkmatey___Thu, 25 Jun 2026 01:56:50 GMT",
       "handle": "_Checkmatey_",
@@ -269,7 +319,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New YouTube video is live! Here&apos;s Why Bitcoin Could Crash Lower Check it out here: https://youtu.be/3I_D8NwIiTI?si=61pTrDW0EnGLmOB0 Enjoy and Subscribe! #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: New YouTube video is live! Here&apos;s Why Bitcoin Could Crash Lower Check it out here: https://youtu.be/3I_D8NwIiTI?si=61pTrDW0EnGLmOB0 Enjoy and Subscribe! #BTC $BTC #Bitcoin",
       "pubDate": "Wed, 24 Jun 2026 17:10:04 GMT",
       "link": "https://nitter.net/rektcapital/status/2069830430266741093#m",
       "keywords": [
@@ -796,7 +846,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "#BTC At this stage, if June Monthly Closes just like this at $62k then that would confirm the breakdown from the 50-Month EMA So it July turns into a green month, then that could see price turn the 50 EMA into new resistance Then August would cancel out July and send Bitcoin into downside continuation $BTC #Bitcoin",
+      "text": "RT by @rektcapital: #BTC At this stage, if June Monthly Closes just like this at $62k then that would confirm the breakdown from the 50-Month EMA So it July turns into a green month, then that could see price turn the 50 EMA into new resistance Then August would cancel out July and send Bitcoin into downside continuati",
       "pubDate": "Tue, 23 Jun 2026 19:24:20 GMT",
       "link": "https://nitter.net/rektcapital/status/2069501829033918628#m",
       "keywords": [
@@ -1208,66 +1258,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Tue, 23 Jun 2026 09:22:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Tron reached 3.93M active addresses in the past 24 hours, far ahead of all other blockchains. https://defillama.com/chains",
-      "pubDate": "Tue, 23 Jun 2026 09:22:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069350481475014933#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 23 Jun 2026 09:10:19 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A whale is extremely bearish on $SOL. One hour ago, whale 0x9137 opened a 20x short on 554,680 $SOL($38.15M). https://hypurrscan.io/address/0x9137bd9347f07990a8ce22869f8b93d190479c5a#perps",
-      "pubDate": "Tue, 23 Jun 2026 09:10:19 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069347306164592726#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "약세장",
-        "약세 신호"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 23 Jun 2026 09:10:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @CryptoOnchain: Full article ⤵️ https://cryptoquant.com/insights/quicktake/6a394e0f718c636ace57a579-Gatecom-Has-Quietly-Built-the-Smartest-TradFi-Hub-in-Crypto?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=cryptoonchain",
-      "pubDate": "Tue, 23 Jun 2026 09:10:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2069347227600822623#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Tue, 23 Jun 2026 09:03:53 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Gate Has Quietly Built the Smartest TradFi Hub in Crypto “A trader can go long Nvidia during earnings, then hedge into tokenized gold when uncertainty hits — without ever leaving the platform or touching a traditional brokerage.” – By @CryptoOnchain",
-      "pubDate": "Tue, 23 Jun 2026 09:03:53 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2069345687121039660#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 23 Jun 2026 09:02:53 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "pension-usdt.eth, the smart trader who won 23 trades in a row, is winning again! He shorted 50,000 $ETH($82.36M) two days ago and is now sitting on an unrealized profit of $4.35M.",
-      "pubDate": "Tue, 23 Jun 2026 09:02:53 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069345436255887472#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Tue, 23 Jun 2026 08:26:24 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -1282,41 +1272,49 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Tue, 23 Jun 2026 07:47:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Darkfost_Coc: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a397fcb3eb04801bdf15ce6-OG-selling-slows-to-Its-lowest-level-snce-late-2024?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
-      "pubDate": "Tue, 23 Jun 2026 07:47:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2069326339648180321#m",
+      "id": "JSeyff__Tue, 23 Jun 2026 05:26:58 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: The hilarious thing is that Ro Khanna lives in a $10 million mansion whereas Elon lives in a $60,000 house",
+      "pubDate": "Tue, 23 Jun 2026 05:26:58 GMT",
+      "link": "https://nitter.net/DrewPavlou/status/2069291101161443667#m",
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Tue, 23 Jun 2026 07:39:55 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "OG Selling Slows to Its Lowest Level Since Late 2024 “Today, the 90-day average of BTC spent by these OGs has dropped below 1,000, sitting at 962, its lowest level since November 2024.” – By @Darkfost_Coc",
-      "pubDate": "Tue, 23 Jun 2026 07:39:55 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2069324559031877717#m",
-      "keywords": [
-        "BTC"
-      ]
+      "id": "EricBalchunas__Tue, 23 Jun 2026 00:23:13 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Soccer ppl: Who is the NBA equiv of Mbappe?",
+      "pubDate": "Tue, 23 Jun 2026 00:23:13 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2069214659123573013#m",
+      "keywords": []
     },
     {
-      "id": "lookonchain__Tue, 23 Jun 2026 06:39:36 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x2558 gave up and closed his entire 500,000 xyz:CL ($36.85M) long. He lost $2.9M in just 33 hours.",
-      "pubDate": "Tue, 23 Jun 2026 06:39:36 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069309379573412216#m",
+      "id": "EricBalchunas__Tue, 23 Jun 2026 00:12:51 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "World Cup: Just found out Mbappe’s first name is Killian. That is such a cool first name, esp for sports.",
+      "pubDate": "Tue, 23 Jun 2026 00:12:51 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2069212049498927304#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Mon, 22 Jun 2026 22:09:36 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: Corgi filed leveraged single stock ETF based on an ETF they just filed • Corgi MANGOS 2x Daily ETF based on the Corgi MANGOS ETF Eff: Sep 4, 2026 Filing: https://www.sec.gov/Archives/edgar/data/2078265/000207826526000286/Mangos2x.htm #ETF #NewETF @CorgiFunds #MANGOS",
+      "pubDate": "Mon, 22 Jun 2026 22:09:36 GMT",
+      "link": "https://nitter.net/ETFhearsay/status/2069181035258970181#m",
       "keywords": [
-        "고래",
-        "Whale"
+        "ETF 수급"
       ]
     }
   ]
