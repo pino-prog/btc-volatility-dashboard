@@ -1,6 +1,306 @@
 {
-  "updatedAt": "2026-06-26T09:42:01.945Z",
+  "updatedAt": "2026-06-26T14:39:20.076Z",
   "items": [
+    {
+      "id": "whale_alert__Fri, 26 Jun 2026 14:36:02 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 903 $BTC (54,084,616 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/afbc4443d2d7b9a9f79e7c3fdc779a4d356381fd36e0ec48e6055a3522ee9573",
+      "pubDate": "Fri, 26 Jun 2026 14:36:02 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070516439182704969#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Fri, 26 Jun 2026 14:01:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "The Bitcoin Bear Market Bottom Blueprint #BTC $BTC #Bitcoin",
+      "pubDate": "Fri, 26 Jun 2026 14:01:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2070507623846142230#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Fri, 26 Jun 2026 13:30:03 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "I just made a track inspired by @saylor. Synki - Digital Credit 🎧",
+      "pubDate": "Fri, 26 Jun 2026 13:30:03 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2070499833946013827#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Fri, 26 Jun 2026 12:55:42 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin continues to lose Weekly supports and turn them into new resistance First Bitcoin turned February lows into new resistance And recently Bitcoin turned early June lows into new resistance as well $BTC #Bitcoin",
+      "pubDate": "Fri, 26 Jun 2026 12:55:42 GMT",
+      "link": "https://nitter.net/rektcapital/status/2070491191485792573#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "지지선",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 12:18:11 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Analyzing Spot bitcoin:native ETF Volumes Chart of the Week👇",
+      "pubDate": "Fri, 26 Jun 2026 12:18:11 GMT",
+      "link": "https://nitter.net/glassnode/status/2070481751315513485#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 26 Jun 2026 12:14:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 165,900,000 $USDT (165,792,413 USD) transferred from unknown wallet to #Bitfinex https://whale-alert.io/tx/ethereum/0x3ee291c519faa7750e3f813fa659ab6dfc9a94a34feb777df02f7f843d18cdc7",
+      "pubDate": "Fri, 26 Jun 2026 12:14:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070480945715536134#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 26 Jun 2026 12:01:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Chun Wang(@satofishi) bought another 9,937 $ETH($15.5M) and 147 $WBTC($8.74M) today. Over the past month, #ChunWang has withdrawn a total of 86,998 $ETH($152M) from #Binance at an average price of $1,749, and 973 $WBTC($60.7M) at an average price of $62,418. https://arkm.com/explorer/address/0xF42BcFD3dd5fcdd984d24FD27",
+      "pubDate": "Fri, 26 Jun 2026 12:01:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2070477670941651026#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Fri, 26 Jun 2026 11:51:42 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 864 $BTC (51,347,536 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/8239c78c17fddb3c14c564ee25c43693874b76090236bbf8496e9ed3039f5100",
+      "pubDate": "Fri, 26 Jun 2026 11:51:42 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070475084150538274#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 26 Jun 2026 11:44:55 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A whale is rotating from $BTC into $ETH. 2 hours ago, whale 0x8dCe swapped 464 $BTC($27.56M) for 17,750 $ETH. https://arkm.com/explorer/address/0x8dCe3baEf66979e34E28eEdEaE2359db65334F89",
+      "pubDate": "Fri, 26 Jun 2026 11:44:55 GMT",
+      "link": "https://nitter.net/lookonchain/status/2070473375986950381#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 26 Jun 2026 11:30:48 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "BlackRock just deposited another 4,577 $BTC($272M) and 41,996 $ETH($65.2M) to Coinbase Prime. https://arkm.com/explorer/entity/blackrock",
+      "pubDate": "Fri, 26 Jun 2026 11:30:48 GMT",
+      "link": "https://nitter.net/lookonchain/status/2070469823705035192#m",
+      "keywords": [
+        "BlackRock",
+        "ETF"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 26 Jun 2026 11:22:50 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 863 $BTC (51,306,681 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/7db00780ec88844b45d5a5039885c0b8de02926510657dc0d55ab379e31ef483",
+      "pubDate": "Fri, 26 Jun 2026 11:22:50 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070467820547113184#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 26 Jun 2026 11:21:48 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 863 $BTC (51,306,681 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/aea5f6a33a811e3570ec8003823c9cdf11742e69eb210029a13d14d8203e16a9",
+      "pubDate": "Fri, 26 Jun 2026 11:21:48 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070467562098348446#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 26 Jun 2026 11:02:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 863 $BTC (51,215,067 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/e14bfa35777279548fb43dbc19c2d9cfb9b0fb54d00381a9846176406c3aa196",
+      "pubDate": "Fri, 26 Jun 2026 11:02:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070462676413673708#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Fri, 26 Jun 2026 10:48:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "R to @rektcapital: I share price analysis on Bitcoin and Altcoins every Monday, Wednesday & Friday in my newsletter 86,000+ people read it for practical guidance to better understand and navigate the Crypto market in real-time Join for free here: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
+      "pubDate": "Fri, 26 Jun 2026 10:48:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2070459053277618308#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:53 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Wrap Up Implied volatility has rebounded. Protection demand is building. Calls remain out of favor. Volatility risk premium has normalized. Short gamma dominates below 60.5K. Put activity dominates the tape. Options positioning remains defensive near key support.",
+      "pubDate": "Fri, 26 Jun 2026 10:22:53 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452731597520925#m",
+      "keywords": [
+        "지지선",
+        "TA"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:52 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Put Activity Dominates Put selling led taker flow over the past 7 days, accounting for 38.3% of premium traded, followed by put buying at 32.1%. Call activity remained muted. The options tape continues to revolve around downside exposure. https://glassno.de/4eIuge1",
+      "pubDate": "Fri, 26 Jun 2026 10:22:52 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452729374515511#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:51 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Short Gamma Dominates Below Spot Following today&apos;s large options expiry, traders rebuilt downside exposure, forcing market makers to be short gamma from 60.5K down to 55K, where dealer hedging could amplify volatility if BTC moves lower. https://glassno.de/4f2myge",
+      "pubDate": "Fri, 26 Jun 2026 10:22:51 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452726170103986#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:51 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Volatility Risk Premium Resets 1M implied volatility has caught back up with realized volatility. After spending the past 2 weeks below realized moves, the spread is now at zero. Options markets are no longer underpricing recent volatility. https://glassno.de/4xQdFha",
+      "pubDate": "Fri, 26 Jun 2026 10:22:51 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452723854836209#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:50 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Calls Remain Out of Favor The Skew Index Ratio compares upside IV vs downside IV. Only the 6 month tenor remains above 1, while shorter dated maturities all trade below neutral, reflecting stronger demand for downside protection than upside exposure. https://glassno.de/3QLDTkn",
+      "pubDate": "Fri, 26 Jun 2026 10:22:50 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452720927224030#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:49 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Protection Demand Returns 25 Delta Skew is rising across the curve as traders pay a growing premium for puts over calls. 1W skew has climbed to 30%, while longer maturities have also moved higher. Demand for downside protection is building again. https://glassno.de/4vQ3at7",
+      "pubDate": "Fri, 26 Jun 2026 10:22:49 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452718087594372#m",
+      "keywords": [
+        "고래 이동"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:49 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: Volatility Rebounds BTC IV is rising as price revisits the February lows. 1 week IV has jumped from 33% to 45%, with the rest of the curve also moving higher. Options markets are pricing greater uncertainty as downside volatility returns. https://glassno.de/4amt4vK",
+      "pubDate": "Fri, 26 Jun 2026 10:22:49 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452715197759998#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 26 Jun 2026 10:22:44 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 144,950,867 $USDT (144,727,570 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x313a4fbc21eb0bced3b1fa720c91b515ade35812ba74330a255671f84c2eb283",
+      "pubDate": "Fri, 26 Jun 2026 10:22:44 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070452697086513664#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Fri, 26 Jun 2026 09:29:57 GMT",
       "handle": "lookonchain",
@@ -420,7 +720,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New YouTube video is live! The Bitcoin Summer Game Plan - Macro Triangles Check it out here: https://youtu.be/tpTMTHU1qO0?si=ny-0pTL2ABEy8ZIA Enjoy and Subscribe! $BTC #BTC #Bitcoin",
+      "text": "RT by @rektcapital: New YouTube video is live! The Bitcoin Summer Game Plan - Macro Triangles Check it out here: https://youtu.be/tpTMTHU1qO0?si=ny-0pTL2ABEy8ZIA Enjoy and Subscribe! $BTC #BTC #Bitcoin",
       "pubDate": "Thu, 25 Jun 2026 16:20:15 GMT",
       "link": "https://nitter.net/rektcapital/status/2070180281068171693#m",
       "keywords": [
@@ -996,295 +1296,6 @@
       "link": "https://nitter.net/ColinTCrypto/status/2069923623331143889#m",
       "keywords": [
         "약세장"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 23:10:52 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$STRC @Strategy has $1.4B of cash reserves. I believe BTC could spend up to ~3 months below $60k during this bear market cycle. Selling BTC and using up USD reserves are each a signal of stress. The market doesn&apos;t like to see stress, therefore expect the STRC price to drop further to account for this increased per",
-      "pubDate": "Wed, 24 Jun 2026 23:10:52 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069921225443262883#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "BTC 사이클",
-        "약세장"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 23:08:56 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: How it&apos;s going:",
-      "pubDate": "Wed, 24 Jun 2026 23:08:56 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069920738719486460#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 22:59:54 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "The One Bitcoin Chart That You Need For Success In 2026 And Beyond #BTC $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 22:59:54 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069918469202522352#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 22:19:17 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$61.8k is the most likely rejection level of the current $BTC bounce",
-      "pubDate": "Wed, 24 Jun 2026 22:19:17 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069908244676411434#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Wed, 24 Jun 2026 20:37:37 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 3,578 $BTC (217,264,049 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/6f1689057dca036990382cc39d647693d45e3f3339ce271995343312cc48c8e9",
-      "pubDate": "Wed, 24 Jun 2026 20:37:37 GMT",
-      "link": "https://nitter.net/whale_alert/status/2069882659027771462#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 18:33:49 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Knowing when to sell is one thing Knowing when to buy when there is panic in the market - that&apos;s chart reading My free TA Blueprint teaches you both, from scratch Download for free here: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 18:33:49 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069851505041998238#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 18:26:52 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Let&apos;s see if Bitcoin Daily Closes below these mid-June candle-bodied lows Daily Close beneath the red area followed by a post-breakdown bearish retest could confirm further downside sooner rather than later $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 18:26:52 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069849756768051289#m",
-      "keywords": [
-        "약세장",
-        "약세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 18:12:21 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Nice!! You&apos;re too good man! One of the few that talk based on chats and not vibes. Your analysis is always spot on 👌",
-      "pubDate": "Wed, 24 Jun 2026 18:12:21 GMT",
-      "link": "https://nitter.net/African_001/status/2069846103877464412#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Wed, 24 Jun 2026 18:03:34 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 147,650,000 $USDT (147,573,222 USD) transferred from unknown wallet to #Bitfinex https://whale-alert.io/tx/ethereum/0x4b8ee2bcc78a881cfde503ab4d4dcc5a7770f1d17b86844a3f8065732cecc289",
-      "pubDate": "Wed, 24 Jun 2026 18:03:34 GMT",
-      "link": "https://nitter.net/whale_alert/status/2069843894041227425#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 17:36:27 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin downside wicked into $59,000 earlier this month but price has almost round-tripped since then The liquidity grab at $59k wasn&apos;t successful simply because the level didn&apos;t have enough buy-side strength to prompt a stronger, more sustained reversal $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 17:36:27 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069837067236815238#m",
-      "keywords": [
-        "유동성",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Wed, 24 Jun 2026 17:36:20 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Waiting for Buyers $BTC has broken below $60K as loss realization, ETF outflows, and defensive options positioning continue to weigh on sentiment. Despite some selective accumulation, broad demand remains absent. Read the full Week On-Chain👇 https://glassno.de/4xOdjaX",
-      "pubDate": "Wed, 24 Jun 2026 17:36:20 GMT",
-      "link": "https://nitter.net/glassnode/status/2069837040611450999#m",
-      "keywords": [
-        "ETF 수급",
-        "ETF 유출",
-        "매집"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 24 Jun 2026 17:26:07 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Pretty relevant conversation at the @milkroaddaily given today&apos;s price action. Thanks for having me again guys.",
-      "pubDate": "Wed, 24 Jun 2026 17:26:07 GMT",
-      "link": "https://nitter.net/jjcmoreno/status/2069834469960216859#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 17:20:17 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC From the low $50k&apos;s on down, I&apos;m looking at as a buying opportunity. Imo, DCA is intelligent below $52k. NFA",
-      "pubDate": "Wed, 24 Jun 2026 17:20:17 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069832998749356242#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 17:10:04 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: New YouTube video is live! Here&apos;s Why Bitcoin Could Crash Lower Check it out here: https://youtu.be/3I_D8NwIiTI?si=61pTrDW0EnGLmOB0 Enjoy and Subscribe! #BTC $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 17:10:04 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069830430266741093#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 17:09:38 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC loss of momentum continues (as seemed likely). Double loss of trend and double rejection on retest (indicated by arrow). It just can&apos;t hold any level. Weakness. It is *very very* likely that $BTC finds new cycle lows.",
-      "pubDate": "Wed, 24 Jun 2026 17:09:38 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069830319147040771#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 17:03:59 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Time spent at exact Bitcoin Bear Market bottoms? Seconds Time spent near absolute Bitcoin Bear Market bottoms? Months $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 17:03:59 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069828897303134612#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 17:03:05 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$DXY keeps rising, as expected after the breakout. 101.7 as of today. Target is much higher.",
-      "pubDate": "Wed, 24 Jun 2026 17:03:05 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069828669468516738#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 16:32:06 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $DOGE $HBAR $HYPE $INJ $JUP $WLD I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-149-1/ #BTC $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 16:32:06 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069820872588706245#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 24 Jun 2026 16:03:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "$479M in BTC Flows Into Binance as Panic Selling Picks Up “At 7,600 BTC and a price around $63K, that&apos;s roughly $479 million in potential sell-side pressure sitting on Binance alone.” – By @Darkfost_Coc Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a3af1e93eb04801bdf15e9f-479M-in-BTC-flows-Into-Binance-",
-      "pubDate": "Wed, 24 Jun 2026 16:03:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2069813550705463567#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 15:59:43 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin resumed its downtrend $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 15:59:43 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069812724553417184#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 24 Jun 2026 15:51:12 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: #BTC Bitcoin has almost fully retraced whatever bounce price mustered this June $60k is clearly weakening as support $BTC #Bitcoin",
-      "pubDate": "Wed, 24 Jun 2026 15:51:12 GMT",
-      "link": "https://nitter.net/rektcapital/status/2069810581591212435#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 24 Jun 2026 14:57:34 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "As $BTC fell below $61,000, whale 0xebe8 gave up and closed his 800 $BTC($48.8M) long, losing $1.26M. https://hyperbot.network/trader/0xebe837cd345469cbc5d6e1fd3d15ee5079ac885f",
-      "pubDate": "Wed, 24 Jun 2026 14:57:34 GMT",
-      "link": "https://nitter.net/lookonchain/status/2069797083163578399#m",
-      "keywords": [
-        "고래",
-        "Whale"
       ]
     }
   ]
