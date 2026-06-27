@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-06-27T04:06:05.838Z",
+  "updatedAt": "2026-06-27T08:46:18.972Z",
   "items": [
+    {
+      "id": "whale_alert__Sat, 27 Jun 2026 06:02:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 161,211,780 $USDC (161,285,857 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/ethereum/0xf019b024ad42d8b9a0722646452f3983d551b23f579f7a911b15028ab69d395a",
+      "pubDate": "Sat, 27 Jun 2026 06:02:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2070749716954992964#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "whale_alert__Sat, 27 Jun 2026 03:37:14 GMT",
       "handle": "whale_alert",
@@ -672,6 +686,19 @@
       ]
     },
     {
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:48 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "BTC has returned to a key inflection point after sweeping both the February and June lows. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.",
+      "pubDate": "Fri, 26 Jun 2026 10:22:48 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452712827965918#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
       "id": "whale_alert__Fri, 26 Jun 2026 10:22:44 GMT",
       "handle": "whale_alert",
       "label": "Whale Alert",
@@ -1290,30 +1317,6 @@
       "text": "RT by @rektcapital: Absolutely stunning the way @rektcapital has been highly on point and right all the time $BTC #Bitcoin",
       "pubDate": "Thu, 25 Jun 2026 14:13:21 GMT",
       "link": "https://nitter.net/MarioOttai549/status/2070148346111541580#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 25 Jun 2026 14:12:39 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: Did I absolutely frickin nail that or what?",
-      "pubDate": "Thu, 25 Jun 2026 14:12:39 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2070148166503080373#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Thu, 25 Jun 2026 14:10:04 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "There&apos;s no need to panic Flowers need rain to grow Bitcoin needs downside to enable future upside #BTC $BTC #Bitcoin",
-      "pubDate": "Thu, 25 Jun 2026 14:10:04 GMT",
-      "link": "https://nitter.net/rektcapital/status/2070147516419440873#m",
       "keywords": [
         "BTC"
       ]
