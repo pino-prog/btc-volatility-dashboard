@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-06-27T08:46:18.972Z",
+  "updatedAt": "2026-06-27T13:59:02.724Z",
   "items": [
+    {
+      "id": "ColinTCrypto__Sat, 27 Jun 2026 12:42:17 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "ALTCOIN RISK I sold 100% of my altcoins earlier this year (around February if I recall correctly) per my perceived risk of the market. I posted this publicly. I had determined that we were in a bear market a few months prior (in mid November) and I decided it was likely that ALTS would UNDERperform BTC (aka bleed) for ",
+      "pubDate": "Sat, 27 Jun 2026 12:42:17 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2070850201393168716#m",
+      "keywords": [
+        "BTC 사이클",
+        "강세장",
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Sat, 27 Jun 2026 12:07:51 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "R to @rektcapital: After reading my newsletter for a month, you&apos;ll know: - Where Bitcoin is in the cycle - Which Altcoins are setting up - How to prepare before the market moves Three times a week Signup for free: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
+      "pubDate": "Sat, 27 Jun 2026 12:07:51 GMT",
+      "link": "https://nitter.net/rektcapital/status/2070841537374593308#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Sat, 27 Jun 2026 11:05:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Here&apos;s Why Bitcoin Could Crash Lower #BTC $BTC #Bitcoin",
+      "pubDate": "Sat, 27 Jun 2026 11:05:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2070825720008294736#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 27 Jun 2026 09:21:43 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Is vitalik.eth(@VitalikButerin) selling $ETH again? A wallet linked to #VitalikButerin transferred 7,000 $ETH($11.06M) to a newly created wallet 2 hours ago. https://arkm.com/explorer/address/0xd04daa65144b97f147fbc9a9b45e741df0a28fd7",
+      "pubDate": "Sat, 27 Jun 2026 09:21:43 GMT",
+      "link": "https://nitter.net/lookonchain/status/2070799728028340494#m",
+      "keywords": []
+    },
     {
       "id": "whale_alert__Sat, 27 Jun 2026 06:02:59 GMT",
       "handle": "whale_alert",
@@ -245,7 +299,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $AERO $DOGE $DEGEN $XRP $WLD $ADA I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-279/ #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $AERO $DOGE $DEGEN $XRP $WLD $ADA I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-279/ #BTC $BTC #Bitcoin",
       "pubDate": "Fri, 26 Jun 2026 19:19:36 GMT",
       "link": "https://nitter.net/rektcapital/status/2070587802199216557#m",
       "keywords": [
@@ -1261,64 +1315,6 @@
       "link": "https://nitter.net/lookonchain/status/2070150997260017726#m",
       "keywords": [
         "청산"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 25 Jun 2026 14:21:47 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,537 $BTC (149,853,915 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/0a2530596d0bd9d700cefef3eb637f7d6b64e8bfc2a6a8655dbfce6caceea46d",
-      "pubDate": "Thu, 25 Jun 2026 14:21:47 GMT",
-      "link": "https://nitter.net/whale_alert/status/2070150467816935827#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 25 Jun 2026 14:19:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The market crash just wiped out whale 0xf79C&apos;s longs. His 809.9 $BTC($47.68M) and 27.92M $XRP($28.45M) long positions were fully liquidated, resulting in a $8.42M loss. https://hyperbot.network/trader/0xf79C163305387F940f49999Ff2AbFf5410129BbD",
-      "pubDate": "Thu, 25 Jun 2026 14:19:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2070150000311779556#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 25 Jun 2026 14:14:17 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 849 $BTC (50,544,578 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/a5deccbd114cfcad1cced2895e37051685313369b7c35414a788421d880a2cde",
-      "pubDate": "Thu, 25 Jun 2026 14:14:17 GMT",
-      "link": "https://nitter.net/whale_alert/status/2070148580287946830#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Thu, 25 Jun 2026 14:13:21 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Absolutely stunning the way @rektcapital has been highly on point and right all the time $BTC #Bitcoin",
-      "pubDate": "Thu, 25 Jun 2026 14:13:21 GMT",
-      "link": "https://nitter.net/MarioOttai549/status/2070148346111541580#m",
-      "keywords": [
-        "BTC"
       ]
     }
   ]
