@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-28T04:38:50.199Z",
+  "updatedAt": "2026-06-28T09:23:01.883Z",
   "items": [
+    {
+      "id": "lookonchain__Sun, 28 Jun 2026 07:29:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Trader 2M2vLX turned $4K into $539K in just 10 days — a 135x return! 10 days ago, this trader spent 56.4 $SOL($4,050) to buy 25.99M $ANSEM. Today, after $ANSEM surged, he sold all 25.99M $ANSEM for 7,649 $SOL($539K), locking in a profit of 7,593 $SOL($535K). https://solscan.io/account/2M2vLX34LXMg24dMEnjWHvRXS1tshpEDRW",
+      "pubDate": "Sun, 28 Jun 2026 07:29:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071133910080069881#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sun, 28 Jun 2026 07:10:05 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Turned $2.33K into $614.5K — a 261x return! Trader CxCTVj spent $2.33K to buy 14.2M $ANSEM. He has since sold 4.2M $ANSEM for $68.1K and still holds 10M $ANSEM ($548.8K). His total profit is now $614.5K, a 261x return. Wallet: CxCTVjvgK3bWcgavMKo8PushR8ycw1atrWiSTruZrdtT",
+      "pubDate": "Sun, 28 Jun 2026 07:10:05 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071128989473837440#m",
+      "keywords": []
+    },
     {
       "id": "whale_alert__Sun, 28 Jun 2026 03:00:46 GMT",
       "handle": "whale_alert",
@@ -1022,62 +1044,6 @@
       ]
     },
     {
-      "id": "whale_alert__Fri, 26 Jun 2026 08:09:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,243,047 USD) transferred from Tether Treasury to #Binance https://whale-alert.io/tx/tron/ba833c9051d0a281802dd0831ba4b751460b4ff9526869ed77ad52258285629c",
-      "pubDate": "Fri, 26 Jun 2026 08:09:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2070419231355654433#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 26 Jun 2026 07:33:04 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,675,000 USD) transferred from #Binance to Tether Treasury https://whale-alert.io/tx/ethereum/0xff6a3341c4b7ba8a4e2c73e7ea8a5fd27540fc24bace4831a16e5bcd88e27655",
-      "pubDate": "Fri, 26 Jun 2026 07:33:04 GMT",
-      "link": "https://nitter.net/whale_alert/status/2070409999428227140#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 26 Jun 2026 07:30:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 190,650,000 $USDT (190,403,213 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/e5bb021cf7e08c07a46bb5ceff87c721a63111b2cf17ad793964b6584857db78",
-      "pubDate": "Fri, 26 Jun 2026 07:30:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2070409416457719915#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 26 Jun 2026 07:21:42 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,711,000 USD) transferred from Tether Treasury to #Binance https://whale-alert.io/tx/tron/0b248da00fe67278061dcf34b1ca6e8fa525e2012c8c89efdc810b9ef9ab69b2",
-      "pubDate": "Fri, 26 Jun 2026 07:21:42 GMT",
-      "link": "https://nitter.net/whale_alert/status/2070407139047121054#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:28 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1115,17 +1081,6 @@
         "BTC 사이클",
         "BTC"
       ]
-    },
-    {
-      "id": "lookonchain__Fri, 26 Jun 2026 04:51:53 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Tom Lee(@fundstrat)&apos;s #Bitmine just staked another 160,480 $ETH($248.7M). In total, #Bitmine has staked 4.88M $ETH($7.56B), 86% of its total holdings. https://arkm.com/explorer/entity/bitmine",
-      "pubDate": "Fri, 26 Jun 2026 04:51:53 GMT",
-      "link": "https://nitter.net/lookonchain/status/2070369433172988325#m",
-      "keywords": []
     },
     {
       "id": "cryptoquant_com__Thu, 25 Jun 2026 19:17:07 GMT",
@@ -1287,6 +1242,41 @@
       "pubDate": "Wed, 24 Jun 2026 22:19:17 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2069908244676411434#m",
       "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 24 Jun 2026 17:26:07 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Pretty relevant conversation at the @milkroaddaily given today&apos;s price action. Thanks for having me again guys.",
+      "pubDate": "Wed, 24 Jun 2026 17:26:07 GMT",
+      "link": "https://nitter.net/jjcmoreno/status/2069834469960216859#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Wed, 24 Jun 2026 17:20:17 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC From the low $50k&apos;s on down, I&apos;m looking at as a buying opportunity. Imo, DCA is intelligent below $52k. NFA",
+      "pubDate": "Wed, 24 Jun 2026 17:20:17 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2069832998749356242#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 24 Jun 2026 16:03:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "$479M in BTC Flows Into Binance as Panic Selling Picks Up “At 7,600 BTC and a price around $63K, that&apos;s roughly $479 million in potential sell-side pressure sitting on Binance alone.” – By @Darkfost_Coc Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a3af1e93eb04801bdf15e9f-479M-in-BTC-flows-Into-Binance-",
+      "pubDate": "Wed, 24 Jun 2026 16:03:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2069813550705463567#m",
+      "keywords": [
+        "BTC"
+      ]
     }
   ]
 }
