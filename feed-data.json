@@ -1,6 +1,151 @@
 {
-  "updatedAt": "2026-06-29T16:00:52.618Z",
+  "updatedAt": "2026-06-29T20:08:41.117Z",
   "items": [
+    {
+      "id": "ColinTCrypto__Mon, 29 Jun 2026 18:53:57 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC Bear Market Progress* ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 73% BTC has been in a bear market since Oct 6, 2025. Historical bear markets (from top to bottom) have been roughly one year long. That would mean we&apos;re already 73% of the way through, *if BTC has another 12-month bear market. The good news: we could be pretty far al",
+      "pubDate": "Mon, 29 Jun 2026 18:53:57 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2071668509936120190#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Mon, 29 Jun 2026 18:27:12 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "This is my feel on the market as well. $BTC to form a lower high in the coming 2-8 weeks, and then a lower low for the final bottom later this year, in several months probably.",
+      "pubDate": "Mon, 29 Jun 2026 18:27:12 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2071661780854546490#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Mon, 29 Jun 2026 18:23:53 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "New edition of the RC Newsletter is out! Bitcoin - Preparing For Q3 What do the next few months have in store for price? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-preparing-for-q3/ #BTC $BTC #Bitcoin",
+      "pubDate": "Mon, 29 Jun 2026 18:23:53 GMT",
+      "link": "https://nitter.net/rektcapital/status/2071660943788867908#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Mon, 29 Jun 2026 18:19:09 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "We’re at the stage of the $BTC bear market where “Bitcoin is heading toward zero” or “Dying”. That means we’re getting closer to the bottom— probably just months away.",
+      "pubDate": "Mon, 29 Jun 2026 18:19:09 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2071659751679685080#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 29 Jun 2026 18:06:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @_onchain: Full post ⤵️ https://cryptoquant.com/insights/quicktake/6a428cab7a878621f5275fba-Bitcoin-Long-Term-Holder-SOPR-Time-to-Start-DCA-Accumulation?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=_onchain",
+      "pubDate": "Mon, 29 Jun 2026 18:06:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2071656443074560068#m",
+      "keywords": [
+        "SOPR",
+        "온체인",
+        "매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 29 Jun 2026 17:58:58 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin: Long Term Holder SOPR - Time to Start DCA Accumulation? “The last time LTH-SOPR opened and closed below 1 on the monthly timeframe for more than three months was in October 2022. BTC: 20K.” – By @_onchain",
+      "pubDate": "Mon, 29 Jun 2026 17:58:58 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2071654675200229418#m",
+      "keywords": [
+        "SOPR",
+        "온체인",
+        "LTH 보유자",
+        "매집"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 29 Jun 2026 17:12:49 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 100,116,578 $USDC (100,164,434 USD) transferred from USDC Treasury to Coinbase Institutional https://whale-alert.io/tx/ethereum/0x0fee98a159b1e10b19afa2541320b6c952441169d12cdbef3788292f13a7eaf3",
+      "pubDate": "Mon, 29 Jun 2026 17:12:49 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071643061923315720#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 29 Jun 2026 16:40:07 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,595 $BTC (95,259,245 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/6919bb6a352e26122259d88a6a9a7d847bad9543a839595991042769bf936ee0",
+      "pubDate": "Mon, 29 Jun 2026 16:40:07 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071634832182911068#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 29 Jun 2026 16:30:07 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,595 $BTC (95,049,746 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/30ae5b1f9d650d27f12cceccc9b9a8764ca7dc5c876f431d143099ab7ce739b4",
+      "pubDate": "Mon, 29 Jun 2026 16:30:07 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071632316187705725#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 29 Jun 2026 16:02:29 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 100,400,000 $USDT (100,270,584 USD) transferred from unknown wallet to #Bitfinex https://whale-alert.io/tx/ethereum/0x13b4f8571e35975a3df65d9a96cf4182ae21d5a74a32bda1eefd8e66522ec8fd",
+      "pubDate": "Mon, 29 Jun 2026 16:02:29 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071625361650065568#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 29 Jun 2026 15:01:51 GMT",
       "handle": "lookonchain",
@@ -882,55 +1027,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Sat, 27 Jun 2026 18:57:15 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Sophie on her viral pointing meme: She asked why only CC got a tech and not DB… who didn’t like being pointed. Sophie said “oh you shouldn’t have said that” & continued to silently point at her. “I think it’s dumb. But it was pissing her off, and I couldn’t help myself” 😭😭😭",
-      "pubDate": "Sat, 27 Jun 2026 18:57:15 GMT",
-      "link": "https://nitter.net/_girltalk/status/2070944566174458261#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sat, 27 Jun 2026 18:22:34 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "In case you missed it... New YouTube video is live! Here&apos;s Why Bitcoin Could Crash Lower Check it out here: https://youtu.be/3I_D8NwIiTI?si=61pTrDW0EnGLmOB0 Enjoy and Subscribe! $BTC #BTC",
-      "pubDate": "Sat, 27 Jun 2026 18:22:34 GMT",
-      "link": "https://nitter.net/rektcapital/status/2070935837777256826#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sat, 27 Jun 2026 17:45:43 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: There&apos;s so much to takeaway from this movie but one thing that i thought was so interesting was the Poet school ppl complain that only privilaged ppl go into arts these days but then when they find a lower income young poet who writes amazing stuff about her room, the tree outside etc they try",
-      "pubDate": "Sat, 27 Jun 2026 17:45:43 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2070926563286085836#m",
-      "keywords": [
-        "지지선",
-        "TA"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sat, 27 Jun 2026 17:38:35 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Watched “A Poet” during vaca, indie film from Colombia which got 100% on RT (54/54 positive critic reviews) yet no one in it has ever acted bf. Wild, right? Anyway, I loved it. It’s about a lovable but tortured soul poet grappling w his life, family & society. I give it 9/10.",
-      "pubDate": "Sat, 27 Jun 2026 17:38:35 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2070924767394247009#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Sat, 27 Jun 2026 14:11:52 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -1023,28 +1119,17 @@
       "keywords": []
     },
     {
-      "id": "glassnode__Fri, 26 Jun 2026 10:22:51 GMT",
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:48 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
       "category": "온체인 심리",
       "color": "violet",
-      "text": "R to @glassnode: Short Gamma Dominates Below Spot Following today&apos;s large options expiry, traders rebuilt downside exposure, forcing market makers to be short gamma from 60.5K down to 55K, where dealer hedging could amplify volatility if BTC moves lower. https://glassno.de/4f2myge",
-      "pubDate": "Fri, 26 Jun 2026 10:22:51 GMT",
-      "link": "https://nitter.net/glassnode/status/2070452726170103986#m",
+      "text": "BTC has returned to a key inflection point after sweeping both the February and June lows. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.",
+      "pubDate": "Fri, 26 Jun 2026 10:22:48 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452712827965918#m",
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "glassnode__Fri, 26 Jun 2026 10:22:51 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Volatility Risk Premium Resets 1M implied volatility has caught back up with realized volatility. After spending the past 2 weeks below realized moves, the spread is now at zero. Options markets are no longer underpricing recent volatility. https://glassno.de/4xQdFha",
-      "pubDate": "Fri, 26 Jun 2026 10:22:51 GMT",
-      "link": "https://nitter.net/glassnode/status/2070452723854836209#m",
-      "keywords": []
     },
     {
       "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:28 GMT",
@@ -1106,6 +1191,20 @@
       "pubDate": "Thu, 25 Jun 2026 18:31:50 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2070213395547070556#m",
       "keywords": []
+    },
+    {
+      "id": "glassnode__Thu, 25 Jun 2026 17:58:40 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "With price sliding below $60k, long-term holders are now carrying 5.6M BTC at a loss, the highest since the Covid crash in 2020. The resolution of overhang supply is extending, not concluding. 📉 http://glassno.de/btc-lth-supply-loss",
+      "pubDate": "Thu, 25 Jun 2026 17:58:40 GMT",
+      "link": "https://nitter.net/glassnode/status/2070205047305097458#m",
+      "keywords": [
+        "LTH 보유자",
+        "BTC"
+      ]
     },
     {
       "id": "ColinTCrypto__Thu, 25 Jun 2026 14:12:39 GMT",
@@ -1171,44 +1270,6 @@
       ]
     },
     {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 23:10:52 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$STRC @Strategy has $1.4B of cash reserves. I believe BTC could spend up to ~3 months below $60k during this bear market cycle. Selling BTC and using up USD reserves are each a signal of stress. The market doesn&apos;t like to see stress, therefore expect the STRC price to drop further to account for this increased per",
-      "pubDate": "Wed, 24 Jun 2026 23:10:52 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069921225443262883#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "BTC 사이클",
-        "약세장"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 22:19:17 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$61.8k is the most likely rejection level of the current $BTC bounce",
-      "pubDate": "Wed, 24 Jun 2026 22:19:17 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069908244676411434#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 17:20:17 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC From the low $50k&apos;s on down, I&apos;m looking at as a buying opportunity. Imo, DCA is intelligent below $52k. NFA",
-      "pubDate": "Wed, 24 Jun 2026 17:20:17 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069832998749356242#m",
-      "keywords": []
-    },
-    {
       "id": "ki_young_ju__Wed, 24 Jun 2026 04:59:18 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1237,47 +1298,6 @@
         "Whale",
         "고래 이동",
         "Strategy(MSTR)"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Sat, 20 Jun 2026 02:29:17 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin-to-altcoin asset rotation that once fueled alt seasons has basically disappeared. BTC-pair altcoin volume has collapsed since 2021. The era of \"alts pumping just because BTC pumps\" may be over.",
-      "pubDate": "Sat, 20 Jun 2026 02:29:17 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2068159219451539812#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Fri, 19 Jun 2026 03:25:58 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "Saylor&apos;s Sticky Situation My write up assessing the STRC sell-off, and what I think it means for Strategy and Bitcoin is live for @_checkonchain subscribers. https://newsletter.checkonchain.com/p/saylors-sticky-situation",
-      "pubDate": "Fri, 19 Jun 2026 03:25:58 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2067811099857371148#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Mon, 15 Jun 2026 13:58:19 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Ya&apos;ll asked... I listened. I&apos;m officially kicking off a weekly newsletter for anyone that wants to stay up to date with the most recent changes across the Bitcoin sentiment landscape. First issue is live! https://sentimentsully.substack.com/p/bitcoin-sentiment-weekly-bitcoiners",
-      "pubDate": "Mon, 15 Jun 2026 13:58:19 GMT",
-      "link": "https://nitter.net/SullyMichaelvan/status/2066520682519826909#m",
-      "keywords": [
-        "BTC"
       ]
     }
   ]
