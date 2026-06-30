@@ -1,6 +1,224 @@
 {
-  "updatedAt": "2026-06-30T09:54:37.934Z",
+  "updatedAt": "2026-06-30T14:34:24.571Z",
   "items": [
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 14:22:49 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 99,999,995 $USDC (100,041,744 USD) transferred from #Bullish to Coinbase Institutional https://whale-alert.io/tx/ethereum/0xbec5090aad01c0de05ae04f6f249440f5ebb992515ac7456fc6404a4d125a6f0",
+      "pubDate": "Tue, 30 Jun 2026 14:22:49 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071962665606353335#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "강세장"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 30 Jun 2026 14:08:54 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Trader 49foKJ was airdropped 8M $ANSEM by Ansem(@blknoiz06) but sold it for $207K when $ANSEM&apos;s market cap was $26M. Those 8M $ANSEM are now worth $1.24M, meaning he missed out on more than $1M! https://solscan.io/account/49foKJpRnZUaPKsDgnQhUFRMk7NX4zD5KgtVpxgvctLa?exclude_amount_zero=true&remove_spam=false&token",
+      "pubDate": "Tue, 30 Jun 2026 14:08:54 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071959162641399811#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 14:00:47 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 138,492,280 $USDC (138,552,317 USD) transferred from USDC Treasury to unknown wallet https://whale-alert.io/tx/solana/4Ssjs1VBrdT9HmgviPxZ1iUcapDn6DVpeEbP8W6FzK5JmjbzTsuH6oFaTS7RWMRHvpV2cvuW39V6WhEQTX8i5g7a",
+      "pubDate": "Tue, 30 Jun 2026 14:00:47 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071957122468769847#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 30 Jun 2026 13:58:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Darkfost_Coc: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a42e00b3eb04801bdf16b47-84-of-Altcoins-are-trading-below-their-200-DMA?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Tue, 30 Jun 2026 13:58:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2071956419923128475#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 13:56:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🔥 🔥 🔥 🔥 🔥 107,449,163 $USDC (107,499,825 USD) burned at USDC Treasury https://whale-alert.io/tx/ethereum/0xbdf7ec0e41f8d950361158e757bfde100e85a47b49f0d2acebb93c87a9131311",
+      "pubDate": "Tue, 30 Jun 2026 13:56:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071956017617752404#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 30 Jun 2026 13:55:11 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "The World Cup is riveting, even to casual fans like me. Why? It’s an easy to understand format, all the best players are involved and the stakes are high. Is that what regular league soccer needs more of to grow in America? I asked the PM of the $GOLS ETF (who invests in soccer stocks) on ETF IQ:",
+      "pubDate": "Tue, 30 Jun 2026 13:55:11 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2071955711387476267#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 13:51:12 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,258 $BTC (132,121,028 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/855229c8f8aba7ff06747359b7e78f3c8c5987bc8a2b5a8d7d85e2777c017411",
+      "pubDate": "Tue, 30 Jun 2026 13:51:12 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071954711448613067#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 30 Jun 2026 13:50:31 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "84% of Altcoins are trading below their 200-DMA “Approximately 84% of altcoins listed on Binance are in a state of total underperformance, trading below the key technical threshold of the 200-day moving average.” – By @Darkfost_Coc",
+      "pubDate": "Tue, 30 Jun 2026 13:50:31 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2071954538018320436#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 13:45:18 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,223 $BTC (130,101,517 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/52728cbb60e1d0dd953b98088939043f3a64baee12e1325723468d8dac6fe30e",
+      "pubDate": "Tue, 30 Jun 2026 13:45:18 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071953222965551443#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 13:37:04 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 190,000,000 $USDC (190,056,566 USD) transferred from #Aave to unknown wallet https://whale-alert.io/tx/ethereum/0x590f26cc7b59bad96d33afca0ea2ef309c155db81e4db4cf6db2916cbc655933",
+      "pubDate": "Tue, 30 Jun 2026 13:37:04 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071951152954929287#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 30 Jun 2026 13:35:54 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "June 30 Update: #Bitcoin ETFs: 1D NetFlow: -5,151 $BTC(-$301.31M)🔴 7D NetFlow: -33,921 $BTC(-$1.98B)🔴 #Ethereum ETFs: 1D NetFlow: +6,778 $ETH(+$10.57M)🟢 7D NetFlow: -119,815 $ETH(-$186.91M)🔴",
+      "pubDate": "Tue, 30 Jun 2026 13:35:54 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071950857462243444#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 30 Jun 2026 13:32:53 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "The markets favorite boogeyman... or paper tiger? Leveraged ETFs despite the attn they receive only acct for 1-2% of ETF assets but.. they make up 10% of all ETF trading and 1/3 of all new launches (they all charge 1% so only need one hit to pay for many duds). However, if you adjust their aum for embedded leverage the",
+      "pubDate": "Tue, 30 Jun 2026 13:32:53 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2071950101522616690#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 30 Jun 2026 12:39:45 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "S&P 500 about to turn in its best quarter in SIX YEARS. $VOO & Chill > Sell America",
+      "pubDate": "Tue, 30 Jun 2026 12:39:45 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2071936727875277222#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 12:05:49 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 158,853,064 $USDC (158,785,885 USD) minted at USDC Treasury https://whale-alert.io/tx/ethereum/0xbcceda4f09df66335036eb223a878695ffd7ff21b4cc760e9fdb5f6dc8a4d99a",
+      "pubDate": "Tue, 30 Jun 2026 12:05:49 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071928188310016410#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 11:58:29 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 190,104,828 $USDC (190,179,416 USD) transferred from unknown wallet to #Aave https://whale-alert.io/tx/ethereum/0x065a7e43d2d823c85b5e28972e32c0f72cddd422828984db6b795aa1c1eb539d",
+      "pubDate": "Tue, 30 Jun 2026 11:58:29 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071926342816313692#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 30 Jun 2026 11:05:07 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "BlackRock just deposited another 4,984.56 $BTC($295M) and 30,725 $ETH($48.58M) to Coinbase Prime. https://arkm.com/explorer/entity/blackrock",
+      "pubDate": "Tue, 30 Jun 2026 11:05:07 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071912914680987813#m",
+      "keywords": [
+        "BlackRock",
+        "ETF"
+      ]
+    },
     {
       "id": "cryptoquant_com__Tue, 30 Jun 2026 07:46:00 GMT",
       "handle": "cryptoquant_com",
@@ -290,7 +508,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New edition of the RC Newsletter is out! Bitcoin - Preparing For Q3 What do the next few months have in store for price? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-preparing-for-q3/ #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: New edition of the RC Newsletter is out! Bitcoin - Preparing For Q3 What do the next few months have in store for price? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-preparing-for-q3/ #BTC $BTC #Bitcoin",
       "pubDate": "Mon, 29 Jun 2026 18:23:53 GMT",
       "link": "https://nitter.net/rektcapital/status/2071660943788867908#m",
       "keywords": [
@@ -1091,214 +1309,6 @@
       "text": "Solid one-two punch for Conor Barwins benefit concert. Outside of Radiohead or Pixies this is as tempting as a show gets for me. I just get tired thinking about going to these things (I’m old) but I know once I get there I’ll prob enjoy. It’s complicated.",
       "pubDate": "Sun, 28 Jun 2026 17:20:51 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2071282693715702227#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Sun, 28 Jun 2026 17:11:50 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: Institutional demand isn’t absorbing new $BTC supply – it’s adding to the overhang. ETFs shed 71.6K BTC over the past month, DATs added just 7.5K. Adjusted for issuance, combined flows are −77K #BTC. Until this flips positive, any recovery is fighting net wrapper supply.",
-      "pubDate": "Sun, 28 Jun 2026 17:11:50 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2071280425322868894#m",
-      "keywords": [
-        "ETF 수급",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Sun, 28 Jun 2026 15:47:36 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: #BTC Bitcoin is on the cusp of Daily Closing beneath the key support (red) for the 4th consecutive day, treating it as new resistance throughout Technically, turning this area into new resistance would confirm the breakdown to precede additional downside But with the new Weekly, Monthly and Quarterl",
-      "pubDate": "Sun, 28 Jun 2026 15:47:36 GMT",
-      "link": "https://nitter.net/rektcapital/status/2071259227511787616#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "지지선",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 28 Jun 2026 14:17:49 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Back in Philly and so happy to have this buffer day in between vaca and Monday morning grind. That’s key, esp if traveling w kids. Coming back Sunday is playing w fire. Follow me for more life tips and soccer observations.",
-      "pubDate": "Sun, 28 Jun 2026 14:17:49 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2071236632968118529#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 28 Jun 2026 13:37:23 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Nice look into how Grantham’s own money is long us tech, which taps into something I’ve long argued: most perms-bears and doomer columnists are likely long us stocks in their PAs. Burry is exception, he seems to walk the walk, which i respect even if i dont agree w his calls.",
-      "pubDate": "Sun, 28 Jun 2026 13:37:23 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2071226458656137287#m",
-      "keywords": [
-        "약세장"
-      ]
-    },
-    {
-      "id": "rektcapital__Sun, 28 Jun 2026 10:11:04 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: In case you missed it… I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $AERO $DOGE $DEGEN $XRP $WLD $ADA I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-279",
-      "pubDate": "Sun, 28 Jun 2026 10:11:04 GMT",
-      "link": "https://nitter.net/rektcapital/status/2071174533600403520#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sat, 27 Jun 2026 14:11:52 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Reading a #BTC chart is a learnable skill Most people just never had anyone walk them through it properly This free Technical Analysis Blueprint does exactly that Step by step, no experience needed Download it free: https://www.rektcapital.co.uk/free-technical-analysis-blueprint $BTC #Bitcoin",
-      "pubDate": "Sat, 27 Jun 2026 14:11:52 GMT",
-      "link": "https://nitter.net/rektcapital/status/2070872748226666899#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Sat, 27 Jun 2026 12:42:17 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "ALTCOIN RISK I sold 100% of my altcoins earlier this year (around February if I recall correctly) per my perceived risk of the market. I posted this publicly. I had determined that we were in a bear market a few months prior (in mid November) and I decided it was likely that ALTS would UNDERperform BTC (aka bleed) for ",
-      "pubDate": "Sat, 27 Jun 2026 12:42:17 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2070850201393168716#m",
-      "keywords": [
-        "BTC 사이클",
-        "강세장",
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Fri, 26 Jun 2026 13:30:03 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "I just made a track inspired by @saylor. Synki - Digital Credit 🎧",
-      "pubDate": "Fri, 26 Jun 2026 13:30:03 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2070499833946013827#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 26 Jun 2026 12:18:11 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Analyzing Spot bitcoin:native ETF Volumes Chart of the Week👇",
-      "pubDate": "Fri, 26 Jun 2026 12:18:11 GMT",
-      "link": "https://nitter.net/glassnode/status/2070481751315513485#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 26 Jun 2026 10:22:53 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Wrap Up Implied volatility has rebounded. Protection demand is building. Calls remain out of favor. Volatility risk premium has normalized. Short gamma dominates below 60.5K. Put activity dominates the tape. Options positioning remains defensive near key support.",
-      "pubDate": "Fri, 26 Jun 2026 10:22:53 GMT",
-      "link": "https://nitter.net/glassnode/status/2070452731597520925#m",
-      "keywords": [
-        "지지선",
-        "TA"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 26 Jun 2026 10:22:52 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Put Activity Dominates Put selling led taker flow over the past 7 days, accounting for 38.3% of premium traded, followed by put buying at 32.1%. Call activity remained muted. The options tape continues to revolve around downside exposure. https://glassno.de/4eIuge1",
-      "pubDate": "Fri, 26 Jun 2026 10:22:52 GMT",
-      "link": "https://nitter.net/glassnode/status/2070452729374515511#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 26 Jun 2026 10:22:48 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "BTC has returned to a key inflection point after sweeping both the February and June lows. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.",
-      "pubDate": "Fri, 26 Jun 2026 10:22:48 GMT",
-      "link": "https://nitter.net/glassnode/status/2070452712827965918#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:28 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Link to the chart https://cryptoquant.com/analytics/query/6a3e09de7a878621f527587f",
-      "pubDate": "Fri, 26 Jun 2026 07:02:28 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2070402297675563505#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:27 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Here’s a log-scale chart. From a traditional cycle perspective, Bitcoin does not look close to a bottom yet. Risk/reward improves sharply as price approaches investors’ cost basis. Every major cycle has touched realized price. If not, maybe “this time is different.”",
-      "pubDate": "Fri, 26 Jun 2026 07:02:27 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2070402294039150880#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:25 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Not sure Bitcoin is at the cycle bottom.",
-      "pubDate": "Fri, 26 Jun 2026 07:02:25 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2070402285067493425#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 25 Jun 2026 18:33:59 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: $STRC dropped lower and it&apos;s not done yet, I&apos;m afraid.",
-      "pubDate": "Thu, 25 Jun 2026 18:33:59 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2070213933391073425#m",
       "keywords": []
     }
   ]
