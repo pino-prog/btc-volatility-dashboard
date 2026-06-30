@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-06-30T04:14:03.635Z",
+  "updatedAt": "2026-06-30T09:54:37.934Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Tue, 30 Jun 2026 07:46:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a4271607a878621f5275f68-No-dry-powder-no-real-rally?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=sonny-mom",
+      "pubDate": "Tue, 30 Jun 2026 07:46:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2071862802789351490#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 30 Jun 2026 07:39:34 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "No Dry Powder, No Real Rally “In this kind of environment, any bounce that does appear is more likely a short-term technical reaction than the beginning of a trend reversal.” – By Sunny Mom",
+      "pubDate": "Tue, 30 Jun 2026 07:39:34 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2071861184630784420#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 30 Jun 2026 06:19:30 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Meet a smart trader (0x1342) on @Aster_DEX. 6 days ago, trader 0x1342 fearlessly went 4x long on 1.8M $SYN($951K) at $0.28. The position is now up $447K(+188%) in unrealized profit. https://www.asterdex.com/en/explorer/address/0x13426046Ecb19817c695D51f544ad501193e24b3",
+      "pubDate": "Tue, 30 Jun 2026 06:19:30 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071841034062246069#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 30 Jun 2026 05:58:40 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "$1.5M → $7.68M in just 5 days. Someone created a new wallet 5 days ago, deposited $1.5M into Polymarket, and started betting on the #WorldCup. Now his account has grown to $7.68M, with $6.2M in profit. It placed 15 bets and won 14 of them — a 93% win rate. https://polymarket.com/0x72254fe1a79fc8fd37de0168be735e6af4bd65",
+      "pubDate": "Tue, 30 Jun 2026 05:58:40 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071835793476493550#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 30 Jun 2026 05:56:14 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 1,166 $BTC (69,470,024 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/1275b0ff6c685214e9de982793dc8c9ea5d783f3962f0d0834e05eaec0acef5d",
+      "pubDate": "Tue, 30 Jun 2026 05:56:14 GMT",
+      "link": "https://nitter.net/whale_alert/status/2071835179841151051#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 30 Jun 2026 04:58:49 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Someone created a new wallet, deposited 37,586 $USDT into @Aster_DEX and opened a 50x long on $MU and a 10x long on $SNDK. Current positions: • 666.66 $MU($774K) • 125.99 $SNDK($266K) The wallet is already up $38,874, a 103.43% return. https://www.asterdex.com/en/explorer/address/0xb84BEBA977D309eC9D44ac45e78817Ca009ef",
+      "pubDate": "Tue, 30 Jun 2026 04:58:49 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071820731189801432#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 30 Jun 2026 04:46:43 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Two whales are shorting $BTC with positions totaling more than $100M. 0x069a: 40x short on 900 $BTC($53.69M) 0x3e7a: 20x short on 800.75 $BTC($47.76M) https://hypurrscan.io/address/0x069ad3d4dd1ca686ef78d065fbc6208fdcede58d#perps https://hypurrscan.io/address/0x3e7a0eca8b624b75034ad820fa291425f21f1589#perps",
+      "pubDate": "Tue, 30 Jun 2026 04:46:43 GMT",
+      "link": "https://nitter.net/lookonchain/status/2071817684002726313#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 30 Jun 2026 03:05:26 GMT",
       "handle": "lookonchain",
@@ -1076,28 +1160,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Sun, 28 Jun 2026 07:29:38 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Trader 2M2vLX turned $4K into $539K in just 10 days — a 135x return! 10 days ago, this trader spent 56.4 $SOL($4,050) to buy 25.99M $ANSEM. Today, after $ANSEM surged, he sold all 25.99M $ANSEM for 7,649 $SOL($539K), locking in a profit of 7,593 $SOL($535K). https://solscan.io/account/2M2vLX34LXMg24dMEnjWHvRXS1tshpEDRW",
-      "pubDate": "Sun, 28 Jun 2026 07:29:38 GMT",
-      "link": "https://nitter.net/lookonchain/status/2071133910080069881#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sun, 28 Jun 2026 07:10:05 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Turned $2.33K into $614.5K — a 261x return! Trader CxCTVj spent $2.33K to buy 14.2M $ANSEM. He has since sold 4.2M $ANSEM for $68.1K and still holds 10M $ANSEM ($548.8K). His total profit is now $614.5K, a 261x return. Wallet: CxCTVjvgK3bWcgavMKo8PushR8ycw1atrWiSTruZrdtT",
-      "pubDate": "Sun, 28 Jun 2026 07:10:05 GMT",
-      "link": "https://nitter.net/lookonchain/status/2071128989473837440#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Sat, 27 Jun 2026 14:11:52 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -1177,28 +1239,17 @@
       "keywords": []
     },
     {
-      "id": "glassnode__Fri, 26 Jun 2026 10:22:51 GMT",
+      "id": "glassnode__Fri, 26 Jun 2026 10:22:48 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
       "category": "온체인 심리",
       "color": "violet",
-      "text": "R to @glassnode: Short Gamma Dominates Below Spot Following today&apos;s large options expiry, traders rebuilt downside exposure, forcing market makers to be short gamma from 60.5K down to 55K, where dealer hedging could amplify volatility if BTC moves lower. https://glassno.de/4f2myge",
-      "pubDate": "Fri, 26 Jun 2026 10:22:51 GMT",
-      "link": "https://nitter.net/glassnode/status/2070452726170103986#m",
+      "text": "BTC has returned to a key inflection point after sweeping both the February and June lows. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.",
+      "pubDate": "Fri, 26 Jun 2026 10:22:48 GMT",
+      "link": "https://nitter.net/glassnode/status/2070452712827965918#m",
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "glassnode__Fri, 26 Jun 2026 10:22:51 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Volatility Risk Premium Resets 1M implied volatility has caught back up with realized volatility. After spending the past 2 weeks below realized moves, the spread is now at zero. Options markets are no longer underpricing recent volatility. https://glassno.de/4xQdFha",
-      "pubDate": "Fri, 26 Jun 2026 10:22:51 GMT",
-      "link": "https://nitter.net/glassnode/status/2070452723854836209#m",
-      "keywords": []
     },
     {
       "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:28 GMT",
@@ -1249,61 +1300,6 @@
       "pubDate": "Thu, 25 Jun 2026 18:33:59 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2070213933391073425#m",
       "keywords": []
-    },
-    {
-      "id": "rektcapital__Thu, 25 Jun 2026 14:03:33 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: #BTC This is still the game plan for the rest of the Summer Once June Monthly Closes, we&apos;ll know from which price July will be able to potentially spring into a post-breakdown relief rally Macro-wise, this is still looking very 2022-esque whereby any relief would see the 50-Month EMA (purple) t",
-      "pubDate": "Thu, 25 Jun 2026 14:03:33 GMT",
-      "link": "https://nitter.net/rektcapital/status/2070145879512629516#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 25 Jun 2026 04:16:39 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Avg. USDT perp vol per asset on Binance: Metals > Oil > Equities > Altcoins Crypto exchanges are evolving into RWA exchanges.",
-      "pubDate": "Thu, 25 Jun 2026 04:16:39 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2069998181325344938#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Thu, 25 Jun 2026 01:56:50 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "Pro tip: CAGR is considerably higher than 30% when you buy Bitcoin when it is this cheap. The higher you buy, the worse your performance is. Buy the whole bottom.",
-      "pubDate": "Thu, 25 Jun 2026 01:56:50 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2069962994696737097#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 24 Jun 2026 23:10:52 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$STRC @Strategy has $1.4B of cash reserves. I believe BTC could spend up to ~3 months below $60k during this bear market cycle. Selling BTC and using up USD reserves are each a signal of stress. The market doesn&apos;t like to see stress, therefore expect the STRC price to drop further to account for this increased per",
-      "pubDate": "Wed, 24 Jun 2026 23:10:52 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2069921225443262883#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "BTC 사이클",
-        "약세장"
-      ]
     }
   ]
 }
