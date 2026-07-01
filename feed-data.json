@@ -1,6 +1,159 @@
 {
-  "updatedAt": "2026-07-01T04:42:28.614Z",
+  "updatedAt": "2026-07-01T10:04:05.130Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Wed, 01 Jul 2026 09:56:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Live chart ⤵️ https://cryptoquant.com/asset/btc/chart/market-indicator/futures-volume-bubble-map?window=DAY&img=link%2F6a42c2693eb04801bdf16b1b.png&utm_source=twitter&utm_medium=sns&utm_campaign=chart&utm_content=bubble-map",
+      "pubDate": "Wed, 01 Jul 2026 09:56:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2072257906305634651#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 01 Jul 2026 09:52:44 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A mysterious whale is going long on $BTC! Over the past 5 days, 4 newly created wallets—possibly controlled by the same person—have opened a 20x long on a total of 800 $BTC($47M). https://hypurrscan.io/address/0x237152b038d88f4156a0cd71090462de7e3f0883#perps https://hypurrscan.io/address/0xbd1c84113c6deb5044be0c2221f9e",
+      "pubDate": "Wed, 01 Jul 2026 09:52:44 GMT",
+      "link": "https://nitter.net/lookonchain/status/2072257084587155582#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 01 Jul 2026 09:49:16 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Indicators show an interesting divergence. 📈 Futures: Heating ➡️ Spot: Neutral Leverage volume is picking up, but spot demand hasn&apos;t confirmed the move.",
+      "pubDate": "Wed, 01 Jul 2026 09:49:16 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2072256213161529801#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Wed, 01 Jul 2026 08:43:07 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Following @Strategy&apos;s June 29 announcement, its preferred shares rebounded strongly into month-end, with $STRC recovering around 13%. Bitcoin continued to show weakness, closing June below $60k. 📉https://glassno.de/4xXbDfp",
+      "pubDate": "Wed, 01 Jul 2026 08:43:07 GMT",
+      "link": "https://nitter.net/glassnode/status/2072239565444641247#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 01 Jul 2026 08:35:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Darkfost_Coc: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a43e0173eb04801bdf16cb8-100000-BTC-Leave-the-ETFs?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Wed, 01 Jul 2026 08:35:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2072237522110062831#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 01 Jul 2026 08:28:02 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "100,000 BTC Leave the ETFs “In terms of drawdown, this is the largest that ETFs have ever experienced. It’s estimated at over $11B in losses, a historic record.” – By @Darkfost_Coc",
+      "pubDate": "Wed, 01 Jul 2026 08:28:02 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2072235771881198009#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 01 Jul 2026 08:15:45 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🔨 🔨 🔨 We have resolved some issues with mints and burns for some of the smaller stablecoins. The analytics on the dashboard now show the correct data. https://whale-alert.io/",
+      "pubDate": "Wed, 01 Jul 2026 08:15:45 GMT",
+      "link": "https://nitter.net/whale_alert/status/2072232680133943505#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
+      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
+      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
+      "keywords": [
+        "기관 수급",
+        "BTC 사이클",
+        "강세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 01 Jul 2026 06:21:17 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin nee",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
+      ]
+    },
     {
       "id": "lookonchain__Wed, 01 Jul 2026 04:00:03 GMT",
       "handle": "lookonchain",
@@ -1130,166 +1283,6 @@
         "Whale",
         "기관 수급",
         "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 29 Jun 2026 16:30:07 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,595 $BTC (95,049,746 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/30ae5b1f9d650d27f12cceccc9b9a8764ca7dc5c876f431d143099ab7ce739b4",
-      "pubDate": "Mon, 29 Jun 2026 16:30:07 GMT",
-      "link": "https://nitter.net/whale_alert/status/2071632316187705725#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 29 Jun 2026 16:02:29 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 100,400,000 $USDT (100,270,584 USD) transferred from unknown wallet to #Bitfinex https://whale-alert.io/tx/ethereum/0x13b4f8571e35975a3df65d9a96cf4182ae21d5a74a32bda1eefd8e66522ec8fd",
-      "pubDate": "Mon, 29 Jun 2026 16:02:29 GMT",
-      "link": "https://nitter.net/whale_alert/status/2071625361650065568#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 29 Jun 2026 15:01:51 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "June 22–June 28, 2026 #LookonchainWeeklyReport 🟢 Overview Strategy didn&apos;t buy any BTC last week, while the stablecoin market cap fell by $2.33B. Meanwhile, Bitmine and SharpLink bought a combined 66,280 ETH ($104.9M), showing institutions are still accumulating ETH. 🟢 Stablecoin Market The total stablecoin marke",
-      "pubDate": "Mon, 29 Jun 2026 15:01:51 GMT",
-      "link": "https://nitter.net/lookonchain/status/2071610103334347199#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 29 Jun 2026 14:32:44 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 256,900,000 $USDT (256,575,706 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x6541af202084e77e7a69ea55bc69a670d3ce7f2d1f100ee90083f79ad02d3da6",
-      "pubDate": "Mon, 29 Jun 2026 14:32:44 GMT",
-      "link": "https://nitter.net/whale_alert/status/2071602775394287835#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 29 Jun 2026 14:27:02 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,259 $BTC (133,795,656 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/4fe29e2cd3bd30ade031d775328fa74e585f51c61d5edbc95ff9bbfad3952098",
-      "pubDate": "Mon, 29 Jun 2026 14:27:02 GMT",
-      "link": "https://nitter.net/whale_alert/status/2071601337477812568#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 29 Jun 2026 14:20:20 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "June 29 Update: #Bitcoin ETFs: 1D NetFlow: -7,578 $BTC(-$447.41M)🔴 7D NetFlow: -29,552 $BTC(-$1.74B)🔴 #Ethereum ETFs: 1D NetFlow: -16,810 $ETH(-$26.22M)🔴 7D NetFlow: -165,065 $ETH(-$257.5M)🔴",
-      "pubDate": "Mon, 29 Jun 2026 14:20:20 GMT",
-      "link": "https://nitter.net/lookonchain/status/2071599653381099593#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 29 Jun 2026 14:19:41 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,262 $BTC (133,817,185 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/9c77c7d8a7dca12021734c65de6ed7c045dd65232ba52b1ef9750129d1943e00",
-      "pubDate": "Mon, 29 Jun 2026 14:19:41 GMT",
-      "link": "https://nitter.net/whale_alert/status/2071599491757523147#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 29 Jun 2026 14:08:51 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: They really think this is what’s happening",
-      "pubDate": "Mon, 29 Jun 2026 14:08:51 GMT",
-      "link": "https://nitter.net/DrewVento/status/2071596762284871693#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 29 Jun 2026 13:58:21 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Strategy didn&apos;t buy any $BTC last week. Strategy is also able to sell up to $1.25B worth of $BTC at any time. https://www.strategy.com/press/strategy-announces-digital-credit-capital-framework_06-29-2026",
-      "pubDate": "Mon, 29 Jun 2026 13:58:21 GMT",
-      "link": "https://nitter.net/lookonchain/status/2071594120158843365#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 29 Jun 2026 13:57:44 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 101,690,645 $USDC (101,725,067 USD) transferred from USDC Treasury to #Coinbase https://whale-alert.io/tx/ethereum/0xcb25f6d9a9d86cbc5c85337cd7e24df7f750e53b6bca5d660852a7450f7e7364",
-      "pubDate": "Mon, 29 Jun 2026 13:57:44 GMT",
-      "link": "https://nitter.net/whale_alert/status/2071593967087460406#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 29 Jun 2026 13:31:05 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "$BTC fell from around $63K to a local low near $58K before stabilising. Defensive positioning persists across spot, derivatives and ETFs, while on-chain activity suggests the market remains in consolidation. Read this week’s Market Pulse👇 https://glassno.de/4eNpI67",
-      "pubDate": "Mon, 29 Jun 2026 13:31:05 GMT",
-      "link": "https://nitter.net/glassnode/status/2071587258747023706#m",
-      "keywords": [
-        "ETF 수급"
       ]
     }
   ]
