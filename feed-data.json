@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-07-02T04:09:34.542Z",
+  "updatedAt": "2026-07-02T09:26:26.193Z",
   "items": [
+    {
+      "id": "whale_alert__Thu, 02 Jul 2026 07:56:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,194 $BTC (131,903,188 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/3c462071ff7e48904217af7f5669f063de84bb2f194589eee234ce4be844dc7d",
+      "pubDate": "Thu, 02 Jul 2026 07:56:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2072590345846550811#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 02 Jul 2026 07:56:51 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Is Chun Wang(@satofishi) selling his $ETH and $WBTC at a loss? Over the past 2 days, #ChunWang has deposited 16,842 $ETH($26.9M) and 60 $WBTC($3.6M) into #Binance. Previously, he bought 86,998 $ETH($152M) at $1,749, and 973 $WBTC($60.7M) at $62,418.",
+      "pubDate": "Thu, 02 Jul 2026 07:56:51 GMT",
+      "link": "https://nitter.net/lookonchain/status/2072590311474487372#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Thu, 02 Jul 2026 07:55:52 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,194 $BTC (131,903,189 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/8d0b495dcabbf2d3c6bf55d11b5ac3ff7caa33cd1e2765c88d3dd03f38d1fd62",
+      "pubDate": "Thu, 02 Jul 2026 07:55:52 GMT",
+      "link": "https://nitter.net/whale_alert/status/2072590064488505708#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 02 Jul 2026 07:43:27 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Machi (@machibigbrother) sold another 3 Bored Apes today for 27.42 $ETH ($44K) to raise funds for more $ETH longs, taking a loss of 25 $ETH ($40K). He currently holds a 2,600 $ETH($4.2M) long position, with a liquidation price of $1,596.69.",
+      "pubDate": "Thu, 02 Jul 2026 07:43:27 GMT",
+      "link": "https://nitter.net/lookonchain/status/2072586936515236049#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 02 Jul 2026 07:29:41 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The whale keeps accumulating $ETH! Whale 0x2684 just withdrew another 5,926 $ETH($9.58M) from #Binance. Over the past 2 days, the whale has withdrawn a total of 15,802 $ETH($25M) from #Binance and staked it.",
+      "pubDate": "Thu, 02 Jul 2026 07:29:41 GMT",
+      "link": "https://nitter.net/lookonchain/status/2072583474884784567#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 02 Jul 2026 06:05:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: We&apos;re building the Vibe Quant Community. A place for traders using AI and data to build strategies, alerts, and automated workflows. Paid API users will get direct support from us. Tell us what data you need, and we’ll move fast. https://discord.com/invite/25Bu3sTadx",
+      "pubDate": "Thu, 02 Jul 2026 06:05:00 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072562164104327634#m",
+      "keywords": [
+        "지지선",
+        "TA"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Thu, 02 Jul 2026 06:05:00 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "We&apos;re building the Vibe Quant Community. A place for traders using AI and data to build strategies, alerts, and automated workflows. Paid API users will get direct support from us. Tell us what data you need, and we’ll move fast. https://discord.com/invite/25Bu3sTadx",
+      "pubDate": "Thu, 02 Jul 2026 06:05:00 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072562164104327634#m",
+      "keywords": [
+        "지지선",
+        "TA"
+      ]
+    },
     {
       "id": "whale_alert__Thu, 02 Jul 2026 03:37:19 GMT",
       "handle": "whale_alert",
@@ -1199,102 +1295,6 @@
       "pubDate": "Tue, 30 Jun 2026 17:45:25 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2072013653901979881#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Tue, 30 Jun 2026 17:44:36 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "We called for stronger cash reserves last week. Today, Strategy responded with $1.25B in authorized BTC monetization, lifting reserve capacity to $3.8B and ~25.9 months of coverage. Despite the authorization to sell bitcoin, the framework strengthens the balance sheet.",
-      "pubDate": "Tue, 30 Jun 2026 17:44:36 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2072013448691470605#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 30 Jun 2026 17:38:52 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: I have watched @rektcapital over the last 5-6 years there’s no one on CT that even comes close to his accuracy, consistency and dedication to the market. Great Job sir I’m loyal",
-      "pubDate": "Tue, 30 Jun 2026 17:38:52 GMT",
-      "link": "https://nitter.net/BTC_khamikazee/status/2072012005037490462#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Tue, 30 Jun 2026 17:20:03 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 906 $BTC (52,993,397 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/61582049d80c8ad648a204a6ea229c041d39b637db56f874012677e5615419ba",
-      "pubDate": "Tue, 30 Jun 2026 17:20:03 GMT",
-      "link": "https://nitter.net/whale_alert/status/2072007267122139590#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 30 Jun 2026 17:02:30 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin resumed its downtrend $BTC #Bitcoin",
-      "pubDate": "Tue, 30 Jun 2026 17:02:30 GMT",
-      "link": "https://nitter.net/rektcapital/status/2072002851195232465#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 30 Jun 2026 16:53:20 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin has officially dropped to new lows for the year of 2026 Which means Bitcoin is now deviating -16% below its 2021 old All Time Highs in this current 2026 Bear Market Getting closer and closer to the -22% deviation below 2017 old All Time Highs from the 2022 Bear Market Even with this recent additional downs",
-      "pubDate": "Tue, 30 Jun 2026 16:53:20 GMT",
-      "link": "https://nitter.net/rektcapital/status/2072000543422071069#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 30 Jun 2026 16:48:08 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin is on track to ending the month of June with -21% downside $BTC #Bitcoin",
-      "pubDate": "Tue, 30 Jun 2026 16:48:08 GMT",
-      "link": "https://nitter.net/rektcapital/status/2071999238309908901#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 30 Jun 2026 16:47:02 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin Bear Market Progress: ▓▓▓▓▓▓▓░░░ 74.0% $BTC #Crypto #Bitcoin",
-      "pubDate": "Tue, 30 Jun 2026 16:47:02 GMT",
-      "link": "https://nitter.net/rektcapital/status/2071998959166333015#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
     }
   ]
 }
