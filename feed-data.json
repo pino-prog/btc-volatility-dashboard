@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-07-03T03:56:07.079Z",
+  "updatedAt": "2026-07-03T09:30:15.310Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Fri, 03 Jul 2026 07:49:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @IT_Tech_PL: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a46b7e6718c636ace57ba08-Altcoin-sell-pressure-just-broke-to-a-fresh-multi-year-low?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=it-tech",
+      "pubDate": "Fri, 03 Jul 2026 07:49:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2072950722153656418#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 03 Jul 2026 07:42:04 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Altcoin Sell Pressure Broke to a Fresh Multi-Year Low “The cumulative buy/sell volume diff (alts ex BTC/ETH) hit a 5-year extreme in June. Now it&apos;s gone even lower.” – By @IT_Tech_PL",
+      "pubDate": "Fri, 03 Jul 2026 07:42:04 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2072948979852099786#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Fri, 03 Jul 2026 06:32:36 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A newly created wallet just withdrew 733 $BTC($45.18M) from #Binance. https://arkm.com/explorer/address/bc1qnjchjgc2sq24l2cde8xqwewj2a0kqc2vqll65q4gngwc7gccytxqaq3ny9",
+      "pubDate": "Fri, 03 Jul 2026 06:32:36 GMT",
+      "link": "https://nitter.net/lookonchain/status/2072931496453927355#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Fri, 03 Jul 2026 03:29:39 GMT",
       "handle": "lookonchain",
@@ -915,6 +948,20 @@
       "keywords": []
     },
     {
+      "id": "ColinTCrypto__Thu, 02 Jul 2026 01:19:16 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "RT @ColinTCrypto: $BTC Bear Market Progress* ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 73% BTC has been in a bear market since Oct 6, 2025. Histori…",
+      "pubDate": "Thu, 02 Jul 2026 01:19:16 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2072490255123644789#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
       "id": "lookonchain__Thu, 02 Jul 2026 01:16:19 GMT",
       "handle": "lookonchain",
       "label": "Lookonchain",
@@ -1242,64 +1289,6 @@
         "고래",
         "Whale"
       ]
-    },
-    {
-      "id": "whale_alert__Wed, 01 Jul 2026 17:14:37 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,397 $BTC (83,659,408 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/1a7fd5c228958ebe058aa4749eebe69bae60512b87d3fc44b7c847c8ddc27fc1",
-      "pubDate": "Wed, 01 Jul 2026 17:14:37 GMT",
-      "link": "https://nitter.net/whale_alert/status/2072368290857390480#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 01 Jul 2026 17:11:03 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,393 $BTC (83,345,108 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/4bf718c43e361bf24852490a3fc0043125e8fa02e5c80c76cb2187bec153f527",
-      "pubDate": "Wed, 01 Jul 2026 17:11:03 GMT",
-      "link": "https://nitter.net/whale_alert/status/2072367391976091928#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 01 Jul 2026 16:39:17 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,899 $BTC (114,208,790 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/2895f283bb41886a731cab09878bd98bca404ae81c140017a9d6e4bf592846f0",
-      "pubDate": "Wed, 01 Jul 2026 16:39:17 GMT",
-      "link": "https://nitter.net/whale_alert/status/2072359395451666887#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 01 Jul 2026 16:11:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Dive into the research ⤵️ https://cryptoquant.com/community/dashboard/6a3572bd9139404af2b02145?utm_source=twitter&utm_medium=sns&utm_campaign=dashboard&utm_content=cefi-lending",
-      "pubDate": "Wed, 01 Jul 2026 16:11:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2072352278346887195#m",
-      "keywords": []
     }
   ]
 }
