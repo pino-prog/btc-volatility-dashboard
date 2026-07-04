@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-07-04T03:49:41.998Z",
+  "updatedAt": "2026-07-04T08:47:04.662Z",
   "items": [
+    {
+      "id": "glassnode__Sat, 04 Jul 2026 07:33:49 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Altcoin Cycle Signal update: the altcoin signal remains firmly in \"altcoin season\". This is strength beyond the denominator effect we described last month. Alts remain strong both on a relative and absolute basis. https://glassno.de/3RhFoXG",
+      "pubDate": "Sat, 04 Jul 2026 07:33:49 GMT",
+      "link": "https://nitter.net/glassnode/status/2073309288097849695#m",
+      "keywords": [
+        "BTC 사이클"
+      ]
+    },
     {
       "id": "whale_alert__Sat, 04 Jul 2026 03:35:17 GMT",
       "handle": "whale_alert",
@@ -1250,19 +1263,6 @@
       "text": "RT by @rektcapital: The Bitcoin Summer Game Plan - Macro Triangles If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/tpTMTHU1qO0?si=ny-0pTL2ABEy8ZIA Enjoy and Subscribe! $BTC #Bitcoin",
       "pubDate": "Thu, 02 Jul 2026 12:18:20 GMT",
       "link": "https://nitter.net/rektcapital/status/2072656115024716026#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Thu, 02 Jul 2026 12:13:36 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Welcome to green July $BTC #Bitcoin",
-      "pubDate": "Thu, 02 Jul 2026 12:13:36 GMT",
-      "link": "https://nitter.net/rektcapital/status/2072654924953907654#m",
       "keywords": [
         "BTC"
       ]
