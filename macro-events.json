@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-04T19:26:13.905Z",
+  "updatedAt": "2026-07-05T04:09:52.909Z",
   "verificationSummary": {
-    "confirmed": 43,
+    "confirmed": 42,
     "unconfirmed": 5,
     "mismatched": 7
   },
@@ -254,25 +254,6 @@
       "confidence": "low",
       "verifiedAt": "2026-07-03",
       "occurred": true
-    },
-    {
-      "id": "bls-nfp-2026-07-03",
-      "date": "2026-07-03",
-      "time": "08:30",
-      "tz": "ET",
-      "title": "미국 NFP (6월) 발표",
-      "category": "macro",
-      "categoryLabel": "경제지표",
-      "impact": "HIGH",
-      "btcBias": "neutral",
-      "description": "6월 비농업 고용지수. 연준 이중 책무(고용+물가) 핵심 지표. 예상치 대비 편차가 금리 경로를 바꾼다. ✓ BLS 2026 공식 일정.",
-      "bull": "예상 하회 → 고용 둔화 → 금리 인하 근거 강화 → BTC 상승 촉매",
-      "bear": "예상 상회 → 과열 고용 → 금리 인하 지연 → 달러 강세 → BTC 하방 압력",
-      "confirmed": true,
-      "sources": [
-        "bls.gov 2026 공식 일정"
-      ],
-      "autoFetched": true
     },
     {
       "id": "bls-cpi-2026-07-14",
@@ -946,6 +927,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -990,6 +972,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1427,6 +1410,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1471,6 +1455,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1886,6 +1871,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2106,6 +2092,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2150,6 +2137,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
