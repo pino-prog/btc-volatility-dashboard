@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-05T04:08:24.857Z",
+  "updatedAt": "2026-07-05T09:16:52.842Z",
   "items": [
+    {
+      "id": "lookonchain__Sun, 05 Jul 2026 08:31:30 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "In less than 2 days, this lucky trader turned $754 into $271K — a 357x return! Trader 0xf349 spent just $754 to buy 5.1M $CZ yesterday, which is currently worth $271K. Over the past 2+ months, he traded 260 tokens, with a 31.88% win rate, and lost money on most of them. But he got lucky with $CZ. Maybe this one trade i",
+      "pubDate": "Sun, 05 Jul 2026 08:31:30 GMT",
+      "link": "https://nitter.net/lookonchain/status/2073686192026014071#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sun, 05 Jul 2026 08:08:28 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After 5 months of dormancy, the Step Finance exploiter sold all 261,933 $SOL($21.4M), bridged the funds to #Ethereum, and bought 12,128 $ETH. The exploiter then deposited the $ETH into #TornadoCash to launder the funds. https://arkm.com/explorer/address/7raxiejD8hDUH1wyYWFDPrEuHiLUjJ4RiZi2z1u2udNh https://arkm.com/expl",
+      "pubDate": "Sun, 05 Jul 2026 08:08:28 GMT",
+      "link": "https://nitter.net/lookonchain/status/2073680397054185711#m",
+      "keywords": []
+    },
     {
       "id": "rektcapital__Sat, 04 Jul 2026 23:45:39 GMT",
       "handle": "rektcapital",
@@ -853,28 +875,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Fri, 03 Jul 2026 03:29:39 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This guy accidentally copied the token contract address while transferring $ANSEM and sent 1.34M $ANSEM ($226K) to it, losing the entire $226K. Always double-check the recipient address before sending funds. https://solscan.io/tx/cBEHaVzLVLaKATEa6QLgEMJZumWLXBKnXrrKp5Qvi2UVWAwpPD8es3Deh9ZT4CsGVwzhqanHjhnQ8a14BKaQx74",
-      "pubDate": "Fri, 03 Jul 2026 03:29:39 GMT",
-      "link": "https://nitter.net/lookonchain/status/2072885453033005284#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 03 Jul 2026 03:12:50 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Clifton Collins deposited another 500 $BTC($30.85M) to Coinbase Prime 12 hours ago. Clifton Collins is an Irish drug dealer known for buying around 6,000 $BTC in 2011–2012 at an average price of about $5 per $BTC. He printed the private keys on paper and hid them inside fishing rods. After he was arrested on drug charg",
-      "pubDate": "Fri, 03 Jul 2026 03:12:50 GMT",
-      "link": "https://nitter.net/lookonchain/status/2072881223358431655#m",
-      "keywords": []
-    },
-    {
       "id": "cryptoquant_com__Thu, 02 Jul 2026 19:33:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -948,17 +948,6 @@
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
-      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
-      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
       "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
       "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
@@ -968,6 +957,17 @@
         "강세장",
         "BTC"
       ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
+      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
+      "keywords": []
     },
     {
       "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
@@ -1068,17 +1068,6 @@
       "keywords": []
     },
     {
-      "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:28 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Link to the chart https://cryptoquant.com/analytics/query/6a3e09de7a878621f527587f",
-      "pubDate": "Fri, 26 Jun 2026 07:02:28 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2070402297675563505#m",
-      "keywords": []
-    },
-    {
       "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:27 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1087,6 +1076,20 @@
       "text": "R to @ki_young_ju: Here’s a log-scale chart. From a traditional cycle perspective, Bitcoin does not look close to a bottom yet. Risk/reward improves sharply as price approaches investors’ cost basis. Every major cycle has touched realized price. If not, maybe “this time is different.”",
       "pubDate": "Fri, 26 Jun 2026 07:02:27 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2070402294039150880#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Fri, 26 Jun 2026 07:02:25 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Not sure Bitcoin is at the cycle bottom.",
+      "pubDate": "Fri, 26 Jun 2026 07:02:25 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2070402285067493425#m",
       "keywords": [
         "BTC 사이클",
         "BTC"
