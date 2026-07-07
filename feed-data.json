@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-07-07T04:05:01.538Z",
+  "updatedAt": "2026-07-07T09:54:57.525Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Tue, 07 Jul 2026 08:59:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @FacundoFamaBTC: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a482abe718c636ace57bc20-Bitcoins-On-Chain-Indicators-at-the-Mid-Year-2026-Close-June-30-2026?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=facundo-fama",
+      "pubDate": "Tue, 07 Jul 2026 08:59:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2074417888883327252#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 07 Jul 2026 08:51:26 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin’s On-Chain Indicators at the Mid-Year 2026 Close “This level of on-chain pain is rarely observed and could suggest a potential medium- to long-term DCA accumulation opportunity.” – By @FacundoFamaBTC",
+      "pubDate": "Tue, 07 Jul 2026 08:51:26 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2074415986141229476#m",
+      "keywords": [
+        "매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 07 Jul 2026 07:59:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @thechessONCHAIN: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a4c01b83eb04801bdf17810-Four-Bitcoin-Bottoms-One-Signal-the-100-Day-NUPL-Below-Zero?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=thechessonchain",
+      "pubDate": "Tue, 07 Jul 2026 07:59:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2074402789443404134#m",
+      "keywords": [
+        "NUPL",
+        "온체인",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 07 Jul 2026 07:52:25 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Four Bitcoin Bottoms, One Signal: the 100-Day NUPL Below Zero “Either the 100-day EMA crosses zero as it did at every prior bottom, or this becomes the first cycle to bottom without it, which would fit the shallower-each-time trend.” – By @thechessONCHAIN",
+      "pubDate": "Tue, 07 Jul 2026 07:52:25 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2074401133007708244#m",
+      "keywords": [
+        "NUPL",
+        "온체인",
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 07 Jul 2026 06:06:13 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Someone opened a 10x short on 3,753.56 $SNDK ($6.27M) on @Aster_DEX and is now up $116K (+18.53%). https://www.asterdex.com/en/explorer/address/0xb84BEBA977D309eC9D44ac45e78817Ca009ef890",
+      "pubDate": "Tue, 07 Jul 2026 06:06:13 GMT",
+      "link": "https://nitter.net/lookonchain/status/2074374408773435646#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Tue, 07 Jul 2026 04:28:42 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "RT by @ki_young_ju: < vooy creator recipe day > 최근 여러 해커톤을 주최하고 지켜보며 확신하게 된 것이 있습니다. 이제 중요한 건 코딩을 얼마나 잘하느냐가 아닙니다. “내가 무엇을 만들고 싶은가”를 얼마나 선명하게 알고 있느냐입니다. 7월 5일, Hashed와 Vooy가 함께 연 첫 레시피데이에서도 이 사실을 확인했습니다. 많은 참가자분들이 처음으로 자신의 에이전트를 세팅하고, 직접 레시피를 만들고, 작은 루틴을 돌려봤습니다. 처음엔 “에이전트”라는 단어 앞에서 어렵게 느끼셨지만, 막상 만들어보니 반응은 완전히 달랐습니다. 생각보",
+      "pubDate": "Tue, 07 Jul 2026 04:28:42 GMT",
+      "link": "https://nitter.net/simonkim_nft/status/2074349865094783259#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Tue, 07 Jul 2026 03:42:32 GMT",
       "handle": "lookonchain",
@@ -809,28 +889,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Sun, 05 Jul 2026 08:31:30 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "In less than 2 days, this lucky trader turned $754 into $271K — a 357x return! Trader 0xf349 spent just $754 to buy 5.1M $CZ yesterday, which is currently worth $271K. Over the past 2+ months, he traded 260 tokens, with a 31.88% win rate, and lost money on most of them. But he got lucky with $CZ. Maybe this one trade i",
-      "pubDate": "Sun, 05 Jul 2026 08:31:30 GMT",
-      "link": "https://nitter.net/lookonchain/status/2073686192026014071#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sun, 05 Jul 2026 08:08:28 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "After 5 months of dormancy, the Step Finance exploiter sold all 261,933 $SOL($21.4M), bridged the funds to #Ethereum, and bought 12,128 $ETH. The exploiter then deposited the $ETH into #TornadoCash to launder the funds. https://arkm.com/explorer/address/7raxiejD8hDUH1wyYWFDPrEuHiLUjJ4RiZi2z1u2udNh https://arkm.com/expl",
-      "pubDate": "Sun, 05 Jul 2026 08:08:28 GMT",
-      "link": "https://nitter.net/lookonchain/status/2073680397054185711#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Sat, 04 Jul 2026 17:55:07 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -880,41 +938,6 @@
         "LTH 보유자",
         "BTC 사이클"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 03 Jul 2026 17:56:02 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=twitter&utm_medium=social",
-      "pubDate": "Fri, 03 Jul 2026 17:56:02 GMT",
-      "link": "https://nitter.net/TheBlockCo/status/2073103489299825093#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 03 Jul 2026 15:41:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: See the research ⤵️ https://cryptoquant.com/community/dashboard/6a3d7a49718c636ace57abc6?utm_source=twitter&utm_medium=sns&utm_campaign=dashboard&utm_content=tradfi-spcx",
-      "pubDate": "Fri, 03 Jul 2026 15:41:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2073069504607732058#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 03 Jul 2026 15:36:09 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "One exchange did $53.8B in TradFi equity perps last month. 80% of the entire market. Binance built it on SpaceX perps, now the most-traded TradFi contract on any crypto exchange. Pre-IPO access, 24/7, no broker in the way.",
-      "pubDate": "Fri, 03 Jul 2026 15:36:09 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2073068285990453253#m",
-      "keywords": []
     },
     {
       "id": "ki_young_ju__Fri, 03 Jul 2026 11:49:30 GMT",
@@ -1083,17 +1106,6 @@
       ]
     },
     {
-      "id": "ki_young_ju__Fri, 26 Jun 2026 13:30:03 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "I just made a track inspired by @saylor. Synki - Digital Credit 🎧",
-      "pubDate": "Fri, 26 Jun 2026 13:30:03 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2070499833946013827#m",
-      "keywords": []
-    },
-    {
       "id": "ColinTCrypto__Thu, 25 Jun 2026 18:33:59 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -1183,14 +1195,14 @@
       ]
     },
     {
-      "id": "_Checkmatey___Thu, 11 Jun 2026 09:50:51 GMT",
+      "id": "_Checkmatey___Thu, 11 Jun 2026 09:52:20 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
       "category": "온체인 심리",
       "color": "indigo",
-      "text": "BREAKING: Jane Street just used a quantum computer to solve the asteroid mining problem, which looks set to inflate the gold and silver supply to infinity! The SpaceX IPO is just the tip of the spear for this catastrophic bug of using money derived from the periodic table!",
-      "pubDate": "Thu, 11 Jun 2026 09:50:51 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2065008852274422030#m",
+      "text": "R to @_Checkmatey_: I forgot, Mythos hacked Peter Schiffs gold vault code...turns out it was all bars of chocolate wrapped in gold foil after all. Wasn&apos;t worth the effort to nick it.",
+      "pubDate": "Thu, 11 Jun 2026 09:52:20 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2065009228197371944#m",
       "keywords": []
     }
   ]
