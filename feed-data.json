@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-07-07T09:54:57.525Z",
+  "updatedAt": "2026-07-07T14:53:24.848Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 07 Jul 2026 14:20:04 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A wallet possibly linked to #CoinShares just deposited 63,000 $ETH($111.56M) to #Coinbase. https://arkm.com/explorer/address/0x24B12457d3a68ECa9Daca48F0628276592bEbCDD",
+      "pubDate": "Tue, 07 Jul 2026 14:20:04 GMT",
+      "link": "https://nitter.net/lookonchain/status/2074498687666200744#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Tue, 07 Jul 2026 14:13:02 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "During this Summer Relief Rally... Bitcoin will rally high enough to convince you that the Bear Market is over And then it will resume its downtrend $BTC #BTC #Bitcoin",
+      "pubDate": "Tue, 07 Jul 2026 14:13:02 GMT",
+      "link": "https://nitter.net/rektcapital/status/2074496919062167736#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 07 Jul 2026 14:04:37 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "July 7 Update: #Bitcoin ETFs: 1D NetFlow: +4,026 $BTC(+$253.71M)🟢 7D NetFlow: -1,661 $BTC(-$104.67M)🔴 #Ethereum ETFs: 1D NetFlow: +11,955 $ETH(+$21.14M)🟢 7D NetFlow: +20,570 $ETH(+$36.37M)🟢",
+      "pubDate": "Tue, 07 Jul 2026 14:04:37 GMT",
+      "link": "https://nitter.net/lookonchain/status/2074494799739261128#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 07 Jul 2026 13:21:24 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Invesco has had a 27yr monopoly on the Nasdaq index. That ends today. Good piece on it from @kgreifeld https://www.bloomberg.com/news/articles/2026-06-24/state-street-ends-invesco-s-27-year-monopoly-on-nasdaq-100-etfs?srnd=undefined&embedded-checkout=true",
+      "pubDate": "Tue, 07 Jul 2026 13:21:24 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2074483925427118444#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 07 Jul 2026 13:18:48 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "THERE WILL BE BLOOD: BlackRock and Stare Street have launched Nasdaq 100 ETFs. $IQQ and $QNDX will charge 10bps vs 18bps for $QQQ (the crown jewel of asset management) and 15bps for its mini-me $QQQM. Old school ETF smackdown. Not for the faint of heart.",
+      "pubDate": "Tue, 07 Jul 2026 13:18:48 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2074483272059396279#m",
+      "keywords": [
+        "ETF 수급",
+        "BlackRock",
+        "ETF"
+      ]
+    },
+    {
+      "id": "rektcapital__Tue, 07 Jul 2026 12:41:11 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "R to @rektcapital: After reading my newsletter for a month, you&apos;ll know: — Where Bitcoin is in the cycle — Which Altcoins are setting up — What to watch before the market moves and how to prepare for it Three times a week Signup here: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
+      "pubDate": "Tue, 07 Jul 2026 12:41:11 GMT",
+      "link": "https://nitter.net/rektcapital/status/2074473804542218715#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Tue, 07 Jul 2026 11:53:14 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: What&apos;s up with runes? Roughly 2 in 3 #Bitcoin transactions have been runestones, above 70% on many days. They’re not just filling blockspace either: lately runestones accounted for up to ~25% of daily $BTC fees (7DMA). Charts: http://glassno.de/3RmV3F9",
+      "pubDate": "Tue, 07 Jul 2026 11:53:14 GMT",
+      "link": "https://nitter.net/n3ocortex/status/2074461738884337678#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "cryptoquant_com__Tue, 07 Jul 2026 08:59:00 GMT",
       "handle": "cryptoquant_com",
@@ -198,6 +294,21 @@
       "link": "https://nitter.net/EricBalchunas/status/2074250208846717411#m",
       "keywords": [
         "ETF 수급"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 06 Jul 2026 21:48:45 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Whales drove both BTC spot and futures over the past 24h.",
+      "pubDate": "Mon, 06 Jul 2026 21:48:45 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2074249216994484567#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
       ]
     },
     {
@@ -856,39 +967,6 @@
       "keywords": []
     },
     {
-      "id": "EricBalchunas__Sun, 05 Jul 2026 14:42:21 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: If the Eagles or Sixers had second round playoff game at 1am, I would personally go to bed. Then I’d wake up rested and if they won, I’d be like yeah nice! and if they lost, I’d say that sux but at least I wont be dead ass tired all day at work too",
-      "pubDate": "Sun, 05 Jul 2026 14:42:21 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2073779520616763526#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 05 Jul 2026 14:05:32 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Solid WC double header but man would I be pissed if I lived in England. 1am start time? On a school night to boot. Could easily be a noon EST start to serve all time zones. As an east coaster who is regularly forced to stay up late bc of California I feel your pain mate!",
-      "pubDate": "Sun, 05 Jul 2026 14:05:32 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2073770254178676963#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 05 Jul 2026 12:39:38 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Looking fwd to reading @MebFaber&apos;s well-timed latest book on the mighty US stock market which I think has strong case as Eighth Wonder of the World. It looks like a great mix of US history and hard won financial knowledge delivered coffee table book style.",
-      "pubDate": "Sun, 05 Jul 2026 12:39:38 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2073748640493895987#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Sat, 04 Jul 2026 17:55:07 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -960,20 +1038,6 @@
       "pubDate": "Fri, 03 Jul 2026 10:01:52 GMT",
       "link": "https://nitter.net/glassnode/status/2072984160478617657#m",
       "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 03 Jul 2026 10:01:51 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Despite Bitcoin&apos;s rebound from $58K, Skew remains firmly positive, indicating puts continue to command a premium over calls. Demand for downside protection persists, although the retreat from June&apos;s extremes suggests defensive positioning is beginning to ease. https://glassno.de/3SGoSAY",
-      "pubDate": "Fri, 03 Jul 2026 10:01:51 GMT",
-      "link": "https://nitter.net/glassnode/status/2072984156653461833#m",
-      "keywords": [
-        "LTH 보유자",
         "BTC"
       ]
     },
@@ -1193,17 +1257,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "_Checkmatey___Thu, 11 Jun 2026 09:52:20 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "R to @_Checkmatey_: I forgot, Mythos hacked Peter Schiffs gold vault code...turns out it was all bars of chocolate wrapped in gold foil after all. Wasn&apos;t worth the effort to nick it.",
-      "pubDate": "Thu, 11 Jun 2026 09:52:20 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2065009228197371944#m",
-      "keywords": []
     }
   ]
 }
