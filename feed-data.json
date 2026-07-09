@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-08T19:45:04.034Z",
+  "updatedAt": "2026-07-09T03:58:58.777Z",
   "items": [
+    {
+      "id": "lookonchain__Thu, 09 Jul 2026 03:14:16 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This guy lost $4.4M going long on $SKHX, but he didn&apos;t give up. A week later, he&apos;s back with a 2x long on 21,207 xyz:SKHX ($30.17M) and is already up $245K. https://hyperbot.network/trader/0x9dcf1c87b82a35519a430457c1157f21e68f302d",
+      "pubDate": "Thu, 09 Jul 2026 03:14:16 GMT",
+      "link": "https://nitter.net/lookonchain/status/2075055909714432258#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 09 Jul 2026 00:54:34 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales have started accumulating #gold again. Abraxas Capital withdrew 3,931 $XAUT($15.97M) from exchanges 12 hours ago. After a 3-year break, whale 0xD20E has also started buying $XAUT again, withdrawing 953 $XAUT($3.93M) from #Binance over the past 3 days. https://arkm.com/explorer/entity/abraxas-capital-heka-funds h",
+      "pubDate": "Thu, 09 Jul 2026 00:54:34 GMT",
+      "link": "https://nitter.net/lookonchain/status/2075020755063255258#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 08 Jul 2026 23:33:27 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC If history repeats, things are likely going to pick up for Bitcoin and its Summer relief rally in the second half of July $BTC #Bitcoin",
+      "pubDate": "Wed, 08 Jul 2026 23:33:27 GMT",
+      "link": "https://nitter.net/rektcapital/status/2075000338793333061#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 08 Jul 2026 21:53:09 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Some people requested these around SpaceX IPO altho I personally don&apos;t get not wanting to have exposure to a generational entrepreneur. I have a feeling even the EDS haters deep down also want exposure to his cos (similar to how ppl praised ESG bc it signaled virtue but never actually invested",
+      "pubDate": "Wed, 08 Jul 2026 21:53:09 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2074975097941889097#m",
+      "keywords": [
+        "LTH 보유자"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 08 Jul 2026 21:47:59 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "An S&P 500 Ex-Elon ETF has been registered, Nasdaq version as well.",
+      "pubDate": "Wed, 08 Jul 2026 21:47:59 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2074973798110028026#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 08 Jul 2026 20:26:29 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Omg.. this guy is wearing a vest marketing the CSOP 2x SK Hynix ETF that says \"At this point the ones I&apos;ve wronged most are my family. F, please stop selling, I need to feed my family\" (the ETF became HK&apos;s largest w $10b, went up 1000% YTD but plummeted 50% in past 2wks)",
+      "pubDate": "Wed, 08 Jul 2026 20:26:29 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2074953288382832696#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
     {
       "id": "rektcapital__Wed, 08 Jul 2026 19:14:18 GMT",
       "handle": "rektcapital",
@@ -684,99 +761,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Tue, 07 Jul 2026 03:42:32 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The market cap of $ANSEM has flipped $TRUMP. Nearly 1M investors lost money on $TRUMP, while over 95% of $ANSEM&apos;s 120K holders are currently in profit.",
-      "pubDate": "Tue, 07 Jul 2026 03:42:32 GMT",
-      "link": "https://nitter.net/lookonchain/status/2074338249527668881#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 07 Jul 2026 02:53:22 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Someone spent $4.4M to steal $21.2M from the #BONK treasury, making a profit of $16.8M. How did it happen?👇 ➡️ On June 30, the attacker submitted a governance proposal to transfer 4.426T $BONK($21.2M) from the treasury to a wallet he controlled (9bxW...JHvQ). https://v2.realms.today/dao/84pGFuy1Y27ApK67ApethaPvexeDWA6",
-      "pubDate": "Tue, 07 Jul 2026 02:53:22 GMT",
-      "link": "https://nitter.net/lookonchain/status/2074325873503986103#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 07 Jul 2026 02:14:18 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Despite #Strategy selling $BTC, whales still seem bullish on the market. 0x15a4: 40x long on 1,000 $BTC($63.8M) 0x7fba: 10x long on 30,627 $ETH($54.9M) 0xe069: 20x long on 470.4 $BTC($30M) https://hypurrscan.io/address/0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb#perps https://hypurrscan.io/address/0x7fba7e745bd97f828c82",
-      "pubDate": "Tue, 07 Jul 2026 02:14:18 GMT",
-      "link": "https://nitter.net/lookonchain/status/2074316045968617867#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 07 Jul 2026 02:11:17 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Not gonna lie we got our ass kicked, felt like when the Sixers played the Knicks. You could see pretty quickly other team was just better. More focused. More skilled. Extra gear. Hats off to Belgium.",
-      "pubDate": "Tue, 07 Jul 2026 02:11:17 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2074315282919612461#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Tue, 07 Jul 2026 00:56:58 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Damn Belgium is intense. Super peppy. Feels like a full court press in bball. They sprint (vs jog) at you even when you kick it backwards in retreat. Working so far but that has to be tiring esp for 90 (plus some random number) minutes.",
-      "pubDate": "Tue, 07 Jul 2026 00:56:58 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2074296582539706567#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 07 Jul 2026 00:32:43 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "James Fickel(@jamesfickel), who previously lost ~25K $ETH($46.3M) on long ETH/BTC, just transferred 20,000 $ETH($36.19M) into a new wallet. https://arkm.com/explorer/entity/james-fickel",
-      "pubDate": "Tue, 07 Jul 2026 00:32:43 GMT",
-      "link": "https://nitter.net/lookonchain/status/2074290481144680843#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Tue, 07 Jul 2026 00:19:26 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "When soccer teams have practice do they work on flopping? Like is there an acting coach on staff? Im serious. Bc it seems like lot of games come down to whether you get ref to give you a penalty kick",
-      "pubDate": "Tue, 07 Jul 2026 00:19:26 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2074287135641800891#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 06 Jul 2026 22:03:19 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "I’m sorry but somebody had to do it",
-      "pubDate": "Mon, 06 Jul 2026 22:03:19 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2074252883252412548#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Mon, 06 Jul 2026 22:02:31 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -787,19 +771,6 @@
       "link": "https://nitter.net/rektcapital/status/2074252680759857562#m",
       "keywords": [
         "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 06 Jul 2026 21:52:42 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Another day, another Corgi filing for 25-ish ETFs. This time vanilla bonds. These are really tough categories (25yrs old w hundreds of products) to break into, esp for an indie doing me-too, even if low fee. They have no fear.",
-      "pubDate": "Mon, 06 Jul 2026 21:52:42 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2074250208846717411#m",
-      "keywords": [
-        "ETF 수급"
       ]
     },
     {
@@ -815,34 +786,6 @@
         "고래",
         "Whale",
         "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 06 Jul 2026 21:48:45 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Whales drove both BTC spot and futures over the past 24h.",
-      "pubDate": "Mon, 06 Jul 2026 21:48:45 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2074249216994484567#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 06 Jul 2026 20:57:45 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Bloomberg&apos;s @joelwebershow puts @kgreifeld, @scarletfu and @EricBalchunas to the test on \"Bloomberg ETF IQ\" in this week&apos;s edition of \"IQ Test\" https://bloom.bg/47gwped",
-      "pubDate": "Mon, 06 Jul 2026 20:57:45 GMT",
-      "link": "https://nitter.net/BloombergTV/status/2074236380679430546#m",
-      "keywords": [
-        "ETF 수급"
       ]
     },
     {
@@ -953,21 +896,6 @@
       "keywords": []
     },
     {
-      "id": "rektcapital__Sat, 04 Jul 2026 17:56:09 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: #BTC It&apos;s Green July and history suggests Bitcoin will be looking to turn the 50-Month EMA (purple) into new resistance $BTC #Bitcoin",
-      "pubDate": "Sat, 04 Jul 2026 17:56:09 GMT",
-      "link": "https://nitter.net/rektcapital/status/2073465903644041289#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
       "id": "glassnode__Sat, 04 Jul 2026 17:55:07 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -1049,6 +977,17 @@
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
+      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
+      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
       "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
       "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
@@ -1058,17 +997,6 @@
         "강세장",
         "BTC"
       ]
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
-      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
-      "keywords": []
     },
     {
       "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
@@ -1244,6 +1172,33 @@
       "link": "https://nitter.net/titcoinpodcast/status/2065493361264333213#m",
       "keywords": [
         "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Thu, 11 Jun 2026 09:52:20 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "R to @_Checkmatey_: I forgot, Mythos hacked Peter Schiffs gold vault code...turns out it was all bars of chocolate wrapped in gold foil after all. Wasn&apos;t worth the effort to nick it.",
+      "pubDate": "Thu, 11 Jun 2026 09:52:20 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2065009228197371944#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Wed, 20 Aug 2025 08:05:24 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: #BTC If Bitcoin is going to peak in its Bull Market in mid-September/mid-October 2025 as per historical Halving cycles… That’s only 1-2 months away $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 20 Aug 2025 08:05:24 GMT",
+      "link": "https://nitter.net/rektcapital/status/1958077896771174591#m",
+      "keywords": [
+        "반감기",
+        "사이클",
+        "BTC 사이클",
+        "강세장"
       ]
     }
   ]
