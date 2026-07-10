@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-07-10T03:59:20.332Z",
+  "updatedAt": "2026-07-10T09:48:28.015Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Fri, 10 Jul 2026 07:21:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Darkfost_Coc: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a50114a7a878621f527725f-Strategys-Cost-Basis-vs-Binances-Whos-really-underwater-on-Bitcoin?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Fri, 10 Jul 2026 07:21:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2075480389989388737#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 10 Jul 2026 07:16:42 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Strategy&apos;s Cost Basis vs. Binance&apos;s: Who&apos;s really underwater on Bitcoin? “By comparison, all the BTC sitting on Binance carries an estimated realized price of around $60 900, a level well below Strategy&apos;s [$75,476] own.” – By @Darkfost_Coc",
+      "pubDate": "Fri, 10 Jul 2026 07:16:42 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2075479309758726500#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 10 Jul 2026 05:51:04 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Another whale is heavily long on $SKHX! Whale 0x66F4 deposited 20.32M $USDC into #Hyperliquid 4 hours ago and opened a 2x long on 15,121 xyz:SKHX ($22.5M). https://hypurrscan.io/address/0x66F463866512FC337C89baD2032acBE38ee38836#perps",
+      "pubDate": "Fri, 10 Jul 2026 05:51:04 GMT",
+      "link": "https://nitter.net/lookonchain/status/2075457760163246423#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Fri, 10 Jul 2026 03:44:20 GMT",
       "handle": "lookonchain",
@@ -714,50 +758,6 @@
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Wed, 08 Jul 2026 07:36:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Darkfost_Coc: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a4df6b43eb04801bdf17a59-40-of-altcoins-are-trading-around-their-all-time-low?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
-      "pubDate": "Wed, 08 Jul 2026 07:36:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2074759389043663169#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Wed, 08 Jul 2026 07:29:16 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "40% of Altcoins Are Trading Around Their All-Time Low “The altcoin market has now reached an extreme level of underperformance… It’s now essential to carefully select the projects you choose to be exposed to, and stay highly selective.” – By @Darkfost_Coc",
-      "pubDate": "Wed, 08 Jul 2026 07:29:16 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2074757694854983891#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 08 Jul 2026 05:40:48 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Did Ansem(@blknoiz06) buy $CASHCAT? A wallet (0x6f5b) named \"Ansem-2\" spent $233K to buy 2.79M $CASHCAT over the past 3 hours. The wallet is linked to the Solana wallet CLM6E4, which currently holds 10.5M $ANSEM ($2.7M) and has made $2.6M in profit from $ANSEM. Wallets: 0x6f5bbfBFB82729cf356F37f88911952cA115D3F5 CLM6E4",
-      "pubDate": "Wed, 08 Jul 2026 05:40:48 GMT",
-      "link": "https://nitter.net/lookonchain/status/2074730400388444557#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 08 Jul 2026 05:22:22 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Pump fun(@Pumpfun) sold another 122,498 $SOL($10.08M) again today! In total, http://pump.fun has sold 4,656,826 $SOL($794.8M) at an average price of $170.7. https://arkm.com/explorer/entity/pump-fun",
-      "pubDate": "Wed, 08 Jul 2026 05:22:22 GMT",
-      "link": "https://nitter.net/lookonchain/status/2074725761534337452#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Tue, 07 Jul 2026 16:15:50 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -972,17 +972,6 @@
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
-      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
-      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
       "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
       "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
@@ -991,6 +980,22 @@
         "BTC 사이클",
         "강세장",
         "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
       ]
     },
     {
