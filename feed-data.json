@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T13:42:49.525Z",
+  "updatedAt": "2026-07-11T19:15:01.940Z",
   "items": [
+    {
+      "id": "ColinTCrypto__Sat, 11 Jul 2026 17:38:46 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "Last cycle, $BTC spent 46 weeks below the 200-week moving average. This cycle (so far), $BTC has been below it for just 1-2 weeks. Many point to the 200-week MA as a bottom zone indicator, but it has historically been an extremely wide and variable zone. The two cycles before the last one had much briefer durations bel",
+      "pubDate": "Sat, 11 Jul 2026 17:38:46 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2075998246963421343#m",
+      "keywords": [
+        "BTC 사이클",
+        "약세장"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 11 Jul 2026 15:00:42 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: Mick Jagger Says It’s Not His Job to Lecture Rolling Stones’ Fans on Politics NYT: “Bruce Springsteen clearly sees his job as engaging in a meaningful back and forth.” MICK JAGGER: “My job in the live music world is for those people that come to have the best time … And you don&apos;t want to lect",
+      "pubDate": "Sat, 11 Jul 2026 15:00:42 GMT",
+      "link": "https://nitter.net/TheChiefNerd/status/2075958465814511920#m",
+      "keywords": []
+    },
     {
       "id": "EricBalchunas__Sat, 11 Jul 2026 13:18:06 GMT",
       "handle": "EricBalchunas",
@@ -551,30 +576,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Thu, 09 Jul 2026 16:12:49 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: What’s Threads?",
-      "pubDate": "Thu, 09 Jul 2026 16:12:49 GMT",
-      "link": "https://nitter.net/elonmusk/status/2075251838148837440#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 09 Jul 2026 16:12:02 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Active equity strategies have roughly the same beat rate whether they in ETF or MF wrapper (35-40%) but in past 12mo the ETF side has taken in $350b while active eq MFs have seen about $500b in outflows. This is why I freq compare MFs to CDs and ETFs to Spotify. Same exact music but one delivery vehicle has an audience",
-      "pubDate": "Thu, 09 Jul 2026 16:12:02 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075251644292346297#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
       "id": "rektcapital__Thu, 09 Jul 2026 16:00:52 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -584,49 +585,6 @@
       "pubDate": "Thu, 09 Jul 2026 16:00:52 GMT",
       "link": "https://nitter.net/rektcapital/status/2075248831298499016#m",
       "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Thu, 09 Jul 2026 14:24:26 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "R to @rektcapital: I share price analysis on Bitcoin and Altcoins every Monday, Wednesday & Friday in my newsletter 86,000+ people read it for practical guidance to better understand and navigate the Crypto market in real-time Join for free here: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
-      "pubDate": "Thu, 09 Jul 2026 14:24:26 GMT",
-      "link": "https://nitter.net/rektcapital/status/2075224565257576900#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 09 Jul 2026 14:08:04 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales are heavily long on #Nasdaq 100. Whale 0x3e7a opened a 20x long on 1,694 xyz:XYZ100 ($50.3M) over the past 5 hours and still has ~$19.16M in limit orders pending. https://hypurrscan.io/address/0x3e7a0eca8b624b75034ad820fa291425f21f1589#orders",
-      "pubDate": "Thu, 09 Jul 2026 14:08:04 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075220443611693434#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 09 Jul 2026 13:48:04 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "July 9 Update: #Bitcoin ETFs: 1D NetFlow: -1,108 $BTC(-$69.43M)🔴 7D NetFlow: +6,301 $BTC(+$394.76M)🟢 #Ethereum ETFs: 1D NetFlow: +39,876 $ETH(+$69.3M)🟢 7D NetFlow: +70,627 $ETH(+$122.75M)🟢",
-      "pubDate": "Thu, 09 Jul 2026 13:48:04 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075215410069442958#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
         "BTC"
       ]
     },
@@ -650,19 +608,6 @@
       "text": "RT by @rektcapital: #BTC If history repeats, things are likely going to pick up for Bitcoin and its Summer relief rally in the second half of July $BTC #Bitcoin",
       "pubDate": "Wed, 08 Jul 2026 23:33:27 GMT",
       "link": "https://nitter.net/rektcapital/status/2075000338793333061#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 08 Jul 2026 19:14:18 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 7 Altcoins These Altcoins are $AERO $HBAR $HYPE $JUP $SOL $OKB $BNB I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-151/ $BTC #BTC #Bitcoin",
-      "pubDate": "Wed, 08 Jul 2026 19:14:18 GMT",
-      "link": "https://nitter.net/rektcapital/status/2074935123716227221#m",
       "keywords": [
         "BTC"
       ]
@@ -960,20 +905,6 @@
       "keywords": []
     },
     {
-      "id": "ColinTCrypto__Mon, 29 Jun 2026 18:19:09 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "We’re at the stage of the $BTC bear market where “Bitcoin is heading toward zero” or “Dying”. That means we’re getting closer to the bottom— probably just months away.",
-      "pubDate": "Mon, 29 Jun 2026 18:19:09 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2071659751679685080#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
       "id": "_Checkmatey___Thu, 25 Jun 2026 01:56:50 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1033,13 +964,43 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "RT by @rektcapital: I&apos;ve spent months compiling my knowledge of #Crypto Technical Analysis into a FREE course for beginners → Master 5 key chart patterns → Trading support/resistance → Utilise trendlines & moving averages Learn it all for FREE here: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #",
+      "text": "Pinned: I&apos;ve spent months compiling my knowledge of #Crypto Technical Analysis into a FREE course for beginners → Master 5 key chart patterns → Trading support/resistance → Utilise trendlines & moving averages Learn it all for FREE here: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bi",
       "pubDate": "Fri, 05 Jun 2026 11:39:33 GMT",
       "link": "https://nitter.net/rektcapital/status/2062861883321745423#m",
       "keywords": [
         "저항선",
         "TA",
         "지지선",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 20 Aug 2025 08:05:24 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC If Bitcoin is going to peak in its Bull Market in mid-September/mid-October 2025 as per historical Halving cycles… That’s only 1-2 months away $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 20 Aug 2025 08:05:24 GMT",
+      "link": "https://nitter.net/rektcapital/status/1958077896771174591#m",
+      "keywords": [
+        "반감기",
+        "사이클",
+        "BTC 사이클",
+        "강세장"
+      ]
+    },
+    {
+      "id": "rektcapital__Mon, 16 Jun 2025 21:37:58 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Unpopular #BTC opinion Global M2 will continue to climb after Bitcoin has peaked in its Bull Market $BTC #Crypto #Bitcoin",
+      "pubDate": "Mon, 16 Jun 2025 21:37:58 GMT",
+      "link": "https://nitter.net/rektcapital/status/1934727174730273184#m",
+      "keywords": [
+        "강세장",
         "BTC"
       ]
     }
