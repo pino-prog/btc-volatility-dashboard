@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-11T08:06:42.175Z",
+  "updatedAt": "2026-07-11T13:42:49.525Z",
   "items": [
+    {
+      "id": "EricBalchunas__Sat, 11 Jul 2026 13:18:06 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Morning jog views: the Sedgeley House at end of boathouse row. All thats left of a huge mansion built in 1799. Everyone I pass it I feel like I’m in Cape Code or Maine for a brief moment l, it just has that vibe",
+      "pubDate": "Sat, 11 Jul 2026 13:18:06 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2075932645150577027#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 11 Jul 2026 09:12:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A Solana OG had 181K $SOL($14.2M) stolen. The thief sold all 181K $SOL, bridged the funds to #Ethereum, and swapped them for 7,918 $ETH($14.2M). According to @zachxbt. https://arkm.com/explorer/address/HwtbQBNnLERakdUDuCCLWmUs2oETLFQZeHUWeQdPads https://arkm.com/explorer/address/0xD66E7F945672381193525f0a3F34aa0789b13c",
+      "pubDate": "Sat, 11 Jul 2026 09:12:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2075870871500308860#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sat, 11 Jul 2026 05:06:15 GMT",
       "handle": "lookonchain",
@@ -137,7 +159,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $ETH $JASMY $DEGEN $CPOOL $HYPE $JUP I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-281/ $BTC #BTC #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $ETH $JASMY $DEGEN $CPOOL $HYPE $JUP I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-281/ $BTC #BTC #Bitcoin",
       "pubDate": "Fri, 10 Jul 2026 14:53:43 GMT",
       "link": "https://nitter.net/rektcapital/status/2075594323186311364#m",
       "keywords": [
@@ -558,7 +580,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "In case you missed it... New YouTube video is live! How Does Bitcoin Tend To Perform Over The Summer? Check it out here: https://youtu.be/pnC18cqrigg?si=w5BiY9RSY5jCESAs Enjoy and Subscribe! #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: In case you missed it... New YouTube video is live! How Does Bitcoin Tend To Perform Over The Summer? Check it out here: https://youtu.be/pnC18cqrigg?si=w5BiY9RSY5jCESAs Enjoy and Subscribe! #BTC $BTC #Bitcoin",
       "pubDate": "Thu, 09 Jul 2026 16:00:52 GMT",
       "link": "https://nitter.net/rektcapital/status/2075248831298499016#m",
       "keywords": [
@@ -618,61 +640,6 @@
       "pubDate": "Thu, 09 Jul 2026 12:03:11 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2075189018719838539#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 12:02:48 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Our Alpha Indicator Heatmap shows that most indicators remain in bearish territory.",
-      "pubDate": "Thu, 09 Jul 2026 12:02:48 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2075188920493465677#m",
-      "keywords": [
-        "약세장",
-        "약세 신호"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 10:33:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "XRP Open Interest on Binance Falls “XRP futures contracts on Binance show a significant decline in recent days, falling to approximately 397 million XRP, its lowest level in more than three months.” – By @ArabxChain Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a4f0e5b718c636ace57c4fc-XRP-Open-Interest-o",
-      "pubDate": "Thu, 09 Jul 2026 10:33:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2075166320711159987#m",
-      "keywords": [
-        "OI",
-        "미결제약정"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 09 Jul 2026 09:56:38 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A newly created wallet, bc1qw5, withdrew 500 $BTC($31.15M) from #Binance 4 hours ago. https://arkm.com/explorer/address/bc1qw5l3fuwmu895jl9ctegnkmggfj43jh6f6lvza7",
-      "pubDate": "Thu, 09 Jul 2026 09:56:38 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075157169469841844#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 09:11:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Derivatives Are Rebuilding Leverage, but Not Conviction “Market now sits in a squeeze-prone zone: open interest has stopped falling, leverage is rising, funding has turned positive, and price is trying to recover.” – By @NovaqueResearch Link ⤵️ https://cryptoquant.com/insights/quicktake/6a4e07a43eb04801bdf17ae9",
-      "pubDate": "Thu, 09 Jul 2026 09:11:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2075145684756365515#m",
-      "keywords": [
-        "Funding Rate",
-        "OI",
-        "미결제약정",
-        "BTC"
-      ]
     },
     {
       "id": "rektcapital__Wed, 08 Jul 2026 23:33:27 GMT",
