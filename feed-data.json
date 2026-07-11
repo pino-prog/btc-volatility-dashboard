@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-11T03:26:27.209Z",
+  "updatedAt": "2026-07-11T08:06:42.175Z",
   "items": [
+    {
+      "id": "lookonchain__Sat, 11 Jul 2026 05:06:15 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This guy successfully cashed out over $1M on $CASHCAT! He spent 0.49 $ETH($838) to buy 15.04M $CASHCAT, then sold it for 580 $ETH($1.04M), locking in a profit of over $1M(1,183x). If he had held until now, his profit would have reached $2.9M. Could this guy be @thebrianjung? https://dexscreener.com/robinhood/0xa70fc67c",
+      "pubDate": "Sat, 11 Jul 2026 05:06:15 GMT",
+      "link": "https://nitter.net/lookonchain/status/2075808867766980660#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sat, 11 Jul 2026 01:50:02 GMT",
       "handle": "lookonchain",
@@ -662,54 +673,6 @@
         "미결제약정",
         "BTC"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 07:51:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @IT_Tech_PL: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a4e85967a878621f527703f-Bitcoin-demand-just-staged-one-of-its-sharpest-recoveries-this-year?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=it-tech",
-      "pubDate": "Thu, 09 Jul 2026 07:51:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2075125551870955815#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 07:43:58 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Demand Staged One of Its Sharpest Recoveries This Year “Historically, the strongest and most sustainable rallies begin when both futures and spot demand move higher together.” – By @IT_Tech_PL",
-      "pubDate": "Thu, 09 Jul 2026 07:43:58 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2075123783891918950#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 09 Jul 2026 04:40:11 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Since July 1, #Tron&apos;s TVL (Total Value Locked) has increased by $1.95B, up 7.8%. https://tronscan.org/data/charts/defi/tvl",
-      "pubDate": "Thu, 09 Jul 2026 04:40:11 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075077534463701356#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 09 Jul 2026 04:05:48 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Who is this guy? He created a new wallet on #Polymarket, placed just one bet, won $1.22M, and then walked away with the profit. https://polymarket.com/0x9468bb7e53c8a5f13cc283f2aed950ebf9865d4b",
-      "pubDate": "Thu, 09 Jul 2026 04:05:48 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075068879056023979#m",
-      "keywords": []
     },
     {
       "id": "rektcapital__Wed, 08 Jul 2026 23:33:27 GMT",
