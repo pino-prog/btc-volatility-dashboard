@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T13:43:26.931Z",
+  "updatedAt": "2026-07-12T19:15:29.710Z",
   "items": [
     {
       "id": "EricBalchunas__Sun, 12 Jul 2026 12:52:01 GMT",
@@ -228,22 +228,6 @@
       "pubDate": "Fri, 10 Jul 2026 16:31:18 GMT",
       "link": "https://nitter.net/lookonchain/status/2075618879049728123#m",
       "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 10 Jul 2026 16:10:24 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: 1/9 Eric asks a reasonable question: what should be done about a future stock market slump? Specifically, should the Fed buy stocks? 🧵 tl:dr * The legal process for the Fed buying stocks means the Treasury actually owns them, the Fed finances it by extending loans to buy the stocks. * Trump will ",
-      "pubDate": "Fri, 10 Jul 2026 16:10:24 GMT",
-      "link": "https://nitter.net/biancoresearch/status/2075613620072058888#m",
-      "keywords": [
-        "LTH 보유자",
-        "강세장",
-        "약세장",
-        "강세 신호"
-      ]
     },
     {
       "id": "lookonchain__Fri, 10 Jul 2026 15:02:59 GMT",
@@ -522,18 +506,15 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 12:02:48 GMT",
+      "id": "cryptoquant_com__Thu, 09 Jul 2026 12:03:11 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
       "category": "온체인/파생상품",
       "color": "cyan",
-      "text": "Our Alpha Indicator Heatmap shows that most indicators remain in bearish territory.",
-      "pubDate": "Thu, 09 Jul 2026 12:02:48 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2075188920493465677#m",
-      "keywords": [
-        "약세장",
-        "약세 신호"
-      ]
+      "text": "R to @cryptoquant_com: Find the indicator here 👇 https://alpha.cryptoquant.com/",
+      "pubDate": "Thu, 09 Jul 2026 12:03:11 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2075189018719838539#m",
+      "keywords": []
     },
     {
       "id": "rektcapital__Wed, 08 Jul 2026 23:33:27 GMT",
