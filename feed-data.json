@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-07-11T19:15:01.940Z",
+  "updatedAt": "2026-07-12T03:37:33.644Z",
   "items": [
+    {
+      "id": "lookonchain__Sun, 12 Jul 2026 02:13:49 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x2684 keeps accumulating $ETH! Since June 30, the whale has withdrawn 49,407 $ETH($84.3M) and 250 $WBTC($15.66M) from Binance. https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643",
+      "pubDate": "Sun, 12 Jul 2026 02:13:49 GMT",
+      "link": "https://nitter.net/lookonchain/status/2076127861417943483#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sun, 12 Jul 2026 00:58:45 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "I still can’t get over that the hero of the England soccer team is named Jude. It’s almost too perfect, like if the Eagles star QB was named Rocky. What are the odds?",
+      "pubDate": "Sun, 12 Jul 2026 00:58:45 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2076108971690098984#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sat, 11 Jul 2026 21:56:04 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: I heard some soccer guy is looking to get FIFA to make it so 100% of your body has to be offsides for it to be a violation vs if you pinky fingernail is offsides you offsides. That&apos;s a good middle ground, they should do it. I feel games would be more like 5-3 and 7-5 vs 0-0, 1-0",
+      "pubDate": "Sat, 11 Jul 2026 21:56:04 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2076062996510412901#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sat, 11 Jul 2026 21:52:22 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Is there any bigger killjoy in sports than offsides in soccer?",
+      "pubDate": "Sat, 11 Jul 2026 21:52:22 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2076062065563709507#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sat, 11 Jul 2026 21:12:08 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "One thing about soccer I appreciate is they start the game right when they say are going to. You tune in at the time and the game has started. Throw in limited commercials and timeouts/challenges and if doesn&apos;t end in tie it&apos;s all over in under 2hrs. That&apos;s nice.",
+      "pubDate": "Sat, 11 Jul 2026 21:12:08 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2076051941524726010#m",
+      "keywords": []
+    },
     {
       "id": "ColinTCrypto__Sat, 11 Jul 2026 17:38:46 GMT",
       "handle": "ColinTCrypto",
@@ -121,6 +179,17 @@
       "keywords": [
         "ETF 수급"
       ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 10 Jul 2026 19:09:00 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: This kid deserves way more hype for this catch. Home run ball coming in, chairs in the way, other guy blocking his view, and he just fully lays out and makes the diving grab.",
+      "pubDate": "Fri, 10 Jul 2026 19:09:00 GMT",
+      "link": "https://nitter.net/DudespostingWs/status/2075658564069376124#m",
+      "keywords": []
     },
     {
       "id": "cryptoquant_com__Fri, 10 Jul 2026 16:50:25 GMT",
@@ -406,53 +475,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Fri, 10 Jul 2026 01:11:15 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "It seems that Tom Lee(@fundstrat)&apos;s #Bitmine bought another 20,500 $ETH($35.92M) from #GalaxyDigital 6 hours ago. https://arkm.com/explorer/address/0x2B7E708733d4cB2F56f21191e87995c9ADE8d7dC",
-      "pubDate": "Fri, 10 Jul 2026 01:11:15 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075387342303748481#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 10 Jul 2026 01:05:15 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The USDT Circulating Supply on #TRON has surpassed $90B. The network also processes an average of $23.8B in daily USDT transfer volume. https://tronscan.org/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t/analysis?selectedItem=2",
-      "pubDate": "Fri, 10 Jul 2026 01:05:15 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075385831376978366#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 10 Jul 2026 01:02:20 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x2684 bought another 9,882 $ETH($17.27M) today. In the past 10 days, this whale has withdrawn a total of 34,577 $ETH($57.53M) and 250 $WBTC($15.66M) from #Binance. https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643",
-      "pubDate": "Fri, 10 Jul 2026 01:02:20 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075385096371363937#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 10 Jul 2026 00:50:01 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The $LAB team just burned 10M $LAB ($11.3M). https://bscscan.com/tx/0x83e9024a9f9ac102eb50d28bd14e77e626e2c5e55f3e7f775b1d832e3995a370",
-      "pubDate": "Fri, 10 Jul 2026 00:50:01 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075381998374551756#m",
-      "keywords": []
-    },
-    {
       "id": "ColinTCrypto__Fri, 10 Jul 2026 00:05:30 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -465,32 +487,6 @@
         "ETF 수급",
         "저항선",
         "TA"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 09 Jul 2026 23:43:16 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Bummer. I actually put a reminder in my calendar to watch this game. Fever rematch w Mercury (last time they played CC was assaulted and Cunningham did the pointing meme). Unless they’re immobile they really should play, the rivalry is so good for the sport.",
-      "pubDate": "Thu, 09 Jul 2026 23:43:16 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075365200237048017#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 09 Jul 2026 22:09:03 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Another 20 ETFs filed from Corgi. They now have 160 ETFs live and another 330 in registration. If they launch all they&apos;ll have 490 ETFs which would be the most ETFs of any issuer (BlackRock curr most w 486, FT next w/ 311) all WITHIN THEIR FIRST YEAR OF EXISTENCE (Nov &apos;25 was debut). Hard to fathom. h/t @ETFh",
-      "pubDate": "Thu, 09 Jul 2026 22:09:03 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075341489631121491#m",
-      "keywords": [
-        "ETF 수급",
-        "BlackRock",
-        "ETF"
       ]
     },
     {
@@ -507,43 +503,6 @@
         "약세장",
         "강세 신호",
         "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 09 Jul 2026 21:01:17 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Found a pic of the PM of the sports one",
-      "pubDate": "Thu, 09 Jul 2026 21:01:17 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075324432575332833#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 09 Jul 2026 20:31:12 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "New filing for an actively mgd prediction market ETFs incl one for sports. Looks like the the ETF PM will make 30-50 bets across dif prediction mkts (like a degen Peter Lynch). One will bet on eco data, politics and the weather and the other is just sports.. h/t @Todd_Sohn",
-      "pubDate": "Thu, 09 Jul 2026 20:31:12 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075316865077837916#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 09 Jul 2026 20:13:27 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "We make moving charts now. While I think 95% of the leveraged ETFs growth is not a big deal (IMO it&apos;s just the scapegoat du jour for ppl pissed off the mkt won&apos;t go down, note on that coming soon) I LOVE seeing James and Sharoon spearheading stuff like this.",
-      "pubDate": "Thu, 09 Jul 2026 20:13:27 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075312395468034279#m",
-      "keywords": [
-        "ETF 수급"
       ]
     },
     {
