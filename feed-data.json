@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-07-12T19:15:29.710Z",
+  "updatedAt": "2026-07-13T03:39:54.346Z",
   "items": [
+    {
+      "id": "lookonchain__Mon, 13 Jul 2026 00:47:42 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A hacker launched a token called $SCATMAN and promoted it after hacking the @SpaceXAI and @Starlink accounts. 🚨 The hacker then minted 10T $SCATMAN and dumped all for 59 $ETH($108K). Another wallet controlled by the hacker also sold 59.28M $SCATMAN for 14.7 $ETH($27K). In total, the hacker made about $125K. Hacker&apo",
+      "pubDate": "Mon, 13 Jul 2026 00:47:42 GMT",
+      "link": "https://nitter.net/lookonchain/status/2076468576400359783#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 13 Jul 2026 00:08:42 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A Bitcoin OG who had been dormant for 7 years transferred all 2,931 $BTC($188.03M) to a new wallet 3 hours ago. The OG received 2,931 $BTC 7 years ago when $BTC was trading at $6,513 and hadn&apos;t moved them until now. https://arkm.com/explorer/address/356myuxHtPTE9b6QGACxXp5nqQLiPBAsmK",
+      "pubDate": "Mon, 13 Jul 2026 00:08:42 GMT",
+      "link": "https://nitter.net/lookonchain/status/2076458762811158754#m",
+      "keywords": [
+        "고래 이동",
+        "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Sun, 12 Jul 2026 23:10:26 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Great to see @_Checkmatey_ in the @FinancialReview 👏 https://www.afr.com/companies/media-and-marketing/the-media-outlet-making-millions-from-bitcoin-but-not-by-buying-it-20260709-p60e47",
+      "pubDate": "Sun, 12 Jul 2026 23:10:26 GMT",
+      "link": "https://nitter.net/PhilipAStephens/status/2076444098991624473#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Sun, 12 Jul 2026 20:30:24 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: spent some time in @_nym21_ &apos;s Bitcoin Research Kit. what a sovereign solution. it parses blocks, indexes the chain, computes 49,000+ series across 15 time resolutions and serves them, all from your own Bitcoin Core node. no vendor, no api keys, no one else in the loop between the chain and yo",
+      "pubDate": "Sun, 12 Jul 2026 20:30:24 GMT",
+      "link": "https://nitter.net/Nyxeroff/status/2076403825871904821#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "EricBalchunas__Sun, 12 Jul 2026 12:52:01 GMT",
       "handle": "EricBalchunas",
@@ -143,58 +194,6 @@
       "keywords": []
     },
     {
-      "id": "EricBalchunas__Fri, 10 Jul 2026 23:04:13 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "A Korean Beauty ETF? Def a “good luck w that” nominee after the KPOP etf flopped so bad. Ticker should be $KHOT",
-      "pubDate": "Fri, 10 Jul 2026 23:04:13 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075717760852660315#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 10 Jul 2026 21:25:18 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Speak of the devil they just filed another 20-ish ETFs. Bunch if int&apos;l incl EM factors. wow. Up to about 350 filed and 180 on market = over 500. Como say Shock and Awe",
-      "pubDate": "Fri, 10 Jul 2026 21:25:18 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075692867385708721#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 10 Jul 2026 20:59:23 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Historical chart showing issuers by # of ETFs they offer.. Corgi bypassing about 250 issuers in like 6 weeks to reach 7th place. They almost def gonna be in Top 3 by EOY maybe even #1.. h/t @JSeyff @FrancisSharoon",
-      "pubDate": "Fri, 10 Jul 2026 20:59:23 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075686345037529431#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 10 Jul 2026 20:31:07 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "The SK Hynix ADR jumped 13% on its first day on $18b in volume, biggest Day One for an ADR since $BABA 12yrs ago which did $25b. That&apos;s a good sign for the 2x ETFs prospects, that battle royale kicks off on Tuesday.",
-      "pubDate": "Fri, 10 Jul 2026 20:31:07 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2075679230998814894#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
       "id": "EricBalchunas__Fri, 10 Jul 2026 19:09:00 GMT",
       "handle": "EricBalchunas",
       "label": "Balchunas (ETF)",
@@ -272,20 +271,6 @@
       ]
     },
     {
-      "id": "lookonchain__Fri, 10 Jul 2026 14:17:17 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0xf02d closed his $HYPE short after holding it for nearly 2 months, taking a $4.52M loss. But he didn&apos;t give up. Instead, he opened another 10x short on 283,948 $HYPE ($19.34M). https://hyperbot.network/trader/0xf02d16a272a842f8bac1d9a9e773aba1933454c6",
-      "pubDate": "Fri, 10 Jul 2026 14:17:17 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075585153372770781#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "_Checkmatey___Fri, 10 Jul 2026 13:51:55 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -348,17 +333,6 @@
         "스테이블코인",
         "SSR"
       ]
-    },
-    {
-      "id": "lookonchain__Fri, 10 Jul 2026 11:40:14 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This guy said he missed $ANSEM, $CZ, and $TCC. But he finally caught $CASHCAT! He sold 20M $CASHCAT too early for $2,803, missing out on a $3.6M profit. Fortunately, he bought back 7.7M $CASHCAT and still holds 900,630 $CASHCAT ($162K), bringing his total profit to $396K. https://dexscreener.com/robinhood/0xa70fc67c9f6",
-      "pubDate": "Fri, 10 Jul 2026 11:40:14 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075545628004987126#m",
-      "keywords": []
     },
     {
       "id": "cryptoquant_com__Fri, 10 Jul 2026 10:26:00 GMT",
@@ -859,32 +833,6 @@
       "keywords": [
         "Strategy(MSTR)",
         "기관 매집",
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Mon, 15 Jun 2026 13:58:19 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Ya&apos;ll asked... I listened. I&apos;m officially kicking off a weekly newsletter for anyone that wants to stay up to date with the most recent changes across the Bitcoin sentiment landscape. First issue is live! https://sentimentsully.substack.com/p/bitcoin-sentiment-weekly-bitcoiners",
-      "pubDate": "Mon, 15 Jun 2026 13:58:19 GMT",
-      "link": "https://nitter.net/SullyMichaelvan/status/2066520682519826909#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Fri, 12 Jun 2026 17:56:06 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: PEAK APATHY: NO ONE CARES ABOUT BITCOIN - TIME TO DOUBLE DOWN @_Checkmatey_ & @SullyMichaelvan with @WalkerAmerica FOUNTAIN: https://www.fountain.fm/episode/uAq9Q8VFX9wdH367aedf YOUTUBE: https://youtu.be/V0nywS9dLBM RUMBLE: https://rumble.com/v7b6yc4-peak-apathy-no-one-cares-about-bitcoin-time-to-d",
-      "pubDate": "Fri, 12 Jun 2026 17:56:06 GMT",
-      "link": "https://nitter.net/titcoinpodcast/status/2065493361264333213#m",
-      "keywords": [
         "BTC"
       ]
     },
