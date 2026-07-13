@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-13T03:39:54.346Z",
+  "updatedAt": "2026-07-13T09:40:48.119Z",
   "items": [
+    {
+      "id": "lookonchain__Mon, 13 Jul 2026 09:24:45 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This trader has made over $9M on @Aster_DEX in less than a month — an 806% return! He made just one trade: a 1x short on $ESPORTS. On June 18, he deposited 1M $USDT into Aster and opened 1x short on $ESPORTS. He has already realized $4.28M by closing part of the position and still holds a 137.73M $ESPORTS($1.95M) short",
+      "pubDate": "Mon, 13 Jul 2026 09:24:45 GMT",
+      "link": "https://nitter.net/lookonchain/status/2076598699027739091#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Mon, 13 Jul 2026 09:08:28 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "bitcoin:native recovered toward $64K, but weak spot participation and subdued on-chain activity suggest the move lacks broad conviction. Institutions are returning, while options remain defensive. Read this week’s Market Pulse👇 https://glassno.de/3RxpzMD",
+      "pubDate": "Mon, 13 Jul 2026 09:08:28 GMT",
+      "link": "https://nitter.net/glassnode/status/2076594599225614364#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 13 Jul 2026 07:24:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @JA_Maartun: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a510db93eb04801bdf17ea5-Binance-Monthly-Futures-Volume-Reaches-16T-Highest-Level-This-Year?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=maartunn",
+      "pubDate": "Mon, 13 Jul 2026 07:24:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2076568308502216731#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Mon, 13 Jul 2026 07:18:13 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Binance Monthly Futures Volume Reaches $1.6T, Highest Level This Year “Derivatives trading hasn&apos;t lost momentum. The jump in futures volume suggests that despite all factors, traders are still actively taking positions on the Binance futures market.” – By @JA_Maartun",
+      "pubDate": "Mon, 13 Jul 2026 07:18:13 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2076566855049711896#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 13 Jul 2026 04:28:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The battle between $ETH bulls and bears is on. 0xe069 opened a 20x short on 30,000 $ETH($53.49M). The trader previously closed 3 long trades on $BTC, $ETH, and $SOL, winning all of them and making $444K in total. 0x7fba opened a 10x long on 30,000 $ETH($53.49M). The trader has closed 8 trades, winning 6 (75% win rate) ",
+      "pubDate": "Mon, 13 Jul 2026 04:28:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2076524263574827058#m",
+      "keywords": [
+        "강세장",
+        "약세장"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 13 Jul 2026 00:47:42 GMT",
       "handle": "lookonchain",
@@ -218,33 +278,6 @@
       ]
     },
     {
-      "id": "lookonchain__Fri, 10 Jul 2026 16:31:18 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Galaxy Digital transferred out 2,500 $BTC($160M) in the past hour, most of which went into exchanges. https://arkm.com/explorer/entity/galaxy-digital",
-      "pubDate": "Fri, 10 Jul 2026 16:31:18 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075618879049728123#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 10 Jul 2026 15:02:59 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "July 10 Update: #Bitcoin ETFs: 1D NetFlow: -1,791 BTC(-$114.58M)🔴 7D NetFlow: +5,098 BTC(+$326.11M)🟢 #Ethereum ETFs: 1D NetFlow: -27,487 ETH(-$49.09M)🔴 7D NetFlow: +37,036 ETH(+$66.15M)🟢",
-      "pubDate": "Fri, 10 Jul 2026 15:02:59 GMT",
-      "link": "https://nitter.net/lookonchain/status/2075596652677861660#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
       "id": "rektcapital__Fri, 10 Jul 2026 14:53:43 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -425,20 +458,6 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 19:45:20 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: CryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal https://www.theblock.co/post/407796/cryptoquant-bitcoin-rebound-bear-market-recovery-not-trend-reversal?utm_source=twitter&utm_medium=social",
-      "pubDate": "Thu, 09 Jul 2026 19:45:20 GMT",
-      "link": "https://nitter.net/TheBlockCo/status/2075305321367486556#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Thu, 09 Jul 2026 18:51:24 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -478,17 +497,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 09 Jul 2026 12:03:11 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Find the indicator here 👇 https://alpha.cryptoquant.com/",
-      "pubDate": "Thu, 09 Jul 2026 12:03:11 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2075189018719838539#m",
-      "keywords": []
     },
     {
       "id": "rektcapital__Wed, 08 Jul 2026 23:33:27 GMT",
@@ -686,19 +694,6 @@
       "link": "https://nitter.net/glassnode/status/2073370763252400255#m",
       "keywords": [
         "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Sat, 04 Jul 2026 07:33:49 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Altcoin Cycle Signal update: the altcoin signal remains firmly in \"altcoin season\". This is strength beyond the denominator effect we described last month. Alts remain strong both on a relative and absolute basis. https://glassno.de/3RhFoXG",
-      "pubDate": "Sat, 04 Jul 2026 07:33:49 GMT",
-      "link": "https://nitter.net/glassnode/status/2073309288097849695#m",
-      "keywords": [
-        "BTC 사이클"
       ]
     },
     {
