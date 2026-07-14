@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-07-14T03:15:29.856Z",
+  "updatedAt": "2026-07-14T08:20:23.483Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Tue, 14 Jul 2026 08:07:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @MorenoDV_: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a551204718c636ace57cbd2-Bitcoin-Is-Building-a-Bottom-Through-a-Transfer-of-Pain?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
+      "pubDate": "Tue, 14 Jul 2026 08:07:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2076941517910909197#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 14 Jul 2026 08:02:21 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Is Building a Bottom Through a Transfer of Pain “Eventual capitulation, or the gradual absorption of their high-cost supply by stronger hands, helps complete the redistribution necessary to build a more durable base.” – By @MorenoDV_",
+      "pubDate": "Tue, 14 Jul 2026 08:02:21 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2076940349696512159#m",
+      "keywords": [
+        "분배",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 14 Jul 2026 04:00:20 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Someone spent 519 $ETH($925K) to buy 6.12M $CASHCAT 5 hours ago. https://debank.com/profile/0xbf732ea04197942783e34730ed6e0f6099575d58/history",
+      "pubDate": "Tue, 14 Jul 2026 04:00:20 GMT",
+      "link": "https://nitter.net/lookonchain/status/2076879442094465355#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Tue, 14 Jul 2026 02:53:04 GMT",
       "handle": "lookonchain",
@@ -848,17 +886,6 @@
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
-      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
-      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
       "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
       "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
@@ -867,6 +894,22 @@
         "BTC 사이클",
         "강세장",
         "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
       ]
     },
     {
