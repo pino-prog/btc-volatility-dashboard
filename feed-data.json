@@ -1,6 +1,115 @@
 {
-  "updatedAt": "2026-07-14T08:20:23.483Z",
+  "updatedAt": "2026-07-14T14:01:41.109Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 14 Jul 2026 13:20:34 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After losing $46.46M shorting $HYPE, loracle.hl (@loraclexyz) opened new positions today: long on $SKHX and short on #oil. His PnL has been a roller coaster—swinging from a peak profit of $42.87M to a $17.27M loss, and now back to an overall profit of $2.06M. https://hypurrscan.io/address/0x8def9f50456c6c4e37fa5d3d57f1",
+      "pubDate": "Tue, 14 Jul 2026 13:20:34 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077020431513751626#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 14 Jul 2026 13:01:38 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: I love Spain (was there this year, beautiful) but i&apos;ll be rooting for France, US is forever in their debt, plus I like Mbappe, he&apos;s so fun to watch, just seems like he loves to play and he&apos;s having fun wrecking other teams. Hoping for Mbappe vs Messi Final. Must-see TV (which rare fo",
+      "pubDate": "Tue, 14 Jul 2026 13:01:38 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077015667761434794#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 14 Jul 2026 12:55:27 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Ppl complaining about 3pm game. I&apos;m an expert in being annoyed by start times bc of western time zones so figure i&apos;d weigh in: this is the RIGHT MOVE. Soccer is much bigger deal in Europe, so let them have a reasonable time (9pm) to watch game w/ family vs 2am which is brutal.",
+      "pubDate": "Tue, 14 Jul 2026 12:55:27 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077014108466004138#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 14 Jul 2026 11:40:52 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Meanwhile JPM set revenue records in every line of business last quarter. Man..",
+      "pubDate": "Tue, 14 Jul 2026 11:40:52 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2076995338519343175#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 14 Jul 2026 11:38:46 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Goldman posted record quarter in stock trading with $7.4b up 72% YoY (which was part of an overall $20b in revenue). Wow.",
+      "pubDate": "Tue, 14 Jul 2026 11:38:46 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2076994812499161423#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Tue, 14 Jul 2026 10:40:41 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Trading activity in US spot ETFs sits in a quiet regime. Volumes are down 78% from the peak and below 2024 levels. A sustained recovery in bitcoin:native price momentum would likely require attention and market participation to return from other asset classes. 📊https://glassno.de/4pDBa9P",
+      "pubDate": "Tue, 14 Jul 2026 10:40:41 GMT",
+      "link": "https://nitter.net/glassnode/status/2076980196440182885#m",
+      "keywords": [
+        "ETF 수급",
+        "스팟 ETF",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 14 Jul 2026 09:45:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Darkfost_Coc: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a5557e63eb04801bdf1831e-Memecoins-Faced-12B-in-Cumulative-Selling-Pressure-on-Binance-Since-Bitcoins-ATH?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Tue, 14 Jul 2026 09:45:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2076966180187963786#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 14 Jul 2026 09:39:57 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Memecoins Faced $1.2B in Cumulative Selling Pressure on Binance Since Bitcoin&apos;s ATH “This represents massive selling pressure on the riskiest assets in the crypto ecosystem.” – By @Darkfost_Coc",
+      "pubDate": "Tue, 14 Jul 2026 09:39:57 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2076964909380669495#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 14 Jul 2026 08:07:52 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Machi(@machibigbrother) just sold Bored Ape #251 at a loss of 6.99 $ETH($12.4K) to raise more funds for his $ETH long. He currently holds a 5,264 $ETH($9.38M) long position, with a liquidation price of $1,756.76. https://opensea.io/item/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/251 https://hypurrscan.io/addre",
+      "pubDate": "Tue, 14 Jul 2026 08:07:52 GMT",
+      "link": "https://nitter.net/lookonchain/status/2076941735121551410#m",
+      "keywords": [
+        "청산"
+      ]
+    },
     {
       "id": "cryptoquant_com__Tue, 14 Jul 2026 08:07:00 GMT",
       "handle": "cryptoquant_com",
@@ -511,20 +620,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Sun, 12 Jul 2026 12:52:01 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Totally agree. This guy is the like the European Nick Saban- twitching and complaining about his team right after a win. Bullish England.",
-      "pubDate": "Sun, 12 Jul 2026 12:52:01 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2076288472168432089#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Sat, 11 Jul 2026 17:38:46 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -831,17 +926,6 @@
       "keywords": []
     },
     {
-      "id": "glassnode__Sat, 04 Jul 2026 17:55:07 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "One of our most insightful on chain metrics is the Hyperliquid Entry Price Heatmap. It shows the exact price levels at which traders enter positions. Large longs from $72-76k and shorts from $60k are currently under water, leading to fragility in either direction. https://glassno.de/44Imuwb",
-      "pubDate": "Sat, 04 Jul 2026 17:55:07 GMT",
-      "link": "https://nitter.net/glassnode/status/2073465643085725967#m",
-      "keywords": []
-    },
-    {
       "id": "_Checkmatey___Fri, 03 Jul 2026 22:40:54 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -886,6 +970,17 @@
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
+      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
+      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
       "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
       "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
@@ -894,22 +989,6 @@
         "BTC 사이클",
         "강세장",
         "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
-      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
-      "keywords": [
-        "ETF 수급",
-        "기관 수급",
-        "Realized Cap",
-        "BTC 사이클"
       ]
     },
     {
