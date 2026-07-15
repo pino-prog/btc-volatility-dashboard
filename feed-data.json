@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-07-15T08:27:01.876Z",
+  "updatedAt": "2026-07-15T13:58:06.306Z",
   "items": [
+    {
+      "id": "rektcapital__Wed, 15 Jul 2026 13:38:39 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Something to keep in mind now that the Bitcoin Summer Relief is in full bloom $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 15 Jul 2026 13:38:39 GMT",
+      "link": "https://nitter.net/rektcapital/status/2077387367304892812#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 15 Jul 2026 13:35:58 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC And just like that - Bitcoin has reached the 50 Month EMA (purple) as anticipated late last month $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 15 Jul 2026 13:35:58 GMT",
+      "link": "https://nitter.net/rektcapital/status/2077386695666807022#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 15 Jul 2026 13:30:21 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin is building on its Summer relief rally right on cue, reaching $65k most recently $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 15 Jul 2026 13:30:21 GMT",
+      "link": "https://nitter.net/rektcapital/status/2077385281066373402#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 15 Jul 2026 12:59:07 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Many asking what blockchain they are using, here is the answer: The digital conversions occurred on HyperLedger Besu (DTCC’s private network) and Canton (a public network). This is part of DTCC&apos;s multi-chain strategy to ensure resiliency, scalability and choice.",
+      "pubDate": "Wed, 15 Jul 2026 12:59:07 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077377419447521696#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 15 Jul 2026 12:55:41 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "As $CASHCAT kept falling, this guy capitulated after just one day. He sold all 6.12M $CASHCAT for 383.6 $ETH($735K), taking a loss of 135 $ETH($259K).",
+      "pubDate": "Wed, 15 Jul 2026 12:55:41 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077376557296091579#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Wed, 15 Jul 2026 12:52:41 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: \"DTCC safeguards more than $114 trillion in securities, and its subsidiaries processed securities transactions valued at $4.7 quadrillion last year.\"",
+      "pubDate": "Wed, 15 Jul 2026 12:52:41 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077375799515070890#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 15 Jul 2026 12:48:35 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Abraxas Capital is selling $BTC and buying $ETH! Over the past 3 hours, Abraxas Capital withdrew 8,153 $ETH($15.3M) from #Binance and #Bybit, while depositing 618 $BTC($39.99M) into #Kraken. https://arkm.com/explorer/entity/abraxas-capital-heka-funds",
+      "pubDate": "Wed, 15 Jul 2026 12:48:35 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077374770795196624#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Wed, 15 Jul 2026 12:36:23 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: We interviewed the woman leading this DTCC push on Trillions. Episode drops later today. It&apos;s a good one, learned a lot! I&apos;m moving a little more towards a &apos;tokenized&apos; future but it&apos;s not gonna happen overnight or be fully realized imo but DTCC doing this is HUGE",
+      "pubDate": "Wed, 15 Jul 2026 12:36:23 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077371700933468303#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Wed, 15 Jul 2026 12:35:01 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Vanguard. BlackRock, JPM and more to participate in trial run of tokenized securities led by the DTCC, starting with $MSFT, $QQQ, $SPY $SHV with a formal program launching in October. DTCC will use off both the current way and tokenized options via @Vlajournaliste",
+      "pubDate": "Wed, 15 Jul 2026 12:35:01 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077371354559504642#m",
+      "keywords": [
+        "BlackRock",
+        "ETF"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 15 Jul 2026 10:27:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @ArabxChain: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a570fc3718c636ace57ce2c-Binances-XRP-Reserves-Stabilize-at-Their-Lowest-Level-Since-February?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=arab-chain",
+      "pubDate": "Wed, 15 Jul 2026 10:27:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2077339137942732823#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Wed, 15 Jul 2026 10:21:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "How Does Bitcoin Tend To Perform Over The Summer? #BTC $BTC #Bitcoin",
+      "pubDate": "Wed, 15 Jul 2026 10:21:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2077337628421075020#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 15 Jul 2026 10:20:27 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Binance&apos;s XRP Reserves Stabilize at Their Lowest Level Since February “If this trend continues alongside improving demand, it could help ease selling pressure over the medium term.” – By @ArabxChain",
+      "pubDate": "Wed, 15 Jul 2026 10:20:27 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2077337490927521953#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 15 Jul 2026 10:11:40 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This gambler is an absolute legend! In just 2 weeks, he turned a $10.8M loss into an $8M+ profit. Yesterday, he placed an $11.3M bet on the Spain vs. France match. He won $9.9M, completing an incredible comeback into profit. https://polymarket.com/0x09b428f7c2b469786286214aa5c90dd9015f7320",
+      "pubDate": "Wed, 15 Jul 2026 10:11:40 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077335278642184409#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Wed, 15 Jul 2026 09:45:17 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC sees a tiny pump and hope floods the timeline. Every. Single. Relief rally. There’s still too much hope and enthusiasm for the bottom to be in. I think $BTC may go as high as the 200-day MA (around $70k-$71k) before dumping again. Enjoy the relief rally. The bottom isn’t confirmed yet.",
+      "pubDate": "Wed, 15 Jul 2026 09:45:17 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2077328642258985269#m",
+      "keywords": []
+    },
     {
       "id": "cryptoquant_com__Wed, 15 Jul 2026 07:32:00 GMT",
       "handle": "cryptoquant_com",
@@ -766,150 +934,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Mon, 13 Jul 2026 13:52:37 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Strategy neither sold nor bought back any $BTC last week. But Tom Lee(@fundstrat)&apos;s #Bitmine continued accumulating $ETH, buying another 27,801 $ETH($49.12M) last week. https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-77-million-tokens-and-total-crypt",
-      "pubDate": "Mon, 13 Jul 2026 13:52:37 GMT",
-      "link": "https://nitter.net/lookonchain/status/2076666110133645401#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "rektcapital__Mon, 13 Jul 2026 13:25:14 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "R to @rektcapital: I share price analysis on Bitcoin and Altcoins every Monday, Wednesday & Friday in my newsletter 86,000+ people read it for practical guidance to better understand and navigate the Crypto market in real-time Join for free here: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
-      "pubDate": "Mon, 13 Jul 2026 13:25:14 GMT",
-      "link": "https://nitter.net/rektcapital/status/2076659216534647267#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 13 Jul 2026 12:29:50 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Love this site but one tweak I’d make: make the algo less sensitive less over-zealous. If you spend an extra second on a post next thing you know half of your TL is that specific topic. I think it should wait till you show interest 3-4x in something bf fetching content and default more to posts from ppl you follow.",
-      "pubDate": "Mon, 13 Jul 2026 12:29:50 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2076645276241056211#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 13 Jul 2026 12:13:47 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Now, would want my mom using these ETFs? No. But I wouldn&apos;t want her chugging Jack Daniels either. This is why our solution is our Traffic Light system. Modeled off of movie ratings. Green = PG, Yellow = PG-13 and Red = R. All leveraged ETFs are immediate Red light. This is how to let degens (",
-      "pubDate": "Mon, 13 Jul 2026 12:13:47 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2076641238216757754#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 13 Jul 2026 12:09:25 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: So I went in to look at how much cash they&apos;ve burned over their life and I was going to compare this to the $750b active MFs have burned in underperformance to put that # into perspective but when i ran numbers I found they actually GENERATED $66b in cash for the traders that use them. Many of",
-      "pubDate": "Mon, 13 Jul 2026 12:09:25 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2076640137530822970#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 13 Jul 2026 12:04:39 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Leveraged ETFs have been catching a lot of crap lately as the new boogeyman du jour. I get it but to some degree their impact is overblown. They make up 34% of the launches 13% of launches (and much of media coverage) so they can seem massive but they only acct for 1% of ETF assets and an even smaller % of US equity mk",
-      "pubDate": "Mon, 13 Jul 2026 12:04:39 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2076638938387591484#m",
-      "keywords": [
-        "ETF 수급",
-        "LTH 보유자"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 13 Jul 2026 10:41:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Here&apos;s how to get started👇 https://userguide.cryptoquant.com/api/mcp-server-beta/remote-mcp-recommended?utm_source=twitter&utm_medium=sns&utm_campaign=data-guide&utm_content=mcp",
-      "pubDate": "Mon, 13 Jul 2026 10:41:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076617885443854814#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Mon, 13 Jul 2026 10:33:37 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Analyzing on-chain data has never been easier 💡 With CryptoQuant MCP in Claude, you can explore and analyze blockchain data using natural language.",
-      "pubDate": "Mon, 13 Jul 2026 10:33:37 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076616026599432290#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 13 Jul 2026 09:50:04 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Institutions seem to be accumulating $ETH. A wallet linked to #K3Capital withdrew 10,000 $ETH($17.85M) from #Binance 1 hour ago. Abraxas Capital also withdrew 6,948 $ETH($12.42M) from #Binance and #Bitfinex 1 hour ago. https://arkm.com/explorer/address/0x4352Cc849b33a936Ad93bB109aFDec1c89653b4f https://arkm.com/explore",
-      "pubDate": "Mon, 13 Jul 2026 09:50:04 GMT",
-      "link": "https://nitter.net/lookonchain/status/2076605067323715955#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Mon, 13 Jul 2026 09:46:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @_Crypto_glass: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a5273f47a878621f5277502-BTC-Composite-Index-Shows-Partial-Reset-Not-a-Deep-Macro-Reset?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=zizcrypto",
-      "pubDate": "Mon, 13 Jul 2026 09:46:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076604044051636494#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Mon, 13 Jul 2026 09:41:23 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "BTC: Composite Index Shows Partial Reset, Not a Deep Macro Reset “Partial reset — normalization has started, but the current reading has not matched prior cycle-bottom trough depth.” – By @_Crypto_glass",
-      "pubDate": "Mon, 13 Jul 2026 09:41:23 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076602883437420662#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 13 Jul 2026 09:24:45 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This trader has made over $9M on @Aster_DEX in less than a month — an 806% return! He made just one trade: a 1x short on $ESPORTS. On June 18, he deposited 1M $USDT into Aster and opened 1x short on $ESPORTS. He has already realized $4.28M by closing part of the position and still holds a 137.73M $ESPORTS($1.95M) short",
-      "pubDate": "Mon, 13 Jul 2026 09:24:45 GMT",
-      "link": "https://nitter.net/lookonchain/status/2076598699027739091#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Mon, 13 Jul 2026 09:08:28 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -960,19 +984,6 @@
       "keywords": [
         "BTC 사이클",
         "약세장"
-      ]
-    },
-    {
-      "id": "rektcapital__Fri, 10 Jul 2026 14:53:43 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $ETH $JASMY $DEGEN $CPOOL $HYPE $JUP I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-281/ $BTC #BTC #Bitcoin",
-      "pubDate": "Fri, 10 Jul 2026 14:53:43 GMT",
-      "link": "https://nitter.net/rektcapital/status/2075594323186311364#m",
-      "keywords": [
-        "BTC"
       ]
     },
     {
@@ -1050,21 +1061,6 @@
         "약세장",
         "강세 신호",
         "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 09 Jul 2026 18:51:24 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Just for the record I&apos;m bullish on AI-biotech company $ABCL (@AbCelleraBio) I&apos;m bullish because: - The company has incredible fundamentals that I think have been overlooked (meaning the company is undervalued imo). They&apos;ve been cooking on their tech and vertical integration, while critics wrongly dismiss",
-      "pubDate": "Thu, 09 Jul 2026 18:51:24 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2075291748352287079#m",
-      "keywords": [
-        "ETF 수급",
-        "강세장",
-        "강세 신호"
       ]
     },
     {
