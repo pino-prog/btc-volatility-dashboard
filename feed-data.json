@@ -1,6 +1,71 @@
 {
-  "updatedAt": "2026-07-16T03:21:21.011Z",
+  "updatedAt": "2026-07-16T08:25:07.852Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Thu, 16 Jul 2026 07:22:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Crazzyblockk: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a57a5017a878621f5277abe-Why-Exchange-Leverage-is-Flashing-a-Deleveraging-Warning?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crazzyblockk",
+      "pubDate": "Thu, 16 Jul 2026 07:22:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2077654968816062667#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Thu, 16 Jul 2026 07:15:46 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Why Exchange Leverage is Flashing a Deleveraging Warning? “Data shows that leverage deployment has stretched into the top 5% of historical extremes… Current market rally is built on borrowed margin that lacks the underlying spot liquidity to sustain it.” – By @Crazzyblockk",
+      "pubDate": "Thu, 16 Jul 2026 07:15:46 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2077653401286906093#m",
+      "keywords": [
+        "유동성"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 16 Jul 2026 06:43:26 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Someone created a new wallet, deposited 10M $USDC into Hyperliquid to short $CXMT. The wallet has opened a 1x short on 514,357 $CXMT($3.8M) and placed limit orders to add another 490,000 $CXMT($4.17M) short position between $8 and $9. https://hypurrscan.io/address/0xf2925cb0779a741fe33037cbd88fca5382e41244#perps",
+      "pubDate": "Thu, 16 Jul 2026 06:43:26 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077645265662787596#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Thu, 16 Jul 2026 06:11:14 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: One of the metrics I watch most closely when trying to gauge a bear market&apos;s end is, Realized Loss volume (in USD) by the 1-2 year holders. This age bracket captures coins last moved roughly 12 to 24 months ago, placing them closest to cycle-peak buyers. As frustration builds with sustained price",
+      "pubDate": "Thu, 16 Jul 2026 06:11:14 GMT",
+      "link": "https://nitter.net/cryptovizart/status/2077637162338496533#m",
+      "keywords": [
+        "고래 이동",
+        "BTC 사이클",
+        "약세장",
+        "분배"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 16 Jul 2026 03:25:08 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales continue accumulating $ETH. Three newly created wallets withdrew 30,000 $ETH ($57.66M) from Coinbase Prime 9 hours ago. https://arkm.com/explorer/address/0x1a183756d81e37573ACc91AC23Ec4dAE57dAfdf1 https://arkm.com/explorer/address/0x84D5B87d281E8dA138A11da793C771E4F2Dfac3D https://arkm.com/explorer/address/0x8Aa",
+      "pubDate": "Thu, 16 Jul 2026 03:25:08 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077595361011712159#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Thu, 16 Jul 2026 02:58:43 GMT",
       "handle": "lookonchain",
@@ -869,57 +934,6 @@
       ]
     },
     {
-      "id": "lookonchain__Tue, 14 Jul 2026 08:07:52 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Machi(@machibigbrother) just sold Bored Ape #251 at a loss of 6.99 $ETH($12.4K) to raise more funds for his $ETH long. He currently holds a 5,264 $ETH($9.38M) long position, with a liquidation price of $1,756.76. https://opensea.io/item/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/251 https://hypurrscan.io/addre",
-      "pubDate": "Tue, 14 Jul 2026 08:07:52 GMT",
-      "link": "https://nitter.net/lookonchain/status/2076941735121551410#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 14 Jul 2026 08:07:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @MorenoDV_: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a551204718c636ace57cbd2-Bitcoin-Is-Building-a-Bottom-Through-a-Transfer-of-Pain?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
-      "pubDate": "Tue, 14 Jul 2026 08:07:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076941517910909197#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 14 Jul 2026 08:02:21 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Is Building a Bottom Through a Transfer of Pain “Eventual capitulation, or the gradual absorption of their high-cost supply by stronger hands, helps complete the redistribution necessary to build a more durable base.” – By @MorenoDV_",
-      "pubDate": "Tue, 14 Jul 2026 08:02:21 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076940349696512159#m",
-      "keywords": [
-        "분배",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Tue, 14 Jul 2026 04:00:20 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Someone spent 519 $ETH($925K) to buy 6.12M $CASHCAT 5 hours ago. https://debank.com/profile/0xbf732ea04197942783e34730ed6e0f6099575d58/history",
-      "pubDate": "Tue, 14 Jul 2026 04:00:20 GMT",
-      "link": "https://nitter.net/lookonchain/status/2076879442094465355#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Mon, 13 Jul 2026 17:44:46 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -1110,19 +1124,6 @@
         "ETF 수급",
         "LTH 보유자",
         "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Tue, 07 Jul 2026 16:15:50 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: $BTC volume sent from long-term holders in profit to exchanges has faded and sits near its lowest since early 2023. LTH profit-taking has effectively switched off.",
-      "pubDate": "Tue, 07 Jul 2026 16:15:50 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2074527821339205818#m",
-      "keywords": [
-        "LTH 보유자"
       ]
     },
     {
