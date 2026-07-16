@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-07-16T08:25:07.852Z",
+  "updatedAt": "2026-07-16T14:10:00.767Z",
   "items": [
+    {
+      "id": "lookonchain__Thu, 16 Jul 2026 13:49:50 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Someone created a new wallet, deposited 5M $USDC into Hyperliquid, and opened a 2x long on 194,175 $CXMT($1.38M). Liquidation price: $4 https://hypurrscan.io/address/0x2b61e63b11295c0a1dda2875ac3af00669732f6c#perps",
+      "pubDate": "Thu, 16 Jul 2026 13:49:50 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077752571851362696#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 16 Jul 2026 13:36:40 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Abraxas Capital continues accumulating $ETH. Over the past 5 hours, Abraxas Capital has withdrawn another 8,452 $ETH($16M) from #Binance and #Bybit. https://arkm.com/explorer/entity/abraxas-capital-heka-funds",
+      "pubDate": "Thu, 16 Jul 2026 13:36:40 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077749257810190590#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Thu, 16 Jul 2026 13:35:27 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin is showing initial signs of rejection from the 50-Month EMA (purple), closely mimicking 2022 historical price tendencies at this very moment in the cycle $BTC #Crypto #Bitcoin",
+      "pubDate": "Thu, 16 Jul 2026 13:35:27 GMT",
+      "link": "https://nitter.net/rektcapital/status/2077748952791756803#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Thu, 16 Jul 2026 12:31:01 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "This fact has been an unmovable object in my mind the whole time.. I feel like many are mid-witting the Fed, overthinking something that is really not complicated at all, barring some massive inflation spike or something like that.",
+      "pubDate": "Thu, 16 Jul 2026 12:31:01 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077732736442175851#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Thu, 16 Jul 2026 12:21:49 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Link to full article here: https://www.bloomberg.com/news/articles/2026-07-16/south-korea-to-halt-new-listings-of-single-stock-leveraged-etfs?srnd=undefined",
+      "pubDate": "Thu, 16 Jul 2026 12:21:49 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077730423375851821#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Thu, 16 Jul 2026 12:19:43 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "TOO HOT: South Korea&apos;s govt is halting listing of levered single stock ETFs and increasing min deposit to use them in effort to cool down a retail frenzy. SK has one of the highest degen per capitas in world combined w/ an increasingly hot/volatile stock mkt w/ SK Hynix and Samsung making up 50% of entire eq mkt a",
+      "pubDate": "Thu, 16 Jul 2026 12:19:43 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2077729894146908235#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
     {
       "id": "cryptoquant_com__Thu, 16 Jul 2026 07:22:00 GMT",
       "handle": "cryptoquant_com",
@@ -206,7 +281,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $AERO $HYPE $JUP $LINK $PEPE $ZEC I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-152/ #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $AERO $HYPE $JUP $LINK $PEPE $ZEC I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-152/ #BTC $BTC #Bitcoin",
       "pubDate": "Wed, 15 Jul 2026 16:57:14 GMT",
       "link": "https://nitter.net/rektcapital/status/2077437343233888485#m",
       "keywords": [
@@ -823,39 +898,6 @@
       ]
     },
     {
-      "id": "lookonchain__Tue, 14 Jul 2026 13:20:34 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "After losing $46.46M shorting $HYPE, loracle.hl (@loraclexyz) opened new positions today: long on $SKHX and short on #oil. His PnL has been a roller coaster—swinging from a peak profit of $42.87M to a $17.27M loss, and now back to an overall profit of $2.06M. https://hypurrscan.io/address/0x8def9f50456c6c4e37fa5d3d57f1",
-      "pubDate": "Tue, 14 Jul 2026 13:20:34 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077020431513751626#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Tue, 14 Jul 2026 13:01:38 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: I love Spain (was there this year, beautiful) but i&apos;ll be rooting for France, US is forever in their debt, plus I like Mbappe, he&apos;s so fun to watch, just seems like he loves to play and he&apos;s having fun wrecking other teams. Hoping for Mbappe vs Messi Final. Must-see TV (which rare fo",
-      "pubDate": "Tue, 14 Jul 2026 13:01:38 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2077015667761434794#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Tue, 14 Jul 2026 12:55:27 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Ppl complaining about 3pm game. I&apos;m an expert in being annoyed by start times bc of western time zones so figure i&apos;d weigh in: this is the RIGHT MOVE. Soccer is much bigger deal in Europe, so let them have a reasonable time (9pm) to watch game w/ family vs 2am which is brutal.",
-      "pubDate": "Tue, 14 Jul 2026 12:55:27 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2077014108466004138#m",
-      "keywords": []
-    },
-    {
       "id": "_Checkmatey___Tue, 14 Jul 2026 11:51:10 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -871,28 +913,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Tue, 14 Jul 2026 11:40:52 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Meanwhile JPM set revenue records in every line of business last quarter. Man..",
-      "pubDate": "Tue, 14 Jul 2026 11:40:52 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2076995338519343175#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Tue, 14 Jul 2026 11:38:46 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Goldman posted record quarter in stock trading with $7.4b up 72% YoY (which was part of an overall $20b in revenue). Wow.",
-      "pubDate": "Tue, 14 Jul 2026 11:38:46 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2076994812499161423#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Tue, 14 Jul 2026 10:40:41 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -904,32 +924,6 @@
       "keywords": [
         "ETF 수급",
         "스팟 ETF",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 14 Jul 2026 09:45:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Darkfost_Coc: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a5557e63eb04801bdf1831e-Memecoins-Faced-12B-in-Cumulative-Selling-Pressure-on-Binance-Since-Bitcoins-ATH?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
-      "pubDate": "Tue, 14 Jul 2026 09:45:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076966180187963786#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 14 Jul 2026 09:39:57 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Memecoins Faced $1.2B in Cumulative Selling Pressure on Binance Since Bitcoin&apos;s ATH “This represents massive selling pressure on the riskiest assets in the crypto ecosystem.” – By @Darkfost_Coc",
-      "pubDate": "Tue, 14 Jul 2026 09:39:57 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2076964909380669495#m",
-      "keywords": [
         "BTC"
       ]
     },
@@ -1081,21 +1075,6 @@
       ]
     },
     {
-      "id": "ColinTCrypto__Fri, 10 Jul 2026 00:05:30 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: Biotech ETF Breakouts - $GNOM is the Global X Genomics & Biotechnology ETF. It tracks global companies specializing in gene editing, genomic sequencing, and genetic medicine. - $IBB is the iShares Biotechnology ETF. It is one of the oldest and largest funds tracking standard U.S. biotechnology compa",
-      "pubDate": "Fri, 10 Jul 2026 00:05:30 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2075370796000665719#m",
-      "keywords": [
-        "ETF 수급",
-        "저항선",
-        "TA"
-      ]
-    },
-    {
       "id": "ki_young_ju__Thu, 09 Jul 2026 21:31:33 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1109,6 +1088,21 @@
         "약세장",
         "강세 신호",
         "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Thu, 09 Jul 2026 18:51:24 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "Just for the record I&apos;m bullish on AI-biotech company $ABCL (@AbCelleraBio) I&apos;m bullish because: - The company has incredible fundamentals that I think have been overlooked (meaning the company is undervalued imo). They&apos;ve been cooking on their tech and vertical integration, while critics wrongly dismiss",
+      "pubDate": "Thu, 09 Jul 2026 18:51:24 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2075291748352287079#m",
+      "keywords": [
+        "ETF 수급",
+        "강세장",
+        "강세 신호"
       ]
     },
     {
@@ -1196,17 +1190,6 @@
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
-      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
-      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
       "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
       "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
@@ -1215,6 +1198,22 @@
         "BTC 사이클",
         "강세장",
         "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
       ]
     }
   ]
