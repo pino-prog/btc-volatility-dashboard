@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-07-17T03:24:34.507Z",
+  "updatedAt": "2026-07-17T08:21:13.543Z",
   "items": [
+    {
+      "id": "lookonchain__Fri, 17 Jul 2026 07:57:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Trader 0xc36a started shorting $CASHCAT 2 days ago and is now up $529K in unrealized profit. https://hypurrscan.io/address/0xc36af149b64a41aab6c26ea6b71c37082d9e105b#perps",
+      "pubDate": "Fri, 17 Jul 2026 07:57:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2078026323386392729#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 17 Jul 2026 07:13:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @xwinfinance: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a594bf47a878621f5277d1b-Japans-Crypto-Market-Enters-a-New-Era-Financial-Reform-Opens-the-Door-to-Bitcoin?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=xwin",
+      "pubDate": "Fri, 17 Jul 2026 07:13:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2078015091841364394#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 17 Jul 2026 07:06:55 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Japan&apos;s Crypto Market Enters a New Era: Financial Reform Opens the Door to Bitcoin ETFs “If Japan follows a similar path, institutional participation could expand significantly, creating new demand for digital assets.” – By @xwinfinance",
+      "pubDate": "Fri, 17 Jul 2026 07:06:55 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2078013562300039629#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 17 Jul 2026 06:13:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @IT_Tech_PL: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a591f607a878621f5277cdd-You-really-think-the-bottom-is-already-in?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=it-tech",
+      "pubDate": "Fri, 17 Jul 2026 06:13:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2077999992292458918#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 17 Jul 2026 06:07:32 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "You really think the bottom is already in? “2024: Relentless accumulation - over 500K BTC in net inflows 2025: Peaking around 250K BTC 2026: Roughly 120K BTC of cumulative net outflows But based on this data alone - this is a headwind, not a tailwind.” – By @IT_Tech_PL",
+      "pubDate": "Fri, 17 Jul 2026 06:07:32 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2077998617931940067#m",
+      "keywords": [
+        "매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 17 Jul 2026 03:47:39 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The #a16z-linked whale that previously accumulated a massive amount of $HYPE has started selling! Over the past 2 days, the whale has deposited 437,000 $HYPE ($28.38M) into #Hyperliquid, #OKX, #Bybit, and #Gate to sell. $HYPE has already fallen 12% over the past 2 days. https://arkm.com/explorer/address/0xb5E4d21240e93",
+      "pubDate": "Fri, 17 Jul 2026 03:47:39 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077963413037130208#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 17 Jul 2026 03:22:54 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales continue accumulating $ETH. Another 2 newly created wallets withdrew 20,000 $ETH($37.72M) from #CoinbasePrime today. Over the past 3 days, 7 newly created wallets have withdrawn a total of 89,396 $ETH($164.88M) from #CoinbasePrime. Wallets: 0xf42962b8020D09517A0efb7138EF7e989F9727d9 0x8C71ca4D7abb9bb7111bdbD62cE",
+      "pubDate": "Fri, 17 Jul 2026 03:22:54 GMT",
+      "link": "https://nitter.net/lookonchain/status/2077957186169491581#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Fri, 17 Jul 2026 01:58:46 GMT",
       "handle": "lookonchain",
@@ -770,53 +862,6 @@
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Wed, 15 Jul 2026 07:32:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Darkfost_Coc: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a5650dc7a878621f5277948-ETH-jumps-over-4-as-cooler-than-expected-US-CPI-cools-rate-hike-bets?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
-      "pubDate": "Wed, 15 Jul 2026 07:32:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2077295097645867501#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Wed, 15 Jul 2026 07:26:08 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "ETH Jumped +4% as Cooler Than Expected U.S. CPI Cools Rate Hike Bets “Within the first hour following the announcement, $1,2B in taker buy volume flowed into Binance, pushing ETH sharply higher.” – By @Darkfost_Coc",
-      "pubDate": "Wed, 15 Jul 2026 07:26:08 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2077293622815285728#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 15 Jul 2026 04:34:26 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A mysterious whale with $75.4M is long on $CXMT! He opened a 5x long on 20,000 $CXMT($164K) at $6 and is already up $44K. He also placed limit orders to add more to his $CXMT long position between $5.8 and $7.2. https://hypurrscan.io/address/0x9a80d88c21be60e870d07d852390e92d09223cf2#perps",
-      "pubDate": "Wed, 15 Jul 2026 04:34:26 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077250410973380883#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 15 Jul 2026 03:36:00 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "CXMT ($CXMT) is set to list on China&apos;s A-share market at an IPO price of 8.66 RMB (~1.28 USD). We spotted $5.93M in buy orders at $7.2 and another $5.58M in buy orders at $6. https://app.hyperliquid.xyz/trade/xyz:CXMT",
-      "pubDate": "Wed, 15 Jul 2026 03:36:00 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077235708981592175#m",
-      "keywords": []
-    },
-    {
       "id": "_Checkmatey___Wed, 15 Jul 2026 00:29:22 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1140,17 +1185,6 @@
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
-      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
-      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
       "text": "R to @ki_young_ju: In 2011, just $5M in net capital inflows was enough to double Bitcoin&apos;s price. In this cycle, it took roughly $101B to double it. The next parabolic bull cycle will likely require trillions in net capital inflows, which means institutional adoption needs to truly take off.",
       "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2072203875785097568#m",
@@ -1159,6 +1193,22 @@
         "BTC 사이클",
         "강세장",
         "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
       ]
     }
   ]
