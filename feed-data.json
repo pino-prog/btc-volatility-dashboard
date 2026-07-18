@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-07-17T19:20:50.262Z",
+  "updatedAt": "2026-07-18T03:13:29.988Z",
   "items": [
+    {
+      "id": "lookonchain__Sat, 18 Jul 2026 02:29:47 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x8Fa4 sold 30,000 $ETH for 55M $USDC at a selling price of $1,833.33 via OTC 9 hours ago. https://arkm.com/explorer/address/0x8Fa4EE1776032B612206E754eC2382b534D4ac6F",
+      "pubDate": "Sat, 18 Jul 2026 02:29:47 GMT",
+      "link": "https://nitter.net/lookonchain/status/2078306209027993828#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 18 Jul 2026 02:21:00 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Pump fun(@Pumpfun) sold another 81,711 $SOL($6.15M) again today! In total, http://pump.fun has sold 4,738,536 $SOL($800.96M) at an average price of $169. https://arkm.com/explorer/entity/pump-fun",
+      "pubDate": "Sat, 18 Jul 2026 02:21:00 GMT",
+      "link": "https://nitter.net/lookonchain/status/2078303998172700894#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 18 Jul 2026 01:09:31 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Four wallets opened 1x long positions on $AKE on @Aster_DEX, with a combined position of 3.48B $AKE($4.95M). They are now up $1.42M in unrealized profit. https://www.asterdex.com/en/explorer/address/0x5B49875CAa304174d5a98CbA949044542a23fcA1 https://www.asterdex.com/en/explorer/address/0xEaF850d65Dc888951E2bada0D0786Dc",
+      "pubDate": "Sat, 18 Jul 2026 01:09:31 GMT",
+      "link": "https://nitter.net/lookonchain/status/2078286005552226393#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Fri, 17 Jul 2026 19:57:26 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: CryptoQuant said Michael Saylor&apos;s Strategy still needs clearer rules for when to buy and sell bitcoin. \"The Digital Credit Capital Framework is a genuine course correction,\" CryptoQuant said. \"To complete that shift, Strategy still needs to define two things: a systematic model for timing b",
+      "pubDate": "Fri, 17 Jul 2026 19:57:26 GMT",
+      "link": "https://nitter.net/TheBlockCo/status/2078207470057783640#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
     {
       "id": "rektcapital__Fri, 17 Jul 2026 18:50:56 GMT",
       "handle": "rektcapital",
@@ -652,7 +703,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "Bitcoin Prediction Comes True - Four Year Cycle Prevails #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: Bitcoin Prediction Comes True - Four Year Cycle Prevails #BTC $BTC #Bitcoin",
       "pubDate": "Thu, 16 Jul 2026 14:23:00 GMT",
       "link": "https://nitter.net/rektcapital/status/2077760917228466316#m",
       "keywords": [
@@ -801,114 +852,6 @@
       ]
     },
     {
-      "id": "lookonchain__Thu, 16 Jul 2026 02:58:43 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A #BitcoinOG transferred 5,908 $BTC($382.67M) to a new wallet after being dormant for 8 years. The OG received 5,908 $BTC 8 years ago when $BTC was trading at $16,865 and had held it ever since. The position is now up $283M (+284%). https://arkm.com/explorer/address/138EMxwMtKuvCEUtm4qUfT2x344TSReyiT",
-      "pubDate": "Thu, 16 Jul 2026 02:58:43 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077588714809962644#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 16 Jul 2026 01:01:26 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Damn. Michael Jordan energy. He def took it personally. Why would you poke the tiger like that. Dumb. Too young and overconfident.",
-      "pubDate": "Thu, 16 Jul 2026 01:01:26 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2077559195461624298#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 16 Jul 2026 01:00:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Ostium (@Ostium) was exploited, with 23.75M $USDC stolen. 🚨 The exploiter swapped all 23.75M $USDC for 12,084 $ETH, at an average price of $1,966. The exploiter then deposited most of the $ETH into #TornadoCash to launder the funds. https://arkm.com/explorer/entity/456a2624-9f5f-40da-a124-9552894443ed",
-      "pubDate": "Thu, 16 Jul 2026 01:00:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077559071159558379#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 16 Jul 2026 00:50:06 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A mysterious whale is going long on $AKE on @Aster_DEX. Someone created 3 new wallets, deposited 3M $USDT into @Aster_DEX, and opened long positions totaling 4.73B $AKE($3.37M). https://www.asterdex.com/en/explorer/address/0x1e1Aabe8746cdF9166fe7c51BFc8E2438BC1714e https://www.asterdex.com/en/explorer/address/0xDe8E319",
-      "pubDate": "Thu, 16 Jul 2026 00:50:06 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077556346346733996#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 16 Jul 2026 00:15:59 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Arthur Hayes(@CryptoHayes) bought 1,293 $ETH($2.48M) an hour ago. https://arkm.com/explorer/entity/arthur-hayes",
-      "pubDate": "Thu, 16 Jul 2026 00:15:59 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077547759864074687#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 15 Jul 2026 23:26:50 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "I&apos;m sorry but my American mind cannot comprehend this. In all the sports I watch once you&apos;re out, you&apos;re out. Cancun time. Seems almost embarrassing for the teams/players. Do they even want to play? will they even try? What am I missing?",
-      "pubDate": "Wed, 15 Jul 2026 23:26:50 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2077535392195067996#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 15 Jul 2026 21:39:26 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Great game but brutal loss for England. I&apos;ve watched Philly teams snatch defeat from the jaws of victory many times so i know the feeling. On flip, Argentina&apos;s ability to find ways to win late is special, feels like the soccer gods are on their side. Final should be great.",
-      "pubDate": "Wed, 15 Jul 2026 21:39:26 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2077508363777134617#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 15 Jul 2026 20:11:49 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "The Canton ETF (only one in the US, with the ticker $TCAN) had no bump in what is very dismal volume despite a 5% jump in price on the DTCC news today. A bit surprising. I think once you get out into these outer planet cryptos it takes a lot more shiny object-ness to get attn.",
-      "pubDate": "Wed, 15 Jul 2026 20:11:49 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2077486311003361664#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 15 Jul 2026 19:57:16 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "We have our first termination of a 2x stock ETF in the US this year (there&apos;s been a few in Europe where leverage is much higher). $LCLD went down 92% in short order yest, well beyond the 50% threshold for termination. It had no assets but still good reminder of the vol of some of these. Here&apos;s GraniteShares r",
-      "pubDate": "Wed, 15 Jul 2026 19:57:16 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2077482649417863424#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
       "id": "glassnode__Wed, 15 Jul 2026 17:36:37 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -935,19 +878,6 @@
       "keywords": [
         "강세장",
         "강세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 15 Jul 2026 10:21:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: How Does Bitcoin Tend To Perform Over The Summer? #BTC $BTC #Bitcoin",
-      "pubDate": "Wed, 15 Jul 2026 10:21:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2077337628421075020#m",
-      "keywords": [
         "BTC"
       ]
     },
@@ -1221,6 +1151,37 @@
         "기관 수급",
         "BTC 사이클",
         "강세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Fri, 05 Jun 2026 11:39:33 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Pinned: I&apos;ve spent months compiling my knowledge of #Crypto Technical Analysis into a FREE course for beginners → Master 5 key chart patterns → Trading support/resistance → Utilise trendlines & moving averages Learn it all for FREE here: https://www.rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bi",
+      "pubDate": "Fri, 05 Jun 2026 11:39:33 GMT",
+      "link": "https://nitter.net/rektcapital/status/2062861883321745423#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "지지선",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Thu, 02 Jan 2025 21:52:51 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "2025 will likely see the #BTC Bull Market peak and the very beginnings of a brand new Bear Market The majority of the Bear Market will take place however in 2026 The Bear Market would last some 365+ days and be between -65% to -80% deep $BTC #Crypto #Bitcoin",
+      "pubDate": "Thu, 02 Jan 2025 21:52:51 GMT",
+      "link": "https://nitter.net/rektcapital/status/1874936923611136161#m",
+      "keywords": [
+        "강세장",
+        "약세장",
         "BTC"
       ]
     }
