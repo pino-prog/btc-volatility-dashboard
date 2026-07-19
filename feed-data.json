@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-07-19T03:34:08.868Z",
+  "updatedAt": "2026-07-19T08:28:57.295Z",
   "items": [
+    {
+      "id": "lookonchain__Sun, 19 Jul 2026 04:10:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x66f8 continues to go long on $BTC, with the position now reaching 1,660 $BTC $107.36M). Liquidation price: $63,123 https://hypurrscan.io/address/0x66f889094739dbb7d20aa60f645acd88feba75a9#perps",
+      "pubDate": "Sun, 19 Jul 2026 04:10:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2078693972994854997#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 19 Jul 2026 03:52:04 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales are going long on $ETH. Two newly created wallets sold 72 $BTC($4.66M) and then opened 20x long positions on 12,000 $ETH($22.4M). https://hypurrscan.io/address/0x90016ea66f86f1fc0133af2042f3c65320cfcda3#perps https://hypurrscan.io/address/0xf8006a4b864025365c63ebaaaf926f27a3f14d70#perps",
+      "pubDate": "Sun, 19 Jul 2026 03:52:04 GMT",
+      "link": "https://nitter.net/lookonchain/status/2078689303560171841#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "ki_young_ju__Sun, 19 Jul 2026 00:45:17 GMT",
       "handle": "ki_young_ju",
@@ -584,30 +613,6 @@
       ]
     },
     {
-      "id": "lookonchain__Fri, 17 Jul 2026 07:57:38 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Trader 0xc36a started shorting $CASHCAT 2 days ago and is now up $529K in unrealized profit. https://hypurrscan.io/address/0xc36af149b64a41aab6c26ea6b71c37082d9e105b#perps",
-      "pubDate": "Fri, 17 Jul 2026 07:57:38 GMT",
-      "link": "https://nitter.net/lookonchain/status/2078026323386392729#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Fri, 17 Jul 2026 07:54:57 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Agree 👍 RC is the only account I would take very seriously this bear market 🤝",
-      "pubDate": "Fri, 17 Jul 2026 07:54:57 GMT",
-      "link": "https://nitter.net/GT3EXIGE/status/2078025651886452759#m",
-      "keywords": [
-        "약세장"
-      ]
-    },
-    {
       "id": "_Checkmatey___Fri, 17 Jul 2026 07:35:11 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -683,20 +688,6 @@
       "keywords": [
         "지지선",
         "TA"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 17 Jul 2026 03:47:39 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #a16z-linked whale that previously accumulated a massive amount of $HYPE has started selling! Over the past 2 days, the whale has deposited 437,000 $HYPE ($28.38M) into #Hyperliquid, #OKX, #Bybit, and #Gate to sell. $HYPE has already fallen 12% over the past 2 days. https://arkm.com/explorer/address/0xb5E4d21240e93",
-      "pubDate": "Fri, 17 Jul 2026 03:47:39 GMT",
-      "link": "https://nitter.net/lookonchain/status/2077963413037130208#m",
-      "keywords": [
-        "고래",
-        "Whale"
       ]
     },
     {
@@ -981,15 +972,20 @@
       ]
     },
     {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:18 GMT",
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
       "category": "온체인/파생상품",
       "color": "sky",
-      "text": "R to @ki_young_ju: Link to the dashboard https://cryptoquant.com/community/dashboard/6a44ad7c3eb04801bdf16e16",
-      "pubDate": "Wed, 01 Jul 2026 06:21:18 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203877785715165#m",
-      "keywords": []
+      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
+      ]
     }
   ]
 }
