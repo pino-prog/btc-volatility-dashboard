@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-07-20T03:48:30.080Z",
+  "updatedAt": "2026-07-20T09:28:35.809Z",
   "items": [
+    {
+      "id": "lookonchain__Mon, 20 Jul 2026 07:43:14 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales are accumulating $ETH. A newly created wallet, 0xf23c, withdrew 10,000 $ETH($18.6M) from #Binance and staked it all. https://arkm.com/explorer/address/0xf23c9B89700CD03fB602f3D076086F9b9d19A2Ca",
+      "pubDate": "Mon, 20 Jul 2026 07:43:14 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079109863217709144#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 20 Jul 2026 07:41:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @AmrT_Heisenberg: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a5cfce8718c636ace57d492-Bitcoin-Whales-Accumulate-66700-BTC-as-1001K-BTC-Holders-Post-Their-Strongest-Di?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=amr-taha",
+      "pubDate": "Mon, 20 Jul 2026 07:41:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079109301843714230#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 20 Jul 2026 07:35:46 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Whales Add 66,700 BTC as Mid-Tier Holders Sell Heavily “Sustained accumulation by larger holders can reduce the amount of immediately available supply, particularly when it occurs during periods of aggressive distribution from smaller cohorts.” – @AmrT_Heisenberg",
+      "pubDate": "Mon, 20 Jul 2026 07:35:46 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079107987537383620#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "매집",
+        "분배"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 20 Jul 2026 03:26:27 GMT",
       "handle": "lookonchain",
@@ -421,20 +466,6 @@
       ]
     },
     {
-      "id": "lookonchain__Sat, 18 Jul 2026 06:17:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #a16z-linked whale continues selling $HYPE. Over the past 24 hours, the whale has sold another 421,796 $HYPE ($25.3M). https://arkm.com/explorer/address/0xb5E4d21240e9356caFc3a1261d10383f62DFc24e https://arkm.com/explorer/address/0xF436ADa6B8f4d235BA806f44B22Fa4ee115c9BC2",
-      "pubDate": "Sat, 18 Jul 2026 06:17:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2078363623391690972#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "_Checkmatey___Sat, 18 Jul 2026 04:11:55 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -550,6 +581,19 @@
       "keywords": []
     },
     {
+      "id": "glassnode__Fri, 17 Jul 2026 11:46:48 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: $BTC implied volatility has fallen from 48 to 40 as price recovered. The decline in DVOL shows the options market unwinding part of June’s fear premium, although volatility remains above May lows, signalling that uncertainty has eased, not disappeared. https://glassno.de/4fkriN4",
+      "pubDate": "Fri, 17 Jul 2026 11:46:48 GMT",
+      "link": "https://nitter.net/glassnode/status/2078083997075210463#m",
+      "keywords": [
+        "LTH 보유자"
+      ]
+    },
+    {
       "id": "glassnode__Fri, 17 Jul 2026 11:46:47 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -598,31 +642,6 @@
       "keywords": [
         "ETF 수급",
         "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 17 Jul 2026 06:13:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @IT_Tech_PL: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a591f607a878621f5277cdd-You-really-think-the-bottom-is-already-in?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=it-tech",
-      "pubDate": "Fri, 17 Jul 2026 06:13:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2077999992292458918#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 17 Jul 2026 06:07:32 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "You really think the bottom is already in? “2024: Relentless accumulation - over 500K BTC in net inflows 2025: Peaking around 250K BTC 2026: Roughly 120K BTC of cumulative net outflows But based on this data alone - this is a headwind, not a tailwind.” – By @IT_Tech_PL",
-      "pubDate": "Fri, 17 Jul 2026 06:07:32 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2077998617931940067#m",
-      "keywords": [
-        "매집",
         "BTC"
       ]
     },
@@ -686,21 +705,6 @@
         "BTC 사이클",
         "약세장",
         "분배"
-      ]
-    },
-    {
-      "id": "glassnode__Wed, 15 Jul 2026 17:36:37 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Adding to the sell-side pressure from LTH loss realization, short-term holders who bought near the recent lows are now taking profit at volumes last seen close to the peak in May. Two forces anchoring the rally simultaneously: 1- Cycle-top buyers reducing losses into strength 2- Local-low buyers locking in gains. Both ",
-      "pubDate": "Wed, 15 Jul 2026 17:36:37 GMT",
-      "link": "https://nitter.net/glassnode/status/2077447253581615455#m",
-      "keywords": [
-        "LTH 보유자",
-        "STH 보유자",
-        "BTC 사이클"
       ]
     },
     {
