@@ -1,6 +1,99 @@
 {
-  "updatedAt": "2026-07-19T19:16:11.337Z",
+  "updatedAt": "2026-07-20T03:48:30.080Z",
   "items": [
+    {
+      "id": "lookonchain__Mon, 20 Jul 2026 03:26:27 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After Ansem(@blknoiz06) bought $PUMP with 1,500 $SOL($115K), trader 0xbf73 opened a 10x long on 764.14M $PUMP($1.53M). Liquidation price: $0.0016194 https://hypurrscan.io/address/0xbf732ea04197942783e34730ed6e0f6099575d58#perps https://solscan.io/tx/5xSKzM8bvpudE521jikHqASzMr23Ms4X4ieY3K8oFPFrJWCSSgYocJmHznrR8b12voDxKD",
+      "pubDate": "Mon, 20 Jul 2026 03:26:27 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079045243618705475#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 20 Jul 2026 02:11:25 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Allbridge(@Allbridge_io) was exploited for ~$1.65M! The exploiter quickly bridged all the stolen funds from #Solana to #Ethereum and swapped them for $ETH. https://arkm.com/explorer/address/FhffBraZsGn4H2LxLNToEcaHWEfWwT2UcSz4oRHb7Qdc https://arkm.com/explorer/address/0x651591b68A9c9650FB23F642162353306281ffDe",
+      "pubDate": "Mon, 20 Jul 2026 02:11:25 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079026362095149392#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 20 Jul 2026 00:59:45 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Gambler gud.hl bet $1.23M on Argentina to win the 2026 World Cup when the odds were just 10%. 👀 If he had won, he would have turned $1.23M into $12.35M. Instead, he lost the entire $1.23M. https://polymarket.com/profile/0xa7b7505abe2fdcc497c00074534f7fbd7e07962e",
+      "pubDate": "Mon, 20 Jul 2026 00:59:45 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079008325560344603#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 20 Jul 2026 00:27:33 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A mysterious whale created a new wallet 10 hours ago and bet $1.95M on Spain to win the 2026 World Cup when the odds were 59.1%. He won and made $1.35M in just a few hours! https://polymarket.com/0xe3f1fb88b9eabc743e2a2d947e2efdba5e99bd92",
+      "pubDate": "Mon, 20 Jul 2026 00:27:33 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079000222362161184#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sun, 19 Jul 2026 22:08:32 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Great game. Argy had their chances but better team won IMO. Williams Jr’s header assist was amazing- and unselfish. Also gold star to the Spain defender who used his face to stop the screamer from Messi. Looked seriously painful. Looking fwd to watching more soccer in four years!",
+      "pubDate": "Sun, 19 Jul 2026 22:08:32 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2078965236292350177#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sun, 19 Jul 2026 21:18:53 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Who is better at acting?",
+      "pubDate": "Sun, 19 Jul 2026 21:18:53 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2078952742261797327#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sun, 19 Jul 2026 21:06:47 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: It also would allow more players to see time on the field and for coaching to become a bigger variable (vs coach just observing game like the rest of us)",
+      "pubDate": "Sun, 19 Jul 2026 21:06:47 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2078949697348087952#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sun, 19 Jul 2026 21:03:46 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "In honor of the final WC game here’s my final soccer observation: I don’t get why you can’t come back in the game once you sub out. Don’t the teams (and the fans) want to have all the best players on the field for the max time possible?",
+      "pubDate": "Sun, 19 Jul 2026 21:03:46 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2078948938569195634#m",
+      "keywords": []
+    },
     {
       "id": "rektcapital__Sun, 19 Jul 2026 17:13:53 GMT",
       "handle": "rektcapital",
@@ -49,7 +142,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "Pinned: I&apos;m excited to announce Crypto Investing School 🔥 Get the Early Bird offer today: https://skool.com/rektcapital/about $BTC #BTC #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;m excited to announce Crypto Investing School 🔥 Get the Early Bird offer today: https://skool.com/rektcapital/about $BTC #BTC #Bitcoin",
       "pubDate": "Sun, 19 Jul 2026 14:28:17 GMT",
       "link": "https://nitter.net/rektcapital/status/2078849412764160185#m",
       "keywords": [
@@ -353,42 +446,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Sat, 18 Jul 2026 02:29:47 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x8Fa4 sold 30,000 $ETH for 55M $USDC at a selling price of $1,833.33 via OTC 9 hours ago. https://arkm.com/explorer/address/0x8Fa4EE1776032B612206E754eC2382b534D4ac6F",
-      "pubDate": "Sat, 18 Jul 2026 02:29:47 GMT",
-      "link": "https://nitter.net/lookonchain/status/2078306209027993828#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Sat, 18 Jul 2026 02:21:00 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Pump fun(@Pumpfun) sold another 81,711 $SOL($6.15M) again today! In total, http://pump.fun has sold 4,738,536 $SOL($800.96M) at an average price of $169. https://arkm.com/explorer/entity/pump-fun",
-      "pubDate": "Sat, 18 Jul 2026 02:21:00 GMT",
-      "link": "https://nitter.net/lookonchain/status/2078303998172700894#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sat, 18 Jul 2026 01:09:31 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Four wallets opened 1x long positions on $AKE on @Aster_DEX, with a combined position of 3.48B $AKE($4.95M). They are now up $1.42M in unrealized profit. https://www.asterdex.com/en/explorer/address/0x5B49875CAa304174d5a98CbA949044542a23fcA1 https://www.asterdex.com/en/explorer/address/0xEaF850d65Dc888951E2bada0D0786Dc",
-      "pubDate": "Sat, 18 Jul 2026 01:09:31 GMT",
-      "link": "https://nitter.net/lookonchain/status/2078286005552226393#m",
-      "keywords": []
-    },
-    {
       "id": "cryptoquant_com__Fri, 17 Jul 2026 19:57:26 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -412,17 +469,6 @@
       "text": "RT by @_Checkmatey_: Announcing @_Checkmatey_ as a speaker at the ITC Conference @benjamincowen November 20–22, 2026 | JW Marriott Marquis | Miami Grab your tickets for the conference & party here! 🍾🎟️https://benjamincowen.com/conference",
       "pubDate": "Fri, 17 Jul 2026 17:07:35 GMT",
       "link": "https://nitter.net/ITCConf/status/2078164725985099931#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 17 Jul 2026 15:26:46 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Interesting, since it began its 30% drawdown a few wks ago $DRAM has taken $10b in new cash, pretty steadily too, more than I would have guessed. Dip buying in effect.",
-      "pubDate": "Fri, 17 Jul 2026 15:26:46 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2078139352266281139#m",
       "keywords": []
     },
     {
@@ -502,19 +548,6 @@
       "pubDate": "Fri, 17 Jul 2026 11:46:49 GMT",
       "link": "https://nitter.net/glassnode/status/2078084000707428388#m",
       "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 17 Jul 2026 11:46:48 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: $BTC implied volatility has fallen from 48 to 40 as price recovered. The decline in DVOL shows the options market unwinding part of June’s fear premium, although volatility remains above May lows, signalling that uncertainty has eased, not disappeared. https://glassno.de/4fkriN4",
-      "pubDate": "Fri, 17 Jul 2026 11:46:48 GMT",
-      "link": "https://nitter.net/glassnode/status/2078083997075210463#m",
-      "keywords": [
-        "LTH 보유자"
-      ]
     },
     {
       "id": "glassnode__Fri, 17 Jul 2026 11:46:47 GMT",
@@ -653,6 +686,21 @@
         "BTC 사이클",
         "약세장",
         "분배"
+      ]
+    },
+    {
+      "id": "glassnode__Wed, 15 Jul 2026 17:36:37 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Adding to the sell-side pressure from LTH loss realization, short-term holders who bought near the recent lows are now taking profit at volumes last seen close to the peak in May. Two forces anchoring the rally simultaneously: 1- Cycle-top buyers reducing losses into strength 2- Local-low buyers locking in gains. Both ",
+      "pubDate": "Wed, 15 Jul 2026 17:36:37 GMT",
+      "link": "https://nitter.net/glassnode/status/2077447253581615455#m",
+      "keywords": [
+        "LTH 보유자",
+        "STH 보유자",
+        "BTC 사이클"
       ]
     },
     {
