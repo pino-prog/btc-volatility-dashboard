@@ -1,6 +1,63 @@
 {
-  "updatedAt": "2026-07-21T03:27:26.126Z",
+  "updatedAt": "2026-07-21T08:39:32.162Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Tue, 21 Jul 2026 07:07:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @gaah_im: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a5e9a627a878621f527833b-Momentum-Whale-Inflow-Ratio-hits-new-low-in-2026?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=gaah",
+      "pubDate": "Tue, 21 Jul 2026 07:07:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079463133316514076#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 21 Jul 2026 06:58:25 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Momentum Whale Inflow Ratio Hits New Low in 2026 “A negative Momentum Whale Inflow Ratio signals a decrease in selling pressure, resulting in less downward bearish sentiment on Bitcoin price, which could contribute to a short-term recovery.” – By @gaah_im",
+      "pubDate": "Tue, 21 Jul 2026 06:58:25 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079460975078519224#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "약세장",
+        "약세 신호"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 21 Jul 2026 06:42:16 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A #BitcoinOG with 5K $BTC($435.75M) sold the remaining 1,000 $BTC($65.56M) 2 hours ago. This OG received 5K $BTC(cost $1.66M) at $332 12 years ago, and started selling $BTC on Nov 26, 2024, selling all 5,000 $BTC($435.75M) at ~$87,151. Total profit: $434M — a 262x return. https://arkm.com/explorer/entity/a6f4cb83-3e17-",
+      "pubDate": "Tue, 21 Jul 2026 06:42:16 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079456910525514014#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 21 Jul 2026 06:33:46 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales continue to accumulate $ETH. New wallet (0xf23c) just withdrew another 7,000 $ETH($13.46M) from #Binance and staked it.",
+      "pubDate": "Tue, 21 Jul 2026 06:33:46 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079454769815658877#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 21 Jul 2026 02:46:33 GMT",
       "handle": "lookonchain",
@@ -586,35 +643,6 @@
       ]
     },
     {
-      "id": "lookonchain__Sun, 19 Jul 2026 04:10:38 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x66f8 continues to go long on $BTC, with the position now reaching 1,660 $BTC $107.36M). Liquidation price: $63,123 https://hypurrscan.io/address/0x66f889094739dbb7d20aa60f645acd88feba75a9#perps",
-      "pubDate": "Sun, 19 Jul 2026 04:10:38 GMT",
-      "link": "https://nitter.net/lookonchain/status/2078693972994854997#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "청산"
-      ]
-    },
-    {
-      "id": "lookonchain__Sun, 19 Jul 2026 03:52:04 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales are going long on $ETH. Two newly created wallets sold 72 $BTC($4.66M) and then opened 20x long positions on 12,000 $ETH($22.4M). https://hypurrscan.io/address/0x90016ea66f86f1fc0133af2042f3c65320cfcda3#perps https://hypurrscan.io/address/0xf8006a4b864025365c63ebaaaf926f27a3f14d70#perps",
-      "pubDate": "Sun, 19 Jul 2026 03:52:04 GMT",
-      "link": "https://nitter.net/lookonchain/status/2078689303560171841#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "ki_young_ju__Sun, 19 Jul 2026 00:45:17 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -720,30 +748,6 @@
         "약세장",
         "BTC"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 17 Jul 2026 13:28:50 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Also available everywhere you listen to podcasts. Apple: https://podcasts.apple.com/us/podcast/unbiased-ep-3-charles-edwards-bitcoins-quantum-threat/id1895828427?i=1000776288330 Spotify: https://open.spotify.com/episode/2RZoUImmT2MKta2IGPgHfq",
-      "pubDate": "Fri, 17 Jul 2026 13:28:50 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2078109672783974720#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 17 Jul 2026 13:26:44 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Watch the full episode on YouTube ⤵️ https://youtu.be/vjzuKG-iXL8",
-      "pubDate": "Fri, 17 Jul 2026 13:26:44 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2078109147388633500#m",
-      "keywords": []
     },
     {
       "id": "glassnode__Fri, 17 Jul 2026 11:46:50 GMT",
