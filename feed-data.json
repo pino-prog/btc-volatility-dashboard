@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-07-22T03:26:27.142Z",
+  "updatedAt": "2026-07-22T08:39:08.735Z",
   "items": [
+    {
+      "id": "lookonchain__Wed, 22 Jul 2026 05:44:39 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x007d is making a big long bet on the #Nasdaq-100. Over the past 20 hours, the whale opened a 20x long on 2,353 xyz:XYZ100($68.2M). Liquidation price: $26,833.85 https://hypurrscan.io/address/0x007d76eec0ba411ce873a8819df50dd443d967a0#perps",
+      "pubDate": "Wed, 22 Jul 2026 05:44:39 GMT",
+      "link": "https://nitter.net/lookonchain/status/2079804797520380182#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "청산"
+      ]
+    },
     {
       "id": "lookonchain__Wed, 22 Jul 2026 02:48:43 GMT",
       "handle": "lookonchain",
@@ -427,6 +442,17 @@
       ]
     },
     {
+      "id": "ColinTCrypto__Tue, 21 Jul 2026 08:39:11 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "RT by @ColinTCrypto: “The crowd is always wrong”, spoken by the crowd. 😂",
+      "pubDate": "Tue, 21 Jul 2026 08:39:11 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2079486333051904379#m",
+      "keywords": []
+    },
+    {
       "id": "cryptoquant_com__Tue, 21 Jul 2026 07:07:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -846,51 +872,6 @@
       ]
     },
     {
-      "id": "lookonchain__Mon, 20 Jul 2026 07:43:14 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales are accumulating $ETH. A newly created wallet, 0xf23c, withdrew 10,000 $ETH($18.6M) from #Binance and staked it all. https://arkm.com/explorer/address/0xf23c9B89700CD03fB602f3D076086F9b9d19A2Ca",
-      "pubDate": "Mon, 20 Jul 2026 07:43:14 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079109863217709144#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 20 Jul 2026 07:41:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @AmrT_Heisenberg: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a5cfce8718c636ace57d492-Bitcoin-Whales-Accumulate-66700-BTC-as-1001K-BTC-Holders-Post-Their-Strongest-Di?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=amr-taha",
-      "pubDate": "Mon, 20 Jul 2026 07:41:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079109301843714230#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 20 Jul 2026 07:35:46 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Whales Add 66,700 BTC as Mid-Tier Holders Sell Heavily “Sustained accumulation by larger holders can reduce the amount of immediately available supply, particularly when it occurs during periods of aggressive distribution from smaller cohorts.” – @AmrT_Heisenberg",
-      "pubDate": "Mon, 20 Jul 2026 07:35:46 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079107987537383620#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "매집",
-        "분배"
-      ]
-    },
-    {
       "id": "rektcapital__Sun, 19 Jul 2026 14:28:17 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -913,22 +894,6 @@
       "pubDate": "Sun, 19 Jul 2026 00:45:17 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2078642296908660890#m",
       "keywords": []
-    },
-    {
-      "id": "glassnode__Sat, 18 Jul 2026 23:14:59 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: The STH Cost Basis Distribution heatmap shows a fresh wave of supply rotating into new buyers&apos; hands over the $62k-$65k range, during the rally from $57k. This is a double-edged structure. On one hand, buyers aggressive accumulated into the strength create a potential cost basis floor that could ",
-      "pubDate": "Sat, 18 Jul 2026 23:14:59 GMT",
-      "link": "https://nitter.net/cryptovizart/status/2078619570353610871#m",
-      "keywords": [
-        "STH 보유자",
-        "지지선",
-        "TA",
-        "매집"
-      ]
     },
     {
       "id": "_Checkmatey___Sat, 18 Jul 2026 21:55:12 GMT",
@@ -980,41 +945,6 @@
       ]
     },
     {
-      "id": "glassnode__Fri, 17 Jul 2026 11:46:50 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: $BTC’s options put/call ratio has fallen to a six-month low near 0.59, signalling a decisive shift toward call-heavy positioning. As price stabilises around $64K, traders appear to be reducing downside hedges and rebuilding upside exposure, a constructive shift in sentiment. https://glassno.de/45aozBe",
-      "pubDate": "Fri, 17 Jul 2026 11:46:50 GMT",
-      "link": "https://nitter.net/glassnode/status/2078084004461375626#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 17 Jul 2026 11:46:49 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: $BTC is consolidating near $63K, below a dense negative-gamma cluster around $68K–$70K. A move into this zone could trigger more pro-cyclical dealer hedging and amplify volatility. https://glassno.de/4wRJMvO",
-      "pubDate": "Fri, 17 Jul 2026 11:46:49 GMT",
-      "link": "https://nitter.net/glassnode/status/2078084000707428388#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 17 Jul 2026 11:46:47 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "$BTC options are turning more constructive: volatility is easing, the put/call ratio is at a six-month low, and upside exposure is rebuilding. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.👇",
-      "pubDate": "Fri, 17 Jul 2026 11:46:47 GMT",
-      "link": "https://nitter.net/glassnode/status/2078083992994165112#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "_Checkmatey___Fri, 17 Jul 2026 07:35:11 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1038,49 +968,6 @@
         "지지선",
         "TA"
       ]
-    },
-    {
-      "id": "glassnode__Thu, 16 Jul 2026 18:47:53 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: When analysing ETF flows, BlackRock (IBIT) and Fidelity (FBTC) are the cleanest signal to isolate, as the two largest entities. Their combined 30D-SMA sits at more than -1,250 BTC/day in net outflows, a sustained pace of institutional selling that stands out even relative to prior stress periods in 20",
-      "pubDate": "Thu, 16 Jul 2026 18:47:53 GMT",
-      "link": "https://nitter.net/cryptovizart/status/2077827576333013331#m",
-      "keywords": [
-        "ETF 수급",
-        "BlackRock",
-        "ETF",
-        "Fidelity"
-      ]
-    },
-    {
-      "id": "glassnode__Thu, 16 Jul 2026 15:20:29 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "To size how intensely long-term holders are anchoring the sell side, we can zoom into exchange flows directly. The Relative LTH/STH Realized P&L to Exchanges breaks down what share of coins flowing into exchanges carry a profit or loss, and which cohort is driving it. Currently, more than 65% of exchange inflows are at",
-      "pubDate": "Thu, 16 Jul 2026 15:20:29 GMT",
-      "link": "https://nitter.net/glassnode/status/2077775383802355726#m",
-      "keywords": [
-        "Exchange Inflow",
-        "LTH 보유자",
-        "STH 보유자",
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 16 Jul 2026 00:54:06 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: This is almost hard to believe… Disney spent ~$129B acquiring Marvel, Star Wars, Pixar, ESPN, and Fox (~$182B in today’s dollars). Throw in all their legacy assets and the entire company&apos;s market cap is ~$169B.",
-      "pubDate": "Thu, 16 Jul 2026 00:54:06 GMT",
-      "link": "https://nitter.net/EconomPic/status/2077557350005874853#m",
-      "keywords": []
     },
     {
       "id": "_Checkmatey___Wed, 15 Jul 2026 13:50:03 GMT",
@@ -1168,19 +1055,6 @@
       "keywords": []
     },
     {
-      "id": "ColinTCrypto__Mon, 13 Jul 2026 14:30:55 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "#CBBI has normally been very good at calling $BTC cycle bottoms. With a current score of 32, it says we have a little way to go. If it goes under 5 things begin to look likely for a bottom. Learn more: http://cbbi.info @CBBI_daily @monicz",
-      "pubDate": "Mon, 13 Jul 2026 14:30:55 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2076675746261508167#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
       "id": "ki_young_ju__Thu, 09 Jul 2026 21:31:33 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1258,6 +1132,22 @@
       "keywords": [
         "지지선",
         "TA"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
+      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
+      "keywords": [
+        "ETF 수급",
+        "기관 수급",
+        "Realized Cap",
+        "BTC 사이클"
       ]
     }
   ]
