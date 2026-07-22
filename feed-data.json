@@ -1,6 +1,107 @@
 {
-  "updatedAt": "2026-07-22T08:39:08.735Z",
+  "updatedAt": "2026-07-22T14:12:00.067Z",
   "items": [
+    {
+      "id": "glassnode__Wed, 22 Jul 2026 13:26:04 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Solana rotates block production to a new leader every 1.6 seconds. This epoch, 67% of blocks are being produced in Europe. Our dashboard helps users identify optimal connection points to minimize latency. Frankfurt average: 72ms. US East average: 140ms http://latency.glassnode.com/solana",
+      "pubDate": "Wed, 22 Jul 2026 13:26:04 GMT",
+      "link": "https://nitter.net/glassnode/status/2079920916956348681#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Wed, 22 Jul 2026 13:19:54 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "ETFs on pace to achieve back-to-back Triple Crowns for the first time in modern era, breaking records in Flows, Volume and Launches. Last year they smashed all three records and I thought it prob wont happen again and this year they on pace to break each record by 30%+ UNREAL",
+      "pubDate": "Wed, 22 Jul 2026 13:19:54 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2079919366947152277#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 22 Jul 2026 12:46:25 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC The $60k historical demand area is getting progressively weaker with each new rebound This current rebound is +14% which is lesser than past rebounds History suggests this move could end as a weaker rally to form yet another Macro Lower High $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 22 Jul 2026 12:46:25 GMT",
+      "link": "https://nitter.net/rektcapital/status/2079910940821090785#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 22 Jul 2026 11:26:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Read the full CryptoQuant Research report ⤵️ https://cryptoquant.com/applied-research/6a5ed4632cc8ea28f79e1b95/intro?utm_source=twitter&utm_medium=sns&utm_campaign=applied-research&utm_content=p2p-tron",
+      "pubDate": "Wed, 22 Jul 2026 11:26:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079890700808966493#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 22 Jul 2026 11:21:02 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Gasless USDT transfers on TRON have grown from near zero to almost $3B per week. The rise shows how removing fee friction can turn stablecoin liquidity into infrastructure for apps, businesses, and AI agents. TRON is moving beyond P2P.",
+      "pubDate": "Wed, 22 Jul 2026 11:21:02 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079889453678522405#m",
+      "keywords": [
+        "유동성",
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 22 Jul 2026 09:11:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Breaks $66K: Real Demand or Leverage Illusion? “No overheating yet, but not a rally on solid footing either. Watch for spot volume to actually warm up before chasing price.” – By Sunny Mom Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a5f91453eb04801bdf18dde-Bitcoin-Breaks-66K-Real-Demand-or-",
+      "pubDate": "Wed, 22 Jul 2026 09:11:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079856726938120528#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 22 Jul 2026 07:33:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @RugaResearch: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a5faf183eb04801bdf18e01-9030-BTC-Leave-Binance-as-30-Day-Momentum-Recovers-from-21-Toward-Zero?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=rugaresearch",
+      "pubDate": "Wed, 22 Jul 2026 07:33:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079832064459710917#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 22 Jul 2026 07:27:03 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "9,030 BTC Leave Binance as 30-Day Momentum Recovers from -21% Toward Zero “Moved 9,030 BTC off the largest exchange while momentum recovers from extreme negative territory. That combination has historically resolved to the upside.” – By @RugaResearch",
+      "pubDate": "Wed, 22 Jul 2026 07:27:03 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2079830566594072699#m",
+      "keywords": [
+        "고래 이동",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Wed, 22 Jul 2026 05:44:39 GMT",
       "handle": "lookonchain",
@@ -65,6 +166,17 @@
         "고래",
         "Whale"
       ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 21 Jul 2026 23:38:28 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: Lots of chatter on tax deferral strategies for public assets.( not even discussing private asset markets btw). Assume we eliminate all of them. What happens? People will just liquidate and pay tax? Have you ever met someone with low basis in a security? They&apos;ll simply do nothing: hold concent",
+      "pubDate": "Tue, 21 Jul 2026 23:38:28 GMT",
+      "link": "https://nitter.net/alphaarchitect/status/2079712644844409063#m",
+      "keywords": []
     },
     {
       "id": "EricBalchunas__Tue, 21 Jul 2026 20:50:49 GMT",
@@ -350,7 +462,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New YouTube video is live! Where Is Bitcoin In the Cycle? EMA Crossover Analysis Check it out here: https://youtu.be/y1VZlQtjUwY?si=gmnXGyMLTb5Epk-G Enjoy and Subscribe! #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: New YouTube video is live! Where Is Bitcoin In the Cycle? EMA Crossover Analysis Check it out here: https://youtu.be/y1VZlQtjUwY?si=gmnXGyMLTb5Epk-G Enjoy and Subscribe! #BTC $BTC #Bitcoin",
       "pubDate": "Tue, 21 Jul 2026 10:22:01 GMT",
       "link": "https://nitter.net/rektcapital/status/2079512213660881193#m",
       "keywords": [
@@ -705,47 +817,6 @@
       ]
     },
     {
-      "id": "rektcapital__Mon, 20 Jul 2026 14:07:38 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Every Bitcoin price cluster doesn&apos;t just represent a specific phase in the #BTC market cycle It also represents the unique emotional challenges investors will need to contend with to remain positioned for success This current phase is designed to capitalise on your boredom and impatience $BTC #Crypto #Bitcoin",
-      "pubDate": "Mon, 20 Jul 2026 14:07:38 GMT",
-      "link": "https://nitter.net/rektcapital/status/2079206600540139985#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 14:07:20 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "July 20 Update: #Bitcoin ETFs: 1D NetFlow: +1,985 $BTC(+$127.66M)🟢 7D NetFlow: +683 $BTC(+$43.91M)🟢 #Ethereum ETFs: 1D NetFlow: +9,765 $ETH(+$18.17M)🟢 7D NetFlow: +53,449 $ETH(+$99.47M)🟢",
-      "pubDate": "Mon, 20 Jul 2026 14:07:20 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079206527446266128#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 13:13:45 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Tom Lee(@fundstrat)&apos;s #Bitmine bought just 7,430 $ETH($13.92M) last week, its smallest weekly purchase on record. #Bitmine now holds 5,777,468 $ETH ($10.82B), with 4,917,189 $ETH ($9.21B) staked. https://www.prnewswire.com/in/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-78-milli",
-      "pubDate": "Mon, 20 Jul 2026 13:13:45 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079193040762355865#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Mon, 20 Jul 2026 13:07:56 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -761,66 +832,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Mon, 20 Jul 2026 12:16:15 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "ICYMI our team puts out a bare bones newsletter each week called Please Clap which features the latest research from each analyst, info on events, new enhancements etc. Ideal for ETF nerds who are also terminal users but anyone can join list. DM me if you want to be added. FYI!",
-      "pubDate": "Mon, 20 Jul 2026 12:16:15 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2079178572338487436#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 12:15:08 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Michael Saylor&apos;s @Strategy neither sold nor bought any $BTC last week. https://www.strategy.com/press/strategy-increases-usd-reserve-by-225-million-now-holds-btc-reserve-of-843775-and-usd-reserve-of-3-2-billion_07-20-2026",
-      "pubDate": "Mon, 20 Jul 2026 12:15:08 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079178290758304092#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 12:03:04 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The trader who legally drained 4.426T $BONK($21.2M) from the #BONK treasury has already deposited the remaining 2.4T $BONK ($6.94M) into #Coinbase.",
-      "pubDate": "Mon, 20 Jul 2026 12:03:04 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079175254879129784#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 20 Jul 2026 11:57:50 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: He was nice enough to sit down with us on the podcast about 6yrs ago and walk us through the unsung are of passive portfolio mgmt. One of my fav episodes. His fund VTI was able to deliver perfect tracking meaning it overcame the 3bps fee throug sec lending and PM acumen. I almost wrote a book about",
-      "pubDate": "Mon, 20 Jul 2026 11:57:50 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2079173935648948557#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 20 Jul 2026 11:55:01 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "I just heard Vanguard&apos;s Gerry O&apos;Reilly passed away in June. Damn, shocking and sad. Great guy, and unsung titan of asset mgmt, ran more money than any other PM on planet (>$2T) as steward for Vgrd&apos;s Total Market fund. He was also an olympic runner, Nova grad. My prayers are with his family and friends. R",
-      "pubDate": "Mon, 20 Jul 2026 11:55:01 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2079173227159372115#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Mon, 20 Jul 2026 11:54:40 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -831,44 +842,6 @@
       "link": "https://nitter.net/glassnode/status/2079173139548742072#m",
       "keywords": [
         "STH 보유자"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 20 Jul 2026 11:36:37 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "One of these is not like the others.. tech blowing the other sectors away lately in flows.. July still has a week left and it&apos;s already an all-time monthly record (for the third months in a row) almost entirely to semi dip buying",
-      "pubDate": "Mon, 20 Jul 2026 11:36:37 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2079168596924649798#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 11:06:00 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The total accounts on #Tron has surpassed 394M. Active accounts reached 4,646,026, up 4.64% in the past 24 hours. https://tronscan.org/blockchain/accounts",
-      "pubDate": "Mon, 20 Jul 2026 11:06:00 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079160894387540157#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Mon, 20 Jul 2026 09:47:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin at the Decision Boundary: Reviving Momentum Tests Structural Resistance “Recovering price against a bearish structure leaves both frameworks in genuine disagreement.” – By @CryptoOnchain Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a5d39fa718c636ace57d4d5-Bitcoin-at-the-Decision-Boundary-Revivin",
-      "pubDate": "Mon, 20 Jul 2026 09:47:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079141010882593208#m",
-      "keywords": [
-        "약세장",
-        "저항선",
-        "TA",
-        "약세 신호"
       ]
     },
     {
@@ -894,6 +867,22 @@
       "pubDate": "Sun, 19 Jul 2026 00:45:17 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2078642296908660890#m",
       "keywords": []
+    },
+    {
+      "id": "glassnode__Sat, 18 Jul 2026 23:14:59 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: The STH Cost Basis Distribution heatmap shows a fresh wave of supply rotating into new buyers&apos; hands over the $62k-$65k range, during the rally from $57k. This is a double-edged structure. On one hand, buyers aggressive accumulated into the strength create a potential cost basis floor that could ",
+      "pubDate": "Sat, 18 Jul 2026 23:14:59 GMT",
+      "link": "https://nitter.net/cryptovizart/status/2078619570353610871#m",
+      "keywords": [
+        "STH 보유자",
+        "지지선",
+        "TA",
+        "매집"
+      ]
     },
     {
       "id": "_Checkmatey___Sat, 18 Jul 2026 21:55:12 GMT",
@@ -945,6 +934,41 @@
       ]
     },
     {
+      "id": "glassnode__Fri, 17 Jul 2026 11:46:50 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: $BTC’s options put/call ratio has fallen to a six-month low near 0.59, signalling a decisive shift toward call-heavy positioning. As price stabilises around $64K, traders appear to be reducing downside hedges and rebuilding upside exposure, a constructive shift in sentiment. https://glassno.de/45aozBe",
+      "pubDate": "Fri, 17 Jul 2026 11:46:50 GMT",
+      "link": "https://nitter.net/glassnode/status/2078084004461375626#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 17 Jul 2026 11:46:49 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: $BTC is consolidating near $63K, below a dense negative-gamma cluster around $68K–$70K. A move into this zone could trigger more pro-cyclical dealer hedging and amplify volatility. https://glassno.de/4wRJMvO",
+      "pubDate": "Fri, 17 Jul 2026 11:46:49 GMT",
+      "link": "https://nitter.net/glassnode/status/2078084000707428388#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 17 Jul 2026 11:46:47 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "$BTC options are turning more constructive: volatility is easing, the put/call ratio is at a six-month low, and upside exposure is rebuilding. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.👇",
+      "pubDate": "Fri, 17 Jul 2026 11:46:47 GMT",
+      "link": "https://nitter.net/glassnode/status/2078083992994165112#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
       "id": "_Checkmatey___Fri, 17 Jul 2026 07:35:11 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -970,6 +994,47 @@
       ]
     },
     {
+      "id": "glassnode__Thu, 16 Jul 2026 18:47:53 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: When analysing ETF flows, BlackRock (IBIT) and Fidelity (FBTC) are the cleanest signal to isolate, as the two largest entities. Their combined 30D-SMA sits at more than -1,250 BTC/day in net outflows, a sustained pace of institutional selling that stands out even relative to prior stress periods in 20",
+      "pubDate": "Thu, 16 Jul 2026 18:47:53 GMT",
+      "link": "https://nitter.net/cryptovizart/status/2077827576333013331#m",
+      "keywords": [
+        "ETF 수급",
+        "BlackRock",
+        "ETF",
+        "Fidelity"
+      ]
+    },
+    {
+      "id": "rektcapital__Thu, 16 Jul 2026 14:23:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: Bitcoin Prediction Comes True - Four Year Cycle Prevails #BTC $BTC #Bitcoin",
+      "pubDate": "Thu, 16 Jul 2026 14:23:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2077760917228466316#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Thu, 16 Jul 2026 00:54:06 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: This is almost hard to believe… Disney spent ~$129B acquiring Marvel, Star Wars, Pixar, ESPN, and Fox (~$182B in today’s dollars). Throw in all their legacy assets and the entire company&apos;s market cap is ~$169B.",
+      "pubDate": "Thu, 16 Jul 2026 00:54:06 GMT",
+      "link": "https://nitter.net/EconomPic/status/2077557350005874853#m",
+      "keywords": []
+    },
+    {
       "id": "_Checkmatey___Wed, 15 Jul 2026 13:50:03 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -981,19 +1046,6 @@
       "keywords": [
         "강세장",
         "강세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 15 Jul 2026 13:38:39 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: #BTC Something to keep in mind now that the Bitcoin Summer Relief is in full bloom $BTC #Crypto #Bitcoin",
-      "pubDate": "Wed, 15 Jul 2026 13:38:39 GMT",
-      "link": "https://nitter.net/rektcapital/status/2077387367304892812#m",
-      "keywords": [
         "BTC"
       ]
     },
@@ -1148,6 +1200,22 @@
         "기관 수급",
         "Realized Cap",
         "BTC 사이클"
+      ]
+    },
+    {
+      "id": "rektcapital__Sat, 27 Jun 2026 14:07:44 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: #BTC With the new June Monthly Close just around the corner... It&apos;s becoming increasingly likely that Bitcoin will close below the 50-Month EMA and likely bearish retest it into new resistance in July and reject in August This cycle has repeated 2022 tendencies very closely thus far and looks l",
+      "pubDate": "Sat, 27 Jun 2026 14:07:44 GMT",
+      "link": "https://nitter.net/rektcapital/status/2070871706927796642#m",
+      "keywords": [
+        "BTC 사이클",
+        "약세장",
+        "저항선",
+        "TA"
       ]
     }
   ]
