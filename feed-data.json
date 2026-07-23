@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-07-23T03:31:52.351Z",
+  "updatedAt": "2026-07-23T08:40:37.305Z",
   "items": [
+    {
+      "id": "ki_young_ju__Thu, 23 Jul 2026 07:27:09 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Chart Link https://cryptoquant.com/community/dashboard/66c366531dad4a62a5d42c79?e=69f27929e2872616b411bd2e",
+      "pubDate": "Thu, 23 Jul 2026 07:27:09 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2080192980812714197#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Thu, 23 Jul 2026 07:27:08 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin spot demand is weakening. Futures demand remains net positive, but is significantly lower than during the rebound three months ago.",
+      "pubDate": "Thu, 23 Jul 2026 07:27:08 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2080192978329743611#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 23 Jul 2026 07:26:26 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a60dc727a45a75a9468d4e4-Stablecoin-Dry-Powder-Is-Not-Yet-Returning-at-Scale?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=novaque-research",
+      "pubDate": "Thu, 23 Jul 2026 07:26:26 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2080192801321443741#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 23 Jul 2026 07:17:11 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Stablecoin Dry Powder Is Not Yet Returning at Scale “Continued reserve contraction would leave rallies more dependent on leverage and external capital flows.” – By @NovaqueResearch",
+      "pubDate": "Thu, 23 Jul 2026 07:17:11 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2080190471020687749#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 23 Jul 2026 05:22:21 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Is today Hackers&apos; Day? Three exploits have already happened today, with total losses of $35.55M. AFX Trade(@AFX_XYZ) was exploited for $24.15M. Verus(@VerusCoin) Ethereum bridge was exploited for $7.55M. B² Network(@BSquaredNetwork) was exploited for $3.86M.",
+      "pubDate": "Thu, 23 Jul 2026 05:22:21 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080161575923761418#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 23 Jul 2026 05:17:00 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "It appears the @VerusCoin Ethereum bridge was exploited for $7.55M. The exploiter swapped all the stolen funds for 3,916 $ETH($7.52M) and deposited them into #TornadoCash for laundering. https://arkm.com/explorer/address/0xCFd0A20703cD11E0b9f665e1C3F1Ef989C142D54",
+      "pubDate": "Thu, 23 Jul 2026 05:17:00 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080160229287920109#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Thu, 23 Jul 2026 02:20:02 GMT",
       "handle": "lookonchain",
@@ -87,6 +161,30 @@
       "keywords": []
     },
     {
+      "id": "cryptoquant_com__Wed, 22 Jul 2026 19:39:04 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: The H1 Research Report from @cryptoquant_com is now live. Beyond P2P: How TRON Is Becoming an Infrastructure Layer for Apps, Businesses & the Agentic Economy explores the network’s expanding role across payments, applications, enterprise activity, and emerging AI-driven use cases. Dive into the ",
+      "pubDate": "Wed, 22 Jul 2026 19:39:04 GMT",
+      "link": "https://nitter.net/trondao/status/2080014784242581634#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Wed, 22 Jul 2026 19:01:30 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $DOGE $ONDO $AERO $HYPE $JUP $VIRTUAL I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-153/ $BTC #BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 22 Jul 2026 19:01:30 GMT",
+      "link": "https://nitter.net/rektcapital/status/2080005334249455869#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
       "id": "EricBalchunas__Wed, 22 Jul 2026 18:07:50 GMT",
       "handle": "EricBalchunas",
       "label": "Balchunas (ETF)",
@@ -96,6 +194,20 @@
       "pubDate": "Wed, 22 Jul 2026 18:07:50 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2079991824840614106#m",
       "keywords": []
+    },
+    {
+      "id": "rektcapital__Wed, 22 Jul 2026 16:46:58 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "In case you missed it... New YouTube video is live! Where Is Bitcoin In the Cycle? EMA Crossover Analysis Check it out here: https://youtu.be/y1VZlQtjUwY?si=gmnXGyMLTb5Epk-G Enjoy and Subscribe! #BTC $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 22 Jul 2026 16:46:58 GMT",
+      "link": "https://nitter.net/rektcapital/status/2079971474157293586#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
     },
     {
       "id": "glassnode__Wed, 22 Jul 2026 16:08:01 GMT",
@@ -108,6 +220,22 @@
       "link": "https://nitter.net/glassnode/status/2079961673314496689#m",
       "keywords": [
         "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 22 Jul 2026 15:29:14 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin is treating the 50-Month EMA (purple) as resistance Which is in line with historical tendencies in previous cycles $BTC #Crypto #Bitcoin",
+      "pubDate": "Wed, 22 Jul 2026 15:29:14 GMT",
+      "link": "https://nitter.net/rektcapital/status/2079951911571087416#m",
+      "keywords": [
+        "BTC 사이클",
+        "저항선",
+        "TA",
         "BTC"
       ]
     },
@@ -163,6 +291,19 @@
         "Netflow",
         "거래소 흐름",
         "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 22 Jul 2026 13:33:17 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: The Disturbing Bitcoin Signal Hiding In Plain Sight | @rektcapital https://x.com/i/broadcasts/1nxnRRknaWNxO",
+      "pubDate": "Wed, 22 Jul 2026 13:33:17 GMT",
+      "link": "https://nitter.net/BitcoinNewsCom/status/2079922734558310788#m",
+      "keywords": [
         "BTC"
       ]
     },
@@ -730,63 +871,6 @@
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Tue, 21 Jul 2026 07:07:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @gaah_im: Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a5e9a627a878621f527833b-Momentum-Whale-Inflow-Ratio-hits-new-low-in-2026?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=gaah",
-      "pubDate": "Tue, 21 Jul 2026 07:07:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079463133316514076#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 21 Jul 2026 06:58:25 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Momentum Whale Inflow Ratio Hits New Low in 2026 “A negative Momentum Whale Inflow Ratio signals a decrease in selling pressure, resulting in less downward bearish sentiment on Bitcoin price, which could contribute to a short-term recovery.” – By @gaah_im",
-      "pubDate": "Tue, 21 Jul 2026 06:58:25 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079460975078519224#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "약세장",
-        "약세 신호"
-      ]
-    },
-    {
-      "id": "lookonchain__Tue, 21 Jul 2026 06:42:16 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A #BitcoinOG with 5K $BTC($435.75M) sold the remaining 1,000 $BTC($65.56M) 2 hours ago. This OG received 5K $BTC(cost $1.66M) at $332 12 years ago, and started selling $BTC on Nov 26, 2024, selling all 5,000 $BTC($435.75M) at ~$87,151. Total profit: $434M — a 262x return. https://arkm.com/explorer/entity/a6f4cb83-3e17-",
-      "pubDate": "Tue, 21 Jul 2026 06:42:16 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079456910525514014#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Tue, 21 Jul 2026 06:33:46 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales continue to accumulate $ETH. New wallet (0xf23c) just withdrew another 7,000 $ETH($13.46M) from #Binance and staked it.",
-      "pubDate": "Tue, 21 Jul 2026 06:33:46 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079454769815658877#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "ColinTCrypto__Mon, 20 Jul 2026 15:50:11 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -965,6 +1049,20 @@
       ]
     },
     {
+      "id": "rektcapital__Thu, 16 Jul 2026 14:23:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: Bitcoin Prediction Comes True - Four Year Cycle Prevails #BTC $BTC #Bitcoin",
+      "pubDate": "Thu, 16 Jul 2026 14:23:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2077760917228466316#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
       "id": "_Checkmatey___Wed, 15 Jul 2026 13:50:03 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1103,33 +1201,19 @@
       "keywords": []
     },
     {
-      "id": "ki_young_ju__Thu, 02 Jul 2026 06:05:00 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "We&apos;re building the Vibe Quant Community. A place for traders using AI and data to build strategies, alerts, and automated workflows. Paid API users will get direct support from us. Tell us what data you need, and we’ll move fast. https://discord.com/invite/25Bu3sTadx",
-      "pubDate": "Thu, 02 Jul 2026 06:05:00 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072562164104327634#m",
+      "id": "rektcapital__Sat, 27 Jun 2026 14:07:44 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: #BTC With the new June Monthly Close just around the corner... It&apos;s becoming increasingly likely that Bitcoin will close below the 50-Month EMA and likely bearish retest it into new resistance in July and reject in August This cycle has repeated 2022 tendencies very closely thus far and looks l",
+      "pubDate": "Sat, 27 Jun 2026 14:07:44 GMT",
+      "link": "https://nitter.net/rektcapital/status/2070871706927796642#m",
       "keywords": [
-        "지지선",
+        "BTC 사이클",
+        "약세장",
+        "저항선",
         "TA"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Wed, 01 Jul 2026 06:21:17 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin likely has another parabolic cycle ahead. Yes, capital efficiency is declining. In 2011, just $2.7B in net capital inflows drove a 55,436% price increase. This cycle, $697B produced a +689% return. The next parabolic bull cycle likely requires deeper institutional allocation. Bitcoin needs to be a core macro as",
-      "pubDate": "Wed, 01 Jul 2026 06:21:17 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2072203873041948713#m",
-      "keywords": [
-        "ETF 수급",
-        "기관 수급",
-        "Realized Cap",
-        "BTC 사이클"
       ]
     }
   ]
