@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-07-22T19:36:50.549Z",
+  "updatedAt": "2026-07-23T03:31:52.351Z",
   "items": [
+    {
+      "id": "lookonchain__Thu, 23 Jul 2026 02:20:02 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "It appears @BSquaredNetwork was exploited, with 8.59M $B2 ($3.86M) stolen. The exploiter sold all 8.59M $B2 for 5,409 $BNB ($3.01M). The funds were then bridged to #Ethereum, swapped for $ETH and $USDT, and deposited into NEAR Intents and HOT Protocol. https://arkm.com/explorer/address/0xEc443f7D79835B464FBEAC798d3f92B",
+      "pubDate": "Thu, 23 Jul 2026 02:20:02 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080115692406444511#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 23 Jul 2026 00:46:07 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "AFX Trade(@AFX_XYZ) was exploited for $24.15M! The exploiter bridged 24.15M $USDC to #Ethereum and bought 12,467 $ETH at an average price of $1,937. https://arkm.com/explorer/address/0x2f2974fAbc54dbA33442261211c06BD20E0FEefc",
+      "pubDate": "Thu, 23 Jul 2026 00:46:07 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080092059252486487#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 23 Jul 2026 00:39:57 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Arthur Hayes(@CryptoHayes) bought another 644.34 $ETH($1.25M) 8 hours ago. He has bought a total of 3,270 $ETH $6.27M) over the past 8 days, with an average purchase price of ~$1,917. https://arkm.com/explorer/entity/arthur-hayes",
+      "pubDate": "Thu, 23 Jul 2026 00:39:57 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080090506932162949#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 23 Jul 2026 00:27:11 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A mysterious whale bought 27,000 $ETH ($52.03M) via Galaxy Digital OTC 4 hours ago after 3 months of inactivity. https://arkm.com/explorer/address/0x8c585dFECE9d68a09f6a17B46c686E7a126A04b1",
+      "pubDate": "Thu, 23 Jul 2026 00:27:11 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080087291671040176#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 22 Jul 2026 22:12:18 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Weird.. $BITO is 6th most traded ETF today. And in July it&apos;s traded $40b vs $20b for the Mighty IBIT. Very unusual given IBIT dwarfed it at one point bc ETF invs much prefer spot to futures when given choice. Basis trade can&apos;t explain it, could be some other arb tho?",
+      "pubDate": "Wed, 22 Jul 2026 22:12:18 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2080053348904980978#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 22 Jul 2026 21:07:23 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: Breaking: The House just passed a Congressional Stock Trading Ban • 217 Republicans voted in support • 198 Democrats voted against The bill now goes to the Senate",
+      "pubDate": "Wed, 22 Jul 2026 21:07:23 GMT",
+      "link": "https://nitter.net/pelositracker/status/2080037013609189768#m",
+      "keywords": [
+        "지지선",
+        "TA"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 22 Jul 2026 20:51:12 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Cringe.. If I were the new Giants coach I&apos;d open with \"Anyone in here sick of losing? Anyone in here want to make more money? Great. I can help you with both (hold up my SB ring) but you gotta work hard and listen to me. Are we cool? Alright, LFG\" It&apos;s not complicated",
+      "pubDate": "Wed, 22 Jul 2026 20:51:12 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2080032940134674629#m",
+      "keywords": []
+    },
     {
       "id": "EricBalchunas__Wed, 22 Jul 2026 18:07:50 GMT",
       "handle": "EricBalchunas",
@@ -699,90 +784,6 @@
       "keywords": [
         "고래",
         "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 21 Jul 2026 03:20:03 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: It’s remarkable how well the AI interviewers hold up to people’s attempts to gaslight them. This is a very funny one though 😂",
-      "pubDate": "Tue, 21 Jul 2026 03:20:03 GMT",
-      "link": "https://nitter.net/venturetwins/status/2079406018942111986#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 21 Jul 2026 02:46:33 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "It looks like many whales are accumulating $ETH. Whale 0x4cee woke up after 3 months of inactivity and spent 20M $USDC to buy 10,501 $ETH at $1,905. A newly created wallet (0xf23c) withdrew 12,800 $ETH($24.47M) from #Binance over the past 24 hours and staked all of it. https://arkm.com/explorer/address/0xf23c9B89700CD0",
-      "pubDate": "Tue, 21 Jul 2026 02:46:33 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079397591058715059#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 23:59:37 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A newly created wallet withdrew 74,033 $ETH($136.17M) from #Gemini and staked it all. https://arkm.com/explorer/address/0x2e80B3832922041296D5Fb1b31B2864C7C06f5f4",
-      "pubDate": "Mon, 20 Jul 2026 23:59:37 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079355579093688623#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 23:55:17 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "An #Ethereum ICO participant \"0x45BB\" transferred all 2,000 $ETH($3.79M) to a new wallet after being dormant for 11 years. He invested only $620 in the ICO and received 2,000 $ETH — now worth $3.79M, a 6,113x return! https://etherscan.io/address/0x45bb829652d8bfb58b8527f0ecb621c29e212ec3?amt=0.1%7E999999999",
-      "pubDate": "Mon, 20 Jul 2026 23:55:17 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079354490088821044#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 20 Jul 2026 23:44:28 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Arthur Hayes(@CryptoHayes) bought another 1,332.5 $ETH($2.53M) 3 hours ago. https://arkm.com/explorer/entity/arthur-hayes",
-      "pubDate": "Mon, 20 Jul 2026 23:44:28 GMT",
-      "link": "https://nitter.net/lookonchain/status/2079351766274146769#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 20 Jul 2026 20:47:27 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Bloomberg&apos;s Joel Weber puts Scarlet Fu, Katie Greifeld, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week&apos;s edition of \"IQ Test\" https://bloom.bg/4yybdwf",
-      "pubDate": "Mon, 20 Jul 2026 20:47:27 GMT",
-      "link": "https://nitter.net/BloombergTV/status/2079307217682026739#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 20 Jul 2026 20:24:55 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: NEW: @Grayscale files for a Worldcoin ETF ethereum:0x163f8c2467924be0ae7b5347228cabf260318753. LOOK INTO THE ORB",
-      "pubDate": "Mon, 20 Jul 2026 20:24:55 GMT",
-      "link": "https://nitter.net/JSeyff/status/2079301549231161430#m",
-      "keywords": [
-        "ETF 수급"
       ]
     },
     {
