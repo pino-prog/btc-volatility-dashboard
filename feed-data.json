@@ -1,6 +1,217 @@
 {
-  "updatedAt": "2026-07-24T08:36:19.477Z",
+  "updatedAt": "2026-07-24T14:00:28.268Z",
   "items": [
+    {
+      "id": "glassnode__Fri, 24 Jul 2026 12:39:52 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Speculative supply is thinning while dormant coins climb. Our 3Q26 Charting Crypto report with @CoinbaseInsto outlines how the macro liquidity cycle is steering price, and where early accumulation signals are forming. Download the report👉 https://glassno.de/3RUO8mS",
+      "pubDate": "Fri, 24 Jul 2026 12:39:52 GMT",
+      "link": "https://nitter.net/glassnode/status/2080634066357961195#m",
+      "keywords": [
+        "BTC 사이클",
+        "유동성",
+        "매집"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 12:22:34 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,408 $BTC (91,597,205 USD) transferred from unknown wallet to #Kraken https://whale-alert.io/tx/bitcoin/9555ab45e68101aa56635b22346d04e2540b038943c7cafa0c6f6136c5bae8da",
+      "pubDate": "Fri, 24 Jul 2026 12:22:34 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080629714171855151#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 12:21:34 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 793 $BTC (51,625,857 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/d2ad5d189725b0bfcd644b858f7a502de18bfe75479f9dae74b94110e02ca923",
+      "pubDate": "Fri, 24 Jul 2026 12:21:34 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080629459892179443#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Fri, 24 Jul 2026 12:15:09 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin continues to reject from the 50-Month EMA (purple) Bitcoin hasn&apos;t really offered any evidence to the contrary Still following 2022 historical tendencies $BTC #Crypto #Bitcoin",
+      "pubDate": "Fri, 24 Jul 2026 12:15:09 GMT",
+      "link": "https://nitter.net/rektcapital/status/2080627848721698825#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 24 Jul 2026 12:11:33 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x446B sold 8,010 $ETH($15.11M) 2 hours ago after 8 months of inactivity, incurring a loss of $10.8M (-37%). https://arkm.com/explorer/address/0x446BC9fa32Bd0BE37C3039167A1a3ED049f93f17",
+      "pubDate": "Fri, 24 Jul 2026 12:11:33 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080626941900800179#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "glassnode__Fri, 24 Jul 2026 11:59:50 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: 25-delta skew has fallen sharply at the front end, with 1W dropping near 4%, while 3M–6M remain around 11–12%. Near-term downside hedging is unwinding, but longer-dated options retain a defensive premium. https://glassno.de/4fCt2Sf",
+      "pubDate": "Fri, 24 Jul 2026 11:59:50 GMT",
+      "link": "https://nitter.net/glassnode/status/2080623992742768747#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 24 Jul 2026 11:59:49 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: $BTC ATM implied volatility remains compressed across the curve, with 1W at 34.3% versus 6M at 40.8%. The upward-sloping term structure shows near-term event risk is being discounted, while longer-dated uncertainty retains a modest premium.",
+      "pubDate": "Fri, 24 Jul 2026 11:59:49 GMT",
+      "link": "https://nitter.net/glassnode/status/2080623988749807749#m",
+      "keywords": []
+    },
+    {
+      "id": "glassnode__Fri, 24 Jul 2026 11:59:47 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "$BTC options are turning less defensive as put/call ratios and short-dated skew fall, while volatility stays compressed. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.👇",
+      "pubDate": "Fri, 24 Jul 2026 11:59:47 GMT",
+      "link": "https://nitter.net/glassnode/status/2080623981602762867#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 11:59:14 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 793 $BTC (51,631,619 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/b68db10a404bd35d6c01c18f94bdabba354fa2110ccf8b70aaa42929f655e854",
+      "pubDate": "Fri, 24 Jul 2026 11:59:14 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080623840384667666#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 11:35:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 793 $BTC (51,603,739 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/631b80b37fee3141471c9839711a7f520fcbe1c22873e303e9be321531a1d0e0",
+      "pubDate": "Fri, 24 Jul 2026 11:35:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080617779158253601#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Fri, 24 Jul 2026 11:15:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Is The Bitcoin Summer Rally Ending? If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/C1kVrs-u0WM?si=YoseBjOQv2QM9cqf Enjoy and Subscribe! $BTC #Crypto #Bitcoin",
+      "pubDate": "Fri, 24 Jul 2026 11:15:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2080612708463026365#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Fri, 24 Jul 2026 11:00:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin will likely Monthly Close below the 50-Month EMA if Bitcoin: - Continues to fail to reclaim the February/March lows (blue) as support - Keeps experiencing declining buy-side volume $BTC #Crypto #Bitcoin",
+      "pubDate": "Fri, 24 Jul 2026 11:00:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2080608935573389733#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Fri, 24 Jul 2026 10:57:42 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC The upcoming Monthly Candle Close is slowly approaching And as things stand Bitcoin has only rallied +14.5% from the ~$60k historical demand area That&apos;s a far cry from previous rebounds which is a sign of progressively weakening support over time $BTC #Crypto #Bitcoin",
+      "pubDate": "Fri, 24 Jul 2026 10:57:42 GMT",
+      "link": "https://nitter.net/rektcapital/status/2080608357023404428#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 09:57:57 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,047,625 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3P1Py1jk32FAwUpvKqVj6AqJ3kxM4uhq2J7fSeWkxRPshBtHgLVcBwiWn8sXr8dF1DmbANeDBeASy4gkR97zNrRP",
+      "pubDate": "Fri, 24 Jul 2026 09:57:57 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080593319197839855#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 24 Jul 2026 08:33:46 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The whale who is good at trading $MU just opened a new 3x long on 25,961 $MU($25.2M). The whale has completed 4 long trades on $MU, winning every one and making a $2.28M profit. https://hyperbot.network/trader/0xC8b527864ef2AD6DC49de7e99943a3a76aD48891",
+      "pubDate": "Fri, 24 Jul 2026 08:33:46 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080572132606824461#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "cryptoquant_com__Fri, 24 Jul 2026 08:06:00 GMT",
       "handle": "cryptoquant_com",
@@ -39,6 +250,20 @@
       "pubDate": "Fri, 24 Jul 2026 07:33:24 GMT",
       "link": "https://nitter.net/_nym21_/status/2080556940371886117#m",
       "keywords": []
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 07:14:08 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 160,000,000 $USDT (159,940,746 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/0ff9fcbc13625d72460ed9e855447fdf0dd865399d7472aa584f6f530e22561c",
+      "pubDate": "Fri, 24 Jul 2026 07:14:08 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080552093882982662#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
     },
     {
       "id": "lookonchain__Fri, 24 Jul 2026 05:03:20 GMT",
@@ -796,7 +1021,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $DOGE $ONDO $AERO $HYPE $JUP $VIRTUAL I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-153/ $BTC #BTC #Crypto #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $DOGE $ONDO $AERO $HYPE $JUP $VIRTUAL I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-153/ $BTC #BTC #Crypto ",
       "pubDate": "Wed, 22 Jul 2026 19:01:30 GMT",
       "link": "https://nitter.net/rektcapital/status/2080005334249455869#m",
       "keywords": [
@@ -925,19 +1150,6 @@
       ]
     },
     {
-      "id": "rektcapital__Wed, 22 Jul 2026 13:33:17 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: The Disturbing Bitcoin Signal Hiding In Plain Sight | @rektcapital https://x.com/i/broadcasts/1nxnRRknaWNxO",
-      "pubDate": "Wed, 22 Jul 2026 13:33:17 GMT",
-      "link": "https://nitter.net/BitcoinNewsCom/status/2079922734558310788#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "glassnode__Wed, 22 Jul 2026 13:26:04 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -947,19 +1159,6 @@
       "pubDate": "Wed, 22 Jul 2026 13:26:04 GMT",
       "link": "https://nitter.net/glassnode/status/2079920916956348681#m",
       "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 22 Jul 2026 13:19:54 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "ETFs on pace to achieve back-to-back Triple Crowns for the first time in modern era, breaking records in Flows, Volume and Launches. Last year they smashed all three records and I thought it prob wont happen again and this year they on pace to break each record by 30%+ UNREAL",
-      "pubDate": "Wed, 22 Jul 2026 13:19:54 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2079919366947152277#m",
-      "keywords": [
-        "ETF 수급"
-      ]
     },
     {
       "id": "JSeyff__Wed, 22 Jul 2026 13:15:24 GMT",
@@ -973,45 +1172,6 @@
       "keywords": []
     },
     {
-      "id": "rektcapital__Wed, 22 Jul 2026 12:46:25 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC The $60k historical demand area is getting progressively weaker with each new rebound This current rebound is +14% which is lesser than past rebounds History suggests this move could end as a weaker rally to form yet another Macro Lower High $BTC #Crypto #Bitcoin",
-      "pubDate": "Wed, 22 Jul 2026 12:46:25 GMT",
-      "link": "https://nitter.net/rektcapital/status/2079910940821090785#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 22 Jul 2026 11:26:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Read the full CryptoQuant Research report ⤵️ https://cryptoquant.com/applied-research/6a5ed4632cc8ea28f79e1b95/intro?utm_source=twitter&utm_medium=sns&utm_campaign=applied-research&utm_content=p2p-tron",
-      "pubDate": "Wed, 22 Jul 2026 11:26:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079890700808966493#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Wed, 22 Jul 2026 11:21:02 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Gasless USDT transfers on TRON have grown from near zero to almost $3B per week. The rise shows how removing fee friction can turn stablecoin liquidity into infrastructure for apps, businesses, and AI agents. TRON is moving beyond P2P.",
-      "pubDate": "Wed, 22 Jul 2026 11:21:02 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079889453678522405#m",
-      "keywords": [
-        "유동성",
-        "스테이블코인",
-        "SSR"
-      ]
-    },
-    {
       "id": "JSeyff__Wed, 22 Jul 2026 11:00:43 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -1021,19 +1181,6 @@
       "pubDate": "Wed, 22 Jul 2026 11:00:43 GMT",
       "link": "https://nitter.net/SolanaFloor/status/2079884340323070392#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Wed, 22 Jul 2026 09:11:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Breaks $66K: Real Demand or Leverage Illusion? “No overheating yet, but not a rally on solid footing either. Watch for spot volume to actually warm up before chasing price.” – By Sunny Mom Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a5f91453eb04801bdf18dde-Bitcoin-Breaks-66K-Real-Demand-or-",
-      "pubDate": "Wed, 22 Jul 2026 09:11:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2079856726938120528#m",
-      "keywords": [
-        "BTC"
-      ]
     },
     {
       "id": "JSeyff__Tue, 21 Jul 2026 21:04:00 GMT",
@@ -1104,127 +1251,6 @@
         "TA",
         "BTC"
       ]
-    },
-    {
-      "id": "glassnode__Mon, 20 Jul 2026 11:54:40 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "🔄 Update: With the spot price trading at $64.9K, the key on-chain price models are as follows: 🟡 Active Investors Mean: $83.5k 🟢True Market Mean: $76.2K 🔴 STH Cost Basis: $69.5K ---- Spot Price: $64.9K ---- 🔵 Realized Price: $52.9K 📊 http://glassno.de/3XDy2xe",
-      "pubDate": "Mon, 20 Jul 2026 11:54:40 GMT",
-      "link": "https://nitter.net/glassnode/status/2079173139548742072#m",
-      "keywords": [
-        "STH 보유자"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Sun, 19 Jul 2026 00:45:17 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "BIP 110 is like amending the constitution to ban littering in the park.",
-      "pubDate": "Sun, 19 Jul 2026 00:45:17 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2078642296908660890#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Sat, 18 Jul 2026 23:14:59 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: The STH Cost Basis Distribution heatmap shows a fresh wave of supply rotating into new buyers&apos; hands over the $62k-$65k range, during the rally from $57k. This is a double-edged structure. On one hand, buyers aggressive accumulated into the strength create a potential cost basis floor that could ",
-      "pubDate": "Sat, 18 Jul 2026 23:14:59 GMT",
-      "link": "https://nitter.net/cryptovizart/status/2078619570353610871#m",
-      "keywords": [
-        "STH 보유자",
-        "지지선",
-        "TA",
-        "매집"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sat, 18 Jul 2026 21:55:12 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "Pause for a second, and assume BIP110 was for some other change. Maybe a covenant proposal. Would you see it as acceptable for such low quality code to be written into production? Is it acceptable to have a 55% acvtivation threshold, which is far from an overwhelming majority?",
-      "pubDate": "Sat, 18 Jul 2026 21:55:12 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2078599492002271237#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sat, 18 Jul 2026 09:59:45 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: In case you missed it... New YouTube video is live! Is The Bitcoin Summer Rally Ending? Check it out here: https://youtu.be/C1kVrs-u0WM?si=YoseBjOQv2QM9cqf Enjoy and Subscribe! #BTC $BTC #Bitcoin",
-      "pubDate": "Sat, 18 Jul 2026 09:59:45 GMT",
-      "link": "https://nitter.net/rektcapital/status/2078419443231641792#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sat, 18 Jul 2026 04:11:55 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Excited to have @_Checkmatey_ speak at the ITC conference!",
-      "pubDate": "Sat, 18 Jul 2026 04:11:55 GMT",
-      "link": "https://nitter.net/benjamincowen/status/2078331909386510611#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Fri, 17 Jul 2026 17:07:35 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Announcing @_Checkmatey_ as a speaker at the ITC Conference @benjamincowen November 20–22, 2026 | JW Marriott Marquis | Miami Grab your tickets for the conference & party here! 🍾🎟️https://benjamincowen.com/conference",
-      "pubDate": "Fri, 17 Jul 2026 17:07:35 GMT",
-      "link": "https://nitter.net/ITCConf/status/2078164725985099931#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 17 Jul 2026 11:46:49 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: $BTC is consolidating near $63K, below a dense negative-gamma cluster around $68K–$70K. A move into this zone could trigger more pro-cyclical dealer hedging and amplify volatility. https://glassno.de/4wRJMvO",
-      "pubDate": "Fri, 17 Jul 2026 11:46:49 GMT",
-      "link": "https://nitter.net/glassnode/status/2078084000707428388#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 17 Jul 2026 11:46:47 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "$BTC options are turning more constructive: volatility is easing, the put/call ratio is at a six-month low, and upside exposure is rebuilding. Here&apos;s what BTC options data reveals about positioning, volatility, and sentiment beneath the surface.👇",
-      "pubDate": "Fri, 17 Jul 2026 11:46:47 GMT",
-      "link": "https://nitter.net/glassnode/status/2078083992994165112#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Fri, 17 Jul 2026 07:35:11 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: So much deserved! @_Checkmatey_ and @_alecdj are simply the best. Highly recommended!👏👏👏",
-      "pubDate": "Fri, 17 Jul 2026 07:35:11 GMT",
-      "link": "https://nitter.net/ResearchBTCNow/status/2078020674564587786#m",
-      "keywords": []
     }
   ]
 }
