@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-07-25T13:50:56.357Z",
+  "updatedAt": "2026-07-25T19:19:01.640Z",
   "items": [
+    {
+      "id": "JSeyff__Sat, 25 Jul 2026 18:36:13 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Was an honor to join @michaelbatnick on one of his podcasts for the first time. We went into the weeds on the ETF spaghetti cannon leveraged ETFs and more. I had a blast.",
+      "pubDate": "Sat, 25 Jul 2026 18:36:13 GMT",
+      "link": "https://nitter.net/JSeyff/status/2081086132041765073#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 25 Jul 2026 17:47:24 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Greetings from the Jersey shore.. Superb weather. Not too hot, 78 and sunny. A little windy tho.",
+      "pubDate": "Sat, 25 Jul 2026 17:47:24 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2081073846623375713#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Sat, 25 Jul 2026 15:50:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "In case you missed it... New YouTube video is live! The Bitcoin Bargain Framework Check it out here: https://youtu.be/s22yyxspRT0?si=0lsGDVZF4kRHmRhC Enjoy and Subscribe! $BTC #BTC #Bitcoin",
+      "pubDate": "Sat, 25 Jul 2026 15:50:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2081044302910705690#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Sat, 25 Jul 2026 14:40:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Go from crypto beginner to confident chart reader in under an hour The free TA Blueprint covers candlesticks, trends, support & resistance, and market psychology Everything you need to stop guessing Download it free: https://www.rektcapital.co.uk/free-technical-analysis-blueprint $BTC #BTC #Crypto #Bitcoin",
+      "pubDate": "Sat, 25 Jul 2026 14:40:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2081026685957509508#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "지지선",
+        "BTC"
+      ]
+    },
     {
       "id": "rektcapital__Sat, 25 Jul 2026 13:00:52 GMT",
       "handle": "rektcapital",
@@ -42,6 +95,17 @@
         "BTC 사이클",
         "BTC"
       ]
+    },
+    {
+      "id": "JSeyff__Sat, 25 Jul 2026 07:02:17 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: These oldsters were dropping acid, dancing naked in Golden Gate Park and living on each others couches 60 years ago… now they’re banning new housing to protect their $7m Victorians",
+      "pubDate": "Sat, 25 Jul 2026 07:02:17 GMT",
+      "link": "https://nitter.net/Jason/status/2080911500999528931#m",
+      "keywords": []
     },
     {
       "id": "lookonchain__Sat, 25 Jul 2026 05:30:43 GMT",
@@ -1178,102 +1242,39 @@
       ]
     },
     {
-      "id": "whale_alert__Thu, 23 Jul 2026 18:32:25 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 268,000,000 $USDC (268,083,920 USD) transferred from Coinbase Institutional to #Coinbase https://whale-alert.io/tx/ethereum/0x6f14048c7f69db163c722081f9af49b7a14eb5927a3a0dbb94f16a98dde5369f",
-      "pubDate": "Thu, 23 Jul 2026 18:32:25 GMT",
-      "link": "https://nitter.net/whale_alert/status/2080360403087790433#m",
+      "id": "glassnode__Thu, 23 Jul 2026 14:42:05 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Strategy Watch #6 is live📊 June turned risk-off: directional funds fell (Fundamental -11.6%) while market-neutral held up, and net capital left every major asset. Our monthly read on fund performance & flows, with @CIG_Crypto👇 https://glassno.de/4fuI5NL",
+      "pubDate": "Thu, 23 Jul 2026 14:42:05 GMT",
+      "link": "https://nitter.net/glassnode/status/2080302435738808761#m",
       "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급"
+        "Strategy(MSTR)",
+        "기관 매집"
       ]
     },
     {
-      "id": "whale_alert__Thu, 23 Jul 2026 17:11:14 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,568,750 USD) transferred from Tether Treasury to #Binance https://whale-alert.io/tx/tron/570f32fadcd47a9d338a9cb7476c1f51fe9bf97e58cd28ccb7a63b840a23cbf0",
-      "pubDate": "Thu, 23 Jul 2026 17:11:14 GMT",
-      "link": "https://nitter.net/whale_alert/status/2080339970699444621#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 23 Jul 2026 16:58:18 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Did pomp just give us the bottom signal for duration? lol",
-      "pubDate": "Thu, 23 Jul 2026 16:58:18 GMT",
-      "link": "https://nitter.net/JSeyff/status/2080336716305502383#m",
+      "id": "ColinTCrypto__Thu, 23 Jul 2026 12:37:45 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @ColinTCrypto: I’m stacking more shares of $ABCL at this low $5.00-$5.60 dollar range. This drawdown is a gift and buying opportunity, imo.",
+      "pubDate": "Thu, 23 Jul 2026 12:37:45 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2080271147162026214#m",
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 16:48:25 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
+      "id": "ki_young_ju__Thu, 23 Jul 2026 09:20:59 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
       "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Crypto exchange BitMEX announced today will shutdown. Bitcoin reserves already were at multi-year lows.",
-      "pubDate": "Thu, 23 Jul 2026 16:48:25 GMT",
-      "link": "https://nitter.net/jjcmoreno/status/2080334228244373802#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 23 Jul 2026 16:20:54 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Has any industry&apos;s PACs ever hit 1.000 in an election cycle with more than say 10 at bats? It has to be close to a statistical impossibility, like an anomaly in physics",
-      "pubDate": "Thu, 23 Jul 2026 16:20:54 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2080327303721042115#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "rektcapital__Thu, 23 Jul 2026 16:18:08 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Loving the course so far. Would recommend.",
-      "pubDate": "Thu, 23 Jul 2026 16:18:08 GMT",
-      "link": "https://nitter.net/Petroschi/status/2080326605512048923#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 23 Jul 2026 16:17:49 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Good point from @Scaramucci. Crypto PACs went an impossible 48 for 48 in winning elections in 2024. And that&apos;s backing Rs, Ds, incumbents, challengers, long-shots. So you&apos;d have to be pretty dumb to mess with them.",
-      "pubDate": "Thu, 23 Jul 2026 16:17:49 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2080326526583599206#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Thu, 23 Jul 2026 16:16:51 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Founding members of my new community get a new course I&apos;m building called Autopilot Investing It lives only inside the community You also lock in the founding rate $29/mo or $278/yr before price goes up Lock in the early-bird rate: https://www.skool.com/rektcapital/about #BTC $BTC #Bitcoin",
-      "pubDate": "Thu, 23 Jul 2026 16:16:51 GMT",
-      "link": "https://nitter.net/rektcapital/status/2080326283297173915#m",
+      "color": "sky",
+      "text": "BitMEX recorded $84M in BTC futures volume yesterday, representing 0.08% of the market. It was a great exchange that helped shape the industry, and now it is passing the torch to the next generation of exchanges it inspired.",
+      "pubDate": "Thu, 23 Jul 2026 09:20:59 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2080221628605309288#m",
       "keywords": [
         "BTC"
       ]
