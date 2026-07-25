@@ -1,6 +1,179 @@
 {
-  "updatedAt": "2026-07-24T19:40:24.335Z",
+  "updatedAt": "2026-07-25T03:25:28.972Z",
   "items": [
+    {
+      "id": "ColinTCrypto__Sat, 25 Jul 2026 03:12:00 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "RT @ColinTCrypto: 🔵 How to Buy the $BTC Bottom: 20%-25% below the 200-week moving average. All past Bitcoin bear markets have provided at…",
+      "pubDate": "Sat, 25 Jul 2026 03:12:00 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2080853548087042158#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 25 Jul 2026 01:56:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 100,704,599 $USDT (100,622,827 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/ethereum/0x5237ec45e2a27dec6bbef98b1dcee0e26812014387b419ef3f84a912a7f68845",
+      "pubDate": "Sat, 25 Jul 2026 01:56:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080834568894959816#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 25 Jul 2026 00:09:45 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 191,496,455 $USDC (191,545,765 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0xa2bfc949bf44890240af5deac5f2e0a78ba06154f31d48f9faa48a7698533f91",
+      "pubDate": "Sat, 25 Jul 2026 00:09:45 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080807683490234384#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 23:19:45 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 191,469,058 $USDC (191,554,166 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x03afef9436db75cd457c9304994e6ffc10f50b7aebe76ede08c6cc4444568e1d",
+      "pubDate": "Fri, 24 Jul 2026 23:19:45 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080795100825722920#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 24 Jul 2026 22:02:29 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: \"Corgimind\" photo credit @Todd_Sohn",
+      "pubDate": "Fri, 24 Jul 2026 22:02:29 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2080775653381521916#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Fri, 24 Jul 2026 21:47:46 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Corgi just filed for every single country ETF imaginable",
+      "pubDate": "Fri, 24 Jul 2026 21:47:46 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2080771950155038807#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 21:31:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,815 $BTC (116,505,826 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/722ac77826d0bb286af67e44d3218c682b0e1e88907af9f7900b47fc3c728bb9",
+      "pubDate": "Fri, 24 Jul 2026 21:31:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080767813682131156#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Fri, 24 Jul 2026 21:26:05 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "NEW: @CanaryFunds just filed amendment number three for their staked Tron ETF (tron:native). It will trade under ticker $TRXS. Still no fee. But potentially indicative of some movement here with the SEC. Time will tell.",
+      "pubDate": "Fri, 24 Jul 2026 21:26:05 GMT",
+      "link": "https://nitter.net/JSeyff/status/2080766494837743784#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "JSeyff__Fri, 24 Jul 2026 21:21:13 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Corgi just filed for another 43 ETFs. FORTY THREE. They filed for 42 last Friday. These numbers are insane.",
+      "pubDate": "Fri, 24 Jul 2026 21:21:13 GMT",
+      "link": "https://nitter.net/JSeyff/status/2080765269866148135#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 24 Jul 2026 21:04:03 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: . @CoinDesk and @cryptoquant_com have released comprehensive reports highlighting the TRON network&apos;s performance throughout the second quarter and first half of 2026, respectively. These independent analyses point to TRON&apos;s continued dominance in global stablecoin settlement and protoc",
+      "pubDate": "Fri, 24 Jul 2026 21:04:03 GMT",
+      "link": "https://nitter.net/trondao/status/2080760946960511158#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 24 Jul 2026 20:49:46 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,224,999 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3pZ362FWywTBGVjQFD4xPsWZu3BnhhUqxDTuhnzPc7o8wgEShBtG86zrW5422jcsu8k9NmyZYLFDyW9LQgt6f1Me",
+      "pubDate": "Fri, 24 Jul 2026 20:49:46 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080757355101245764#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 24 Jul 2026 20:36:30 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Here&apos;s the Top 30 new launches of 2026 (out of 800 so far) by assets. Very top heavy list but a lot to unpack in here- has to be one of the most eclectic crop of rookies that I can recall. Not a lot of vanilla or passive as 27 of the 30 are active.",
+      "pubDate": "Fri, 24 Jul 2026 20:36:30 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2080754015973830709#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Fri, 24 Jul 2026 20:34:32 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $TAO $IO $ASTER $LIT $TIA $UNI I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-283-2/ #BTC #Crypto #Bitcoin",
+      "pubDate": "Fri, 24 Jul 2026 20:34:32 GMT",
+      "link": "https://nitter.net/rektcapital/status/2080753521918632072#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "cryptoquant_com__Fri, 24 Jul 2026 19:19:00 GMT",
       "handle": "cryptoquant_com",
@@ -276,7 +449,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New YouTube video is live! The Bitcoin Bargain Framework Check it out here: https://youtu.be/s22yyxspRT0?si=0lsGDVZF4kRHmRhC Enjoy and Subscribe! #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: New YouTube video is live! The Bitcoin Bargain Framework Check it out here: https://youtu.be/s22yyxspRT0?si=0lsGDVZF4kRHmRhC Enjoy and Subscribe! #BTC $BTC #Bitcoin",
       "pubDate": "Fri, 24 Jul 2026 14:54:26 GMT",
       "link": "https://nitter.net/rektcapital/status/2080667933114577219#m",
       "keywords": [
@@ -1105,165 +1278,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 23 Jul 2026 09:20:59 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "BitMEX recorded $84M in BTC futures volume yesterday, representing 0.08% of the market. It was a great exchange that helped shape the industry, and now it is passing the torch to the next generation of exchanges it inspired.",
-      "pubDate": "Thu, 23 Jul 2026 09:20:59 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2080221628605309288#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 23 Jul 2026 07:27:09 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Chart Link https://cryptoquant.com/community/dashboard/66c366531dad4a62a5d42c79?e=69f27929e2872616b411bd2e",
-      "pubDate": "Thu, 23 Jul 2026 07:27:09 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2080192980812714197#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Thu, 23 Jul 2026 07:27:08 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin spot demand is weakening. Futures demand remains net positive, but is significantly lower than during the rebound three months ago.",
-      "pubDate": "Thu, 23 Jul 2026 07:27:08 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2080192978329743611#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 07:26:26 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a60dc727a45a75a9468d4e4-Stablecoin-Dry-Powder-Is-Not-Yet-Returning-at-Scale?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=novaque-research",
-      "pubDate": "Thu, 23 Jul 2026 07:26:26 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080192801321443741#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 07:17:11 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Stablecoin Dry Powder Is Not Yet Returning at Scale “Continued reserve contraction would leave rallies more dependent on leverage and external capital flows.” – By @NovaqueResearch",
-      "pubDate": "Thu, 23 Jul 2026 07:17:11 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080190471020687749#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Thu, 23 Jul 2026 06:10:21 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Gm 🌞 Scrolling @coinjoined tweets with your morning coffee is 1) funny 2) genuinely educational I gave up on bitcoin podcasts and just scroll his and other tall brain tweets",
-      "pubDate": "Thu, 23 Jul 2026 06:10:21 GMT",
-      "link": "https://nitter.net/JoeNakamoto/status/2080173652532994111#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 23 Jul 2026 05:22:21 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Is today Hackers&apos; Day? Three exploits have already happened today, with total losses of $35.55M. AFX Trade(@AFX_XYZ) was exploited for $24.15M. Verus(@VerusCoin) Ethereum bridge was exploited for $7.55M. B² Network(@BSquaredNetwork) was exploited for $3.86M.",
-      "pubDate": "Thu, 23 Jul 2026 05:22:21 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080161575923761418#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 23 Jul 2026 05:17:00 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "It appears the @VerusCoin Ethereum bridge was exploited for $7.55M. The exploiter swapped all the stolen funds for 3,916 $ETH($7.52M) and deposited them into #TornadoCash for laundering. https://arkm.com/explorer/address/0xCFd0A20703cD11E0b9f665e1C3F1Ef989C142D54",
-      "pubDate": "Thu, 23 Jul 2026 05:17:00 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080160229287920109#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 23 Jul 2026 02:20:02 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "It appears @BSquaredNetwork was exploited, with 8.59M $B2 ($3.86M) stolen. The exploiter sold all 8.59M $B2 for 5,409 $BNB ($3.01M). The funds were then bridged to #Ethereum, swapped for $ETH and $USDT, and deposited into NEAR Intents and HOT Protocol. https://arkm.com/explorer/address/0xEc443f7D79835B464FBEAC798d3f92B",
-      "pubDate": "Thu, 23 Jul 2026 02:20:02 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080115692406444511#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 01:20:50 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: The best setups often form when speculation disappears. @jjcmoreno is tracking the relative strength of BTC & ETH - both showing early signs of bottoming out. Speculative interest is fully washed out, relative spot trading volume has hit bottom levels, and ETF demand is starting to improve. FT @",
-      "pubDate": "Thu, 23 Jul 2026 01:20:50 GMT",
-      "link": "https://nitter.net/milkroaddaily/status/2080100793923915794#m",
-      "keywords": [
-        "ETF 수급",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 23 Jul 2026 01:10:00 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: It is absolutely insane that something so agreeable (banning politicians from stock trading) is overwhelmingly opposed by one party because of another agreeable, common sense provision (showing ID to vote in US elections)",
-      "pubDate": "Thu, 23 Jul 2026 01:10:00 GMT",
-      "link": "https://nitter.net/litcapital/status/2080098067278082172#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 23 Jul 2026 00:46:07 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "AFX Trade(@AFX_XYZ) was exploited for $24.15M! The exploiter bridged 24.15M $USDC to #Ethereum and bought 12,467 $ETH at an average price of $1,937. https://arkm.com/explorer/address/0x2f2974fAbc54dbA33442261211c06BD20E0FEefc",
-      "pubDate": "Thu, 23 Jul 2026 00:46:07 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080092059252486487#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 23 Jul 2026 00:39:57 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Arthur Hayes(@CryptoHayes) bought another 644.34 $ETH($1.25M) 8 hours ago. He has bought a total of 3,270 $ETH $6.27M) over the past 8 days, with an average purchase price of ~$1,917. https://arkm.com/explorer/entity/arthur-hayes",
-      "pubDate": "Thu, 23 Jul 2026 00:39:57 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080090506932162949#m",
-      "keywords": []
     }
   ]
 }
