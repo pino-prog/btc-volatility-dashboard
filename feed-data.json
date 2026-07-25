@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-25T03:25:28.972Z",
+  "updatedAt": "2026-07-25T08:17:24.638Z",
   "items": [
+    {
+      "id": "lookonchain__Sat, 25 Jul 2026 05:30:43 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Another whale received 557,902 $HYPE ($32.87M) from #FalconX and deposited it into Hyperliquid for staking. https://arkm.com/explorer/address/0xD9B7B09eB1E2cCBfE293e96a2172A80A47a9582e",
+      "pubDate": "Sat, 25 Jul 2026 05:30:43 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080888456344109249#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 25 Jul 2026 04:03:39 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 4,996 $BTC (320,145,476 USD) transferred from #OKEX to unknown wallet https://whale-alert.io/tx/bitcoin/c486ba29da97b5aaab5824d8c2ccb021a327473e89289c518bbc212dd3df1ebd",
+      "pubDate": "Sat, 25 Jul 2026 04:03:39 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080866544247017566#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Sat, 25 Jul 2026 04:02:58 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: I’ve literally just been watching emeril lagasse clips for like the last hour. I’m not sure what it says about me but what a throwback. Legend.",
+      "pubDate": "Sat, 25 Jul 2026 04:02:58 GMT",
+      "link": "https://nitter.net/JSeyff/status/2080866371689173059#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Sat, 25 Jul 2026 03:46:48 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "I absolutely loved watching @Emeril with my dad when I was younger. Electric is damn right. “pork fat rules” “BAM” what a time …",
+      "pubDate": "Sat, 25 Jul 2026 03:46:48 GMT",
+      "link": "https://nitter.net/JSeyff/status/2080862305613492423#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 25 Jul 2026 03:43:00 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The World Foundation(@worldcoinfnd) raised $52.5M by selling $WLD. On-chain data shows it transferred out 217.4M $WLD, suggesting a sale price of $0.2415 per $WLD. At the same time, the World Foundation has received 47.5M $USDC. https://arkm.com/explorer/entity/worldcoin",
+      "pubDate": "Sat, 25 Jul 2026 03:43:00 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080861345747235237#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sat, 25 Jul 2026 03:40:39 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 4,690 $BTC (300,586,912 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/5657a0243dee569244c5aa65d5cc8655c1bbad780e7eb2d165f5902b49a36f90",
+      "pubDate": "Sat, 25 Jul 2026 03:40:39 GMT",
+      "link": "https://nitter.net/whale_alert/status/2080860756665409796#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
     {
       "id": "ColinTCrypto__Sat, 25 Jul 2026 03:12:00 GMT",
       "handle": "ColinTCrypto",
@@ -14,6 +91,17 @@
         "약세장",
         "BTC"
       ]
+    },
+    {
+      "id": "lookonchain__Sat, 25 Jul 2026 02:12:10 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The #Trump team transferred out another 10.84M $TRUMP($16.91M) 1 hour ago, likely to be deposited into BitGo and then sent to exchanges. Over the past 5 months, the #Trump team has transferred out 48.25M $TRUMP ($172.4M) in 3 batches. After each transfer, the price of $TRUMP kept falling, dropping more than 66% over th",
+      "pubDate": "Sat, 25 Jul 2026 02:12:10 GMT",
+      "link": "https://nitter.net/lookonchain/status/2080838490338775393#m",
+      "keywords": []
     },
     {
       "id": "whale_alert__Sat, 25 Jul 2026 01:56:35 GMT",
@@ -80,6 +168,17 @@
       "keywords": [
         "ETF 수급"
       ]
+    },
+    {
+      "id": "JSeyff__Fri, 24 Jul 2026 21:39:03 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Cunningham is articulating a view that 70-80 percent of Americans share, that reflects the law in many states, and that has been adopted by the IOC and the NCAA.",
+      "pubDate": "Fri, 24 Jul 2026 21:39:03 GMT",
+      "link": "https://nitter.net/mattyglesias/status/2080769756777382274#m",
+      "keywords": []
     },
     {
       "id": "whale_alert__Fri, 24 Jul 2026 21:31:20 GMT",
@@ -1174,110 +1273,6 @@
       "pubDate": "Thu, 23 Jul 2026 13:58:17 GMT",
       "link": "https://nitter.net/lookonchain/status/2080291412936130994#m",
       "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 23 Jul 2026 13:43:24 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "July 23 Update: #Bitcoin ETFs: 1D NetFlow: +1,064 $BTC(+$69.28M)🟢 7D NetFlow: +10,891 $BTC(+$709.47M)🟢 #Ethereum ETFs: 1D NetFlow: +37,753 $ETH(+$71.88M)🟢 7D NetFlow: +84,364 $ETH(+$160.63M)🟢",
-      "pubDate": "Thu, 23 Jul 2026 13:43:24 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080287669029130488#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 23 Jul 2026 12:37:45 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: I’m stacking more shares of $ABCL at this low $5.00-$5.60 dollar range. This drawdown is a gift and buying opportunity, imo.",
-      "pubDate": "Thu, 23 Jul 2026 12:37:45 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080271147162026214#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 23 Jul 2026 12:30:15 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Looking into this more there is def a correlation bt $BITO volume spikes and $IBIT price reversals up, which would seem to indicate the basis trade heating up given&apos;s BITO&apos;s explosive volume the past few weeks. Bc again, no regular investor is going to use BITO which charges 95bps and tracks futures when you ",
-      "pubDate": "Thu, 23 Jul 2026 12:30:15 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2080269258626318528#m",
-      "keywords": [
-        "ETF 수급",
-        "스팟 ETF"
-      ]
-    },
-    {
-      "id": "rektcapital__Thu, 23 Jul 2026 12:28:29 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Today&apos;s the last day to join my new community as a founding member $29 a month, or $278 for the year instead of $348 The founding rate stays yours for as long as you stay, even after price increases for everyone else later https://www.skool.com/rektcapital/about #BTC $BTC #Bitcoin",
-      "pubDate": "Thu, 23 Jul 2026 12:28:29 GMT",
-      "link": "https://nitter.net/rektcapital/status/2080268816030761249#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 11:59:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: See what this means for ethereum:native in our report ⤵️ https://cryptoquant.com/insights/research/6a6200784de1e64b087e79a5-23-July-2026-Cheaper-Not-Capitulated-Is-Ethereum-Bottoming-vs-Bitcoin?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
-      "pubDate": "Thu, 23 Jul 2026 11:59:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080261393287434332#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 11:54:39 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Ethereum is cheap, but the data says the bottom isn’t in yet. ETH trades 17% below its realized price, but only two of five signals have reached historical bottoming levels. Selling pressure is easing. Capitulation is still missing.",
-      "pubDate": "Thu, 23 Jul 2026 11:54:39 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080260298326368356#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 09:46:40 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a6135474de1e64b087e78e7-Binance-Sees-Bitcoin-Outflows-Continue-Despite-Rising-Deposit-Activity?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=xwin",
-      "pubDate": "Thu, 23 Jul 2026 09:46:40 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080228091075473893#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 09:45:08 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Binance Sees Bitcoin Outflows Continue Despite Rising Deposit Activity “This divergence may indicate that investors are becoming more confident in Bitcoin&apos;s long-term outlook.” – By @xwinfinance",
-      "pubDate": "Thu, 23 Jul 2026 09:45:08 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080227704087925053#m",
-      "keywords": [
-        "BTC"
-      ]
     }
   ]
 }
