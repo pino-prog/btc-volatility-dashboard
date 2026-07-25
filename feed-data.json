@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-07-25T08:17:24.638Z",
+  "updatedAt": "2026-07-25T13:50:56.357Z",
   "items": [
+    {
+      "id": "rektcapital__Sat, 25 Jul 2026 13:00:52 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin continues to experience resistance at the ~$65500 level (blue) as the Weekly Close slowly approaches In fact, Bitcoin may be developing a new multi-week Lower High on price (black) More, the declining buy-side volume has actually now shifted into more seller-oriented volume for the week The more seller-dom",
+      "pubDate": "Sat, 25 Jul 2026 13:00:52 GMT",
+      "link": "https://nitter.net/rektcapital/status/2081001740942361075#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Sat, 25 Jul 2026 12:55:41 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "I just published a new #BTC YouTube Short: Is The Bitcoin Summer Rally Ending? Check it out here: https://youtube.com/shorts/BQCS2pQJauI?si=bAX261i4jFNUB-EN Enjoy and Subscribe! $BTC #Crypto #Bitcoin",
+      "pubDate": "Sat, 25 Jul 2026 12:55:41 GMT",
+      "link": "https://nitter.net/rektcapital/status/2081000437159784689#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Sat, 25 Jul 2026 12:14:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Where Is Bitcoin In the Cycle? EMA Crossover Analysis If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/y1VZlQtjUwY?si=gmnXGyMLTb5Epk-G Enjoy and Subscribe! $BTC #Crypto #Bitcoin",
+      "pubDate": "Sat, 25 Jul 2026 12:14:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2080989944072581161#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Sat, 25 Jul 2026 05:30:43 GMT",
       "handle": "lookonchain",
@@ -266,7 +308,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $TAO $IO $ASTER $LIT $TIA $UNI I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-283-2/ #BTC #Crypto #Bitcoin",
+      "text": "RT by @rektcapital: I&apos;ve published a new Altcoin Newsletter 🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $TAO $IO $ASTER $LIT $TIA $UNI I share an Altcoin Newsletter like this every Friday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-newsletter-283-2/ #BTC #Crypto #Bitcoin",
       "pubDate": "Fri, 24 Jul 2026 20:34:32 GMT",
       "link": "https://nitter.net/rektcapital/status/2080753521918632072#m",
       "keywords": [
@@ -1235,44 +1277,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "rektcapital__Thu, 23 Jul 2026 15:42:21 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Looks like #BTC is rejecting from the 50-Month EMA $BTC #Crypto #Bitcoin",
-      "pubDate": "Thu, 23 Jul 2026 15:42:21 GMT",
-      "link": "https://nitter.net/rektcapital/status/2080317604321689994#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Thu, 23 Jul 2026 14:42:05 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Strategy Watch #6 is live📊 June turned risk-off: directional funds fell (Fundamental -11.6%) while market-neutral held up, and net capital left every major asset. Our monthly read on fund performance & flows, with @CIG_Crypto👇 https://glassno.de/4fuI5NL",
-      "pubDate": "Thu, 23 Jul 2026 14:42:05 GMT",
-      "link": "https://nitter.net/glassnode/status/2080302435738808761#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 23 Jul 2026 13:58:17 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Abraxas Capital deposited 2,211 $BTC ($143.88M) into #Kraken and 30,825 $ETH ($59.19M) into #Binance over the past 8 hours. https://arkm.com/explorer/entity/abraxas-capital-heka-funds",
-      "pubDate": "Thu, 23 Jul 2026 13:58:17 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080291412936130994#m",
-      "keywords": []
     }
   ]
 }
