@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-26T03:38:44.268Z",
+  "updatedAt": "2026-07-26T08:35:36.161Z",
   "items": [
+    {
+      "id": "_Checkmatey___Sun, 26 Jul 2026 08:04:38 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "I think the most likely reason is actually to force a state of malaise and ossification. If I was a nation state, with a useful (not idiot) in hand, that&apos;s exactly what I would do. Bog the system down in nonsense, so the important shit gets put on the forever backburner.",
+      "pubDate": "Sun, 26 Jul 2026 08:04:38 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2081289579911619026#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sun, 26 Jul 2026 03:21:35 GMT",
       "handle": "lookonchain",
@@ -122,6 +133,17 @@
       "text": "R to @EricBalchunas: The new Big Three according to @Todd_Sohn",
       "pubDate": "Sat, 25 Jul 2026 19:27:52 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2081099129464180869#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Sat, 25 Jul 2026 19:25:56 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Image",
+      "pubDate": "Sat, 25 Jul 2026 19:25:56 GMT",
+      "link": "https://nitter.net/_nym21_/status/2081098644229398819#m",
       "keywords": []
     },
     {
@@ -1037,20 +1059,6 @@
       ]
     },
     {
-      "id": "lookonchain__Fri, 24 Jul 2026 08:33:46 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The whale who is good at trading $MU just opened a new 3x long on 25,961 $MU($25.2M). The whale has completed 4 long trades on $MU, winning every one and making a $2.28M profit. https://hyperbot.network/trader/0xC8b527864ef2AD6DC49de7e99943a3a76aD48891",
-      "pubDate": "Fri, 24 Jul 2026 08:33:46 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080572132606824461#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "cryptoquant_com__Fri, 24 Jul 2026 08:06:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -1087,42 +1095,6 @@
       "text": "RT by @_Checkmatey_: BRK is officially 3 years old 🎂",
       "pubDate": "Fri, 24 Jul 2026 07:33:24 GMT",
       "link": "https://nitter.net/_nym21_/status/2080556940371886117#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Fri, 24 Jul 2026 07:14:08 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 160,000,000 $USDT (159,940,746 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/0ff9fcbc13625d72460ed9e855447fdf0dd865399d7472aa584f6f530e22561c",
-      "pubDate": "Fri, 24 Jul 2026 07:14:08 GMT",
-      "link": "https://nitter.net/whale_alert/status/2080552093882982662#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 24 Jul 2026 05:03:20 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The Drift Protocol exploiter who stole $285M has deposited 23,095 $ETH ($44.4M) into #TornadoCash today. The exploiter still holds 107,165 $ETH ($201M). https://arkm.com/explorer/entity/drift-protocol-exploiter",
-      "pubDate": "Fri, 24 Jul 2026 05:03:20 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080519178054930660#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 24 Jul 2026 04:51:19 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Due to the #oil price surge, loracle.hl(@loraclexyz) was fully liquidated on 104,848 $CL($9.68M), losing $680K. But he didn&apos;t give up. He opened another short on #oil and now holds a 33,500 $CL($3.07M) short position. https://hyperbot.network/trader/0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
-      "pubDate": "Fri, 24 Jul 2026 04:51:19 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080516151000670243#m",
       "keywords": []
     },
     {
@@ -1276,6 +1248,31 @@
       "link": "https://nitter.net/glassnode/status/2079961673314496689#m",
       "keywords": [
         "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Wed, 22 Jul 2026 13:26:04 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Solana rotates block production to a new leader every 1.6 seconds. This epoch, 67% of blocks are being produced in Europe. Our dashboard helps users identify optimal connection points to minimize latency. Frankfurt average: 72ms. US East average: 140ms http://latency.glassnode.com/solana",
+      "pubDate": "Wed, 22 Jul 2026 13:26:04 GMT",
+      "link": "https://nitter.net/glassnode/status/2079920916956348681#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Tue, 21 Jul 2026 08:59:46 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: The Bitcoin price has been edging higher in recent weeks, after recovering the 200-week moving average around $63k. The market did experience a weekly close below the 200WMA towards the end of of June, but has since held above it for four consecutive weeks. Attention now turns to the next key level",
+      "pubDate": "Tue, 21 Jul 2026 08:59:46 GMT",
+      "link": "https://nitter.net/_checkonchain/status/2079491513537503430#m",
+      "keywords": [
+        "약세장",
         "BTC"
       ]
     }
