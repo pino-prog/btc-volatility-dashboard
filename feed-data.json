@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-07-27T03:48:33.548Z",
+  "updatedAt": "2026-07-27T10:03:46.179Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 27 Jul 2026 09:19:15 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,070,499 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3mhagHxEkgwbCxGhRNkM3nPAsLVXqBN3MMDYx8YnTYyrJVHjvDgf68BJBGshHR2YWnUxpmHCJ2cdV2rZVieZLx9b",
+      "pubDate": "Mon, 27 Jul 2026 09:19:15 GMT",
+      "link": "https://nitter.net/whale_alert/status/2081670744610603257#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 27 Jul 2026 08:49:52 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A mysterious whale is buying $ETH! Over the past 2 hours, 3 newly created wallets (likely belonging to the same whale) spent 50.04M $DAI to buy 25,425 $ETH at an average price of $1,968. https://arkm.com/explorer/address/0x06cE6C20b5eE13779634F2d167Ec89790300d7F4 https://arkm.com/explorer/address/0x365274FF809D4384738D",
+      "pubDate": "Mon, 27 Jul 2026 08:49:52 GMT",
+      "link": "https://nitter.net/lookonchain/status/2081663349771972860#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 27 Jul 2026 08:19:50 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 40,000 $ETH (78,666,776 USD) transferred from #Aave to #Bitfinex https://whale-alert.io/tx/ethereum/0x72dfeeda1303e7454081b284beb8c47668f68f155eff9b65e46858150fc6c5bf",
+      "pubDate": "Mon, 27 Jul 2026 08:19:50 GMT",
+      "link": "https://nitter.net/whale_alert/status/2081655792961245581#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 27 Jul 2026 08:08:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @CW8900: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a64b0bb5d6f3716db82c9d3-US-investors-are-inflowing-stablecoins-to-the-exchange-again?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=cw8900",
+      "pubDate": "Mon, 27 Jul 2026 08:08:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2081652811704480079#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 27 Jul 2026 08:01:47 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "US Investors Are Inflowing Stablecoins to Exchange Again “Generally, when funds inflow to exchanges, buying power tends to increase. This manifests as an upward price trend.” – By @CW8900",
+      "pubDate": "Mon, 27 Jul 2026 08:01:47 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2081651246646125047#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
     {
       "id": "whale_alert__Mon, 27 Jul 2026 03:24:24 GMT",
       "handle": "whale_alert",
@@ -560,21 +630,6 @@
       ]
     },
     {
-      "id": "whale_alert__Sat, 25 Jul 2026 04:03:39 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 4,996 $BTC (320,145,476 USD) transferred from #OKEX to unknown wallet https://whale-alert.io/tx/bitcoin/c486ba29da97b5aaab5824d8c2ccb021a327473e89289c518bbc212dd3df1ebd",
-      "pubDate": "Sat, 25 Jul 2026 04:03:39 GMT",
-      "link": "https://nitter.net/whale_alert/status/2080866544247017566#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
       "id": "JSeyff__Sat, 25 Jul 2026 04:02:58 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -620,17 +675,6 @@
         "약세장",
         "BTC"
       ]
-    },
-    {
-      "id": "lookonchain__Sat, 25 Jul 2026 02:12:10 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #Trump team transferred out another 10.84M $TRUMP($16.91M) 1 hour ago, likely to be deposited into BitGo and then sent to exchanges. Over the past 5 months, the #Trump team has transferred out 48.25M $TRUMP ($172.4M) in 3 batches. After each transfer, the price of $TRUMP kept falling, dropping more than 66% over th",
-      "pubDate": "Sat, 25 Jul 2026 02:12:10 GMT",
-      "link": "https://nitter.net/lookonchain/status/2080838490338775393#m",
-      "keywords": []
     },
     {
       "id": "JSeyff__Fri, 24 Jul 2026 21:39:03 GMT",
@@ -797,20 +841,6 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Fri, 24 Jul 2026 08:06:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @xwinfinance: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a6280784de1e64b087e7a2c-Nikkei-Features-the-Authors-View-Why-a-Japanese-Bitcoin-ETF-Could-Reach-184-Bill?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=xwin",
-      "pubDate": "Fri, 24 Jul 2026 08:06:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080565144971776498#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
       "id": "cryptoquant_com__Fri, 24 Jul 2026 07:59:28 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -871,20 +901,6 @@
       "pubDate": "Fri, 24 Jul 2026 02:15:36 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2080476967032234131#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Thu, 23 Jul 2026 20:26:35 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "The TradFi Sector That&apos;s Quietly Reshaping Crypto Exchanges “Gate illustrates this shift well… It&apos;s this kind of performance that has pulled part of the crypto investor base toward TradFi, right in the middle of Bitcoin&apos;s bear market.” – By @Darkfost_Coc",
-      "pubDate": "Thu, 23 Jul 2026 20:26:35 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080389132417708333#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
     },
     {
       "id": "glassnode__Thu, 23 Jul 2026 14:42:05 GMT",
