@@ -1,6 +1,139 @@
 {
-  "updatedAt": "2026-07-27T14:51:57.016Z",
+  "updatedAt": "2026-07-27T19:45:07.560Z",
   "items": [
+    {
+      "id": "rektcapital__Mon, 27 Jul 2026 19:16:41 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "New edition of the RC Newsletter is out! Bitcoin - How To Prepare For August Dissecting the Summer Range and its historical analogues Sign up here: https://newsletter.rektcapital.co.uk/howtoprepareforaugust/ #BTC $BTC #Bitcoin",
+      "pubDate": "Mon, 27 Jul 2026 19:16:41 GMT",
+      "link": "https://nitter.net/rektcapital/status/2081821091748819008#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 27 Jul 2026 17:26:44 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,249 $BTC (146,274,103 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/400ea34e10a64aeec17f2b4b0cde7e4a1392205ce649e6a6d57c407c2eeba0db",
+      "pubDate": "Mon, 27 Jul 2026 17:26:44 GMT",
+      "link": "https://nitter.net/whale_alert/status/2081793421602078773#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 27 Jul 2026 17:21:38 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,152 $BTC (139,753,115 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/b04085076a97ceb714327877d5046bd3cd2f74d586fb168add79d2a95b40e7b4",
+      "pubDate": "Mon, 27 Jul 2026 17:21:38 GMT",
+      "link": "https://nitter.net/whale_alert/status/2081792141416599920#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 27 Jul 2026 15:40:27 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,874 $BTC (185,611,338 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/ea66922f0a4470e8b9dee3ae4e4e010b64e675589c85b57e9d3e46f093fc60b6",
+      "pubDate": "Mon, 27 Jul 2026 15:40:27 GMT",
+      "link": "https://nitter.net/whale_alert/status/2081766677482525075#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 27 Jul 2026 15:39:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 872 $BTC (56,361,650 USD) transferred from Coinbase Institutional to unknown new wallet https://whale-alert.io/tx/bitcoin/d7d26b2dc9015e2dd170ea393dd12b70763eac56ab89395b9b88fb272881ac72",
+      "pubDate": "Mon, 27 Jul 2026 15:39:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2081766413694337524#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 27 Jul 2026 15:29:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "July 20–July 26, 2026 #LookonchainWeeklyReport 🟢 Overview Stablecoin supply was little changed last week, while DEX trading cooled and institutional activity remained muted, with public companies reducing 360 BTC and Bitmine buying just 9,946 ETH. 🟢 Stablecoin Market The total stablecoin market cap increased by $113.",
+      "pubDate": "Mon, 27 Jul 2026 15:29:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2081764041970909566#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "Strategy(MSTR)",
+        "기관 매집"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 27 Jul 2026 14:57:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @xwinfinance: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a66820e4de1e64b087e7d9f-Exchange-Consolidation-Begins-What-the-Closures-of-BitMEX-and-BitMart-Mean-for-B?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=xwin",
+      "pubDate": "Mon, 27 Jul 2026 14:57:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2081755740209889687#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 27 Jul 2026 14:54:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "July 27 Update: #Bitcoin ETFs: 1D NetFlow: -3,824 $BTC(-$246.68M)🔴 7D NetFlow: +253 $BTC(+$16.65M)🟢 #Ethereum ETFs: 1D NetFlow: -43,284 $ETH(-$83.23M)🔴 7D NetFlow: +46,190 $ETH(+$88.82M)🟢",
+      "pubDate": "Mon, 27 Jul 2026 14:54:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2081755145701052478#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 27 Jul 2026 14:52:16 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Exchange Consolidation Begins: What the Closures of BitMEX and BitMart Mean for Binance and Bitcoin “The next phase of the crypto market is likely to be dominated by fewer, larger, and more transparent exchanges capable of meeting institutional standards.” – By @xwinfinance",
+      "pubDate": "Mon, 27 Jul 2026 14:52:16 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2081754551086883017#m",
+      "keywords": [
+        "기관 수급",
+        "BTC"
+      ]
+    },
     {
       "id": "rektcapital__Mon, 27 Jul 2026 14:39:32 GMT",
       "handle": "rektcapital",
@@ -820,17 +953,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Sat, 25 Jul 2026 19:27:52 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: The new Big Three according to @Todd_Sohn",
-      "pubDate": "Sat, 25 Jul 2026 19:27:52 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2081099129464180869#m",
-      "keywords": []
-    },
-    {
       "id": "_Checkmatey___Sat, 25 Jul 2026 19:25:56 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -839,17 +961,6 @@
       "text": "RT by @_Checkmatey_: Image",
       "pubDate": "Sat, 25 Jul 2026 19:25:56 GMT",
       "link": "https://nitter.net/_nym21_/status/2081098644229398819#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sat, 25 Jul 2026 19:22:38 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "They’re already selling LeBron Sixers shirts down the shore. It’s only been 24hrs since news broke. Capitalism in effect.",
-      "pubDate": "Sat, 25 Jul 2026 19:22:38 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2081097814042443873#m",
       "keywords": []
     },
     {
@@ -863,30 +974,6 @@
       "link": "https://nitter.net/JSeyff/status/2081086132041765073#m",
       "keywords": [
         "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sat, 25 Jul 2026 17:47:24 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Greetings from the Jersey shore.. Superb weather. Not too hot, 78 and sunny. A little windy tho.",
-      "pubDate": "Sat, 25 Jul 2026 17:47:24 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2081073846623375713#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sat, 25 Jul 2026 15:50:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: In case you missed it... New YouTube video is live! The Bitcoin Bargain Framework Check it out here: https://youtu.be/s22yyxspRT0?si=0lsGDVZF4kRHmRhC Enjoy and Subscribe! $BTC #BTC #Bitcoin",
-      "pubDate": "Sat, 25 Jul 2026 15:50:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2081044302910705690#m",
-      "keywords": [
-        "BTC"
       ]
     },
     {
@@ -921,20 +1008,6 @@
       "pubDate": "Sat, 25 Jul 2026 03:46:48 GMT",
       "link": "https://nitter.net/JSeyff/status/2080862305613492423#m",
       "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Sat, 25 Jul 2026 03:12:00 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RT @ColinTCrypto: 🔵 How to Buy the $BTC Bottom: 20%-25% below the 200-week moving average. All past Bitcoin bear markets have provided at…",
-      "pubDate": "Sat, 25 Jul 2026 03:12:00 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080853548087042158#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
     },
     {
       "id": "JSeyff__Fri, 24 Jul 2026 21:39:03 GMT",
@@ -988,43 +1061,6 @@
         "스테이블코인",
         "SSR"
       ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 24 Jul 2026 17:34:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin LTH Accumulation Hit Its Highest Level In 6 Years “As Bitcoin approaches the realized price level, strong hands step onto the stage.” – By @burak_kesmeci Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a636e987a45a75a9468d79a-Bitcoin-LTH-long-term-holder-accumulation-just-hit-its-highest-level-in-6-yea",
-      "pubDate": "Fri, 24 Jul 2026 17:34:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080708087174807835#m",
-      "keywords": [
-        "LTH 보유자",
-        "매집",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 24 Jul 2026 15:43:31 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RT @ColinTCrypto: At this rate, by the time $BTC tags the 200-day MA, it will be below $70k (if it even does so)... (yawn) 🐌 https://t.co…",
-      "pubDate": "Fri, 24 Jul 2026 15:43:31 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080680284630978623#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 24 Jul 2026 15:08:53 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "6M–12M Holder Inflows: Signals of Strategic Repositioning? “Increased movement of coins toward exchanges may tell that this particular cohort is actively rebalancing or repositioning their assets, which could signal early preparations for the next market phase. – By @nino_trade",
-      "pubDate": "Fri, 24 Jul 2026 15:08:53 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080671569551003992#m",
-      "keywords": []
     },
     {
       "id": "glassnode__Fri, 24 Jul 2026 12:39:52 GMT",
@@ -1085,43 +1121,6 @@
       "text": "RT by @_Checkmatey_: BRK is officially 3 years old 🎂",
       "pubDate": "Fri, 24 Jul 2026 07:33:24 GMT",
       "link": "https://nitter.net/_nym21_/status/2080556940371886117#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Fri, 24 Jul 2026 02:19:36 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "I still think there&apos;s a good chance we see new lows this cycle, in the coming few months. The patience required is brutal though.",
-      "pubDate": "Fri, 24 Jul 2026 02:19:36 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080477973300338831#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 24 Jul 2026 02:19:15 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: I still think there&apos;s a good chance we see new lows this cycle, in the coming few months.",
-      "pubDate": "Fri, 24 Jul 2026 02:19:15 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080477884255236486#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 24 Jul 2026 02:15:36 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "At this rate, by the time $BTC tags the 200-day MA, it will be below $70k (if it even does so)... (yawn) 🐌",
-      "pubDate": "Fri, 24 Jul 2026 02:15:36 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080476967032234131#m",
       "keywords": []
     },
     {
@@ -1249,6 +1248,33 @@
       "text": "BIP 110 is like amending the constitution to ban littering in the park.",
       "pubDate": "Sun, 19 Jul 2026 00:45:17 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2078642296908660890#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Thu, 09 Jul 2026 21:31:33 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Some bullish Bitcoin opium is coming in the next few months to relieve your bear market pain. Just not yet. Hang in there.",
+      "pubDate": "Thu, 09 Jul 2026 21:31:33 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2075332053285867703#m",
+      "keywords": [
+        "강세장",
+        "약세장",
+        "강세 신호",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Tue, 07 Jul 2026 04:28:42 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "RT by @ki_young_ju: < vooy creator recipe day > 최근 여러 해커톤을 주최하고 지켜보며 확신하게 된 것이 있습니다. 이제 중요한 건 코딩을 얼마나 잘하느냐가 아닙니다. “내가 무엇을 만들고 싶은가”를 얼마나 선명하게 알고 있느냐입니다. 7월 5일, Hashed와 Vooy가 함께 연 첫 레시피데이에서도 이 사실을 확인했습니다. 많은 참가자분들이 처음으로 자신의 에이전트를 세팅하고, 직접 레시피를 만들고, 작은 루틴을 돌려봤습니다. 처음엔 “에이전트”라는 단어 앞에서 어렵게 느끼셨지만, 막상 만들어보니 반응은 완전히 달랐습니다. 생각보",
+      "pubDate": "Tue, 07 Jul 2026 04:28:42 GMT",
+      "link": "https://nitter.net/simonkim_nft/status/2074349865094783259#m",
       "keywords": []
     }
   ]
