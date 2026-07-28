@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-07-28T03:18:47.267Z",
+  "updatedAt": "2026-07-28T08:46:50.113Z",
   "items": [
+    {
+      "id": "_Checkmatey___Tue, 28 Jul 2026 08:18:05 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "R to @_Checkmatey_: For folks who genuinely believe you need a URSF to reject every soft fork proposal, just think about how fragile that is. Some dude on the internet wants a new OP code --> we have to notice and code a URSF. A government wants to restrict all transactions to halt the network --> we&apos;d need to cod",
+      "pubDate": "Tue, 28 Jul 2026 08:18:05 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2082017738583900254#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 28 Jul 2026 08:15:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,811 $BTC (114,973,916 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/0f5cb70978d9e86aa2e28d9d0a64e39a98b7223fb0b3e126bf335aa5cc9e365b",
+      "pubDate": "Tue, 28 Jul 2026 08:15:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082017069025919038#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Tue, 28 Jul 2026 08:10:28 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "There is no need for a URSF to prevent BIP110, and it&apos;s wild Chris believes you do. The mandatory lock-in ensures that standard nodes/miners will accept a BIP110 block and build ontop, but BIP110 nodes will reject a standard block. The URSF is &apos;doing nothing&apos;, and BIP110 nodes will fork off as a result. ",
+      "pubDate": "Tue, 28 Jul 2026 08:10:28 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2082015821958963522#m",
+      "keywords": [
+        "Miner Flow",
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 28 Jul 2026 07:55:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Woo_Minkyu: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a6839117a45a75a9468dc6c-Bitcoin-Quiet-Accumulation-Beneath-the-Correction?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu",
+      "pubDate": "Tue, 28 Jul 2026 07:55:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2082011927979712624#m",
+      "keywords": [
+        "매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 28 Jul 2026 07:49:15 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Quiet Accumulation Beneath the Correction “In a typical capitulation, coins flood into exchanges to be sold. Instead, the dominant behavior throughout this correction has been withdrawal into self-custody — a sign of long-term holding intent, not distribution.” – By @Woo_Minkyu",
+      "pubDate": "Tue, 28 Jul 2026 07:49:15 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2082010480122442227#m",
+      "keywords": [
+        "매집",
+        "분배"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 28 Jul 2026 06:49:29 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Yesterday, 230,862 new accounts were created on #Tron, up 42.87% and marking the highest daily total in the past month. https://tronscan.org/data/charts/accounts/new-accounts",
+      "pubDate": "Tue, 28 Jul 2026 06:49:29 GMT",
+      "link": "https://nitter.net/lookonchain/status/2081995441802244455#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 28 Jul 2026 06:36:24 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: 🚨 BitMart resumed processing ETH withdrawals over the last 24 hours. Users are rushing to the exit. ETH withdrawal transactions from the exchange just reached their highest level since July 2025. 👀",
+      "pubDate": "Tue, 28 Jul 2026 06:36:24 GMT",
+      "link": "https://nitter.net/JA_Maartun/status/2081992148455498213#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 28 Jul 2026 06:13:35 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "An abnormal order briefly pushed $SKHX below $930, triggering more than $80M in $SKHX liquidations. Trader 0xc985 was one of the victims. His 2,026 $SKHX ($2.08M) long position was fully liquidated, resulting in a $260K loss. https://hypurrscan.io/address/0xc985ffc27c59537c81e40e7b4fb3267fdaa9f97e#txs",
+      "pubDate": "Tue, 28 Jul 2026 06:13:35 GMT",
+      "link": "https://nitter.net/lookonchain/status/2081986404918403339#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 28 Jul 2026 03:29:13 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,879 $BTC (119,029,855 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/14cb1001dcb316d72ad181f0e066cdc59df1eb5f6a3b11ca2dc7378ddbb517b9",
+      "pubDate": "Tue, 28 Jul 2026 03:29:13 GMT",
+      "link": "https://nitter.net/whale_alert/status/2081945044773212489#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 28 Jul 2026 02:29:02 GMT",
       "handle": "lookonchain",
@@ -405,7 +527,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "#BTC The new Weekly Close is in and here is what we&apos;ve learned: - Bitcoin Weekly Closed below the February/March lows, still technically treating them as resistnace - Price Weekly Closed at a slight Lower High which is still worth monitoring as a potentially sign of strengthening resistance at ~$66k (blue) - The v",
+      "text": "RT by @rektcapital: #BTC The new Weekly Close is in and here is what we&apos;ve learned: - Bitcoin Weekly Closed below the February/March lows, still technically treating them as resistnace - Price Weekly Closed at a slight Lower High which is still worth monitoring as a potentially sign of strengthening resistance at ",
       "pubDate": "Mon, 27 Jul 2026 13:49:44 GMT",
       "link": "https://nitter.net/rektcapital/status/2081738811361366187#m",
       "keywords": [
@@ -995,21 +1117,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Sun, 26 Jul 2026 03:21:35 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The mysterious whale (0xf292) has built a 2.10M $CXMT ($13.04M) short position and is now up ~$502K. The whale also has another $4.32M in $CXMT limit short orders waiting to be filled. Current liquidation price: $13.45. https://hypurrscan.io/address/0xf2925cb0779a741fe33037cbd88fca5382e41244#perps",
-      "pubDate": "Sun, 26 Jul 2026 03:21:35 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081218347119804503#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "청산"
-      ]
-    },
-    {
       "id": "ki_young_ju__Sun, 26 Jul 2026 01:50:22 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1034,52 +1141,6 @@
       "keywords": []
     },
     {
-      "id": "JSeyff__Sat, 25 Jul 2026 18:36:13 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Was an honor to join @michaelbatnick on one of his podcasts for the first time. We went into the weeds on the ETF spaghetti cannon leveraged ETFs and more. I had a blast.",
-      "pubDate": "Sat, 25 Jul 2026 18:36:13 GMT",
-      "link": "https://nitter.net/JSeyff/status/2081086132041765073#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 25 Jul 2026 07:02:17 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: These oldsters were dropping acid, dancing naked in Golden Gate Park and living on each others couches 60 years ago… now they’re banning new housing to protect their $7m Victorians",
-      "pubDate": "Sat, 25 Jul 2026 07:02:17 GMT",
-      "link": "https://nitter.net/Jason/status/2080911500999528931#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sat, 25 Jul 2026 04:02:58 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "R to @JSeyff: I’ve literally just been watching emeril lagasse clips for like the last hour. I’m not sure what it says about me but what a throwback. Legend.",
-      "pubDate": "Sat, 25 Jul 2026 04:02:58 GMT",
-      "link": "https://nitter.net/JSeyff/status/2080866371689173059#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sat, 25 Jul 2026 03:46:48 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "I absolutely loved watching @Emeril with my dad when I was younger. Electric is damn right. “pork fat rules” “BAM” what a time …",
-      "pubDate": "Sat, 25 Jul 2026 03:46:48 GMT",
-      "link": "https://nitter.net/JSeyff/status/2080862305613492423#m",
-      "keywords": []
-    },
-    {
       "id": "ColinTCrypto__Sat, 25 Jul 2026 03:12:00 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -1091,35 +1152,6 @@
       "keywords": [
         "약세장",
         "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 24 Jul 2026 21:04:03 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: . @CoinDesk and @cryptoquant_com have released comprehensive reports highlighting the TRON network&apos;s performance throughout the second quarter and first half of 2026, respectively. These independent analyses point to TRON&apos;s continued dominance in global stablecoin settlement and protoc",
-      "pubDate": "Fri, 24 Jul 2026 21:04:03 GMT",
-      "link": "https://nitter.net/trondao/status/2080760946960511158#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 24 Jul 2026 19:19:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Stablecoin Deposits on Binance Are Becoming Active “Stablecoin activity moving onto Binance is being maintained, reflecting that some liquidity is returning to the exchange to prepare for trading or buying opportunities.” – By @Satoureireal Link ⤵️ https://cryptoquant.com/insights/quicktake/6a633b8a7a45a75a9468d75f-Sta",
-      "pubDate": "Fri, 24 Jul 2026 19:19:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2080734510686388308#m",
-      "keywords": [
-        "유동성",
-        "스테이블코인",
-        "SSR"
       ]
     },
     {
@@ -1184,17 +1216,6 @@
       ]
     },
     {
-      "id": "_Checkmatey___Fri, 24 Jul 2026 07:33:24 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: BRK is officially 3 years old 🎂",
-      "pubDate": "Fri, 24 Jul 2026 07:33:24 GMT",
-      "link": "https://nitter.net/_nym21_/status/2080556940371886117#m",
-      "keywords": []
-    },
-    {
       "id": "ColinTCrypto__Fri, 24 Jul 2026 02:19:36 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
@@ -1257,17 +1278,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 23 Jul 2026 07:27:09 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Chart Link https://cryptoquant.com/community/dashboard/66c366531dad4a62a5d42c79?e=69f27929e2872616b411bd2e",
-      "pubDate": "Thu, 23 Jul 2026 07:27:09 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2080192980812714197#m",
-      "keywords": []
     }
   ]
 }
