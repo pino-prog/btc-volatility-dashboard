@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-07-28T14:26:06.663Z",
+  "updatedAt": "2026-07-28T19:42:40.020Z",
   "items": [
+    {
+      "id": "JSeyff__Tue, 28 Jul 2026 17:19:34 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Elite sketch work",
+      "pubDate": "Tue, 28 Jul 2026 17:19:34 GMT",
+      "link": "https://nitter.net/JSeyff/status/2082154005493387590#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 28 Jul 2026 14:53:54 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After holding $ETH for more than 2 years, whale 0x0340 finally gave up with a $13.28M loss, selling 5,000 $ETH ($9.38M) 1 hour ago. The whale accumulated 9,891 $ETH ($31.84M) at an average price of $3,219 more than 2 years ago and is now down $13.28M. https://arkm.com/explorer/address/0x034032b0c049CfD5F61e99f8f0710556",
+      "pubDate": "Tue, 28 Jul 2026 14:53:54 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082117347071176898#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 28 Jul 2026 14:51:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Read the complete report ⤵️ https://cryptoquant.com/community/dashboard/6a59246a718c636ace57d0fd?utm_source=twitter&utm_medium=sns&utm_campaign=dashboard&utm_content=tradfi-exchanges",
+      "pubDate": "Tue, 28 Jul 2026 14:51:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2082116617966911649#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 28 Jul 2026 14:48:05 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "\"What is a routine transaction vs what is aggressive tax planning. We&apos;re really going to find out who&apos;s swimming naked here\" - @TaxAlphaInsider intv on ETF IQ yest re Treasury&apos;s look into 351 ETF exchanges which are booming, now 87 funds w $18b w/ @scarletfu & @zachmider",
+      "pubDate": "Tue, 28 Jul 2026 14:48:05 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2082115886211633231#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 28 Jul 2026 14:45:06 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Crypto exchanges are coming for TradFi. TradFi perpetuals have doubled to >$2B since May. Binance commands ~35% of crypto-exchange OI in both crypto and TradFi perps.",
+      "pubDate": "Tue, 28 Jul 2026 14:45:06 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2082115132981707055#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 28 Jul 2026 14:16:24 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "July 28 Update: #Bitcoin ETFs: 1D NetFlow: +20 $BTC(+$1.23M)🟢 7D NetFlow: -3,170 $BTC(-$200.23M)🔴 #Ethereum ETFs: 1D NetFlow: +11,285 $ETH(+$21.16M)🟢 7D NetFlow: +37,959 $ETH(+$71.17M)🟢",
+      "pubDate": "Tue, 28 Jul 2026 14:16:24 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082107911896199373#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Tue, 28 Jul 2026 14:12:51 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: BIP110 ADVENT continues. Today: PDFs. The Bitcoin Whitepaper embedded contiguously in a BIP110 valid (and Knots standard!) transaction. - Wouldn&apos;t fit in a Core-standard OP_RETURN - Fits in BIP110 blocks for ~4x cheaper",
+      "pubDate": "Tue, 28 Jul 2026 14:12:51 GMT",
+      "link": "https://nitter.net/steverabinow/status/2082107018970554826#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Tue, 28 Jul 2026 14:00:33 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: The 2 weeks prior to the BIP 148 flag day, the network had 71.4% of blocks signaling for Segwit. The 2 weeks prior to the flag day of BIP 110, the network has ~1% of blocks signaling for RDTS. To compare BIP 110 to BIP 148 is deceitful at best, a lie at worst.",
+      "pubDate": "Tue, 28 Jul 2026 14:00:33 GMT",
+      "link": "https://nitter.net/Rob1Ham/status/2082103924320866735#m",
+      "keywords": []
+    },
     {
       "id": "EricBalchunas__Tue, 28 Jul 2026 13:32:16 GMT",
       "handle": "EricBalchunas",
@@ -449,7 +549,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New edition of the RC Newsletter is out! Bitcoin - How To Prepare For August Dissecting the Summer Range and its historical analogues Sign up here: https://newsletter.rektcapital.co.uk/howtoprepareforaugust/ #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: New edition of the RC Newsletter is out! Bitcoin - How To Prepare For August Dissecting the Summer Range and its historical analogues Sign up here: https://newsletter.rektcapital.co.uk/howtoprepareforaugust/ #BTC $BTC #Bitcoin",
       "pubDate": "Mon, 27 Jul 2026 19:16:41 GMT",
       "link": "https://nitter.net/rektcapital/status/2081821091748819008#m",
       "keywords": [
@@ -1130,31 +1230,6 @@
       "keywords": []
     },
     {
-      "id": "whale_alert__Sun, 26 Jul 2026 17:06:21 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💤 A dormant pre-mine address containing 2,000 $ETH (3,832,261 USD) has just been activated after 11.0 years (worth 620 USD in 2015)! https://whale-alert.io/tx/ethereum/0x59940c5da2ac3c00cd334d6ade940584b7e053b02b5d3fec9630d611a4b501c2",
-      "pubDate": "Sun, 26 Jul 2026 17:06:21 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081425903997833361#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 26 Jul 2026 15:44:57 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: My inner sloth in shambles, @JSeyff in shock",
-      "pubDate": "Sun, 26 Jul 2026 15:44:57 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2081405418308325486#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Sun, 26 Jul 2026 15:25:29 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -1168,28 +1243,6 @@
         "TA",
         "BTC"
       ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 26 Jul 2026 14:39:25 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "It’s a challenging but good point that I’ve pondered a lot. I think it’s embedded deep in our dna from centuries of wars. We just instinctually root for our side period. It feels right. And that’s ok. Thank you for coming to my TED talk.",
-      "pubDate": "Sun, 26 Jul 2026 14:39:25 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2081388927328342385#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sun, 26 Jul 2026 13:49:22 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "“Nothing stops this train”",
-      "pubDate": "Sun, 26 Jul 2026 13:49:22 GMT",
-      "link": "https://nitter.net/JSeyff/status/2081376332030583181#m",
-      "keywords": []
     },
     {
       "id": "_Checkmatey___Sun, 26 Jul 2026 08:04:38 GMT",
@@ -1224,55 +1277,6 @@
       "text": "RT by @_Checkmatey_: Image",
       "pubDate": "Sat, 25 Jul 2026 19:25:56 GMT",
       "link": "https://nitter.net/_nym21_/status/2081098644229398819#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sat, 25 Jul 2026 18:36:13 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Was an honor to join @michaelbatnick on one of his podcasts for the first time. We went into the weeds on the ETF spaghetti cannon leveraged ETFs and more. I had a blast.",
-      "pubDate": "Sat, 25 Jul 2026 18:36:13 GMT",
-      "link": "https://nitter.net/JSeyff/status/2081086132041765073#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 25 Jul 2026 07:02:17 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: These oldsters were dropping acid, dancing naked in Golden Gate Park and living on each others couches 60 years ago… now they’re banning new housing to protect their $7m Victorians",
-      "pubDate": "Sat, 25 Jul 2026 07:02:17 GMT",
-      "link": "https://nitter.net/Jason/status/2080911500999528931#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Sat, 25 Jul 2026 03:12:00 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RT @ColinTCrypto: 🔵 How to Buy the $BTC Bottom: 20%-25% below the 200-week moving average. All past Bitcoin bear markets have provided at…",
-      "pubDate": "Sat, 25 Jul 2026 03:12:00 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080853548087042158#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 24 Jul 2026 15:43:31 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RT @ColinTCrypto: At this rate, by the time $BTC tags the 200-day MA, it will be below $70k (if it even does so)... (yawn) 🐌 https://t.co…",
-      "pubDate": "Fri, 24 Jul 2026 15:43:31 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2080680284630978623#m",
       "keywords": []
     }
   ]
