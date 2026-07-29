@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-07-29T03:20:33.212Z",
+  "updatedAt": "2026-07-29T08:50:48.857Z",
   "items": [
+    {
+      "id": "lookonchain__Wed, 29 Jul 2026 07:31:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales are accumulating $ETH! Wallet 0x2d59 withdrew 40,000 $ETH($76.58M) from #Binance 30 minutes ago. https://arkm.com/explorer/address/0x2d5979DC265e1349d13410fC1f5d5Db6C12BB177",
+      "pubDate": "Wed, 29 Jul 2026 07:31:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082368524669026802#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 07:20:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 120,000,000 $USDT (119,943,000 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0xcc1489a352052bcd5047500c3aa14f12f25453ff7069c514adcf4510fbd1ae00",
+      "pubDate": "Wed, 29 Jul 2026 07:20:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082365508683194749#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 07:17:38 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 120,000,000 $USDT (119,947,800 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/e82b70daf404b7077d0d18bd15648a41c8b74accf86764b5dac449267f6fc253",
+      "pubDate": "Wed, 29 Jul 2026 07:17:38 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082364912412581896#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 07:00:45 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 30,000 $ETH (57,591,622 USD) transferred from #Binance to unknown wallet https://whale-alert.io/tx/ethereum/0xe963cc12158998d81026062ece8560a415c3cd7bca04fc07940c33c54c63766a",
+      "pubDate": "Wed, 29 Jul 2026 07:00:45 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082360664291479997#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 29 Jul 2026 05:24:37 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Institutions are dumping $HYPE! A wallet linked to #SeliniCapital deposited 495,473 $HYPE ($26.8M) into #OKX over the past hour. https://arkm.com/explorer/address/0xD172868aa4456c0b876383a5074e63DFFe8179Ac",
+      "pubDate": "Wed, 29 Jul 2026 05:24:37 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082336470128599327#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 03:34:44 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,498 $BTC (159,176,533 USD) transferred from #OKEX to unknown wallet https://whale-alert.io/tx/bitcoin/7ef02e02459dc251889e4121cd9925b9bb3efc31be389e27a279d8a109defa6c",
+      "pubDate": "Wed, 29 Jul 2026 03:34:44 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082308819804140000#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 29 Jul 2026 03:21:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This trader made over $1.2M in less than 7 hours — a 77x return! Trader 0x4c8f spent 8.39 $ETH ($16K) to buy 293.75M $PIPEDOG 6 hours ago, then sold 34.55M $PIPEDOG for 32.67 $ETH ($62K) and still holds 259.2M $PIPEDOG ($1.18M). Total profit is now over $1.2M, a 77x return. https://debank.com/profile/0x4c8ff71b1cf08ea9",
+      "pubDate": "Wed, 29 Jul 2026 03:21:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082305522632696282#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 03:15:04 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,526 $BTC (161,533,951 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/20f99de2f8f8227eb4f1a3596065f8e01918756f2fe414e670dd7fb27b372926",
+      "pubDate": "Wed, 29 Jul 2026 03:15:04 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082303870751957025#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Wed, 29 Jul 2026 02:29:38 GMT",
       "handle": "lookonchain",
@@ -1167,76 +1275,6 @@
       ]
     },
     {
-      "id": "lookonchain__Mon, 27 Jul 2026 08:49:52 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A mysterious whale is buying $ETH! Over the past 2 hours, 3 newly created wallets (likely belonging to the same whale) spent 50.04M $DAI to buy 25,425 $ETH at an average price of $1,968. https://arkm.com/explorer/address/0x06cE6C20b5eE13779634F2d167Ec89790300d7F4 https://arkm.com/explorer/address/0x365274FF809D4384738D",
-      "pubDate": "Mon, 27 Jul 2026 08:49:52 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081663349771972860#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 27 Jul 2026 08:19:50 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 40,000 $ETH (78,666,776 USD) transferred from #Aave to #Bitfinex https://whale-alert.io/tx/ethereum/0x72dfeeda1303e7454081b284beb8c47668f68f155eff9b65e46858150fc6c5bf",
-      "pubDate": "Mon, 27 Jul 2026 08:19:50 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081655792961245581#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 27 Jul 2026 08:08:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @CW8900: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a64b0bb5d6f3716db82c9d3-US-investors-are-inflowing-stablecoins-to-the-exchange-again?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=cw8900",
-      "pubDate": "Mon, 27 Jul 2026 08:08:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2081652811704480079#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 27 Jul 2026 08:01:47 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "US Investors Are Inflowing Stablecoins to Exchange Again “Generally, when funds inflow to exchanges, buying power tends to increase. This manifests as an upward price trend.” – By @CW8900",
-      "pubDate": "Mon, 27 Jul 2026 08:01:47 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2081651246646125047#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 27 Jul 2026 03:24:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 791,549,000 $USDT (791,286,998 USD) transferred from #Binance to unknown wallet https://whale-alert.io/tx/solana/3YpR8tePv2rPv9x3LxPgUS993f5Ltr9eLmdS8FUvbFtwABj5nGKAa5Jrxf8Xs3smcFE4DkXWcumeLZZznM1TMCUT",
-      "pubDate": "Mon, 27 Jul 2026 03:24:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081581442136510477#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "_Checkmatey___Sun, 26 Jul 2026 18:15:44 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1247,43 +1285,6 @@
       "link": "https://nitter.net/IIICapital/status/2081443365099303035#m",
       "keywords": [
         "Miner Flow"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sun, 26 Jul 2026 18:08:09 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Inconsistency in the BIP110 argument exposed by @csuwildcat",
-      "pubDate": "Sun, 26 Jul 2026 18:08:09 GMT",
-      "link": "https://nitter.net/stephanlivera/status/2081441457773429034#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sun, 26 Jul 2026 17:25:12 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Sunday Funday in Philly",
-      "pubDate": "Sun, 26 Jul 2026 17:25:12 GMT",
-      "link": "https://nitter.net/JSeyff/status/2081430648812670993#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sun, 26 Jul 2026 15:25:29 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: Episodes 1 & 2 to my new Autopilot Investing course are live 🔥 Learn strategies for more systematic & less emotional investing Join the structured roadmap, complete the course & implement it with direct community support: https://www.skool.com/rektcapital/about $BTC #BTC #Crypto #Bitcoin",
-      "pubDate": "Sun, 26 Jul 2026 15:25:29 GMT",
-      "link": "https://nitter.net/rektcapital/status/2081400520799895684#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "BTC"
       ]
     }
   ]
