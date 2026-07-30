@@ -1,6 +1,139 @@
 {
-  "updatedAt": "2026-07-29T19:33:59.959Z",
+  "updatedAt": "2026-07-30T02:54:17.045Z",
   "items": [
+    {
+      "id": "lookonchain__Thu, 30 Jul 2026 02:50:46 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The Lazarus Group hackers moved 121.5 $BTC ($7.74M) an hour ago. https://arkm.com/explorer/entity/lazarus-group",
+      "pubDate": "Thu, 30 Jul 2026 02:50:46 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082660141313540511#m",
+      "keywords": [
+        "고래 이동"
+      ]
+    },
+    {
+      "id": "whale_alert__Thu, 30 Jul 2026 01:56:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 187,867,765 $USDT (187,886,552 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/ethereum/0xc30d61e8855d59e79b72043861a8d0b878c5d279d87389869a638df7f75afdbf",
+      "pubDate": "Thu, 30 Jul 2026 01:56:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082646359375478891#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Thu, 30 Jul 2026 01:14:50 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "RT @reesretuta: @ColinTCrypto 100% Colin. I should’ve listened to you in January and saved a boat load. Instead of these other clowns on C…",
+      "pubDate": "Thu, 30 Jul 2026 01:14:50 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2082636001017499802#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 30 Jul 2026 00:49:32 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0xC8b5, who lost over $1M on each of the previous 3 trades, is taking another big loss on $SKHX. The whale went long on 37,229 $SKHX ($34.28M) yesterday and is now down $2.26M.",
+      "pubDate": "Thu, 30 Jul 2026 00:49:32 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082629632638296487#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 30 Jul 2026 00:38:31 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Institutions keep selling $HYPE! Multicoin Capital deposited another 137,100 $HYPE ($7.51M) into Coinbase Prime over the past 10 hours. Bitwise deposited another 22,463 $HYPE ($1.23M) into Coinbase 9 hours ago. https://arkm.com/explorer/address/0xA9Db412084ff49018a378C4AdaCf62BB41Ca642F https://arkm.com/explorer/entity",
+      "pubDate": "Thu, 30 Jul 2026 00:38:31 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082626862304670148#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Thu, 30 Jul 2026 00:09:55 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 191,713,319 $USDC (191,775,051 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x0689e5bac8cef341bed4d6e598f5bf1cdb134dd5d3335995abc67004577bbbf9",
+      "pubDate": "Thu, 30 Jul 2026 00:09:55 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082619662525689890#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 23:22:55 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 191,685,848 $USDC (191,637,543 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x346b64a79536ab46e3240043ec71abf3c8c621ca974a787ed47325e899da2636",
+      "pubDate": "Wed, 29 Jul 2026 23:22:55 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082607834626138279#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 21:13:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,250 $BTC (142,635,954 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/91de5559a812d2ba81a12f6785cc5f2ec264417a595a2027c34303a46f55e3f1",
+      "pubDate": "Wed, 29 Jul 2026 21:13:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082575245697818718#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 29 Jul 2026 20:13:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 65,000 $ETH (122,526,970 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/ethereum/0x4f5d7f42979cab20b656a2929f9abb7a50e87552d1bda12897f0a77136f37013",
+      "pubDate": "Wed, 29 Jul 2026 20:13:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2082560145389650255#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 29 Jul 2026 19:47:13 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "6 of the top 10 most traded ETFs today are semiconductor related.. about $40b in combined volume",
+      "pubDate": "Wed, 29 Jul 2026 19:47:13 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2082553553940328824#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
     {
       "id": "rektcapital__Wed, 29 Jul 2026 18:16:01 GMT",
       "handle": "rektcapital",
@@ -644,6 +777,17 @@
       ]
     },
     {
+      "id": "JSeyff__Tue, 28 Jul 2026 22:19:03 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: The Nordic system isn&apos;t a free lunch. It relies on a very heavy middle-class tax burden to function. Nordic middle earners face ~35-40% income tax plus a 25% VAT, taking nearly half their total earnings after spending. The US middle class taxes ~20% on income and ~6-7% on sales. The US could fund th",
+      "pubDate": "Tue, 28 Jul 2026 22:19:03 GMT",
+      "link": "https://nitter.net/cullenroche/status/2082229374200516727#m",
+      "keywords": []
+    },
+    {
       "id": "whale_alert__Tue, 28 Jul 2026 22:07:29 GMT",
       "handle": "whale_alert",
       "label": "Whale Alert",
@@ -1086,169 +1230,30 @@
       ]
     },
     {
-      "id": "lookonchain__Tue, 28 Jul 2026 02:29:02 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Bitwise sold another 117,917 $HYPE ($7.05M) today. https://arkm.com/explorer/entity/bitwise",
-      "pubDate": "Tue, 28 Jul 2026 02:29:02 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081929897979822092#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 28 Jul 2026 01:20:04 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Many whales have been accumulating $ETH recently. Another newly created wallet (0x49D9) withdrew 2,101 $ETH($3.95M) from #Binance 4 hours ago. https://arkm.com/explorer/address/0x49D92EB1B77C97ab3275c16dA4ee9fcAd6692a1C",
-      "pubDate": "Tue, 28 Jul 2026 01:20:04 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081912542830772443#m",
+      "id": "rektcapital__Mon, 27 Jul 2026 19:16:41 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: New edition of the RC Newsletter is out! Bitcoin - How To Prepare For August Dissecting the Summer Range and its historical analogues Sign up here: https://newsletter.rektcapital.co.uk/howtoprepareforaugust/ #BTC $BTC #Bitcoin",
+      "pubDate": "Mon, 27 Jul 2026 19:16:41 GMT",
+      "link": "https://nitter.net/rektcapital/status/2081821091748819008#m",
       "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Tue, 28 Jul 2026 01:14:24 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "It seems that Tom Lee(@fundstrat)&apos;s #Bitmine bought another 7,500 $ETH ($14.61M) from #BitGo 5 hours ago. https://arkm.com/explorer/address/0x95dE268E950E582A239E350A800C050882612c44",
-      "pubDate": "Tue, 28 Jul 2026 01:14:24 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081911114661855656#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 28 Jul 2026 00:34:08 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Arthur Hayes(@CryptoHayes) bought another 3,298 $ETH($6.39M) 3 hours ago. Since July 15, Arthur Hayes has bought a total of 7,213 $ETH($13.87M) at an average price of $1,923 and is now down ~$301K. https://arkm.com/explorer/entity/arthur-hayes",
-      "pubDate": "Tue, 28 Jul 2026 00:34:08 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081900980472627444#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Tue, 28 Jul 2026 00:20:06 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: if NY didn&apos;t have an ulterior motive (preserving what they believe is BitLicense regulatory dominance) & if I hadn&apos;t actually read the bill to know that it gives law enforcement MORE tools, then i might believe this . . .",
-      "pubDate": "Tue, 28 Jul 2026 00:20:06 GMT",
-      "link": "https://nitter.net/RebeccaRettig1/status/2081897451955376518#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Tue, 28 Jul 2026 00:15:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,812 $BTC (115,292,235 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/6d022028c62bf5c2ab2a4914aa4620d4ecdd87f7cf6d92dcacbc195760176a05",
-      "pubDate": "Tue, 28 Jul 2026 00:15:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081896247456075966#m",
-      "keywords": [
-        "고래",
-        "Whale",
         "BTC"
       ]
     },
     {
-      "id": "whale_alert__Tue, 28 Jul 2026 00:14:35 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 191,626,387 $USDC (191,673,527 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x0c00b64bb92ef8c2f64968028dfc2cf3e6cbe59d3bcb1bba71c5a6b7565d3271",
-      "pubDate": "Tue, 28 Jul 2026 00:14:35 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081896063401705853#m",
+      "id": "rektcapital__Mon, 27 Jul 2026 14:39:32 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: New YouTube video is live! Is Bitcoin On The Cusp Of A New Breakdown Phase? Check it out here: https://youtu.be/P0v26DCPiZ4?si=K1mENQgtRNt9zNLE Enjoy and Subscribe! #BTC $BTC #Bitcoin",
+      "pubDate": "Mon, 27 Jul 2026 14:39:32 GMT",
+      "link": "https://nitter.net/rektcapital/status/2081751345669853316#m",
       "keywords": [
-        "고래",
-        "Whale"
+        "BTC"
       ]
-    },
-    {
-      "id": "JSeyff__Tue, 28 Jul 2026 00:13:02 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Soon you will even be able to get peptides in an ETF wrapper !",
-      "pubDate": "Tue, 28 Jul 2026 00:13:02 GMT",
-      "link": "https://nitter.net/JSeyff/status/2081895670537973961#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 27 Jul 2026 23:32:03 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Rex w a filing for a Peptides ETF",
-      "pubDate": "Mon, 27 Jul 2026 23:32:03 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2081885356035645674#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 27 Jul 2026 23:20:25 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 191,598,990 $USDC (191,652,446 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x3918bae7699e38edc6be2a3d630fffb3400f38bcb50ecbbfb581854e938c386d",
-      "pubDate": "Mon, 27 Jul 2026 23:20:25 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081882431934611611#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 27 Jul 2026 22:36:23 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Leveraged ETFs are like Adam Sandler or Micheal Bay movies: routinely slammed by critics yet widely popular at the box office. Here’s exhibit A:",
-      "pubDate": "Mon, 27 Jul 2026 22:36:23 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2081871347089604870#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 27 Jul 2026 22:04:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,224,999 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/2AszzzYUgi44KRPZPZWZPwJDeLLosaTRkNNvk41AwsZpKuXq3d8ZDdRHyq2dWHLEa3bJLyST3WQci5v8YMWkUtFp",
-      "pubDate": "Mon, 27 Jul 2026 22:04:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081863279844991088#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Mon, 27 Jul 2026 21:00:39 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: A few very obvious points on Mamdani&apos;s grocery stores: 1. The supply of the discounted groceries will run out on day 1, and every day there is a new shipment. This is basic econ 101. 2. This means only the people who are lucky enough or fast enough will get these discounted groceries. Expect to see ",
-      "pubDate": "Mon, 27 Jul 2026 21:00:39 GMT",
-      "link": "https://nitter.net/phil_mcalister/status/2081847255452262534#m",
-      "keywords": []
     }
   ]
 }
