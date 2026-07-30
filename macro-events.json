@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-30T11:13:39.682Z",
+  "updatedAt": "2026-07-30T14:23:46.695Z",
   "verificationSummary": {
-    "confirmed": 39,
-    "unconfirmed": 7,
+    "confirmed": 37,
+    "unconfirmed": 8,
     "mismatched": 7
   },
   "events": [
@@ -272,55 +272,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
-    },
-    {
-      "id": "earnings-META-2026-07-29",
-      "date": "2026-07-29",
-      "time": "16:00",
-      "tz": "ET",
-      "title": "메타 (META) 실적 발표",
-      "category": "earnings",
-      "categoryLabel": "기업 실적",
-      "impact": "MEDIUM",
-      "btcBias": "correlated",
-      "description": "디지털 광고·AI 인프라 지출 지표. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
-      "bull": "광고 성장 + AI ROI 입증 → 위험자산 선호 강화",
-      "bear": "비용 증가 + 광고 둔화 → 기술주 매도 압력",
-      "confirmed": true,
-      "sources": [
-        "AlphaVantage",
-        "NASDAQ"
-      ],
-      "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
-    },
-    {
-      "id": "earnings-MSFT-2026-07-29",
-      "date": "2026-07-29",
-      "time": "16:00",
-      "tz": "ET",
-      "title": "마이크로소프트 (MSFT) 실적 발표",
-      "category": "earnings",
-      "categoryLabel": "기업 실적",
-      "impact": "HIGH",
-      "btcBias": "correlated",
-      "description": "클라우드·AI 수요 지표. Azure OpenAI 매출 성장률이 핵심. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
-      "bull": "클라우드 성장 가속 → 기술주 랠리 → BTC 상승 동반",
-      "bear": "클라우드 둔화 → 기술주 조정 → 위험자산 약세",
-      "confirmed": true,
-      "sources": [
-        "AlphaVantage",
-        "NASDAQ"
-      ],
-      "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-AAPL-2026-07-30",
@@ -341,9 +293,7 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-AMZN-2026-07-30",
@@ -364,9 +314,7 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-COIN-2026-07-30",
@@ -387,9 +335,7 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-MSTR-2026-07-30",
@@ -410,9 +356,7 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-RIOT-2026-07-30",
@@ -432,9 +376,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-AMD-2026-08-04",
@@ -455,9 +397,7 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-MARA-2026-08-06",
@@ -478,9 +418,7 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-nfp-2026-08-07",
@@ -499,9 +437,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-ppi-2026-08-11",
@@ -520,9 +456,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-cpi-2026-08-12",
@@ -541,9 +475,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-NVDA-2026-08-26",
@@ -564,9 +496,7 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-nfp-2026-09-04",
@@ -585,9 +515,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-ppi-2026-09-09",
@@ -606,9 +534,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-cpi-2026-09-11",
@@ -627,9 +553,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2026-09-16",
@@ -648,9 +572,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-nfp-2026-10-02",
@@ -669,9 +591,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "bls-ppi-2026-10-13",
@@ -690,9 +610,7 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "earnings-TSLA-2026-10-21",
@@ -712,9 +630,7 @@
         "AlphaVantage"
       ],
       "mismatch": false,
-      "autoFetched": true,
-      "confidence": "low",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2026-10-28",
@@ -733,9 +649,27 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-GOOGL-2026-10-28",
+      "date": "2026-10-28",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "알파벳 (GOOGL) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "디지털 광고·AI 수요 지표. Gemini 사업화 속도가 관건. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "광고 회복 + AI 수익화 → 나스닥 강세 → BTC 연동",
+      "bear": "광고 둔화 → 기술주 약세 → 위험자산 하락",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
     },
     {
       "id": "fomc-2026-12-09",
@@ -754,9 +688,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-01-28",
@@ -774,6 +706,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1078,9 +1011,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-03-18",
@@ -1098,6 +1029,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1402,9 +1334,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-04-29",
@@ -1445,9 +1375,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-06-17",
@@ -1465,6 +1393,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1769,9 +1698,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-07-29",
@@ -1789,6 +1716,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2093,9 +2021,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-08-22",
@@ -2114,9 +2040,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-09-16",
@@ -2134,6 +2058,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2438,9 +2363,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-10-28",
@@ -2458,6 +2381,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2762,9 +2686,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     },
     {
       "id": "fomc-2027-12-09",
@@ -2782,6 +2704,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2974,10 +2897,7 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true,
-      "confidence": "high",
-      "verifiedAt": "2026-07-30"
+      "autoFetched": true
     }
-  ],
-  "verifiedAt": "2026-07-30"
+  ]
 }
