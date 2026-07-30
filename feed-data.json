@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-30T02:54:17.045Z",
+  "updatedAt": "2026-07-30T08:40:32.876Z",
   "items": [
+    {
+      "id": "lookonchain__Thu, 30 Jul 2026 07:00:41 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale bc1qyr deposited 625 $BTC ($39.96M) into #FalconX after over a year of inactivity, likely to sell. Holding $BTC for over a year, he has lost over $20M. https://arkm.com/explorer/address/bc1qyrv9hkzv8e0djftyjgrscgv0q5vukqdr4h5ncu",
+      "pubDate": "Thu, 30 Jul 2026 07:00:41 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082723037439525327#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 30 Jul 2026 02:59:43 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A whale is making highly leveraged bullish bets on #SP500, $MU, and $SNDK, opening $86M in positions over the past hour! Including: 10,124 xyz:SP500($74.46M) 9,133 xyz:MU($6.75M) 4,693 xyz:SNDK($4.83M) https://hypurrscan.io/address/0xaeaab54bbf65bfd6efed7d2eb68372298e3c2416#perps",
+      "pubDate": "Thu, 30 Jul 2026 02:59:43 GMT",
+      "link": "https://nitter.net/lookonchain/status/2082662395407995100#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "강세장",
+        "강세 신호"
+      ]
+    },
     {
       "id": "lookonchain__Thu, 30 Jul 2026 02:50:46 GMT",
       "handle": "lookonchain",
@@ -1121,21 +1151,6 @@
       ]
     },
     {
-      "id": "whale_alert__Tue, 28 Jul 2026 08:15:25 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,811 $BTC (114,973,916 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/0f5cb70978d9e86aa2e28d9d0a64e39a98b7223fb0b3e126bf335aa5cc9e365b",
-      "pubDate": "Tue, 28 Jul 2026 08:15:25 GMT",
-      "link": "https://nitter.net/whale_alert/status/2082017069025919038#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
       "id": "_Checkmatey___Tue, 28 Jul 2026 08:10:28 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1148,84 +1163,6 @@
         "Miner Flow",
         "지지선",
         "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 28 Jul 2026 07:55:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @Woo_Minkyu: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a6839117a45a75a9468dc6c-Bitcoin-Quiet-Accumulation-Beneath-the-Correction?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=woominkyu",
-      "pubDate": "Tue, 28 Jul 2026 07:55:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082011927979712624#m",
-      "keywords": [
-        "매집",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 28 Jul 2026 07:49:15 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Quiet Accumulation Beneath the Correction “In a typical capitulation, coins flood into exchanges to be sold. Instead, the dominant behavior throughout this correction has been withdrawal into self-custody — a sign of long-term holding intent, not distribution.” – By @Woo_Minkyu",
-      "pubDate": "Tue, 28 Jul 2026 07:49:15 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082010480122442227#m",
-      "keywords": [
-        "매집",
-        "분배"
-      ]
-    },
-    {
-      "id": "lookonchain__Tue, 28 Jul 2026 06:49:29 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Yesterday, 230,862 new accounts were created on #Tron, up 42.87% and marking the highest daily total in the past month. https://tronscan.org/data/charts/accounts/new-accounts",
-      "pubDate": "Tue, 28 Jul 2026 06:49:29 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081995441802244455#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Tue, 28 Jul 2026 06:36:24 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: 🚨 BitMart resumed processing ETH withdrawals over the last 24 hours. Users are rushing to the exit. ETH withdrawal transactions from the exchange just reached their highest level since July 2025. 👀",
-      "pubDate": "Tue, 28 Jul 2026 06:36:24 GMT",
-      "link": "https://nitter.net/JA_Maartun/status/2081992148455498213#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 28 Jul 2026 06:13:35 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "An abnormal order briefly pushed $SKHX below $930, triggering more than $80M in $SKHX liquidations. Trader 0xc985 was one of the victims. His 2,026 $SKHX ($2.08M) long position was fully liquidated, resulting in a $260K loss. https://hypurrscan.io/address/0xc985ffc27c59537c81e40e7b4fb3267fdaa9f97e#txs",
-      "pubDate": "Tue, 28 Jul 2026 06:13:35 GMT",
-      "link": "https://nitter.net/lookonchain/status/2081986404918403339#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 28 Jul 2026 03:29:13 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,879 $BTC (119,029,855 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/14cb1001dcb316d72ad181f0e066cdc59df1eb5f6a3b11ca2dc7378ddbb517b9",
-      "pubDate": "Tue, 28 Jul 2026 03:29:13 GMT",
-      "link": "https://nitter.net/whale_alert/status/2081945044773212489#m",
-      "keywords": [
-        "고래",
-        "Whale",
         "BTC"
       ]
     },
@@ -1254,6 +1191,70 @@
       "keywords": [
         "BTC"
       ]
+    },
+    {
+      "id": "glassnode__Mon, 27 Jul 2026 14:12:01 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "bitcoin:native rebounded from $64K to $65.1K but remains range-bound. Softer leverage, ETF outflows and muted on-chain activity signal cautious consolidation despite resilient holders. Read this week’s Market Pulse👇 https://glassno.de/4fAEgq7",
+      "pubDate": "Mon, 27 Jul 2026 14:12:01 GMT",
+      "link": "https://nitter.net/glassnode/status/2081744420844503393#m",
+      "keywords": [
+        "ETF 수급",
+        "ETF 유출",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Mon, 27 Jul 2026 14:02:16 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "When the Fed rapidly drops interest rates (looser monetary conditions), likely in response to a market scare/crash then QE can begin in more force and that&apos;s when high-risk beta assets like altcoins can shine. Until then, risk-off.",
+      "pubDate": "Mon, 27 Jul 2026 14:02:16 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2081741967449329717#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Mon, 27 Jul 2026 13:54:47 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "I remember when Crypto Twitter insisted Altseason was \"just around the corner\". Instead, what did we get? A big fat break down of the trend line (see large white arrow). This chart has no clear bottoming pattern, either. It&apos;s likely to drop lower as we keep making lower highs and lower lows. How I interpret this c",
+      "pubDate": "Mon, 27 Jul 2026 13:54:47 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2081740083028201516#m",
+      "keywords": [
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Sun, 26 Jul 2026 18:15:44 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Great visual simulation by @OrangeSurfBTC showing what happens in less than 2 weeks if miners keep signaling for BIP 110. They would be mining stale blocks with no economic value. https://bip110.orange.surf/simulator.html",
+      "pubDate": "Sun, 26 Jul 2026 18:15:44 GMT",
+      "link": "https://nitter.net/IIICapital/status/2081443365099303035#m",
+      "keywords": [
+        "Miner Flow"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Sun, 26 Jul 2026 18:08:09 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Inconsistency in the BIP110 argument exposed by @csuwildcat",
+      "pubDate": "Sun, 26 Jul 2026 18:08:09 GMT",
+      "link": "https://nitter.net/stephanlivera/status/2081441457773429034#m",
+      "keywords": []
     }
   ]
 }
