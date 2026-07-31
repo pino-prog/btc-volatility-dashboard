@@ -1,6 +1,123 @@
 {
-  "updatedAt": "2026-07-31T03:37:07.525Z",
+  "updatedAt": "2026-07-31T09:11:28.079Z",
   "items": [
+    {
+      "id": "whale_alert__Fri, 31 Jul 2026 08:19:15 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 102,400,000 $USDT (102,353,407 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x1fe8e854fe2008e0732ee37f17d72cc65f45403a00dd7cc593032d9f42806301",
+      "pubDate": "Fri, 31 Jul 2026 08:19:15 GMT",
+      "link": "https://nitter.net/whale_alert/status/2083105195173593105#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 31 Jul 2026 06:43:50 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 151,000,000 $USDT (150,861,080 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x312649bc7a963295bcfb175734b8ea2804c8ba7a4f75970e3bcca380766c1087",
+      "pubDate": "Fri, 31 Jul 2026 06:43:50 GMT",
+      "link": "https://nitter.net/whale_alert/status/2083081182816674228#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Fri, 31 Jul 2026 06:34:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Realized Volatility Compressed to Cycle Lows While ADX Builds Underneath “This combination has preceded some of the sharpest moves of the past few years. Not all in the same direction.” – By @RugaResearch Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a6a67667a45a75a9468de63-Bitcoin-Realized-Volatilit",
+      "pubDate": "Fri, 31 Jul 2026 06:34:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2083078707506303003#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 31 Jul 2026 06:18:41 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "More than $38M has been stolen due to a Coldcard wallet vulnerability.⚠️ Funds from around 500 wallets were transferred to wallet bc1qnk, totaling 594.48 $BTC ($38.2M). Stay safe. https://arkm.com/explorer/address/bc1qnk4zh9qcnap2mycp56qjrgza3cc8ylrh8fecp0 https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/",
+      "pubDate": "Fri, 31 Jul 2026 06:18:41 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083074854190985535#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Fri, 31 Jul 2026 05:56:19 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "James Wynn(@JamesWynnReal)&apos;s 50x #SP500 short was partially liquidated again 4 hours ago. Current position: 164.96 xyz:SP500 ($1.23M) New liquidation price: $7,484.48 https://hypurrscan.io/address/0x5078C2fBeA2b2aD61bc840Bc023E35Fce56BeDb6#perps",
+      "pubDate": "Fri, 31 Jul 2026 05:56:19 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083069225955119603#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 31 Jul 2026 05:11:55 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This trader turned $875 into $797K in just a few days — a 910x return. The trader spent $875 to buy 26.96M $MarsCoin, sold 15.87M $MarsCoin for $314K, and still holds 11.08M $MarsCoin ($483K). Total profit: $796.5K (910x). https://debank.com/profile/0xd2abcef40a51c779c2a890dd40f041ab995ed3af?chain=bsc",
+      "pubDate": "Fri, 31 Jul 2026 05:11:55 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083058050672591259#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Fri, 31 Jul 2026 05:03:03 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Practical mitigation step if you&apos;re on a Coldcard and worried about the security issue - MIGRATE to a strong passphrase setup. Example, select 7 words randomly from the bip39 word list, use that as your passphrase with a new setup. Migrate coins from old setup to the new passphrase one. Make s",
+      "pubDate": "Fri, 31 Jul 2026 05:03:03 GMT",
+      "link": "https://nitter.net/stephanlivera/status/2083055822242996472#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Fri, 31 Jul 2026 03:55:21 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "CXMT is now in its 5th trading day and has climbed above $8. For now, this battle between the bulls and bears has gone to the bulls. Whale 0xf292 is short 2.9M $CXMT ($23.54M) and is now down $4.67M, while paying $1.42M in funding fees. Whale 0x9a80 is long 1.63M $CXMT ($13.27M) and is now up $2.46M, while earning $823",
+      "pubDate": "Fri, 31 Jul 2026 03:55:21 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083038781892960484#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "Funding Rate",
+        "강세장"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Fri, 31 Jul 2026 02:13:18 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: You can actually keep using coldcard just generate new phrase on trusted device. Send the funds to the new phrase. Load the new phrase into coldcard. Check it works and then delete it from the other device. You don&apos;t need to buy new hardware because of this.",
+      "pubDate": "Fri, 31 Jul 2026 02:13:18 GMT",
+      "link": "https://nitter.net/LLFOURN/status/2083013100241035625#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Fri, 31 Jul 2026 01:48:29 GMT",
       "handle": "lookonchain",
@@ -1168,125 +1285,6 @@
       "text": "RT by @JSeyff: Bitcoin Is Setting Up for $70K - But The Fed Could RUIN It Discussing Live with @JSeyff @ 9 AM EST Live https://www.youtube.com/watch?v=INF9xVwSOqw",
       "pubDate": "Wed, 29 Jul 2026 12:45:49 GMT",
       "link": "https://nitter.net/scottmelker/status/2082447503753187735#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Wed, 29 Jul 2026 12:44:16 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Is Bitcoin On The Cusp Of A New Breakdown Phase? If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/P0v26DCPiZ4?si=K1mENQgtRNt9zNLE Enjoy and Subscribe! $BTC #Crypto #Bitcoin",
-      "pubDate": "Wed, 29 Jul 2026 12:44:16 GMT",
-      "link": "https://nitter.net/rektcapital/status/2082447114915709152#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 29 Jul 2026 12:26:10 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Turns out the best hedge to AI mania is buying garbage (literally).. looking at correlations to $DRAM it&apos;s actually Waste Management and Republic Services that have the strongest negative correlation vs all SPX stocks as well as stronger than treasury bonds, gold and even the VIX. Something poetic about the opposi",
-      "pubDate": "Wed, 29 Jul 2026 12:26:10 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2082442559167590806#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 29 Jul 2026 12:09:54 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "“The country has turned into a casino,” People Power Party lawmaker Lee Jongwook told Koo during the hearing. “These are products that should never have been allowed onto the market. I consider this a policy failure.” - South Korea politicians are using the 2x ETF to hammer administration (altho let&apos;s be real the ",
-      "pubDate": "Wed, 29 Jul 2026 12:09:54 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2082438466587984098#m",
-      "keywords": [
-        "ETF 수급",
-        "LTH 보유자"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 29 Jul 2026 12:06:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @PelinayPA: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a69ca895d6f3716db82ce70-Ethereum-Price-Poised-for-an-Upside-Move-Waiting-for-Institutional-Demand?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=pelinay",
-      "pubDate": "Wed, 29 Jul 2026 12:06:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082437482252308841#m",
-      "keywords": [
-        "기관 수급"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 29 Jul 2026 12:01:15 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "ETH Price Poised for an Upside Move: Waiting for Institutional Demand “Lower supply is a positive signal for Ethereum, but weak demand continues to keep the price range bound. A new wave of institutional buying could be the catalyst for the next upward move.” – By @PelinayPA",
-      "pubDate": "Wed, 29 Jul 2026 12:01:15 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082436290025337083#m",
-      "keywords": [
-        "기관 수급"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 29 Jul 2026 11:51:36 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This trader bought 3,128 $ETH ($5.95M) 6 months ago and is now sitting on a loss of over $3.87M(-40%). Today, he finally gave up, depositing all 3,128 $ETH into #Coinbase to sell at a loss. https://arkm.com/explorer/address/0xd5d163c97627De41da391a9F5ef38886353A9D66",
-      "pubDate": "Wed, 29 Jul 2026 11:51:36 GMT",
-      "link": "https://nitter.net/lookonchain/status/2082433861150257352#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Wed, 29 Jul 2026 11:20:54 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 808 $BTC (52,127,215 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/513bb9ee556dc654ee2e4a14d009311eb5d2ac0d58064941cbb53070c5b025de",
-      "pubDate": "Wed, 29 Jul 2026 11:20:54 GMT",
-      "link": "https://nitter.net/whale_alert/status/2082426134176661733#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 29 Jul 2026 10:51:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @STASolutions1: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a69a3317a45a75a9468dd7a-Bitcoin-ahead-of-the-final-sell-off-then-a-trend-reversal?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=stasolutions",
-      "pubDate": "Wed, 29 Jul 2026 10:51:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082418607817097687#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 29 Jul 2026 10:45:54 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Ahead of The Final Sell-Off – Then a Trend Reversal “Since the price has already reached the corresponding upper edge, the medium- to long-term probabilities of a cyclical trend reversal are increasing.” – By @STASolutions1",
-      "pubDate": "Wed, 29 Jul 2026 10:45:54 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082417326771552754#m",
       "keywords": [
         "BTC"
       ]
