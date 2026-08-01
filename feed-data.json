@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-08-01T08:30:00.471Z",
+  "updatedAt": "2026-08-01T13:43:21.396Z",
   "items": [
+    {
+      "id": "lookonchain__Sat, 01 Aug 2026 13:29:28 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "R to @lookonchain: Stay SAFU!",
+      "pubDate": "Sat, 01 Aug 2026 13:29:28 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083545653402362144#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 01 Aug 2026 13:28:06 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A former @BNBCHAIN employee deployed the new token $ASTEROID, then used 4 newly created wallets to buy 796.7M $ASTEROID (79.67% of the total supply) for $10K. The employee later sold 718.8M $ASTEROID for 1,103 $BNB ($638K), making a profit of $628K. Wallets: 0xDF99Efc99671195F08f6b14E29Bbe96699289481 0xa0b9AD5aE7Db2Ba7",
+      "pubDate": "Sat, 01 Aug 2026 13:28:06 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083545306357273019#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sat, 01 Aug 2026 13:25:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,800 $BTC (113,565,162 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/d47945a54de071d4abb9e6aa65def93b48718ac76af389721345cfe04e179425",
+      "pubDate": "Sat, 01 Aug 2026 13:25:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2083544673717461405#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 01 Aug 2026 13:13:03 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Morning jog views: First Unitarian Church on 22nd and Chestnut. I once saw Arcade Fire in the basement of this place, on Funeral tour, just as they were breaking. Tiny room. No bar. Maybe 200 people. Top 3 show I’ve ever been too. True story.",
+      "pubDate": "Sat, 01 Aug 2026 13:13:03 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2083541522650202185#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sat, 01 Aug 2026 12:57:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 1,157 $BTC (73,059,861 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/171d655623b75fc62345deb39b25402525bf9fb112815fa3d39aa3d33e773b93",
+      "pubDate": "Sat, 01 Aug 2026 12:57:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2083537730890260953#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 01 Aug 2026 12:39:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "It looks like a mysterious trader is going long $FARTCOIN. Trader 0x9a96 opened a 2x long on 16.73M $FARTCOIN ($2.16M) and also placed a limit order to buy 18.04M $FARTCOIN ($531K). https://hypurrscan.io/address/0x9a96792cbc71ddcde750c2076a50aafb03ceec05#orders",
+      "pubDate": "Sat, 01 Aug 2026 12:39:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083533199217725806#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Sat, 01 Aug 2026 09:13:04 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Arthur Hayes(@CryptoHayes) sold 6.16M $SYN ($658K) and bought 3.05M $ENA ($248K). https://arkm.com/explorer/entity/arthur-hayes",
+      "pubDate": "Sat, 01 Aug 2026 09:13:04 GMT",
+      "link": "https://nitter.net/lookonchain/status/2083481127000670214#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sat, 01 Aug 2026 06:43:19 GMT",
       "handle": "lookonchain",
@@ -1162,99 +1247,6 @@
       "keywords": [
         "고래",
         "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 30 Jul 2026 15:48:10 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Ken Griffin is HIM",
-      "pubDate": "Thu, 30 Jul 2026 15:48:10 GMT",
-      "link": "https://nitter.net/JSeyff/status/2082855780915597367#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Thu, 30 Jul 2026 15:33:13 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: there it is",
-      "pubDate": "Thu, 30 Jul 2026 15:33:13 GMT",
-      "link": "https://nitter.net/notthreadguy/status/2082852018763321761#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Thu, 30 Jul 2026 15:31:00 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 805 $BTC (52,087,870 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/53ec95009d853c9101b4bc6cae986d89d1a7b8f3b461d42638fff5f778784889",
-      "pubDate": "Thu, 30 Jul 2026 15:31:00 GMT",
-      "link": "https://nitter.net/whale_alert/status/2082851460270768135#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Thu, 30 Jul 2026 15:15:09 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Capitulation is no where to be seen. Bitcoin holders just started to realized losses on a yearly basis, -136K Bitcoin. However, previous cycles bottomed at -1.3M and -3.7M Bitcoin of annual realized losses. Either this is the most benign cycle in terms of realized losses or there&apos;s still a ",
-      "pubDate": "Thu, 30 Jul 2026 15:15:09 GMT",
-      "link": "https://nitter.net/jjcmoreno/status/2082847470564897111#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 30 Jul 2026 15:15:09 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "RT by @ki_young_ju: Capitulation is no where to be seen. Bitcoin holders just started to realized losses on a yearly basis, -136K Bitcoin. However, previous cycles bottomed at -1.3M and -3.7M Bitcoin of annual realized losses. Either this is the most benign cycle in terms of realized losses or there&apos;s still a lot ",
-      "pubDate": "Thu, 30 Jul 2026 15:15:09 GMT",
-      "link": "https://nitter.net/jjcmoreno/status/2082847470564897111#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 30 Jul 2026 15:03:45 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x2684 keeps accumulating $BTC and $ETH! Over the past month, the whale accumulated 1,050 $WBTC ($67.49M) at an average price of $64,277 and 66,345.5 $ETH ($116.62M) at an average price of $1,758. The positions are now up $10.8M. https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643",
-      "pubDate": "Thu, 30 Jul 2026 15:03:45 GMT",
-      "link": "https://nitter.net/lookonchain/status/2082844605016613144#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 30 Jul 2026 14:59:38 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Someone should launch a Reality Strikes Back ETF w garbage toothpaste toilet paper etc Staples and HALO I guess is close but needs to overweight garbage more",
-      "pubDate": "Thu, 30 Jul 2026 14:59:38 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2082843568779952161#m",
-      "keywords": [
-        "ETF 수급"
       ]
     }
   ]
