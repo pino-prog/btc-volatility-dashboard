@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-02T03:36:30.402Z",
+  "updatedAt": "2026-08-02T08:32:53.870Z",
   "items": [
+    {
+      "id": "whale_alert__Sun, 02 Aug 2026 08:12:22 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "River (@River) Ahead of publishing our August proof of reserves, we will be migrating our cold storage to a new address. The current cold storage address is: bc1qysj2w7xsw09datsy9mt9x50jn7qjd6qde6d66qm3ce0a4y9uzdpqcavdr0 The new one will be: bc1qeh5e4ndkrs9sxw8wed2yce69tkrg7t003rz4vk5jhkaf6knkem4q944qvt Note that clien",
+      "pubDate": "Sun, 02 Aug 2026 08:12:22 GMT",
+      "link": "https://nitter.net/whale_alert/status/2083828237726085248#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "whale_alert__Sun, 02 Aug 2026 03:11:26 GMT",
       "handle": "whale_alert",
@@ -387,6 +400,19 @@
       "text": "RT by @cryptoquant_com: Daily exchange deposits of Bitcoin transfers < 10 BTC spiked yesterday to 7.3K BTC, the highest since February 6. Could be related to the coldcard hack, as people move their holdings looking for safety.",
       "pubDate": "Sat, 01 Aug 2026 14:01:30 GMT",
       "link": "https://nitter.net/jjcmoreno/status/2083553713789055067#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Sat, 01 Aug 2026 13:32:45 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: A distributed team of engineers around the world are scrambling to try and save people&apos;s bitcoin, with over 1,000 already stolen by hackers using llms, and @OpenAI is chiding us. I&apos;ll continue using @Kimi_Moonshot K3 and you should to for cyber. What are we doing America?",
+      "pubDate": "Sat, 01 Aug 2026 13:32:45 GMT",
+      "link": "https://nitter.net/Rob1Ham/status/2083546478409056301#m",
       "keywords": [
         "BTC"
       ]
@@ -1202,34 +1228,6 @@
       ]
     },
     {
-      "id": "whale_alert__Fri, 31 Jul 2026 08:19:15 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 102,400,000 $USDT (102,353,407 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x1fe8e854fe2008e0732ee37f17d72cc65f45403a00dd7cc593032d9f42806301",
-      "pubDate": "Fri, 31 Jul 2026 08:19:15 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083105195173593105#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 31 Jul 2026 06:43:50 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 151,000,000 $USDT (150,861,080 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0x312649bc7a963295bcfb175734b8ea2804c8ba7a4f75970e3bcca380766c1087",
-      "pubDate": "Fri, 31 Jul 2026 06:43:50 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083081182816674228#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "cryptoquant_com__Fri, 31 Jul 2026 06:34:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -1244,15 +1242,17 @@
       ]
     },
     {
-      "id": "lookonchain__Fri, 31 Jul 2026 06:18:41 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "More than $38M has been stolen due to a Coldcard wallet vulnerability.⚠️ Funds from around 500 wallets were transferred to wallet bc1qnk, totaling 594.48 $BTC ($38.2M). Stay safe. https://arkm.com/explorer/address/bc1qnk4zh9qcnap2mycp56qjrgza3cc8ylrh8fecp0 https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/",
-      "pubDate": "Fri, 31 Jul 2026 06:18:41 GMT",
-      "link": "https://nitter.net/lookonchain/status/2083074854190985535#m",
-      "keywords": []
+      "id": "_Checkmatey___Fri, 31 Jul 2026 05:03:03 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: Practical mitigation step if you&apos;re on a Coldcard and worried about the security issue - MIGRATE to a strong passphrase setup. Example, select 7 words randomly from the bip39 word list, use that as your passphrase with a new setup. Migrate coins from old setup to the new passphrase one. Make s",
+      "pubDate": "Fri, 31 Jul 2026 05:03:03 GMT",
+      "link": "https://nitter.net/stephanlivera/status/2083055822242996472#m",
+      "keywords": [
+        "BTC"
+      ]
     }
   ]
 }
