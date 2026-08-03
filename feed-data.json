@@ -1,6 +1,122 @@
 {
-  "updatedAt": "2026-08-03T03:38:34.275Z",
+  "updatedAt": "2026-08-03T09:59:21.554Z",
   "items": [
+    {
+      "id": "_Checkmatey___Mon, 03 Aug 2026 09:34:59 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "My latest piece reflects on the emotional journey Bitcoiners have experienced over the last 3 days. There is a lot of triage work left to do, and even more rebuilding afterwards. It&apos;s important to appreciate the emotional hit, and then bounce back. https://newsletter.checkonchain.com/p/a-shaken-industry",
+      "pubDate": "Mon, 03 Aug 2026 09:34:59 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2084211417515982909#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 08:07:50 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 133,500,005 $USDT (133,400,547 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/ethereum/0xe886d45153b833e5adedb0dd5b4a207cebd362787af6ce5ecb38c16fd01524e9",
+      "pubDate": "Mon, 03 Aug 2026 08:07:50 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084189485567213920#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 03 Aug 2026 08:06:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @_Crypto_glass: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a6f282be5be6a24c8911764-BTC-Percent-Unrealised-Loss-Returns-Below-the-40-Deep-Stress-Band?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=zizcrypto",
+      "pubDate": "Mon, 03 Aug 2026 08:06:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2084189023593963725#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 08:01:10 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 120,000,000 $USDT (119,879,679 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0xaec0303b95fcd9b9f6fdb8804c71118cb71a934c3d1da643e82e521db804e150",
+      "pubDate": "Mon, 03 Aug 2026 08:01:10 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084187808214761793#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 07:59:33 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 120,000,000 $USDT (119,820,000 USD) transferred from #Bitfinex to Tether Treasury https://whale-alert.io/tx/tron/5792bd682613559d4a5988b26b31e5c682310d4a6de4eaab93351c2e2403afad",
+      "pubDate": "Mon, 03 Aug 2026 07:59:33 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084187402151633205#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 03 Aug 2026 07:58:33 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "BTC: Percent Unrealised Loss Returns Below the 40% Deep-Stress Band “Underwater supply remains elevated, but the latest reading is below the deep-stress band. This is not capitulation-level stress on this metric yet.” – By @_Crypto_glass",
+      "pubDate": "Mon, 03 Aug 2026 07:58:33 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2084187151319629959#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 07:42:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 4,951 $BTC (310,008,999 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/959558154dca2b150a05c2670bf3c8f9663fff9ff2644fff791d78fa00c41d74",
+      "pubDate": "Mon, 03 Aug 2026 07:42:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084183023432421866#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 03 Aug 2026 06:55:10 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Arthur Hayes (@CryptoHayes) bought another 6M $ENA($525K) at an average price of $0.09.",
+      "pubDate": "Mon, 03 Aug 2026 06:55:10 GMT",
+      "link": "https://nitter.net/lookonchain/status/2084171199077327086#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Mon, 03 Aug 2026 04:52:10 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: I have spent over $10,000 scanning 100+ bitcoin ecosystem related libraries looking for vulnerabilities with Kimi K3 running as quarterback. Myself and a small \"Red Team\" have found multiple serious vulnerabilities impacting the ecosystem. They vary in scope severity, but this is a call to action. ",
+      "pubDate": "Mon, 03 Aug 2026 04:52:10 GMT",
+      "link": "https://nitter.net/Rob1Ham/status/2084140242915782743#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 03 Aug 2026 03:26:59 GMT",
       "handle": "lookonchain",
@@ -859,42 +975,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Sat, 01 Aug 2026 09:13:04 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Arthur Hayes(@CryptoHayes) sold 6.16M $SYN ($658K) and bought 3.05M $ENA ($248K). https://arkm.com/explorer/entity/arthur-hayes",
-      "pubDate": "Sat, 01 Aug 2026 09:13:04 GMT",
-      "link": "https://nitter.net/lookonchain/status/2083481127000670214#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sat, 01 Aug 2026 06:43:19 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x2684 bought another 7,919.5 $ETH($14.89M) today. Since June 30, the whale has bought 74,265 $ETH($131.5M) at an average price of $1,771 and 1,050 $WBTC($67.49M) at an average price of $64,277. https://arkm.com/explorer/address/0x268448f31594F4636D03cBB4E813b94801E47643",
-      "pubDate": "Sat, 01 Aug 2026 06:43:19 GMT",
-      "link": "https://nitter.net/lookonchain/status/2083443438985646261#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sat, 01 Aug 2026 03:35:44 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "G&apos;day folks. I&apos;ve issued a free post regarding the very unfortunate Coldcard incident. For anyone with a platform and customers, please do your best to notify them. I have had many clients not on X reach out saying this was the first they&apos;d heard of it https://newsletter.checkonchain.com/p/psa-addressing",
-      "pubDate": "Sat, 01 Aug 2026 03:35:44 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2083396235294306667#m",
-      "keywords": []
-    },
-    {
       "id": "_Checkmatey___Sat, 01 Aug 2026 01:39:33 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -999,19 +1079,6 @@
       ]
     },
     {
-      "id": "_Checkmatey___Fri, 31 Jul 2026 02:35:54 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: When the smokes clears from this Coldcard situation, remember the people who leaned in and gave their time and energy to help others. @w_s_bitcoin, @MrHodl, @without_rulers, @PortlandHODL, @Rob1Ham, @brian_trollz, @rot13maxi, @miketwenty1, @phjlljp, @coinjoined Thank you 🙏🏻",
-      "pubDate": "Fri, 31 Jul 2026 02:35:54 GMT",
-      "link": "https://nitter.net/HomeRunHODL/status/2083018790527447359#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "cryptoquant_com__Thu, 30 Jul 2026 19:21:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -1086,32 +1153,6 @@
       "link": "https://nitter.net/ColinTCrypto/status/2082485374031458667#m",
       "keywords": [
         "강세장"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 29 Jul 2026 14:16:03 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Our latest report breaks down the positioning ⤵️ https://cryptoquant.com/insights/research/6a6a09af4de1e64b087e8142-29-July-2026-Coiled-Before-the-Fed-BTC-ETH-Positioning?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crypto-weekly-report",
-      "pubDate": "Wed, 29 Jul 2026 14:16:03 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082470212696174912#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Wed, 29 Jul 2026 14:14:14 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Crypto is waiting for the Fed. BTC shorts can&apos;t break support. ETH is seeing profit-taking, not panic selling. The on-chain data points to one thing: volatility.",
-      "pubDate": "Wed, 29 Jul 2026 14:14:14 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2082469754451767427#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "BTC"
       ]
     },
     {
@@ -1212,46 +1253,6 @@
         "강세장",
         "약세장",
         "강세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 09 Jul 2026 18:51:24 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Just for the record I&apos;m bullish on AI-biotech company $ABCL (@AbCelleraBio) I&apos;m bullish because: - The company has incredible fundamentals that I think have been overlooked (meaning the company is undervalued imo). They&apos;ve been cooking on their tech and vertical integration, while critics wrongly dismiss",
-      "pubDate": "Thu, 09 Jul 2026 18:51:24 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2075291748352287079#m",
-      "keywords": [
-        "ETF 수급",
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Tue, 07 Jul 2026 04:28:42 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "RT by @ki_young_ju: < vooy creator recipe day > 최근 여러 해커톤을 주최하고 지켜보며 확신하게 된 것이 있습니다. 이제 중요한 건 코딩을 얼마나 잘하느냐가 아닙니다. “내가 무엇을 만들고 싶은가”를 얼마나 선명하게 알고 있느냐입니다. 7월 5일, Hashed와 Vooy가 함께 연 첫 레시피데이에서도 이 사실을 확인했습니다. 많은 참가자분들이 처음으로 자신의 에이전트를 세팅하고, 직접 레시피를 만들고, 작은 루틴을 돌려봤습니다. 처음엔 “에이전트”라는 단어 앞에서 어렵게 느끼셨지만, 막상 만들어보니 반응은 완전히 달랐습니다. 생각보",
-      "pubDate": "Tue, 07 Jul 2026 04:28:42 GMT",
-      "link": "https://nitter.net/simonkim_nft/status/2074349865094783259#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Mon, 06 Jul 2026 15:03:38 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: #BTC And in those Bear Market years, the August downside extended into September downside as well September would produce additional -19% downside in 2014, -5% in 2018 and -3% in 2022 It&apos;s not just about August downside It&apos;s also about September downside continuation $BTC #Bitcoin",
-      "pubDate": "Mon, 06 Jul 2026 15:03:38 GMT",
-      "link": "https://nitter.net/rektcapital/status/2074147264528822672#m",
-      "keywords": [
-        "약세장",
         "BTC"
       ]
     }
