@@ -1,6 +1,228 @@
 {
-  "updatedAt": "2026-08-03T19:46:57.708Z",
+  "updatedAt": "2026-08-04T03:22:21.475Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 04 Aug 2026 02:25:03 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This is insane! According to @glxyresearch, the total losses from the #Coldcard hack may have reached 2,055 $BTC($130M). More than 7,700 victim addresses have been affected.",
+      "pubDate": "Tue, 04 Aug 2026 02:25:03 GMT",
+      "link": "https://nitter.net/lookonchain/status/2084465607932854717#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Tue, 04 Aug 2026 02:13:56 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "idc if this is real or completely made-up or fully AI-generated. Whatever it is, it&apos;s not slop. This is amazing and i&apos;m gonna choose to believe its real",
+      "pubDate": "Tue, 04 Aug 2026 02:13:56 GMT",
+      "link": "https://nitter.net/JSeyff/status/2084462812387021266#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 04 Aug 2026 01:01:57 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "James Wynn(@JamesWynnReal) has been liquidated 4 times in just 12 hours. His #SP500 short has now been liquidated 26 times and still holds a short position of 28.88 xyz:SP500 ($219.5K). New liquidation price: $7,619.84 https://hypurrscan.io/address/0x5078c2fbea2b2ad61bc840bc023e35fce56bedb6#txs",
+      "pubDate": "Tue, 04 Aug 2026 01:01:57 GMT",
+      "link": "https://nitter.net/lookonchain/status/2084444697901326676#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 04 Aug 2026 00:46:15 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Tom Lee(@fundstrat)&apos;s #Bitmine staked another 150,120 $ETH($278M) 3 hours ago. In total, #Bitmine has staked 5,067,309 $ETH($9.38B), 87.4% of its total holdings. https://arkm.com/explorer/entity/bitmine",
+      "pubDate": "Tue, 04 Aug 2026 00:46:15 GMT",
+      "link": "https://nitter.net/lookonchain/status/2084440747277984232#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 04 Aug 2026 00:09:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 189,527,759 $USDC (189,562,538 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x762d4e464210076b3e7810fa09e5ddabf3915f550ec495d9db9d805624597926",
+      "pubDate": "Tue, 04 Aug 2026 00:09:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084431518051565568#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 23:37:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 189,500,000 $USDC (189,523,782 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x59534e4c952b12d9d37f080dc2985c0de57900a9ec6b649316cfed03b79990b1",
+      "pubDate": "Mon, 03 Aug 2026 23:37:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084423402358440049#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 03 Aug 2026 22:08:38 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "When I went to see Odyssey at AMC in Cherry Hill last Friday night the place was mobbed. I couldn’t believe it. Long ass line for popcorn, even bathroom had a line. Unheard of. That theatre is typically a ghost town.",
+      "pubDate": "Mon, 03 Aug 2026 22:08:38 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2084401081409237117#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Mon, 03 Aug 2026 22:05:51 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC is currently $63,549 $ETH is currently $1,862 If $BTC finds a cycle low at $50k that would be a 21% drop from where it is today. Imo, $50k would actually be quite bullishly high for a bear market bottom, because it would only be a 60% drop from the highs. That would be great performance for a bear market. $ETH, be",
+      "pubDate": "Mon, 03 Aug 2026 22:05:51 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2084400378075029916#m",
+      "keywords": [
+        "BTC 사이클",
+        "강세장",
+        "약세장",
+        "저항선"
+      ]
+    },
+    {
+      "id": "JSeyff__Mon, 03 Aug 2026 21:27:17 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "If a tv show wrote this up as Dems being against voter ID but were requiring IDs to buy food at their socialist grocery stores. It’d be too much. Too on the nose. Too Unrealistic Same with the $100k trump data feed fee from truth social We live in the absolute dumbest of times",
+      "pubDate": "Mon, 03 Aug 2026 21:27:17 GMT",
+      "link": "https://nitter.net/JSeyff/status/2084390675366248737#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 21:23:49 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 28,800 $ETH (53,707,519 USD) transferred from unknown wallet to Beacon Depositor https://whale-alert.io/tx/ethereum/0x48e857ebe8822f92758ec19711603c6e2f40b37f7097a7d1d24c1e7bf651b61a",
+      "pubDate": "Mon, 03 Aug 2026 21:23:49 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084389801810092075#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 21:22:48 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 34,560 $ETH (64,449,022 USD) transferred from unknown wallet to Beacon Depositor https://whale-alert.io/tx/ethereum/0xa68fc7158527ab5e19e3159e544b3b0acbb2c1123cd13b718995d39bbc92e8f6",
+      "pubDate": "Mon, 03 Aug 2026 21:22:48 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084389546314084456#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 21:21:45 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 34,560 $ETH (64,449,022 USD) transferred from unknown wallet to Beacon Depositor https://whale-alert.io/tx/ethereum/0xda8c2e60ce38779e47186bcf92e107b2b52206cb849b75b80b79eb5d7c1cef25",
+      "pubDate": "Mon, 03 Aug 2026 21:21:45 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084389283691897215#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Mon, 03 Aug 2026 21:09:50 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "The only thing we learned today is that I’m simply not that bright. Lol",
+      "pubDate": "Mon, 03 Aug 2026 21:09:50 GMT",
+      "link": "https://nitter.net/JSeyff/status/2084386282805862430#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 20:54:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 28,800 $ETH (53,756,340 USD) transferred from #Coinbase to Beacon Depositor https://whale-alert.io/tx/ethereum/0xa88d20879ba6be0a650664acb405930375fd8ec17f9bc307e9a8e8f2cb3b17b3",
+      "pubDate": "Mon, 03 Aug 2026 20:54:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084382297768231165#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 20:52:46 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 120,000,000 $USDC (120,003,793 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/ethereum/0x0a87f0274f8719d5c18b3c7a49df1b4c526ba89c2f6e5bfe78c52425438d314c",
+      "pubDate": "Mon, 03 Aug 2026 20:52:46 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084381987150680406#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 03 Aug 2026 20:40:39 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 801 $BTC (51,265,947 USD) transferred from #FalconX to unknown wallet https://whale-alert.io/tx/bitcoin/45c845706e79af7ab0a04a994f9cee0ad901e5cd1ea4d0a888516fc374857260",
+      "pubDate": "Mon, 03 Aug 2026 20:40:39 GMT",
+      "link": "https://nitter.net/whale_alert/status/2084378939909095503#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 03 Aug 2026 20:38:17 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: Bloomberg&apos;s @scarletfu puts @EricBalchunas, @JSeyff and Amrita Nandakumar, president of Vident Asset Management, to the test on Bloomberg ETF IQ in this week&apos;s edition of \"IQ Test\" https://bloom.bg/4t2duMm",
+      "pubDate": "Mon, 03 Aug 2026 20:38:17 GMT",
+      "link": "https://nitter.net/BloombergTV/status/2084378344582246564#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
     {
       "id": "ColinTCrypto__Mon, 03 Aug 2026 19:05:28 GMT",
       "handle": "ColinTCrypto",
@@ -83,6 +305,17 @@
         "고래",
         "Whale"
       ]
+    },
+    {
+      "id": "JSeyff__Mon, 03 Aug 2026 16:00:41 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Truth nuke by Hanania. I will give him credit when he makes a good and underrated point: https://www.richardhanania.com/p/gdp-haters-arent-making-serious-arguments",
+      "pubDate": "Mon, 03 Aug 2026 16:00:41 GMT",
+      "link": "https://nitter.net/averyfjames/status/2084308482795118909#m",
+      "keywords": []
     },
     {
       "id": "EricBalchunas__Mon, 03 Aug 2026 16:00:15 GMT",
@@ -557,7 +790,7 @@
       "label": "James Check",
       "category": "온체인 심리",
       "color": "indigo",
-      "text": "My latest piece reflects on the emotional journey Bitcoiners have experienced over the last 3 days. There is a lot of triage work left to do, and even more rebuilding afterwards. It&apos;s important to appreciate the emotional hit, and then bounce back. https://newsletter.checkonchain.com/p/a-shaken-industry",
+      "text": "RT by @_Checkmatey_: My latest piece reflects on the emotional journey Bitcoiners have experienced over the last 3 days. There is a lot of triage work left to do, and even more rebuilding afterwards. It&apos;s important to appreciate the emotional hit, and then bounce back. https://newsletter.checkonchain.com/p/a-shake",
       "pubDate": "Mon, 03 Aug 2026 09:34:59 GMT",
       "link": "https://nitter.net/_Checkmatey_/status/2084211417515982909#m",
       "keywords": [
@@ -1048,169 +1281,6 @@
       ]
     },
     {
-      "id": "whale_alert__Sun, 02 Aug 2026 03:11:26 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,800 $BTC (114,164,104 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/d375bf2e6e0da5fa60ac38c46643382b7e8a13b2da054510cc0710c730bc069b",
-      "pubDate": "Sun, 02 Aug 2026 03:11:26 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083752507101130797#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Sun, 02 Aug 2026 01:38:32 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "It looks like Trump Media sold another 2,628 $BTC($165.07M). Trump Media bought 11,542 $BTC($1.37B) at an average price of $118,522, then started selling 7 months ago, selling a total of 7,281 $BTC ($545M) at an average price of $74,855. Trump Media is now down a total of $555M on their $BTC holdings. https://arkm.com/",
-      "pubDate": "Sun, 02 Aug 2026 01:38:32 GMT",
-      "link": "https://nitter.net/lookonchain/status/2083729126725497083#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Sun, 02 Aug 2026 01:25:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 200,000,000 $XRP (213,107,153 USD) unlocked at #Ripple https://whale-alert.io/tx/ripple/F1558AEE24A0D6BC928601F17F3ED2E84D3E86A4FB42047A20C10AE1A3978373",
-      "pubDate": "Sun, 02 Aug 2026 01:25:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083725806757355708#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 02 Aug 2026 01:24:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 300,000,000 $XRP (319,649,035 USD) unlocked at #Ripple https://whale-alert.io/tx/ripple/EB69F66C29F323D6C696B5BE181809B12BF4EF3B0248590BEB82AD72E83D9CD7",
-      "pubDate": "Sun, 02 Aug 2026 01:24:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083725548665073791#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 02 Aug 2026 01:23:11 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 🔓 500,000,000 $XRP (532,856,336 USD) unlocked at #Ripple https://whale-alert.io/tx/ripple/E7A65BEFA2DEC38105050F6875F643C662F688E28871CAAE4220252741F78B50",
-      "pubDate": "Sun, 02 Aug 2026 01:23:11 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083725266552062019#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 02 Aug 2026 00:27:44 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,350 $BTC (147,809,131 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/219c52c66297f070f1e8e3fe9a36d3835916f128a56c2d2c80e74c0718549059",
-      "pubDate": "Sun, 02 Aug 2026 00:27:44 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083711310882128011#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 02 Aug 2026 00:09:45 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 181,777,771 $USDC (181,799,857 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x50ef3a4d78c82707a20f25ba30918395cc7ad55a7cdcf11c59caacb678e03e6e",
-      "pubDate": "Sun, 02 Aug 2026 00:09:45 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083706784183648593#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 01 Aug 2026 23:59:22 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 19,632 $BTC (1,233,413,403 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/6b169e5f7e6454c6bdd60a32de89e56a015aabe998255b3169331078eb80961e",
-      "pubDate": "Sat, 01 Aug 2026 23:59:22 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083704171673383309#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 01 Aug 2026 23:58:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 5,137 $BTC (322,785,965 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/31fd9dbc4f3e78e6b2c79e63b05556d13a9763fce07e97d45b7907046c600083",
-      "pubDate": "Sat, 01 Aug 2026 23:58:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2083703907960619440#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 01 Aug 2026 22:45:03 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "The fact that the cost was under $2,000 is actually insane. Not gonna pretend like I understand the value or importance of these proofs but this is crazy",
-      "pubDate": "Sat, 01 Aug 2026 22:45:03 GMT",
-      "link": "https://nitter.net/JSeyff/status/2083685469900902742#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sat, 01 Aug 2026 20:39:00 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Someone said it’s prob current or ex-employee. That feels right but I’ve no idea. Also If there’s a silver lining, it’s that the price of bitcoin hasn’t really moved at all really. pretty amazing.",
-      "pubDate": "Sat, 01 Aug 2026 20:39:00 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2083653746358182003#m",
-      "keywords": [
-        "고래 이동",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sat, 01 Aug 2026 20:36:37 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "$88 million would make this one of the biggest heists in U.S. history. At one point is the FBI et al on the case to bust these scumbags and return the btc? The company is Canadian tho so not sure that works.",
-      "pubDate": "Sat, 01 Aug 2026 20:36:37 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2083653146157502766#m",
-      "keywords": []
-    },
-    {
       "id": "_Checkmatey___Sat, 01 Aug 2026 20:21:10 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1219,84 +1289,6 @@
       "text": "RT by @_Checkmatey_: We are in a narrow window where one post (on any social media network) can save someone&apos;s life savings. If you or someone you know is holding Bitcoin on a MK3, MK4, MK5, or Q - REACH OUT TO THEM! I&apos;ve spoken to multiple people who were aware of the cold card issue, but when I pressed them",
       "pubDate": "Sat, 01 Aug 2026 20:21:10 GMT",
       "link": "https://nitter.net/Rob1Ham/status/2083649259040395532#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sat, 01 Aug 2026 17:01:48 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Now is the time to save peoples money. The people who are trying to cause drama will not be looked back on kindly when the dust settles. Get everyone off the sinking ship. We have the rest of time to talk about shared learnings.",
-      "pubDate": "Sat, 01 Aug 2026 17:01:48 GMT",
-      "link": "https://nitter.net/Rob1Ham/status/2083599086645542934#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Sat, 01 Aug 2026 15:49:25 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: This is how cycle bottoms are formed: A capitulation event combined with max fear and max selling.",
-      "pubDate": "Sat, 01 Aug 2026 15:49:25 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2083580870661734606#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Sat, 01 Aug 2026 15:45:22 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Here&apos;s one way the bitcoin bottom could be formed this cycle. Bulls challenge me with \"what kind of event would cause lower lows?\" Well, this would do the job. $5B of $BTC is 10% of MSTR&apos;s $BTC holdings. Think of all the people who will try to front-run it by selling beforehand, fearing the drop. That&apos;s ",
-      "pubDate": "Sat, 01 Aug 2026 15:45:22 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2083579853568196885#m",
-      "keywords": [
-        "BTC 사이클",
-        "강세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Sat, 01 Aug 2026 14:16:47 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "The dollar has been rallying since May, and bitcoin:native is taking it worse than almost any dollar rally on record. Across every dollar rally since 2015, bitcoin:native showed significantly more relative strength. A flip of this relationship would be a positive signal https://glassno.de/4c8YqXl",
-      "pubDate": "Sat, 01 Aug 2026 14:16:47 GMT",
-      "link": "https://nitter.net/glassnode/status/2083557560309915900#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 01 Aug 2026 13:32:45 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: A distributed team of engineers around the world are scrambling to try and save people&apos;s bitcoin, with over 1,000 already stolen by hackers using llms, and @OpenAI is chiding us. I&apos;ll continue using @Kimi_Moonshot K3 and you should to for cyber. What are we doing America?",
-      "pubDate": "Sat, 01 Aug 2026 13:32:45 GMT",
-      "link": "https://nitter.net/Rob1Ham/status/2083546478409056301#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sat, 01 Aug 2026 01:39:33 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: For those self-custody bitcoiners who are also scrambling amid this Coldcard issue, you can take some comfort in knowing the larger community is working together quickly to find solutions. In the last few hours, @V4BTC, @_Checkmatey_, @Rob1Ham and so many more have put out detailed videos on how yo",
-      "pubDate": "Sat, 01 Aug 2026 01:39:33 GMT",
-      "link": "https://nitter.net/MrMarkHall/status/2083366994863067184#m",
       "keywords": [
         "BTC"
       ]
