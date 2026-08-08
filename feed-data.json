@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-08-08T02:04:50.768Z",
+  "updatedAt": "2026-08-08T07:03:46.828Z",
   "items": [
+    {
+      "id": "rektcapital__Sat, 08 Aug 2026 06:27:45 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "Capitulation for #BTC is only ever really discussed on strong crashes in price But FOMO capitulation also exists The market will constantly test you so as to extract an emotional response from you to buy at resistance before a stronger a rejection takes place $BTC #Bitcoin",
+      "pubDate": "Sat, 08 Aug 2026 06:27:45 GMT",
+      "link": "https://nitter.net/rektcapital/status/2085976237961347097#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 08 Aug 2026 03:40:00 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "HyperLabs unlocked another 433,025 $HYPE($23.46M) and has been gradually depositing the tokens into exchanges, including Flowdesk and OKX, likely to sell. https://hypurrscan.io/address/0x43e9abea1910387c4292bca4b94de81462f8a251#txs",
+      "pubDate": "Sat, 08 Aug 2026 03:40:00 GMT",
+      "link": "https://nitter.net/lookonchain/status/2085934021583020042#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Sat, 08 Aug 2026 02:49:31 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "How do I help support or fund this effort ?",
+      "pubDate": "Sat, 08 Aug 2026 02:49:31 GMT",
+      "link": "https://nitter.net/JSeyff/status/2085921317774041552#m",
+      "keywords": [
+        "지지선",
+        "TA"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 08 Aug 2026 02:44:46 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x7C5a is finally giving up after holding $ETH for over 3 years, selling at a loss with total losses now exceeding $19M. The whale bought $ETH at an average price of $2,723 in February 2022 and March 2023, then staked it. 10 hours ago, the whale sold 7,323 $ETH ($13.96M). https://arkm.com/explorer/address/0x7C5aa",
+      "pubDate": "Sat, 08 Aug 2026 02:44:46 GMT",
+      "link": "https://nitter.net/lookonchain/status/2085920124545159252#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sat, 08 Aug 2026 02:22:33 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales keep accumulating $BTC. A newly created wallet (167YVr) received 1,346 $BTC ($87.28M) from #GalaxyDigital. https://arkm.com/explorer/address/167YVrHeroj8yuiH8ZmMFazQjn5sPjKBa7",
+      "pubDate": "Sat, 08 Aug 2026 02:22:33 GMT",
+      "link": "https://nitter.net/lookonchain/status/2085914532007072087#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Sat, 08 Aug 2026 02:05:02 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT @austincampbell: Weird things you learn studying finance and tech: crime is a leading indicator of something being good.",
+      "pubDate": "Sat, 08 Aug 2026 02:05:02 GMT",
+      "link": "https://nitter.net/JSeyff/status/2085910123696848919#m",
+      "keywords": []
+    },
     {
       "id": "ColinTCrypto__Sat, 08 Aug 2026 01:31:26 GMT",
       "handle": "ColinTCrypto",
@@ -39,6 +118,17 @@
         "고래",
         "Whale"
       ]
+    },
+    {
+      "id": "JSeyff__Fri, 07 Aug 2026 23:20:05 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: We need a recovery program… Encouraging authorized, private citizens to go on offense is in our Constitution. Squint hard enough—it’s in CLARITY too. We have a problem. That’s the only solution that works IMO. Resurrect the Privateers.",
+      "pubDate": "Fri, 07 Aug 2026 23:20:05 GMT",
+      "link": "https://nitter.net/perkinscr97/status/2085868613894901948#m",
+      "keywords": []
     },
     {
       "id": "whale_alert__Fri, 07 Aug 2026 22:43:50 GMT",
@@ -1175,100 +1265,6 @@
       "pubDate": "Thu, 06 Aug 2026 14:36:29 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2085374458299072855#m",
       "keywords": []
-    },
-    {
-      "id": "lookonchain__Thu, 06 Aug 2026 14:26:25 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "August 6 Update: #Bitcoin ETFs: 1D NetFlow: +3,781 $BTC(+$243.49M)🟢 7D NetFlow: +9,034 $BTC(+$581.79M)🟢 #Ethereum ETFs: 1D NetFlow: +27,749 $ETH(+$52.91M)🟢 7D NetFlow: +40,578 $ETH(+$77.37M)🟢",
-      "pubDate": "Thu, 06 Aug 2026 14:26:25 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085371923371053140#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 06 Aug 2026 13:47:55 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "UNITREE is now live on the Pre-IPO market. Someone deposited 3M $USDC into Hyperliquid and started building a long position in $UNITREE. So far, the trader has opened a 5x long on 3,507 $UNITREE($264K). https://hypurrscan.io/address/0xecC846A664e910103c179827dd23fea82CFcD8cE#perps",
-      "pubDate": "Thu, 06 Aug 2026 13:47:55 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085362232926548276#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Thu, 06 Aug 2026 13:14:43 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin has only produced a +2.5% bounce from the orange Weekly level This is still in keeping with a \"progressively weakening support\" thesis Bitcoin would need to break the Lower Highs (both candle-bodied and upside wicking trendlines) for invalidation $BTC #Crypto #Bitcoin",
-      "pubDate": "Thu, 06 Aug 2026 13:14:43 GMT",
-      "link": "https://nitter.net/rektcapital/status/2085353877918892529#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Thu, 06 Aug 2026 12:59:41 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: The Great AI Migration #BTC hash rate down nearly 20% since its October peak",
-      "pubDate": "Thu, 06 Aug 2026 12:59:41 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2085350096468578501#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 06 Aug 2026 12:37:04 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: To be sure: if you want to transact in btc (or use it to flee a country or censorship) ETF is not gonna help and I think it’s imp that btc be used that way. But for the basic need of long term investing I’m hard pressed to find a reason to use anything but an ETF.",
-      "pubDate": "Thu, 06 Aug 2026 12:37:04 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085344403791471073#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 06 Aug 2026 12:26:54 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: if anyone from the OG bitcoin world is feeling internal tension over this, let me put you at east: ETFs are not The Man. They ain&apos;t like those fat cat hedge funds from TV. They are lean and mean and barely make any money for the industry- Wall St would much prefer if they went away. They&apos;",
-      "pubDate": "Thu, 06 Aug 2026 12:26:54 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085341847015063835#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 06 Aug 2026 12:09:41 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: $IBIT, $FBTC, $BITC, $ARKB, $MSBT have all seen inflows every single day (and growing each day) since the Coldcard Hack this wknd for a total of $620m. I&apos;m not saying it&apos;s connected, we just don&apos;t know, altho long-term I can&apos;t imagine there aren&apos;t some who migrate over, but it&ap",
-      "pubDate": "Thu, 06 Aug 2026 12:09:41 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085337512982003819#m",
-      "keywords": [
-        "LTH 보유자"
-      ]
     }
   ]
 }
