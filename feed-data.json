@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:13:28.407Z",
+  "updatedAt": "2026-08-09T07:06:26.203Z",
   "items": [
     {
       "id": "lookonchain__Sun, 09 Aug 2026 01:18:27 GMT",
@@ -92,6 +92,17 @@
       "text": "As someone who gets gas in both NJ (where attendant has to pump it for you) and PA (DIY) I’m here to tell you it’s better to pump your own. That is all.",
       "pubDate": "Sat, 08 Aug 2026 22:21:47 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2086216329980252231#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Sat, 08 Aug 2026 21:27:42 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Image",
+      "pubDate": "Sat, 08 Aug 2026 21:27:42 GMT",
+      "link": "https://nitter.net/LynAldenContact/status/2086202719715389619#m",
       "keywords": []
     },
     {
@@ -1171,42 +1182,6 @@
       ]
     },
     {
-      "id": "lookonchain__Fri, 07 Aug 2026 05:08:28 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The #Coldcard hacker, who stole 2,055 $BTC($130M), is active again. An hour ago, the hacker transferred 30.185 $BTC($1.94M) to a new wallet. https://arkm.com/explorer/address/bc1qmd5m5ktv7m5ffujxv4248fxv36myvdx79n8jp6",
-      "pubDate": "Fri, 07 Aug 2026 05:08:28 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085593899465416881#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 07 Aug 2026 03:48:06 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Ethereum OG whale 0x7378 keeps buying $LIT. Over the past 2 months, the whale has spent a total of $9.1M to buy 3.91M $LIT at an average price of $2.33. https://debank.com/profile/0x73781209f3b0f195d0d3fa9d6b95bb61c54c1ca6",
-      "pubDate": "Fri, 07 Aug 2026 03:48:06 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085573671398318478#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 07 Aug 2026 02:24:44 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The Jaredfromsubway exploiter is terrible at trading. A month ago, the exploiter stole $7.7M and swapped it for $ETH. The exploiter later sold 2,327 $ETH($3.94M) at $1,695, then bought back 2,063 $ETH($3.94M) at $1,912 10 hours ago. He lost 264 $ETH($505K). https://arkm.com/explorer/address/0x7B4F24a4522bc2AEE9D1686FFB",
-      "pubDate": "Fri, 07 Aug 2026 02:24:44 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085552695654637837#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Thu, 06 Aug 2026 18:28:00 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -1267,6 +1242,28 @@
       "text": "RT by @glassnode: The Great AI Migration #BTC hash rate down nearly 20% since its October peak",
       "pubDate": "Thu, 06 Aug 2026 12:59:41 GMT",
       "link": "https://nitter.net/n3ocortex/status/2085350096468578501#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Thu, 06 Aug 2026 11:31:31 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Listen to the recording of our space with @trondao on AI agents and gasless rails!",
+      "pubDate": "Thu, 06 Aug 2026 11:31:31 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2085327910101979503#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Wed, 05 Aug 2026 18:17:49 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: finally available on: http://bedrock.bitview.space",
+      "pubDate": "Wed, 05 Aug 2026 18:17:49 GMT",
+      "link": "https://nitter.net/_nym21_/status/2085067768701841516#m",
       "keywords": []
     }
   ]
