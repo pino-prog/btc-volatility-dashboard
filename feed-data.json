@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-08-08T18:48:59.339Z",
+  "updatedAt": "2026-08-09T02:13:28.407Z",
   "items": [
+    {
+      "id": "lookonchain__Sun, 09 Aug 2026 01:18:27 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A mysterious whale is opening a 20x long on 500K $SOL($22.78M). A newly created wallet deposited 8.43M $USDC and placed a TWAP order to long 500K $SOL ($22.78M). So far, 199,838 $SOL ($15.2M) has been filled. https://hypurrscan.io/address/0x9c6a5b4662c722d2c47f43d6c9813cb080ffa4ed#perps",
+      "pubDate": "Sun, 09 Aug 2026 01:18:27 GMT",
+      "link": "https://nitter.net/lookonchain/status/2086260789418373473#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 09 Aug 2026 01:10:16 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A mysterious whale (possibly a miner) has deposited 6,494 $BTC($420.5M) to #Binance over the past 3 weeks. https://arkm.com/explorer/address/bc1qsylwjhesm58uw9vsp7vwgadq5fqna4e3e8qnpd",
+      "pubDate": "Sun, 09 Aug 2026 01:10:16 GMT",
+      "link": "https://nitter.net/lookonchain/status/2086258729926955226#m",
+      "keywords": [
+        "Miner Flow",
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Sun, 09 Aug 2026 00:56:45 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "An #Ethereum ICO participant \"0x6A53\" just deposited 0.1 $ETH to #Coinbase after 11 years of dormancy. He invested only $620 in the ICO and received 2,000 $ETH — now worth $3.83M, a 6,184x return! https://etherscan.io/address/0x6a53d41ae4a752b21abed5374649953a513de5e5?amt=0.01%7E999999999",
+      "pubDate": "Sun, 09 Aug 2026 00:56:45 GMT",
+      "link": "https://nitter.net/lookonchain/status/2086255326064689337#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sun, 09 Aug 2026 00:49:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💤 A dormant pre-mine address containing 2,000 $ETH (3,837,294 USD) has just been activated after 11.0 years (worth 620 USD in 2015)! https://whale-alert.io/tx/ethereum/0xb4968b5ffc9772241d23b4e8e741616cd531a3a1fbc0178fae5381c3a19b5a3c",
+      "pubDate": "Sun, 09 Aug 2026 00:49:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086253377118159247#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sun, 09 Aug 2026 00:11:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 174,527,700 $USDC (174,548,556 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x7c697d2fab951444e6428cc3c20cd9894bdf1dad3e38fee271d7593c335a23c4",
+      "pubDate": "Sun, 09 Aug 2026 00:11:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086243813845037360#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 08 Aug 2026 23:33:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 174,500,000 $USDC (174,521,201 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xd4aba9550f45019a8220f4488ca95f7f12b52830aeb0a30ffdd87b4cc37bc0fc",
+      "pubDate": "Sat, 08 Aug 2026 23:33:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086234397557002472#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 08 Aug 2026 22:21:47 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "As someone who gets gas in both NJ (where attendant has to pump it for you) and PA (DIY) I’m here to tell you it’s better to pump your own. That is all.",
+      "pubDate": "Sat, 08 Aug 2026 22:21:47 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2086216329980252231#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sat, 08 Aug 2026 21:15:34 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,818 $BTC (118,303,551 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/302c915a07dd4d917d7360fda844b9442251196b1b183e18b62d491770867783",
+      "pubDate": "Sat, 08 Aug 2026 21:15:34 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086199666106839507#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Sat, 08 Aug 2026 19:24:17 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "I for one. Am shocked. Who could have seen this coming ?!?!",
+      "pubDate": "Sat, 08 Aug 2026 19:24:17 GMT",
+      "link": "https://nitter.net/JSeyff/status/2086171661582102840#m",
+      "keywords": []
+    },
     {
       "id": "rektcapital__Sat, 08 Aug 2026 18:28:55 GMT",
       "handle": "rektcapital",
@@ -55,6 +174,22 @@
       ]
     },
     {
+      "id": "JSeyff__Sat, 08 Aug 2026 15:44:10 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: It’s fork day. With negligible support from BTC miners for BIP110, it looks like the plan is a last minute Proof of Work (PoW) change to “fire the miners”. New PoW, new asset, new ticker. What shall we name this new shitcoin? Drop your best ideas below 👇",
+      "pubDate": "Sat, 08 Aug 2026 15:44:10 GMT",
+      "link": "https://nitter.net/DylanLeClair/status/2086116267035857025#m",
+      "keywords": [
+        "Miner Flow",
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
       "id": "whale_alert__Sat, 08 Aug 2026 13:48:54 GMT",
       "handle": "whale_alert",
       "label": "Whale Alert",
@@ -67,6 +202,19 @@
         "고래",
         "Whale",
         "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Sat, 08 Aug 2026 13:32:49 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: This week&apos;s ETF buzz... https://theetfeducator.com/2026/08/08/etf-buzz-321/ (table via @EricBalchunas & @JSeyff)",
+      "pubDate": "Sat, 08 Aug 2026 13:32:49 GMT",
+      "link": "https://nitter.net/NateGeraci/status/2086083211877032000#m",
+      "keywords": [
+        "ETF 수급"
       ]
     },
     {
@@ -1059,169 +1207,6 @@
       "keywords": []
     },
     {
-      "id": "JSeyff__Fri, 07 Aug 2026 01:48:34 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: 🚨NEWS: The Senate has decided to punt a vote on the Clarity Act until September, per Politico.",
-      "pubDate": "Fri, 07 Aug 2026 01:48:34 GMT",
-      "link": "https://nitter.net/EleanorTerrett/status/2085543590583836678#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 07 Aug 2026 01:22:37 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Pump fun(@Pumpfun) sold another 84,789 $SOL($6.25M) again today! In total, http://pump.fun has sold 4,823,325 $SOL($807M) at an average price of $167.4. https://arkm.com/explorer/entity/pump-fun",
-      "pubDate": "Fri, 07 Aug 2026 01:22:37 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085537061625536595#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Fri, 07 Aug 2026 00:44:14 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Bitcoin mining companies are selling $BTC. MARA, which holds 36,303 $BTC($2.34B), deposited 200 $BTC($12.86M) into NYDIG 10 hours ago. Riot Platforms also continues to send $BTC to NYDIG, depositing another 381 $BTC($24.51M) 10 hours ago. https://arkm.com/explorer/entity/mara-pool https://arkm.com/explorer/entity/riot-",
-      "pubDate": "Fri, 07 Aug 2026 00:44:14 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085527400503537919#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Fri, 07 Aug 2026 00:41:04 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Quite possibly the two least interesting teams in the NFL in a meaningless game yet still a beautiful sight for sore eyes. Hallelujah.",
-      "pubDate": "Fri, 07 Aug 2026 00:41:04 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085526604596539447#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 07 Aug 2026 00:15:09 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Image",
-      "pubDate": "Fri, 07 Aug 2026 00:15:09 GMT",
-      "link": "https://nitter.net/AP_Abacus/status/2085520083552493930#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Fri, 07 Aug 2026 00:10:10 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 167,027,704 $USDC (167,054,429 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x6e9f1ad7b3e2d5eb38de12b499391cb383be8ce23d6b746f548bbef8f215f0ed",
-      "pubDate": "Fri, 07 Aug 2026 00:10:10 GMT",
-      "link": "https://nitter.net/whale_alert/status/2085518828306395482#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 06 Aug 2026 23:34:05 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 167,000,000 $USDC (167,035,654 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x5e05ed8ce50072a903a5a5afeaa75f26f699ae90b98880a3e54f340519f33272",
-      "pubDate": "Thu, 06 Aug 2026 23:34:05 GMT",
-      "link": "https://nitter.net/whale_alert/status/2085509747743006817#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 06 Aug 2026 22:54:44 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 802 $BTC (51,626,427 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/e43b8ad936b678fc99e72abbeb48aa75a74a4971b4874c422b85529e8b9b0759",
-      "pubDate": "Thu, 06 Aug 2026 22:54:44 GMT",
-      "link": "https://nitter.net/whale_alert/status/2085499846488670392#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 06 Aug 2026 22:16:54 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 1,000 $BTC (64,433,125 USD) transferred from #CryptoCom to Coinbase Institutional https://whale-alert.io/tx/bitcoin/d387efbde81e07383b737290e9f0df4440504e4388e1b72797055c14a22dd0bb",
-      "pubDate": "Thu, 06 Aug 2026 22:16:54 GMT",
-      "link": "https://nitter.net/whale_alert/status/2085490324923678859#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 06 Aug 2026 20:03:30 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Holdings",
-      "pubDate": "Thu, 06 Aug 2026 20:03:30 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085456752720363875#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 06 Aug 2026 20:02:55 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Roundhill&apos;s brand new Photonics ETF $LYTE had a banner first day in volume, $72m, which is actually more than $DRAM did on Day One. Tracks 10 stocks only, fee 65bps.",
-      "pubDate": "Thu, 06 Aug 2026 20:02:55 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085456607782047898#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 06 Aug 2026 19:57:22 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Here you go: https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-US-Equity-Strategist/18197#",
-      "pubDate": "Thu, 06 Aug 2026 19:57:22 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085455211338838183#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 06 Aug 2026 19:56:18 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "HELP WANTED: Bloomberg Intelligence is looking for a US Equity Strategist.. to write research notes on macro, large caps, sectors, fair value models, that kinda thing, and then go out and talk about it across media platforms. Based in NYC. Apply if you interested.. link in next post. FYI",
-      "pubDate": "Thu, 06 Aug 2026 19:56:18 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2085454940009603132#m",
-      "keywords": []
-    },
-    {
       "id": "rektcapital__Thu, 06 Aug 2026 18:28:00 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -1256,6 +1241,32 @@
       "text": "Why do exchanges of ideas on X so often default to hostility, aggression, toxicity, or passive-aggression—especially from strangers with pseudonymous accounts? Simple discussion shouldn&apos;t be difficult. Opposing views can be shared without hostility, yet many here are frequently nasty. I enjoy discussing and engagi",
       "pubDate": "Thu, 06 Aug 2026 14:36:29 GMT",
       "link": "https://nitter.net/ColinTCrypto/status/2085374458299072855#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Thu, 06 Aug 2026 13:14:43 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "RT by @rektcapital: #BTC Bitcoin has only produced a +2.5% bounce from the orange Weekly level This is still in keeping with a \"progressively weakening support\" thesis Bitcoin would need to break the Lower Highs (both candle-bodied and upside wicking trendlines) for invalidation $BTC #Crypto #Bitcoin",
+      "pubDate": "Thu, 06 Aug 2026 13:14:43 GMT",
+      "link": "https://nitter.net/rektcapital/status/2085353877918892529#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Thu, 06 Aug 2026 12:59:41 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: The Great AI Migration #BTC hash rate down nearly 20% since its October peak",
+      "pubDate": "Thu, 06 Aug 2026 12:59:41 GMT",
+      "link": "https://nitter.net/n3ocortex/status/2085350096468578501#m",
       "keywords": []
     }
   ]
