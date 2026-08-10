@@ -1,6 +1,157 @@
 {
-  "updatedAt": "2026-08-10T02:21:36.536Z",
+  "updatedAt": "2026-08-10T07:54:24.694Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 07:39:45 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 1,750,000,000 $USDT (1,749,426,191 USD) burned at Tether Treasury https://whale-alert.io/tx/ethereum/0x4eb5420ecf4a5aa4599e54cb5ef12467bf8d357e37c7ea51a4ef5ec75512eb0e",
+      "pubDate": "Mon, 10 Aug 2026 07:39:45 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086719133274558773#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 07:00:54 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 1,927 $BTC (125,815,050 USD) transferred from #Binance to #Ceffu https://whale-alert.io/tx/bitcoin/339f6253319ba58a82662e7749893eb5a947fa1fa6f0446a7524846f444c1abd",
+      "pubDate": "Mon, 10 Aug 2026 07:00:54 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086709357215985678#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Mon, 10 Aug 2026 06:57:19 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin–gold correlation is back to digital-gold-era levels.",
+      "pubDate": "Mon, 10 Aug 2026 06:57:19 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2086708455117828458#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 10 Aug 2026 06:16:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @ShayanBTC7: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a781c7ee5be6a24c8912039-Bitcoin-Faces-Key-Cost-Basis-Resistance-at-67K-and-72K?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=shayanbtc",
+      "pubDate": "Mon, 10 Aug 2026 06:16:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2086698056079007755#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Mon, 10 Aug 2026 06:10:56 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Faces Key Cost-Basis Resistance at $67K and $72K “Reclaiming these realized-price bands would indicate that the market is absorbing potential supply from recent buyers and would strengthen the recovery narrative.” – By @ShayanBTC7",
+      "pubDate": "Mon, 10 Aug 2026 06:10:56 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2086696782486986884#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Mon, 10 Aug 2026 05:20:15 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Chart Link 👇 https://cryptoquant.com/analytics/query/669953abb31f1e65208b1d0a?v=669953dc8990c054faca43f3&img=link%2F6a795d9dba40632a95c81b9a.png",
+      "pubDate": "Mon, 10 Aug 2026 05:20:15 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2086684026644079098#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Mon, 10 Aug 2026 05:20:14 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Hedge funds on CME flipped net long BTC futures. This is rare. The basis trade keeps them structurally short. That&apos;s why this chart&apos;s been red for years. You can&apos;t carry trade into a net long. The suits are betting on upside.",
+      "pubDate": "Mon, 10 Aug 2026 05:20:14 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2086684024173727783#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Mon, 10 Aug 2026 05:20:14 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Hedge funds on CME flipped net long BTC futures. This is rare. The basis trade keeps them structurally short. That&apos;s why this chart&apos;s been red for years. You can&apos;t carry trade into a net long. The suits are betting on upside.",
+      "pubDate": "Mon, 10 Aug 2026 05:20:14 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2086684024173727783#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 10 Aug 2026 04:50:06 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Despite recent selling by institutions, some whales are still accumulating $HYPE. Over the past 5 days, 3 newly created wallets withdrew 165,425 $HYPE ($9.16M) from #FalconX. https://arkm.com/explorer/address/0xF07fC85FB8d8e04b0026cD95c86d75b450f93343 https://arkm.com/explorer/address/0x494C10a04457E2e3C7181bb0D644F258",
+      "pubDate": "Mon, 10 Aug 2026 04:50:06 GMT",
+      "link": "https://nitter.net/lookonchain/status/2086676440070901958#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 03:19:40 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 146,180,159 $USDC (146,207,275 USD) transferred from #Deribit to unknown wallet https://whale-alert.io/tx/ethereum/0x2268c0bfa7496e32132b3e9bdb64c83032d3b9a7e20e5de8a50ee05199468874",
+      "pubDate": "Mon, 10 Aug 2026 03:19:40 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086653681202561371#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 03:16:55 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 109,000,000 $USDC (109,087,199 USD) transferred from unknown wallet to #Deribit https://whale-alert.io/tx/ethereum/0x9e78136d2bdc4a65c98a5f363052125f1fbb50305120b83e5d4a4b1085f1c3ed",
+      "pubDate": "Mon, 10 Aug 2026 03:16:55 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086652989159174591#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "lookonchain__Mon, 10 Aug 2026 02:03:02 GMT",
       "handle": "lookonchain",
@@ -569,21 +720,6 @@
       ]
     },
     {
-      "id": "rektcapital__Sat, 08 Aug 2026 06:27:45 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Capitulation for #BTC is only ever really discussed on strong crashes in price But FOMO capitulation also exists The market will constantly test you so as to extract an emotional response from you to buy at resistance before a stronger a rejection takes place $BTC #Bitcoin",
-      "pubDate": "Sat, 08 Aug 2026 06:27:45 GMT",
-      "link": "https://nitter.net/rektcapital/status/2085976237961347097#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
       "id": "lookonchain__Sat, 08 Aug 2026 03:40:00 GMT",
       "handle": "lookonchain",
       "label": "Lookonchain",
@@ -606,34 +742,6 @@
       "keywords": [
         "지지선",
         "TA"
-      ]
-    },
-    {
-      "id": "lookonchain__Sat, 08 Aug 2026 02:44:46 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x7C5a is finally giving up after holding $ETH for over 3 years, selling at a loss with total losses now exceeding $19M. The whale bought $ETH at an average price of $2,723 in February 2022 and March 2023, then staked it. 10 hours ago, the whale sold 7,323 $ETH ($13.96M). https://arkm.com/explorer/address/0x7C5aa",
-      "pubDate": "Sat, 08 Aug 2026 02:44:46 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085920124545159252#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Sat, 08 Aug 2026 02:22:33 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales keep accumulating $BTC. A newly created wallet (167YVr) received 1,346 $BTC ($87.28M) from #GalaxyDigital. https://arkm.com/explorer/address/167YVrHeroj8yuiH8ZmMFazQjn5sPjKBa7",
-      "pubDate": "Sat, 08 Aug 2026 02:22:33 GMT",
-      "link": "https://nitter.net/lookonchain/status/2085914532007072087#m",
-      "keywords": [
-        "고래",
-        "Whale"
       ]
     },
     {
@@ -857,35 +965,6 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Fri, 07 Aug 2026 08:07:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @xwinfinance: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a74f43abaa35667d559af19-626M-Flows-Into-US-Spot-Bitcoin-ETFs-%E2%80%94-Where-Is-the-Money-Coming-From?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=xwin",
-      "pubDate": "Fri, 07 Aug 2026 08:07:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2085638826676863173#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 07 Aug 2026 08:01:10 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "$626M Flows Into U.S. Spot Bitcoin ETFs — Where Is the Money Coming From? “This suggests the recent inflows may represent selective institutional or traditional-finance allocation through regulated products rather than widespread speculative buying.” – By @xwinfinance",
-      "pubDate": "Fri, 07 Aug 2026 08:01:10 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2085637360117502191#m",
-      "keywords": [
-        "ETF 수급",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
       "id": "_Checkmatey___Fri, 07 Aug 2026 06:53:38 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -931,17 +1010,6 @@
       "text": "RT by @glassnode: The Great AI Migration #BTC hash rate down nearly 20% since its October peak",
       "pubDate": "Thu, 06 Aug 2026 12:59:41 GMT",
       "link": "https://nitter.net/n3ocortex/status/2085350096468578501#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Thu, 06 Aug 2026 11:31:31 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Listen to the recording of our space with @trondao on AI agents and gasless rails!",
-      "pubDate": "Thu, 06 Aug 2026 11:31:31 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2085327910101979503#m",
       "keywords": []
     },
     {
@@ -1085,43 +1153,6 @@
       "text": "The next @zachxbt is out there, still unrecognized. On-chain investigations serve the public, and this competition exists to surface that talent. 2 BTC prize pool, anons welcome. Hosted by Digital Asset Works (ex-CoinDesk Korea team). Apply July 27–Aug 1.",
       "pubDate": "Sun, 26 Jul 2026 01:50:22 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2081195392105124116#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 23 Jul 2026 09:20:59 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "BitMEX recorded $84M in BTC futures volume yesterday, representing 0.08% of the market. It was a great exchange that helped shape the industry, and now it is passing the torch to the next generation of exchanges it inspired.",
-      "pubDate": "Thu, 23 Jul 2026 09:20:59 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2080221628605309288#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 23 Jul 2026 07:27:09 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Chart Link https://cryptoquant.com/community/dashboard/66c366531dad4a62a5d42c79?e=69f27929e2872616b411bd2e",
-      "pubDate": "Thu, 23 Jul 2026 07:27:09 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2080192980812714197#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Thu, 23 Jul 2026 07:27:08 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin spot demand is weakening. Futures demand remains net positive, but is significantly lower than during the rebound three months ago.",
-      "pubDate": "Thu, 23 Jul 2026 07:27:08 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2080192978329743611#m",
       "keywords": [
         "BTC"
       ]
