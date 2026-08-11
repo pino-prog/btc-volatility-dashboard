@@ -1,6 +1,135 @@
 {
-  "updatedAt": "2026-08-11T02:11:52.190Z",
+  "updatedAt": "2026-08-11T07:18:15.939Z",
   "items": [
+    {
+      "id": "whale_alert__Tue, 11 Aug 2026 07:05:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 30,000 $ETH (56,174,629 USD) transferred from #Binance to unknown wallet https://whale-alert.io/tx/ethereum/0x8d9c97adb414c3ce210a2f739212e44ef5fd47955680f3101196557dd41d7432",
+      "pubDate": "Tue, 11 Aug 2026 07:05:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2087072776569925726#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 11 Aug 2026 06:58:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @MorenoDV_: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a79fc2eba40632a95c81c95-The-035-Signal-Why-ETH-May-Be-Approaching-Another-Bottom?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
+      "pubDate": "Tue, 11 Aug 2026 06:58:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2087071013578166645#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 11 Aug 2026 06:50:30 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "The −0.35 Signal: Why ETH May Be Approaching Another Bottom “Ethereum’s exchange-level NUPL on Binance has returned to a region that has historically appeared near important price floors.” – By @MorenoDV_",
+      "pubDate": "Tue, 11 Aug 2026 06:50:30 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2087069125638029552#m",
+      "keywords": [
+        "NUPL",
+        "온체인"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 11 Aug 2026 05:09:10 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales keep selling $BTC. Whale bc1qdj sold 1,274 $BTC ($81.5M) through #Cumberland, #FalconX, and #GalaxyDigital 6 hours ago. https://arkm.com/explorer/address/bc1qdjykal4rt6sfwk9t32lvhmdm59fqywawclv7sp",
+      "pubDate": "Tue, 11 Aug 2026 05:09:10 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087043625536643516#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 11 Aug 2026 03:52:45 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Have institutions stopped selling $HYPE and started buying? A wallet linked to Maven11 Capital withdrew 202,705 $HYPE($11.17M) from #OKX 4 hours ago. https://arkm.com/explorer/address/0x12249312823853bCb86fD8f8339FE72d63f6301F",
+      "pubDate": "Tue, 11 Aug 2026 03:52:45 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087024393981694035#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 11 Aug 2026 03:39:35 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "It seems that Tom Lee(@fundstrat)&apos;s #Bitmine bought another 13,000 $ETH($24.36M) from #BitGo 2 hours ago. https://arkm.com/explorer/address/0x95dE268E950E582A239E350A800C050882612c44",
+      "pubDate": "Tue, 11 Aug 2026 03:39:35 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087021079659495697#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Tue, 11 Aug 2026 02:32:02 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Ki Young Ju (@ki_young_ju) Correction on my earlier CME post: I mislabeled Total Reportables as Leveraged Funds. What the data actually shows (CFTC, as of Aug 4, futures-only): • Total Reportables (all large traders, mostly institutional) are modestly net long. So the directional takeaway holds, though the margin is th",
+      "pubDate": "Tue, 11 Aug 2026 02:32:02 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087004080917139842#m",
+      "keywords": [
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Tue, 11 Aug 2026 02:31:22 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Correction on my earlier CME post: I mislabeled Total Reportables as Leveraged Funds. What the data actually shows (CFTC, as of Aug 4, futures-only): • Total Reportables (all large traders, mostly institutional) are modestly net long. So the directional takeaway holds, though the margin is thin. The correction is to th",
+      "pubDate": "Tue, 11 Aug 2026 02:31:22 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087003915627999740#m",
+      "keywords": [
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Tue, 11 Aug 2026 02:24:32 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "This chart is a good reminder that even back in 2022 the price dropped *below* the previous all-time high. Right now, the price is just hovering around the previous all time high range— hasn’t even broken below it. Certainly could do so again, couldn’t it? Anyone who has ruled out another drop below the all-time high r",
+      "pubDate": "Tue, 11 Aug 2026 02:24:32 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2087002195057135780#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 11 Aug 2026 02:01:24 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The battle between $BTC bulls and bears is heating up. Today, several gamblers opened massive $BTC positions with high leverage. 4 gamblers are short 3,895 $BTC($249.4M) in total, with liquidation prices at $64,600.83, $66,281.28, $66,305.03, and $66,545.09. 2 gamblers are long 1,547 $BTC($99.08M) in total, with liquid",
+      "pubDate": "Tue, 11 Aug 2026 02:01:24 GMT",
+      "link": "https://nitter.net/lookonchain/status/2086996370960126298#m",
+      "keywords": [
+        "청산",
+        "강세장",
+        "약세장"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 11 Aug 2026 01:18:08 GMT",
       "handle": "lookonchain",
@@ -934,12 +1063,12 @@
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Mon, 10 Aug 2026 05:20:14 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
+      "id": "ki_young_ju__Mon, 10 Aug 2026 05:20:14 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
       "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Hedge funds on CME flipped net long BTC futures. This is rare. The basis trade keeps them structurally short. That&apos;s why this chart&apos;s been red for years. You can&apos;t carry trade into a net long. The suits are betting on upside.",
+      "color": "sky",
+      "text": "Hedge funds on CME flipped net long BTC futures. This is rare. The basis trade keeps them structurally short. That&apos;s why this chart&apos;s been red for years. You can&apos;t carry trade into a net long. The suits are betting on upside.",
       "pubDate": "Mon, 10 Aug 2026 05:20:14 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2086684024173727783#m",
       "keywords": [
@@ -947,12 +1076,12 @@
       ]
     },
     {
-      "id": "ki_young_ju__Mon, 10 Aug 2026 05:20:14 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
+      "id": "cryptoquant_com__Mon, 10 Aug 2026 05:20:14 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
       "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Hedge funds on CME flipped net long BTC futures. This is rare. The basis trade keeps them structurally short. That&apos;s why this chart&apos;s been red for years. You can&apos;t carry trade into a net long. The suits are betting on upside.",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Hedge funds on CME flipped net long BTC futures. This is rare. The basis trade keeps them structurally short. That&apos;s why this chart&apos;s been red for years. You can&apos;t carry trade into a net long. The suits are betting on upside.",
       "pubDate": "Mon, 10 Aug 2026 05:20:14 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2086684024173727783#m",
       "keywords": [
@@ -1177,140 +1306,6 @@
       "pubDate": "Sun, 09 Aug 2026 12:55:33 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2086436220872052901#m",
       "keywords": []
-    },
-    {
-      "id": "rektcapital__Sun, 09 Aug 2026 12:15:35 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: You need it!!! This guy has a cryptoball he reads future price action in. Might as well save $100.",
-      "pubDate": "Sun, 09 Aug 2026 12:15:35 GMT",
-      "link": "https://nitter.net/JCCO9/status/2086426159881814366#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Sun, 09 Aug 2026 12:08:14 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,818 $BTC (118,073,243 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/947db418e9f304a1f5ef3013bff37d4df2f78e5427c09ca824bb8e46221bcf8c",
-      "pubDate": "Sun, 09 Aug 2026 12:08:14 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086424313951912384#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Sun, 09 Aug 2026 11:35:01 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin is forming Lower Highs here relative to the July upside wick In 2022, August actually developed a Higher High relative to the preceding July No matter the structure however, 4 years ago Bitcoin positioned itself for a bearish retest of the 50 Month EMA (purple) to reject and drop lower later Today as thing",
-      "pubDate": "Sun, 09 Aug 2026 11:35:01 GMT",
-      "link": "https://nitter.net/rektcapital/status/2086415952191639565#m",
-      "keywords": [
-        "약세장",
-        "약세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Sun, 09 Aug 2026 10:25:47 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC The Weekly Close is near and Bitcoin has only produced a +3% bounce from the orange level and is rejecting at the Lower Highs As a result, the idea of a weakening support at ~$63300 (orange) is still in play $BTC #Crypto #Bitcoin",
-      "pubDate": "Sun, 09 Aug 2026 10:25:47 GMT",
-      "link": "https://nitter.net/rektcapital/status/2086398530424328326#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Sun, 09 Aug 2026 09:55:28 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "The pre-order window for the new swing trading course closes tonight at midnight UTC After that, $297 becomes $397 Nine lessons on the full swing trading lifecycle, worked through in a week or two, and yours for life from launch day https://rektcapital.gumroad.com/l/crypto-swing-trading-course #BTC $BTC #Bitcoin",
-      "pubDate": "Sun, 09 Aug 2026 09:55:28 GMT",
-      "link": "https://nitter.net/rektcapital/status/2086390900293345627#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sun, 09 Aug 2026 06:21:23 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: The majority of miners, economic nodes, and exchanges continued with the non-fork. Miners can switch to any pool they want. One big pool even had them vote within the pool. Its not that miners are in control. The fork just didn’t have consensus.",
-      "pubDate": "Sun, 09 Aug 2026 06:21:23 GMT",
-      "link": "https://nitter.net/LynAldenContact/status/2086337023757951141#m",
-      "keywords": [
-        "Miner Flow"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sun, 09 Aug 2026 06:19:27 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Correct, and also they were extremely unwilling or unable to put serious capital behind it. No fork futures or prediction markets with real volume, which in turn showed miners that this was not a serious thing.",
-      "pubDate": "Sun, 09 Aug 2026 06:19:27 GMT",
-      "link": "https://nitter.net/stephanlivera/status/2086336537759998438#m",
-      "keywords": [
-        "Miner Flow"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 08 Aug 2026 21:27:42 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Image",
-      "pubDate": "Sat, 08 Aug 2026 21:27:42 GMT",
-      "link": "https://nitter.net/LynAldenContact/status/2086202719715389619#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sat, 08 Aug 2026 19:24:17 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "I for one. Am shocked. Who could have seen this coming ?!?!",
-      "pubDate": "Sat, 08 Aug 2026 19:24:17 GMT",
-      "link": "https://nitter.net/JSeyff/status/2086171661582102840#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sat, 08 Aug 2026 15:44:10 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: It’s fork day. With negligible support from BTC miners for BIP110, it looks like the plan is a last minute Proof of Work (PoW) change to “fire the miners”. New PoW, new asset, new ticker. What shall we name this new shitcoin? Drop your best ideas below 👇",
-      "pubDate": "Sat, 08 Aug 2026 15:44:10 GMT",
-      "link": "https://nitter.net/DylanLeClair/status/2086116267035857025#m",
-      "keywords": [
-        "Miner Flow",
-        "지지선",
-        "TA",
-        "BTC"
-      ]
     }
   ]
 }
