@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-08-10T19:05:38.928Z",
+  "updatedAt": "2026-08-11T02:11:52.190Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 11 Aug 2026 01:18:08 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "As #oil prices rose, trader 0x0000&apos;s $BRENTOIL short was fully liquidated, losing $1.33M. https://hyperbot.network/trader/0x00004808a6df8de77c891dc13826ff33cb17e24d",
+      "pubDate": "Tue, 11 Aug 2026 01:18:08 GMT",
+      "link": "https://nitter.net/lookonchain/status/2086985486170734739#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 11 Aug 2026 00:14:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 172,027,740 $USDC (172,066,274 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x7d25dc30c2bcdc982fd7ed7513c8a2f3846a2e446f62c1284142707e1c3ca7a4",
+      "pubDate": "Tue, 11 Aug 2026 00:14:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086969470359077072#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 23:34:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 172,000,000 $USDC (172,037,926 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x2a7eeecf4469890ccfe559d7ee50d6d5f48b20828485d87ba17ff1451ac9d37b",
+      "pubDate": "Mon, 10 Aug 2026 23:34:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086959278179450981#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Mon, 10 Aug 2026 22:34:53 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "Question for LN folks who use @PhoenixWallet. I recently issued an invoice generated in Pheonix which was paid by sender using Wallet of Satoshi. Sender has confirmed preimage for payment, but I have not received. I have sufficient inbound liquidity + other LN payments have arrived. Any ideas on how to identify where f",
+      "pubDate": "Mon, 10 Aug 2026 22:34:53 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2086944401813868905#m",
+      "keywords": [
+        "유동성",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 21:21:40 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 1,145 $BTC (73,455,636 USD) transferred from #OKEX to unknown wallet https://whale-alert.io/tx/bitcoin/55158cc2c6ad13529a4d575fba9546fef7b319d2c20abdc1dad9efcfa168892d",
+      "pubDate": "Mon, 10 Aug 2026 21:21:40 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086925974327693359#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 20:16:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 1,037 $BTC (66,492,683 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/b1619c9430ca34ce379264460574111f47df55bd23f4c3393f2710c405720e37",
+      "pubDate": "Mon, 10 Aug 2026 20:16:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086909596921184538#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 10 Aug 2026 20:13:00 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Here’s the clip of Mitchnick talking about the in-kind conversion size coming down to $1mil and “hopefully one day accessible at any size”",
+      "pubDate": "Mon, 10 Aug 2026 20:13:00 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2086908694625739139#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 20:00:34 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 913 $BTC (58,505,944 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/9b5cb4e2f5862eb44410af0d1c2426e06f77c0ab8cd81571a31fc236615ca9e8",
+      "pubDate": "Mon, 10 Aug 2026 20:00:34 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086905567059083327#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 10 Aug 2026 19:56:26 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "New filing from a new issuer “KICK” never heard of them. AI and space theme ETFs.",
+      "pubDate": "Mon, 10 Aug 2026 19:56:26 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2086904527773474847#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 10 Aug 2026 19:02:19 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,066,124 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/3d4ib6wYVeY6Q37XxSdqivURFBcrMtqmBw5MaDM4RSDcCpHGk9J9wh2bFiy5sbgC52svhi3yLwwVPZ76f5sVgL2C",
+      "pubDate": "Mon, 10 Aug 2026 19:02:19 GMT",
+      "link": "https://nitter.net/whale_alert/status/2086890907911983516#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "rektcapital__Mon, 10 Aug 2026 18:40:00 GMT",
       "handle": "rektcapital",
@@ -10,6 +146,19 @@
       "text": "Data science metrics for #BTC suggest that Bitcoin has only grazed the very surface of \"undervalued territory\" But if history suggests Bitcoin can become more of a bargain over the next couple of months $BTC #Crypto #Bitcoin",
       "pubDate": "Mon, 10 Aug 2026 18:40:00 GMT",
       "link": "https://nitter.net/rektcapital/status/2086885289822154866#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Mon, 10 Aug 2026 18:31:38 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "RT by @EricBalchunas: JUST IN: Bitcoin is shifting from OGs to institutions and professionals, according to @EricBalchunas. \"The ownership of Bitcoin is changing. What happens now? We&apos;ll see.\"",
+      "pubDate": "Mon, 10 Aug 2026 18:31:38 GMT",
+      "link": "https://nitter.net/BitcoinArchive/status/2086883184109572360#m",
       "keywords": [
         "BTC"
       ]
@@ -55,6 +204,19 @@
       "keywords": [
         "ETF 수급",
         "분배",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Mon, 10 Aug 2026 17:48:54 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Today, Bitcoin Policy Institute and a broad coalition from across the digital-asset ecosystem are publishing an open letter calling on the world’s leading AI labs to provide qualified open-source defenders with trusted access to frontier AI models. The past several weeks have made the need for this abund",
+      "pubDate": "Mon, 10 Aug 2026 17:48:54 GMT",
+      "link": "https://nitter.net/bitcoinpolicy/status/2086872430639771675#m",
+      "keywords": [
         "BTC"
       ]
     },
@@ -1113,99 +1275,6 @@
       ]
     },
     {
-      "id": "lookonchain__Sun, 09 Aug 2026 01:18:27 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A mysterious whale is opening a 20x long on 500K $SOL($22.78M). A newly created wallet deposited 8.43M $USDC and placed a TWAP order to long 500K $SOL ($22.78M). So far, 199,838 $SOL ($15.2M) has been filled. https://hypurrscan.io/address/0x9c6a5b4662c722d2c47f43d6c9813cb080ffa4ed#perps",
-      "pubDate": "Sun, 09 Aug 2026 01:18:27 GMT",
-      "link": "https://nitter.net/lookonchain/status/2086260789418373473#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Sun, 09 Aug 2026 01:10:16 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A mysterious whale (possibly a miner) has deposited 6,494 $BTC($420.5M) to #Binance over the past 3 weeks. https://arkm.com/explorer/address/bc1qsylwjhesm58uw9vsp7vwgadq5fqna4e3e8qnpd",
-      "pubDate": "Sun, 09 Aug 2026 01:10:16 GMT",
-      "link": "https://nitter.net/lookonchain/status/2086258729926955226#m",
-      "keywords": [
-        "Miner Flow",
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Sun, 09 Aug 2026 00:56:45 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "An #Ethereum ICO participant \"0x6A53\" just deposited 0.1 $ETH to #Coinbase after 11 years of dormancy. He invested only $620 in the ICO and received 2,000 $ETH — now worth $3.83M, a 6,184x return! https://etherscan.io/address/0x6a53d41ae4a752b21abed5374649953a513de5e5?amt=0.01%7E999999999",
-      "pubDate": "Sun, 09 Aug 2026 00:56:45 GMT",
-      "link": "https://nitter.net/lookonchain/status/2086255326064689337#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Sun, 09 Aug 2026 00:49:00 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💤 A dormant pre-mine address containing 2,000 $ETH (3,837,294 USD) has just been activated after 11.0 years (worth 620 USD in 2015)! https://whale-alert.io/tx/ethereum/0xb4968b5ffc9772241d23b4e8e741616cd531a3a1fbc0178fae5381c3a19b5a3c",
-      "pubDate": "Sun, 09 Aug 2026 00:49:00 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086253377118159247#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 09 Aug 2026 00:11:00 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 174,527,700 $USDC (174,548,556 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x7c697d2fab951444e6428cc3c20cd9894bdf1dad3e38fee271d7593c335a23c4",
-      "pubDate": "Sun, 09 Aug 2026 00:11:00 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086243813845037360#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sat, 08 Aug 2026 23:33:35 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 174,500,000 $USDC (174,521,201 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xd4aba9550f45019a8220f4488ca95f7f12b52830aeb0a30ffdd87b4cc37bc0fc",
-      "pubDate": "Sat, 08 Aug 2026 23:33:35 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086234397557002472#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sat, 08 Aug 2026 22:21:47 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "As someone who gets gas in both NJ (where attendant has to pump it for you) and PA (DIY) I’m here to tell you it’s better to pump your own. That is all.",
-      "pubDate": "Sat, 08 Aug 2026 22:21:47 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2086216329980252231#m",
-      "keywords": []
-    },
-    {
       "id": "JSeyff__Sat, 08 Aug 2026 21:27:42 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -1215,21 +1284,6 @@
       "pubDate": "Sat, 08 Aug 2026 21:27:42 GMT",
       "link": "https://nitter.net/LynAldenContact/status/2086202719715389619#m",
       "keywords": []
-    },
-    {
-      "id": "whale_alert__Sat, 08 Aug 2026 21:15:34 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,818 $BTC (118,303,551 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/302c915a07dd4d917d7360fda844b9442251196b1b183e18b62d491770867783",
-      "pubDate": "Sat, 08 Aug 2026 21:15:34 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086199666106839507#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
     },
     {
       "id": "JSeyff__Sat, 08 Aug 2026 19:24:17 GMT",
@@ -1256,60 +1310,6 @@
         "지지선",
         "TA",
         "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 08 Aug 2026 13:32:49 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: This week&apos;s ETF buzz... https://theetfeducator.com/2026/08/08/etf-buzz-321/ (table via @EricBalchunas & @JSeyff)",
-      "pubDate": "Sat, 08 Aug 2026 13:32:49 GMT",
-      "link": "https://nitter.net/NateGeraci/status/2086083211877032000#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 08 Aug 2026 12:15:06 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: The bitcoin ETFs just clocked their best week in flows (about $1b) since April and the 3rd best week since the good ole days were ruined by the Silent IPO last Oct. IBIT, FBTC and few others saw inflows every single day since Coldcard hack, making it hard not to see causation in the correlation. Would be",
-      "pubDate": "Sat, 08 Aug 2026 12:15:06 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2086063650343673909#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Sat, 08 Aug 2026 08:10:34 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC Regardless of whether measured from cycle bottom-to-bottom (blue), or from cycle top-to-bottom (yellow) the date for the next bottom, IF it holds true again, will be around Oct 6, 2026. BOTH measurements line up around Oct 6, 2026. Fascinating, if nothing else. Note that the pattern does not hold prior to 2015. Th",
-      "pubDate": "Sat, 08 Aug 2026 08:10:34 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2086002113285419327#m",
-      "keywords": [
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "JSeyff__Sat, 08 Aug 2026 02:49:31 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "How do I help support or fund this effort ?",
-      "pubDate": "Sat, 08 Aug 2026 02:49:31 GMT",
-      "link": "https://nitter.net/JSeyff/status/2085921317774041552#m",
-      "keywords": [
-        "지지선",
-        "TA"
       ]
     }
   ]
