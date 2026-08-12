@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-12T02:29:35.808Z",
+  "updatedAt": "2026-08-12T07:42:15.073Z",
   "items": [
+    {
+      "id": "lookonchain__Wed, 12 Aug 2026 04:50:13 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Metaplanet (@Metaplanet) transferred a total of 3,881 $BTC ($247.3M) over the past 3 hours. Metaplanet bought a total of 43,000 $BTC at an average price of $96,191 and is currently sitting on a loss of $1.4B(-34%). https://arkm.com/explorer/entity/metaplanet-2",
+      "pubDate": "Wed, 12 Aug 2026 04:50:13 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087401246789611742#m",
+      "keywords": []
+    },
+    {
+      "id": "_Checkmatey___Wed, 12 Aug 2026 04:30:42 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "It&apos;s going to be a very cold shower once the spammers start relentlessly spamming the LuckCashJr chain. Ironically, they actually solved it...by halting block production post fork. Launching this altcoin, will only prove the cat and mouse game is futile. Lessons to be learned.",
+      "pubDate": "Wed, 12 Aug 2026 04:30:42 GMT",
+      "link": "https://nitter.net/_Checkmatey_/status/2087396335016374513#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 12 Aug 2026 03:07:22 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "MetaPlanet(@Metaplanet) transferred out 1,473 $BTC($93.82M) 1 hour ago. Hut 8(@Hut8Corp) also transferred out 493 $BTC($31.36M) 3 hours ago. https://arkm.com/explorer/entity/metaplanet-2 https://arkm.com/explorer/entity/hut-8",
+      "pubDate": "Wed, 12 Aug 2026 03:07:22 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087375362196213968#m",
+      "keywords": []
+    },
     {
       "id": "ki_young_ju__Wed, 12 Aug 2026 01:59:03 GMT",
       "handle": "ki_young_ju",
@@ -1252,50 +1285,6 @@
       "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,000 $BTC (129,829,683 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/bitcoin/13ea49827fc5f932d623a1ff76659af8f90e3e7a88df523fd1bf5546c8f4a38e",
       "pubDate": "Mon, 10 Aug 2026 13:25:44 GMT",
       "link": "https://nitter.net/whale_alert/status/2086806203707887720#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 10 Aug 2026 13:25:11 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "$BTC has stabilised near $65k, with stronger taker demand, robust institutional inflows and easing downside hedging. However, subdued spot liquidity and weak on-chain activity suggest the recovery remains tentative. Read this week’s Market Pulse👇 https://glassno.de/4qdPR3G",
-      "pubDate": "Mon, 10 Aug 2026 13:25:11 GMT",
-      "link": "https://nitter.net/glassnode/status/2086806065690128540#m",
-      "keywords": [
-        "기관 수급",
-        "유동성"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 13:01:42 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 1,999 $BTC (129,784,568 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/62cddbe345b40fc8ad14d90ab8f6fd8ed26ee49b4c96b8469002f0d494c94d7a",
-      "pubDate": "Mon, 10 Aug 2026 13:01:42 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086800156876271905#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 13:00:34 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,803 $BTC (117,039,914 USD) transferred from unknown wallet to #Kraken https://whale-alert.io/tx/bitcoin/008adfe1806de0e09b83e9d8fc2b632094087d93bf71a023340a2772bc9750fd",
-      "pubDate": "Mon, 10 Aug 2026 13:00:34 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086799870338240604#m",
       "keywords": [
         "고래",
         "Whale",
