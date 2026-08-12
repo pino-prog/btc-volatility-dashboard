@@ -1,6 +1,205 @@
 {
-  "updatedAt": "2026-08-11T19:11:35.247Z",
+  "updatedAt": "2026-08-12T02:29:35.808Z",
   "items": [
+    {
+      "id": "ki_young_ju__Wed, 12 Aug 2026 01:59:03 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "The stars haven&apos;t aligned for a Bitcoin bull run just yet.",
+      "pubDate": "Wed, 12 Aug 2026 01:59:03 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087358167755931982#m",
+      "keywords": [
+        "강세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 12 Aug 2026 01:58:38 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "BTC bears keep adding to their shorts! The 4 gamblers now hold a combined short position of 5,375 $BTC ($343M). Liquidation prices: $64,101.12, $64,576.56, $66,006.80, and $66,030.04.",
+      "pubDate": "Wed, 12 Aug 2026 01:58:38 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087358065989517380#m",
+      "keywords": [
+        "청산",
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 12 Aug 2026 01:47:17 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Live Chart 👇 https://cryptoquant.com/analytics/query/69e909d46aae2d16bb46e9df?v=69e909d46aae2d16bb46e9e3&img=link%2F6a7bcf4fba40632a95c81e7e.png",
+      "pubDate": "Wed, 12 Aug 2026 01:47:17 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087355207844003931#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Wed, 12 Aug 2026 01:47:16 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin is futures-driven right now. Open interest is rising, while on-chain spot demand remains net negative. A sustainable rally needs both spot and futures demand. As April showed, futures-led rallies tend to fade without spot support.",
+      "pubDate": "Wed, 12 Aug 2026 01:47:16 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087355205012877816#m",
+      "keywords": [
+        "OI",
+        "미결제약정",
+        "지지선",
+        "TA"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 12 Aug 2026 00:45:24 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "An #Ethereum ICO participant \"0xB749\" transferred all 2,680 $ETH($5.04M) to new wallets after being dormant for 11+ years. He invested only $831 in the ICO and received 2,680 $ETH — now worth $5.04M, a 6,068x return! https://etherscan.io/address/0xb749b54e04d5b19bdcedfb84da7701ab478c27ae?amt=0.001%7E999999999",
+      "pubDate": "Wed, 12 Aug 2026 00:45:24 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087339633697083556#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Wed, 12 Aug 2026 00:11:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 192,296,323 $USDC (192,430,931 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x7f9c75c11d3c93440886c950889934ae2a3c7a508948c756860a75e44cce53a3",
+      "pubDate": "Wed, 12 Aug 2026 00:11:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2087331126624813371#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 11 Aug 2026 23:34:40 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 192,268,654 $USDC (192,307,108 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x74ea22c93bec4acda68c12fd81c311d1cd555753bc065846c3abac9237de3b79",
+      "pubDate": "Tue, 11 Aug 2026 23:34:40 GMT",
+      "link": "https://nitter.net/whale_alert/status/2087321833779445807#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "_Checkmatey___Tue, 11 Aug 2026 22:35:45 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: \"Finding the floor\" a rough set of slides tracing the search that led to the rarity meter, coinflow, extended cointime, and bedrock frameworks and models http://floor.bitview.space",
+      "pubDate": "Tue, 11 Aug 2026 22:35:45 GMT",
+      "link": "https://nitter.net/_nym21_/status/2087307005425852894#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 11 Aug 2026 21:42:17 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Interesting: the SEC poised to roll out a pair of major initiatives in the coming days that could further turbocharge the US crypto industry as a landmark digital asset bill stalls in Congress. Scoop via @pattersonscott",
+      "pubDate": "Tue, 11 Aug 2026 21:42:17 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087293553714044957#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Tue, 11 Aug 2026 21:42:17 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Interesting: the SEC poised to roll out a pair of major initiatives in the coming days that could further turbocharge the US crypto industry as a landmark digital asset bill stalls in Congress. Scoop via @pattersonscott",
+      "pubDate": "Tue, 11 Aug 2026 21:42:17 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087293553714044957#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Tue, 11 Aug 2026 21:13:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💤 A dormant pre-mine address containing 2,680 $ETH (5,048,222 USD) has just been activated after 11.0 years (worth 830 USD in 2015)! https://whale-alert.io/tx/ethereum/0x8d7f4886b2978c163fa0a8b742b2da8e90008e614162ad1864bda1108848b356",
+      "pubDate": "Tue, 11 Aug 2026 21:13:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2087286288764239903#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 11 Aug 2026 20:00:39 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Here&apos;s the whole piece: https://www.bloomberg.com/features/2026-tax-alpha-tax-loss-harvesting/?srnd=undefined",
+      "pubDate": "Tue, 11 Aug 2026 20:00:39 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087267975812333950#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 11 Aug 2026 20:00:22 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: This is a good anecdote for anyone considering direct indexing. Read this and tell me it isnt way easier to VOO & Chill",
+      "pubDate": "Tue, 11 Aug 2026 20:00:22 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087267905796784565#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 11 Aug 2026 19:57:53 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "TIKTOK DISCOVERS TAX LOSS HARVESTING: “The internet loves the tools that felt reserved for the ultrawealthy that they now have access to,” said Nicholas Crown, a money manager and finfluencer with more than 2 mil TikTok followers. On one video, he walks down a city street in tinted sunglasses, explaining to clients how",
+      "pubDate": "Tue, 11 Aug 2026 19:57:53 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087267279813689742#m",
+      "keywords": [
+        "LTH 보유자"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Tue, 11 Aug 2026 19:40:18 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: There&apos;s also garbage companies for those looking for Anti-AI plays",
+      "pubDate": "Tue, 11 Aug 2026 19:40:18 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087262855041098037#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Tue, 11 Aug 2026 19:38:12 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "AI companies now make up 58% of the S&P 500&apos;s risk (volatility) despite accounting for 35% of the weight, with both those numbers up a ton in past 5yrs, according to new note from @DavidCohne. He concludes equal weighting is poss solution (that is if you are worried, I&apos;m not) as AI wgt in eq wgt index is just",
+      "pubDate": "Tue, 11 Aug 2026 19:38:12 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087262325157790177#m",
+      "keywords": []
+    },
     {
       "id": "rektcapital__Tue, 11 Aug 2026 18:12:37 GMT",
       "handle": "rektcapital",
@@ -809,12 +1008,12 @@
       ]
     },
     {
-      "id": "EricBalchunas__Mon, 10 Aug 2026 16:43:04 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
+      "id": "JSeyff__Mon, 10 Aug 2026 16:43:04 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
       "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Interesting: Robbie Mitchnick said on show just now that bitcoiners can do in-kind exchanges of btc for IBIT for $1mil minimum now. It used to be $25mil.",
+      "color": "lime",
+      "text": "RT by @JSeyff: Interesting: Robbie Mitchnick said on show just now that bitcoiners can do in-kind exchanges of btc for IBIT for $1mil minimum now. It used to be $25mil.",
       "pubDate": "Mon, 10 Aug 2026 16:43:04 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2086855864955048157#m",
       "keywords": [
@@ -822,12 +1021,12 @@
       ]
     },
     {
-      "id": "JSeyff__Mon, 10 Aug 2026 16:43:04 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
+      "id": "EricBalchunas__Mon, 10 Aug 2026 16:43:04 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
       "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Interesting: Robbie Mitchnick said on show just now that bitcoiners can do in-kind exchanges of btc for IBIT for $1mil minimum now. It used to be $25mil.",
+      "color": "emerald",
+      "text": "Interesting: Robbie Mitchnick said on show just now that bitcoiners can do in-kind exchanges of btc for IBIT for $1mil minimum now. It used to be $25mil.",
       "pubDate": "Mon, 10 Aug 2026 16:43:04 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2086855864955048157#m",
       "keywords": [
@@ -1102,219 +1301,6 @@
         "Whale",
         "BTC"
       ]
-    },
-    {
-      "id": "lookonchain__Mon, 10 Aug 2026 12:09:36 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Michael Saylor&apos;s @Strategy sold another 1,690 $BTC($108.6M) last week! Over the past 6 weeks, #Strategy has sold a total of 6,916 $BTC ($429.35M). https://www.sec.gov/ix?doc=/Archives/edgar/data/0001050446/000119312526341297/mstr-20260810.htm",
-      "pubDate": "Mon, 10 Aug 2026 12:09:36 GMT",
-      "link": "https://nitter.net/lookonchain/status/2086787041866793161#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 11:40:04 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,803 $BTC (117,352,064 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/c13a0ae2720ea149056084e100993d8677000851245f7394ae568f0293e0c9cf",
-      "pubDate": "Mon, 10 Aug 2026 11:40:04 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086779612961382843#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 10 Aug 2026 11:31:47 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: This is the issuer historical mkt share small cap value ETFs + MFs. Just a total takeover in 6yrs flat.",
-      "pubDate": "Mon, 10 Aug 2026 11:31:47 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2086777526748065950#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 10 Aug 2026 11:27:23 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Wrote today about $AVUV, a phenom small cap value ETF that has put down seemingly imposs returns and became the top cash-intaker among all 232 small cap ETFs over 1yr, 3yr, 5yr. To pull in $20b as an active small value fund in the Mag 7 Passive Era is remarkable feat. I don&apos;t think anyone could have called it. It ",
-      "pubDate": "Mon, 10 Aug 2026 11:27:23 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2086776419493830853#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 10 Aug 2026 11:19:19 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Odd to me for an ex-actor to be so obsessed with this. Has similar vibe as Ferris Bueller’s sister in the first 4/5 of the movie when her whole identity is busting her brother, before she meets Charlie Sheen who tells her \"sounds like your problem is you\"",
-      "pubDate": "Mon, 10 Aug 2026 11:19:19 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2086774391413559642#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 10 Aug 2026 11:13:54 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Roundhill has another potential smash on their hands with the new Photonics ETF $LYTE it did $76m Day One and $103m Day Two, crazy for a new launch, but esp theme launch. Price up 5% in 2days. Now whether this converts into the flowmageddon we saw with $DRAM (which is 3rd in 3mo cash intake after VOO, IVV) is yet to be",
-      "pubDate": "Mon, 10 Aug 2026 11:13:54 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2086773027807637875#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 10:49:40 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 1,009 $BTC (65,615,932 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/93118b02bcbbcaad8a1934772077dfce3dbf50ccff755bd7a9ea111b4d3e5058",
-      "pubDate": "Mon, 10 Aug 2026 10:49:40 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086766927511265357#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 10 Aug 2026 10:46:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin: Above 10K BTC Accumulation Nearly Doubles March Peak Ahead of U.S. CPI and PPI “The largest BTC balance cohort is increasing exposure while smaller holders are reducing it.” – By @AmrT_Heisenberg Full post ⤵️ https://cryptoquant.com/insights/quicktake/6a794a91ba40632a95c81b92-Bitcoin-Above-10K-BTC-Accumulation",
-      "pubDate": "Mon, 10 Aug 2026 10:46:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2086766004118667737#m",
-      "keywords": [
-        "매집",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 10:37:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,880,750 USD) transferred from Tether Treasury to #Binance https://whale-alert.io/tx/tron/cf55bec7c9df8521500a0727f9ad9f854c1b616037afc1423387779c906211b5",
-      "pubDate": "Mon, 10 Aug 2026 10:37:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086763822770004377#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 09:56:55 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,590,250 USD) transferred from #Binance to Tether Treasury https://whale-alert.io/tx/ethereum/0x0f39fe27feed4fe7727e3424ec9a413bff9e453123e5edb11ab373ad113bc332",
-      "pubDate": "Mon, 10 Aug 2026 09:56:55 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086753652367032707#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 10 Aug 2026 09:26:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @STASolutions1: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a798da1baa35667d559b36b-Top-pattern-ahead-next-sell-off-soon?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=stasolutions",
-      "pubDate": "Mon, 10 Aug 2026 09:26:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2086745871144935696#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 09:25:09 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,889,999 USD) transferred from Tether Treasury to #Binance https://whale-alert.io/tx/tron/35dbb9d06330ccdbf113485e5ea5a161e389464b314ec727614de60e7c7dd8e6",
-      "pubDate": "Mon, 10 Aug 2026 09:25:09 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086745659604865202#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 10 Aug 2026 09:22:54 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Top Pattern Ahead - Next Sell-Off Soon “Despite remaining upside, risk predominates. Lack of trend strength means upward moves can collapse anytime. Higher price highs are forming lower MACD highs → clear bearish divergence.” – By @STASolutions1",
-      "pubDate": "Mon, 10 Aug 2026 09:22:54 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2086745093533286866#m",
-      "keywords": [
-        "약세장",
-        "약세 신호"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 10 Aug 2026 09:14:23 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Bitcoin mining company @MARA sold a total of 23,093 $BTC($1.6B) in the first half of 2026 at an average price of $70,631. MARA still holds 35,577 $BTC ($2.3B). https://ir.mara.com/sec-filings/all-sec-filings/content/0001507605-26-000022/mara-20260630.htm",
-      "pubDate": "Mon, 10 Aug 2026 09:14:23 GMT",
-      "link": "https://nitter.net/lookonchain/status/2086742949409526141#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 10 Aug 2026 09:07:55 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 500,000,000 $USDT (499,852,500 USD) transferred from #Binance to Tether Treasury https://whale-alert.io/tx/ethereum/0x614a1e748f9ee713ff237fafdee15e6e5700df4b4e2fedff421b23d126bb0132",
-      "pubDate": "Mon, 10 Aug 2026 09:07:55 GMT",
-      "link": "https://nitter.net/whale_alert/status/2086741321142636886#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 10 Aug 2026 08:37:31 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "TUT surged 10x after listing on @Aster_DEX. Over the past 8 hours, a trader deposited $240K into #Aster and opened a 2x long on 968,742 $TUT($165K). https://www.asterdex.com/en/explorer/address/0x562C72C8f706B2a4031f4D144602e14d396406C7",
-      "pubDate": "Mon, 10 Aug 2026 08:37:31 GMT",
-      "link": "https://nitter.net/lookonchain/status/2086733671760072958#m",
-      "keywords": []
     }
   ]
 }
