@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-08-13T02:31:41.015Z",
+  "updatedAt": "2026-08-13T07:44:11.511Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Thu, 13 Aug 2026 07:31:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @Darkfost_Coc: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a7d6ed5ba40632a95c81f99-Why-a-shrinking-STH-supply-signals-opportunity?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=darkfost",
+      "pubDate": "Thu, 13 Aug 2026 07:31:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2087804094169678278#m",
+      "keywords": [
+        "STH 보유자"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Thu, 13 Aug 2026 07:27:31 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Why a Shrinking STH Supply Signals Opportunity “Today this balance is reaching a negative extreme, whch is a positive sign.” – By @Darkfost_Coc",
+      "pubDate": "Thu, 13 Aug 2026 07:27:31 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2087803219883721124#m",
+      "keywords": [
+        "STH 보유자"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Thu, 13 Aug 2026 07:10:49 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Dashboard Link 👇 https://cryptoquant.com/community/dashboard/657c175d21681e353193aaad?e=6a7d5a07e5be6a24c891256f",
+      "pubDate": "Thu, 13 Aug 2026 07:10:49 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087799015668879543#m",
+      "keywords": []
+    },
+    {
+      "id": "ki_young_ju__Thu, 13 Aug 2026 07:10:48 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "R to @ki_young_ju: Similar spikes in market buy ratios have recently appeared on OKX and other exchanges. That could be a sign some OG traders are positioning bullish here. This should not be read as a definitive bottom signal, but it serves as a useful gauge of OG trader sentiment.",
+      "pubDate": "Thu, 13 Aug 2026 07:10:48 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087799013219377281#m",
+      "keywords": [
+        "강세장",
+        "강세 신호"
+      ]
+    },
+    {
+      "id": "ki_young_ju__Thu, 13 Aug 2026 07:10:45 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "Bitcoin OG traders just had their most profitable cycle ever. Unlike past cycles, crypto exchange traders were not the exit liquidity. ETFs and DATs were. That structural bid pushed Binance traders&apos; unrealized profits to nearly triple the 2021 top. 🧵",
+      "pubDate": "Thu, 13 Aug 2026 07:10:45 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087798998845526488#m",
+      "keywords": [
+        "ETF 수급",
+        "BTC 사이클",
+        "유동성",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 13 Aug 2026 05:15:41 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This guy bought 1,768 $BTC ($131.91M) at $74,603 before the bull run, but missed the best time to sell. At the peak, he was sitting on $91M in unrealized profit. Now, he&apos;s down $19.7M. He now seems to be giving up, depositing 114 $BTC($7.24M) into #Kraken, likely to sell. https://arkm.com/explorer/address/bc1qwxrg",
+      "pubDate": "Thu, 13 Aug 2026 05:15:41 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087770041039425613#m",
+      "keywords": [
+        "강세장"
+      ]
+    },
+    {
+      "id": "whale_alert__Thu, 13 Aug 2026 04:41:05 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 50,000,000 $XRP (50,535,135 USD) transferred from #Ripple to unknown wallet https://whale-alert.io/tx/ripple/EC136031555E4C32440BA4B010D331C5A943E549F7795E646B9F7254191682D0",
+      "pubDate": "Thu, 13 Aug 2026 04:41:05 GMT",
+      "link": "https://nitter.net/whale_alert/status/2087761335417258481#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 13 Aug 2026 03:58:41 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Gambler 0x66f8 keeps adding to his $BTC short, which has now grown to 2,136 $BTC($136M), making him the largest on-chain $BTC bear. Liquidation price: $64,592.3 https://hypurrscan.io/address/0x66f889094739dbb7d20aa60f645acd88feba75a9#perps",
+      "pubDate": "Thu, 13 Aug 2026 03:58:41 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087750666110509107#m",
+      "keywords": [
+        "청산",
+        "약세장"
+      ]
+    },
+    {
+      "id": "lookonchain__Thu, 13 Aug 2026 03:53:43 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Address poisoning is everywhere. Always double-check the wallet address before sending funds, and never copy an address from your transaction history. Another victim copied a wallet address from the transaction history and sent funds without double-checking, losing $100K! https://etherscan.io/address/0x9b4ded0ab7754428",
+      "pubDate": "Thu, 13 Aug 2026 03:53:43 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087749414995759528#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Thu, 13 Aug 2026 03:12:29 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Another gambler spotted! Someone created a new wallet, deposited $153K into Hyperliquid, and opened a 40x long on 97.92 $BTC($6.22M). Liquidation price: $62,825.14. https://hypurrscan.io/address/0x14699342d2ae17449f73ea679c77474afd49401e#perps",
+      "pubDate": "Thu, 13 Aug 2026 03:12:29 GMT",
+      "link": "https://nitter.net/lookonchain/status/2087739036681302383#m",
+      "keywords": [
+        "청산"
+      ]
+    },
     {
       "id": "lookonchain__Thu, 13 Aug 2026 02:11:56 GMT",
       "handle": "lookonchain",
@@ -832,12 +964,12 @@
       "keywords": []
     },
     {
-      "id": "cryptoquant_com__Wed, 12 Aug 2026 01:47:16 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
+      "id": "ki_young_ju__Wed, 12 Aug 2026 01:47:16 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
       "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Bitcoin is futures-driven right now. Open interest is rising, while on-chain spot demand remains net negative. A sustainable rally needs both spot and futures demand. As April showed, futures-led rallies tend to fade without spot support.",
+      "color": "sky",
+      "text": "Bitcoin is futures-driven right now. Open interest is rising, while on-chain spot demand remains net negative. A sustainable rally needs both spot and futures demand. As April showed, futures-led rallies tend to fade without spot support.",
       "pubDate": "Wed, 12 Aug 2026 01:47:16 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2087355205012877816#m",
       "keywords": [
@@ -848,12 +980,12 @@
       ]
     },
     {
-      "id": "ki_young_ju__Wed, 12 Aug 2026 01:47:16 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
+      "id": "cryptoquant_com__Wed, 12 Aug 2026 01:47:16 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
       "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin is futures-driven right now. Open interest is rising, while on-chain spot demand remains net negative. A sustainable rally needs both spot and futures demand. As April showed, futures-led rallies tend to fade without spot support.",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Bitcoin is futures-driven right now. Open interest is rising, while on-chain spot demand remains net negative. A sustainable rally needs both spot and futures demand. As April showed, futures-led rallies tend to fade without spot support.",
       "pubDate": "Wed, 12 Aug 2026 01:47:16 GMT",
       "link": "https://nitter.net/ki_young_ju/status/2087355205012877816#m",
       "keywords": [
@@ -1144,147 +1276,6 @@
       "text": "R to @ArabxChain: Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a7b28cce5be6a24c891239a-Binance-Bitcoin-Reserves-Surge-to-Their-Highest-Level-in-Six-Months?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=arab-chain",
       "pubDate": "Tue, 11 Aug 2026 14:16:00 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2087181240461893679#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 11 Aug 2026 14:12:04 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Binance Bitcoin Reserves Surge to Their Highest Level in Six Months “Binance&apos;s reserves reaching their highest level since February represents a significant shift compared with periods of lower Bitcoin supply on the platform.” – By @ArabxChain",
-      "pubDate": "Tue, 11 Aug 2026 14:12:04 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2087180252564906376#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Tue, 11 Aug 2026 13:57:40 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Good extra info on the \"in-kind conversions\" of bitcoin for ETF shares. Yes, you don&apos;t realize gains but you do carry your basis, so it&apos;s merely deferral, not dodge. And yes, it works the other way: ETF for btc. And yes, it is something that works w Grantor Trust, not open end fund (which is wh",
-      "pubDate": "Tue, 11 Aug 2026 13:57:40 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087176625481818584#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 11 Aug 2026 13:57:40 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Good extra info on the \"in-kind conversions\" of bitcoin for ETF shares. Yes, you don&apos;t realize gains but you do carry your basis, so it&apos;s merely deferral, not dodge. And yes, it works the other way: ETF for btc. And yes, it is something that works w Grantor Trust, not open end fund (which is why you can&apos;",
-      "pubDate": "Tue, 11 Aug 2026 13:57:40 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087176625481818584#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Tue, 11 Aug 2026 13:37:36 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: A mere 0.7% of $BTC miner revenue comes from transaction fees, and has been sub 1% for almost a year. Bitcoin was below $400 the last time fee share was this low. Security budget funded almost exclusively by block subsidy.",
-      "pubDate": "Tue, 11 Aug 2026 13:37:36 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2087171576013713695#m",
-      "keywords": [
-        "Miner Flow",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 11 Aug 2026 13:19:54 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 812 $BTC (52,266,830 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/06b92f9d0dbd85dcf68bc8262151cae0e4121511a281f450e1d44bcee3d58a8a",
-      "pubDate": "Tue, 11 Aug 2026 13:19:54 GMT",
-      "link": "https://nitter.net/whale_alert/status/2087167124003233932#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Tue, 11 Aug 2026 12:28:22 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Sixers at Knicks is kicking off the NBA season this year. If that isn&apos;t must-see TV, I don&apos;t know what is. I&apos;ve got a good feeling about this, and that isn&apos;t always the case with philly teams.",
-      "pubDate": "Tue, 11 Aug 2026 12:28:22 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087154152287719827#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Tue, 11 Aug 2026 12:14:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,000 $BTC (128,874,173 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/763fa5aaf61b99d761edd19309f17aaaa1c84e608feb7bdfbfbd82f57c945c40",
-      "pubDate": "Tue, 11 Aug 2026 12:14:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2087150623607144533#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 11 Aug 2026 12:13:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,000 $BTC (128,874,173 USD) transferred from #Kraken to unknown wallet https://whale-alert.io/tx/bitcoin/86a675e9370571957735e0a8f20ed2479b04f34dc9fc8fdf27c1c1c56df138ff",
-      "pubDate": "Tue, 11 Aug 2026 12:13:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2087150367570034706#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 11 Aug 2026 11:59:29 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 806 $BTC (51,935,877 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/1d3439dcf80e1f61e09735299b4d4331c4a7f6bc4131d72fbf8a26e7594f2a2b",
-      "pubDate": "Tue, 11 Aug 2026 11:59:29 GMT",
-      "link": "https://nitter.net/whale_alert/status/2087146887505653903#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Tue, 11 Aug 2026 11:51:26 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Over the last 90 days the S&P 500 rose 5% while Bitcoin fell 20%. The last 7 days show the same pattern. Until Bitcoin reclaims strength against the indices, this remains an equity-led tape. Notably, the NASDAQ is lagging behind other major indices indicating an unfavorable environment for tech-heavy portfolios. https:",
-      "pubDate": "Tue, 11 Aug 2026 11:51:26 GMT",
-      "link": "https://nitter.net/glassnode/status/2087144858779816255#m",
       "keywords": [
         "BTC"
       ]
