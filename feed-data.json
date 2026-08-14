@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-14T02:29:38.462Z",
+  "updatedAt": "2026-08-14T07:41:46.545Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Fri, 14 Aug 2026 07:33:16 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Why Bitcoin Failed to Rally After CPI and PPI “This creates an imbalance: weak spot buying, thin liquidity, and elevated leveraged positions. When positive macro news fails to lift price, leveraged longs can begin to unwind.” – By @xwinfinance",
+      "pubDate": "Fri, 14 Aug 2026 07:33:16 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2088167052234129587#m",
+      "keywords": [
+        "유동성",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Fri, 14 Aug 2026 02:10:22 GMT",
       "handle": "lookonchain",
@@ -1256,20 +1270,6 @@
       "link": "https://nitter.net/EricBalchunas/status/2087511205493522621#m",
       "keywords": [
         "ETF 수급"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Wed, 12 Aug 2026 11:56:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Ethereum: Fee Compression and Stablecoin Outflows “This mix of low network velocity and stablecoin contraction creates conditions that have historically preceded extended ranging and structural rebalancing.” – By @CryptoOnchain Complete analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a7b7c08baa35667d559b59f-Eth",
-      "pubDate": "Wed, 12 Aug 2026 11:56:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2087508395670532559#m",
-      "keywords": [
-        "스테이블코인",
-        "SSR"
       ]
     }
   ]
