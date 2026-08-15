@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-14T19:03:31.434Z",
+  "updatedAt": "2026-08-15T01:40:31.748Z",
   "verificationSummary": {
     "confirmed": 29,
-    "unconfirmed": 7,
+    "unconfirmed": 8,
     "mismatched": 7
   },
   "events": [
@@ -469,6 +469,26 @@
       "autoFetched": true
     },
     {
+      "id": "earnings-AAPL-2026-10-29",
+      "date": "2026-10-29",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "애플 (AAPL) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "세계 시총 1위 기술주. AI 기능 확장·아이폰 수요가 나스닥 방향성을 결정. (단일 소스 — 공식 IR 확인 권장)",
+      "bull": "EPS 상회 + AI 서비스 성장 → 나스닥 강세 → BTC 간접 수혜",
+      "bear": "아이폰 판매 둔화 → 기술주 조정 → 위험자산 약세",
+      "confirmed": false,
+      "sources": [
+        "AlphaVantage"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
       "id": "fomc-2026-12-09",
       "date": "2026-12-09",
       "time": "14:00",
@@ -503,6 +523,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -886,6 +907,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1649,6 +1671,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1693,6 +1716,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2434,6 +2458,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2817,6 +2842,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2861,6 +2887,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",

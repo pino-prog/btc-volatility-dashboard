@@ -1,6 +1,159 @@
 {
-  "updatedAt": "2026-08-14T19:03:01.677Z",
+  "updatedAt": "2026-08-15T01:39:56.637Z",
   "items": [
+    {
+      "id": "lookonchain__Sat, 15 Aug 2026 01:26:23 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Fund Monetalis appears to have sold $UNI and bought $HYPE. Wallets linked to #Monetalis sold 3.72M $UNI($13M) through Cumberland, then bought 171,543 $HYPE($9.56M). https://arkm.com/explorer/address/0x5eE84D30c7EE57F63f71c92247Ff31f95E26916B",
+      "pubDate": "Sat, 15 Aug 2026 01:26:23 GMT",
+      "link": "https://nitter.net/lookonchain/status/2088437112853139688#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sat, 15 Aug 2026 00:11:10 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 176,027,728 $USDC (176,067,246 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x3937961f285393c3a78f03c2fbb838b540d31d3444b261a25302965e742874bb",
+      "pubDate": "Sat, 15 Aug 2026 00:11:10 GMT",
+      "link": "https://nitter.net/whale_alert/status/2088418183958896676#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 14 Aug 2026 23:37:05 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 176,000,000 $USDC (176,158,399 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xc8d0c6b99e4dd3166ddd1072ec1c4138062a4d05f9a83f101fd782459794a076",
+      "pubDate": "Fri, 14 Aug 2026 23:37:05 GMT",
+      "link": "https://nitter.net/whale_alert/status/2088409605655171272#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Fri, 14 Aug 2026 22:54:45 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Image",
+      "pubDate": "Fri, 14 Aug 2026 22:54:45 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2088398953066697128#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Fri, 14 Aug 2026 22:43:06 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "R to @EricBalchunas: Just out today, feels related:",
+      "pubDate": "Fri, 14 Aug 2026 22:43:06 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2088396020358987965#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Fri, 14 Aug 2026 22:38:16 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "New filing for NHL hockey ETFs from VolShares, which will track the performance of 32 dif teams (eg the Boston Bruins ETF) which will be based on how the team does (eg wins, losses in reg season and playoffs) using a special team index calc that has futures contract on it. Wow. Good catch from Jeff who has some more de",
+      "pubDate": "Fri, 14 Aug 2026 22:38:16 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2088394803033846027#m",
+      "keywords": [
+        "ETF 수급",
+        "BOS",
+        "구조 전환"
+      ]
+    },
+    {
+      "id": "JSeyff__Fri, 14 Aug 2026 22:15:12 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @VolShares: These are based on this partnership. Wen NFL and MLB and MLS ??? https://futuresports.com/press/nhl-partnership",
+      "pubDate": "Fri, 14 Aug 2026 22:15:12 GMT",
+      "link": "https://nitter.net/JSeyff/status/2088388999907820002#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Fri, 14 Aug 2026 22:13:40 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "WOW: Volatility shares @VolShares just filed an ETF for every NHL team... have to assume they are gonna file for NFL and MLB teams next?",
+      "pubDate": "Fri, 14 Aug 2026 22:13:40 GMT",
+      "link": "https://nitter.net/JSeyff/status/2088388613968900257#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "whale_alert__Fri, 14 Aug 2026 20:32:52 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,081,249 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/5bFXVBbdF9XVZzHK8rZPwkFfbrYHAjMNUBuvfESmbgMQ1XNVfvR3nUqGnfw719dKz7V2KG3MQbUqvP5aQJ1dSP1E",
+      "pubDate": "Fri, 14 Aug 2026 20:32:52 GMT",
+      "link": "https://nitter.net/whale_alert/status/2088363247560806704#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Fri, 14 Aug 2026 20:32:24 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC Looks like it wants to break lower to me. Lower highs since June 14 and sitting on the edge of a head-and-shoulders pattern that could break down. I think it’s only a matter of time.",
+      "pubDate": "Fri, 14 Aug 2026 20:32:24 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088363129172361296#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Fri, 14 Aug 2026 19:55:29 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 994 $BTC (62,609,888 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/5f67a51f4a870fa33302ab921ab9fa44812ebece74f4325827ac618eaabb441e",
+      "pubDate": "Fri, 14 Aug 2026 19:55:29 GMT",
+      "link": "https://nitter.net/whale_alert/status/2088353839443268028#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Fri, 14 Aug 2026 19:42:58 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "Bull market things",
+      "pubDate": "Fri, 14 Aug 2026 19:42:58 GMT",
+      "link": "https://nitter.net/JSeyff/status/2088350690569531878#m",
+      "keywords": [
+        "강세장"
+      ]
+    },
     {
       "id": "rektcapital__Fri, 14 Aug 2026 15:55:31 GMT",
       "handle": "rektcapital",
@@ -532,12 +685,12 @@
       ]
     },
     {
-      "id": "EricBalchunas__Thu, 13 Aug 2026 17:50:38 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
+      "id": "JSeyff__Thu, 13 Aug 2026 17:50:38 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
       "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "NEW filing for five ETFs from Silvia, @APompliano&apos;s co: 1. Anti-Money Printer ETF (bitcoin, gold, land, guns) 2. Bitcoin Treasury mNAV Discount ETF 3. Jensen Interview ETF (holds cos that Jensen Huang mentions in intvs over past 30days) 4. Elon Must ETF (holds Tesla, spaceX and 15% in a private Elon co) 5. Best Id",
+      "color": "lime",
+      "text": "RT by @JSeyff: NEW filing for five ETFs from Silvia, @APompliano&apos;s co: 1. Anti-Money Printer ETF (bitcoin, gold, land, guns) 2. Bitcoin Treasury mNAV Discount ETF 3. Jensen Interview ETF (holds cos that Jensen Huang mentions in intvs over past 30days) 4. Elon Must ETF (holds Tesla, spaceX and 15% in a private Elon",
       "pubDate": "Thu, 13 Aug 2026 17:50:38 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2087960030440050807#m",
       "keywords": [
@@ -546,12 +699,12 @@
       ]
     },
     {
-      "id": "JSeyff__Thu, 13 Aug 2026 17:50:38 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
+      "id": "EricBalchunas__Thu, 13 Aug 2026 17:50:38 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
       "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: NEW filing for five ETFs from Silvia, @APompliano&apos;s co: 1. Anti-Money Printer ETF (bitcoin, gold, land, guns) 2. Bitcoin Treasury mNAV Discount ETF 3. Jensen Interview ETF (holds cos that Jensen Huang mentions in intvs over past 30days) 4. Elon Must ETF (holds Tesla, spaceX and 15% in a private Elon",
+      "color": "emerald",
+      "text": "NEW filing for five ETFs from Silvia, @APompliano&apos;s co: 1. Anti-Money Printer ETF (bitcoin, gold, land, guns) 2. Bitcoin Treasury mNAV Discount ETF 3. Jensen Interview ETF (holds cos that Jensen Huang mentions in intvs over past 30days) 4. Elon Must ETF (holds Tesla, spaceX and 15% in a private Elon co) 5. Best Id",
       "pubDate": "Thu, 13 Aug 2026 17:50:38 GMT",
       "link": "https://nitter.net/EricBalchunas/status/2087960030440050807#m",
       "keywords": [
@@ -1104,153 +1257,6 @@
       "keywords": [
         "고래",
         "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 13 Aug 2026 01:09:58 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Insane! More than $50M has been stolen from whale \"TLBL\". Two years ago, whale \"TLBL\" lost $24M in a phishing attack. Today, the whale appears to have had its private key compromised, and over $26M in assets across 3 wallets were completely drained. https://arkm.com/explorer/entity/18cb9dda-9b16-481d-a2e1-997f2856ac83",
-      "pubDate": "Thu, 13 Aug 2026 01:09:58 GMT",
-      "link": "https://nitter.net/lookonchain/status/2087708203677274283#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 13 Aug 2026 00:15:36 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: After 200 years, American Privateers are back. “The American private sector is the most innovative and technologically advanced in the world, and its scale, speed, and capacity secure a critical offensive cyber advantage for the United States.” Security is about to be restored.",
-      "pubDate": "Thu, 13 Aug 2026 00:15:36 GMT",
-      "link": "https://nitter.net/perkinscr97/status/2087694525145780646#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Thu, 13 Aug 2026 00:12:00 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 176,527,688 $USDC (176,577,469 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x3dbf41c049c28c9efd26048fd38bc387b304d654a36998ac4e206c0d7f52384e",
-      "pubDate": "Thu, 13 Aug 2026 00:12:00 GMT",
-      "link": "https://nitter.net/whale_alert/status/2087693617179549733#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Wed, 12 Aug 2026 23:34:40 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 176,500,000 $USDC (176,458,234 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x2d1384d7ea8fbb448b0378a2dc7ce02f2fe9cb519ebfc8adcbed567a83d23f1f",
-      "pubDate": "Wed, 12 Aug 2026 23:34:40 GMT",
-      "link": "https://nitter.net/whale_alert/status/2087684221758292448#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Wed, 12 Aug 2026 21:48:38 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: It&apos;s time to move on from the spam debate",
-      "pubDate": "Wed, 12 Aug 2026 21:48:38 GMT",
-      "link": "https://nitter.net/Nneuman/status/2087657539123196237#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Wed, 12 Aug 2026 21:43:24 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "R to @rektcapital: I share price analysis on Bitcoin and Altcoins every Monday, Wednesday & Friday in my newsletter 88,000+ people read it for practical guidance to better understand and navigate the Crypto market in real-time Join for free here: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
-      "pubDate": "Wed, 12 Aug 2026 21:43:24 GMT",
-      "link": "https://nitter.net/rektcapital/status/2087656222925222191#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Wed, 12 Aug 2026 21:36:55 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "These damn phishing attempts. I get so many of these texts and calls and they’re all BS. I don’t even have a http://crypto.com account. Can we really not do something about these spam calls and texts ??? We need a proof of work system to send text messages from unknown #’s",
-      "pubDate": "Wed, 12 Aug 2026 21:36:55 GMT",
-      "link": "https://nitter.net/JSeyff/status/2087654587423453483#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Wed, 12 Aug 2026 20:51:38 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Periodic reminder: sports betting is a negative sum game in a closed system where your probability of gain decreases over time. Investing in stocks and bonds is a positive sum game driven by endogenous economic growth where your probability of gain increases over time. Negative sum games should NEVER be ",
-      "pubDate": "Wed, 12 Aug 2026 20:51:38 GMT",
-      "link": "https://nitter.net/cullenroche/status/2087643191529148901#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 12 Aug 2026 20:33:09 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Roundhill just filed for a Samsung Group ETF, which will hold the member companies in the Samsung family, which I don&apos;t believe are currently available to US investors via ADRs.",
-      "pubDate": "Wed, 12 Aug 2026 20:33:09 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087638539982770307#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Wed, 12 Aug 2026 20:25:44 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Which way, Gen Z?",
-      "pubDate": "Wed, 12 Aug 2026 20:25:44 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087636675883094430#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Wed, 12 Aug 2026 20:00:21 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "R to @JSeyff: here&apos;s the link for anyone who wants it. NGL It took me multiple re-reads to understand the legalese and regulatory stuff. I swear sometimes it feels like its written in a different language when it comes to rules, laws, regulations and legal docs lol https://www.sec.gov/rules-regulations/no-action-i",
-      "pubDate": "Wed, 12 Aug 2026 20:00:21 GMT",
-      "link": "https://nitter.net/JSeyff/status/2087630285546414162#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Wed, 12 Aug 2026 19:58:41 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: NEW: @FTI_US just got a no action letter from the SEC relating to their OnChain government money market fund. Essentially it opens the door for Franklin’s registered funds (mutual funds, ETFs etc) to hold its OnChain fund despite not technically satisfying 1940 act custody rules",
-      "pubDate": "Wed, 12 Aug 2026 19:58:41 GMT",
-      "link": "https://nitter.net/JSeyff/status/2087629868309659876#m",
-      "keywords": [
-        "ETF 수급"
       ]
     }
   ]
