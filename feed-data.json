@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-15T01:39:56.637Z",
+  "updatedAt": "2026-08-15T06:49:44.524Z",
   "items": [
+    {
+      "id": "lookonchain__Sat, 15 Aug 2026 02:20:56 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Pumpfu(@Pumpfun) unlocked another 4.85B $PUMP($13.6M) to 124 today.",
+      "pubDate": "Sat, 15 Aug 2026 02:20:56 GMT",
+      "link": "https://nitter.net/lookonchain/status/2088450839455342673#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sat, 15 Aug 2026 01:26:23 GMT",
       "handle": "lookonchain",
@@ -11,6 +22,19 @@
       "pubDate": "Sat, 15 Aug 2026 01:26:23 GMT",
       "link": "https://nitter.net/lookonchain/status/2088437112853139688#m",
       "keywords": []
+    },
+    {
+      "id": "JSeyff__Sat, 15 Aug 2026 01:10:04 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: Pretty soon you’ll be able to buy an ETF that goes up every time your favorite hockey team scores. h/t @JSeyff @Todd_Sohn",
+      "pubDate": "Sat, 15 Aug 2026 01:10:04 GMT",
+      "link": "https://nitter.net/sumitroy2/status/2088433007569055867#m",
+      "keywords": [
+        "ETF 수급"
+      ]
     },
     {
       "id": "whale_alert__Sat, 15 Aug 2026 00:11:10 GMT",
@@ -1181,83 +1205,53 @@
       ]
     },
     {
-      "id": "lookonchain__Thu, 13 Aug 2026 05:15:41 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This guy bought 1,768 $BTC ($131.91M) at $74,603 before the bull run, but missed the best time to sell. At the peak, he was sitting on $91M in unrealized profit. Now, he&apos;s down $19.7M. He now seems to be giving up, depositing 114 $BTC($7.24M) into #Kraken, likely to sell. https://arkm.com/explorer/address/bc1qwxrg",
-      "pubDate": "Thu, 13 Aug 2026 05:15:41 GMT",
-      "link": "https://nitter.net/lookonchain/status/2087770041039425613#m",
-      "keywords": [
-        "강세장"
-      ]
-    },
-    {
-      "id": "whale_alert__Thu, 13 Aug 2026 04:41:05 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 50,000,000 $XRP (50,535,135 USD) transferred from #Ripple to unknown wallet https://whale-alert.io/tx/ripple/EC136031555E4C32440BA4B010D331C5A943E549F7795E646B9F7254191682D0",
-      "pubDate": "Thu, 13 Aug 2026 04:41:05 GMT",
-      "link": "https://nitter.net/whale_alert/status/2087761335417258481#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 13 Aug 2026 03:58:41 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Gambler 0x66f8 keeps adding to his $BTC short, which has now grown to 2,136 $BTC($136M), making him the largest on-chain $BTC bear. Liquidation price: $64,592.3 https://hypurrscan.io/address/0x66f889094739dbb7d20aa60f645acd88feba75a9#perps",
-      "pubDate": "Thu, 13 Aug 2026 03:58:41 GMT",
-      "link": "https://nitter.net/lookonchain/status/2087750666110509107#m",
-      "keywords": [
-        "청산",
-        "약세장"
-      ]
-    },
-    {
-      "id": "lookonchain__Thu, 13 Aug 2026 03:53:43 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Address poisoning is everywhere. Always double-check the wallet address before sending funds, and never copy an address from your transaction history. Another victim copied a wallet address from the transaction history and sent funds without double-checking, losing $100K! https://etherscan.io/address/0x9b4ded0ab7754428",
-      "pubDate": "Thu, 13 Aug 2026 03:53:43 GMT",
-      "link": "https://nitter.net/lookonchain/status/2087749414995759528#m",
+      "id": "_Checkmatey___Wed, 12 Aug 2026 21:48:38 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: It&apos;s time to move on from the spam debate",
+      "pubDate": "Wed, 12 Aug 2026 21:48:38 GMT",
+      "link": "https://nitter.net/Nneuman/status/2087657539123196237#m",
       "keywords": []
     },
     {
-      "id": "lookonchain__Thu, 13 Aug 2026 03:12:29 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Another gambler spotted! Someone created a new wallet, deposited $153K into Hyperliquid, and opened a 40x long on 97.92 $BTC($6.22M). Liquidation price: $62,825.14. https://hypurrscan.io/address/0x14699342d2ae17449f73ea679c77474afd49401e#perps",
-      "pubDate": "Thu, 13 Aug 2026 03:12:29 GMT",
-      "link": "https://nitter.net/lookonchain/status/2087739036681302383#m",
+      "id": "EricBalchunas__Wed, 12 Aug 2026 19:15:14 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Gen Z is moving money from stocks to sports betting in wealth plans, 52% of them have redirected inv funds to sports betting and quarter of them treat sports betting as a deliberate part of their long-term financial plan, according to survey from Betterment. Wow.",
+      "pubDate": "Wed, 12 Aug 2026 19:15:14 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2087618932597305457#m",
       "keywords": [
-        "청산"
+        "LTH 보유자"
       ]
     },
     {
-      "id": "lookonchain__Thu, 13 Aug 2026 02:11:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The Paxos-linked whale sold another 800 $BTC($50.72M) through Wintermute 8 hours ago. Over the past 2 months, the whale has sold a total of 2,500 $BTC ($154M). https://arkm.com/explorer/address/bc1pdwyk4jvgp4js2jdxty842tzrmdu6ugvw7wqxctsqsnhneexscwcs2ucvfx",
-      "pubDate": "Thu, 13 Aug 2026 02:11:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2087723797491351935#m",
+      "id": "glassnode__Wed, 12 Aug 2026 17:05:38 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Sellers are tiring but buyers are absent. However, leverage traders have already pulled the trigger on a recovery the data does not yet support. The market is coiled tightly between converging cost-basis levels on the quietest tape since 2019.",
+      "pubDate": "Wed, 12 Aug 2026 17:05:38 GMT",
+      "link": "https://nitter.net/glassnode/status/2087586319983882446#m",
       "keywords": [
-        "고래",
-        "Whale"
+        "지지선",
+        "TA"
       ]
+    },
+    {
+      "id": "ki_young_ju__Wed, 12 Aug 2026 09:14:00 GMT",
+      "handle": "ki_young_ju",
+      "label": "Ki Young Ju",
+      "category": "온체인/파생상품",
+      "color": "sky",
+      "text": "🟥⬛🟥🟩🟥⬛🟥⬛🟥🟥⬛🟥⬛🟥🟥⬛⬛🟥⬛🟥🟥⬛⬛⬛🟥🟥🟥🟥⬛🟥🟥⬛🟥🟥⬛🟥⬛🟥⬛🟥🟥🟥⬛⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥🟥🟥⬛🟥🟥⬛🟥🟥🟥⬛🟥🟥🟩🟥🟥🟥⬛🟥🟥⬛🟥🟥⬛🟥🟥🟥⬛🟥⬛🟥⬛🟥🟥⬛🟥🟥🟥🟥⬛🟥🟥🟥⬛🟥🟥🟥⬛⬛🟥🟥🟥🟥⬛⬛🟥🟥🟥⬛⬛🟥⬛🟥🟥⬛🟥🟥🟥🟥⬛⬛⬛🟥🟥⬛🟥🟥🟥⬛⬛🟥⬛🟥🟥⬛🟥🟥",
+      "pubDate": "Wed, 12 Aug 2026 09:14:00 GMT",
+      "link": "https://nitter.net/ki_young_ju/status/2087467628797522384#m",
+      "keywords": []
     }
   ]
 }
