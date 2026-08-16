@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-16T01:46:46.815Z",
+  "updatedAt": "2026-08-16T06:51:22.223Z",
   "items": [
+    {
+      "id": "JSeyff__Sun, 16 Aug 2026 04:28:46 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "This is actually insane",
+      "pubDate": "Sun, 16 Aug 2026 04:28:46 GMT",
+      "link": "https://nitter.net/JSeyff/status/2088845397380767866#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Sun, 16 Aug 2026 00:26:54 GMT",
       "handle": "lookonchain",
@@ -863,20 +874,6 @@
       "keywords": [
         "유동성",
         "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 14 Aug 2026 02:10:22 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This whale, who held 2.93M $HYPE($163.37M), is selling $HYPE again! 2 weeks ago, he sold 1.03M $HYPE ($57.44M). 1 hour ago, he sold another 923,743 $HYPE($53.02M). He still holds 969,595 $HYPE ($55.5M).",
-      "pubDate": "Fri, 14 Aug 2026 02:10:22 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088085793407742442#m",
-      "keywords": [
-        "고래",
-        "Whale"
       ]
     },
     {
