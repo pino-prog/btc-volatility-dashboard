@@ -1,6 +1,108 @@
 {
-  "updatedAt": "2026-08-15T18:38:31.073Z",
+  "updatedAt": "2026-08-16T01:46:46.815Z",
   "items": [
+    {
+      "id": "lookonchain__Sun, 16 Aug 2026 00:26:54 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "What can you do with $120? This guy made $205.8K with only $120, an 822x return! He spent $120 to buy 19.1M $牛来, then sold 9.1M $牛来 for $25.9K and still holds 10M $牛来 ($180.2K). Total profit: $205.8K. Wallet: 0x639cf6961b227d73fc4015380104249571c73da4",
+      "pubDate": "Sun, 16 Aug 2026 00:26:54 GMT",
+      "link": "https://nitter.net/lookonchain/status/2088784532556468667#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Sun, 16 Aug 2026 00:11:35 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 187,027,740 $USDC (187,084,316 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0xa2ebcd48abd0549bf554195de1041073afdb4748f37da192fdf1b95c8fb1c4b4",
+      "pubDate": "Sun, 16 Aug 2026 00:11:35 GMT",
+      "link": "https://nitter.net/whale_alert/status/2088780675881009387#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sat, 15 Aug 2026 23:34:50 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 187,000,000 $USDC (187,096,472 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xcab1ffeb3d275c3af1d3c399e0a14a183c172ea0d40455b7c39c33191f9c6a1d",
+      "pubDate": "Sat, 15 Aug 2026 23:34:50 GMT",
+      "link": "https://nitter.net/whale_alert/status/2088771427201679712#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sat, 15 Aug 2026 23:22:51 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "A tale of two skies.. snapped this today down in Miramar Beach Fla. There’s a stock market metaphor in here somewhere.",
+      "pubDate": "Sat, 15 Aug 2026 23:22:51 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2088768410951745794#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Sat, 15 Aug 2026 23:02:45 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @ColinTCrypto: $BTC may bottom (around October?) before stocks, since BTC has a higher beta to stocks. This is highly speculative, of course, and is just a rough sketch. But let&apos;s see if it&apos;s vaguely or directionally correct. :)",
+      "pubDate": "Sat, 15 Aug 2026 23:02:45 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088763354584109498#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 15 Aug 2026 22:53:38 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "S&P500 and $BTC Could see it playing out like this. The bull pennant breakout&apos;s target is the height of its flag pole (green arrow). This target is around 8,600 (that little gray box at the top). This could time with the Fed finally raising Rates (The next FOMC meeting is September 15–16, 2026), which may be aroun",
+      "pubDate": "Sat, 15 Aug 2026 22:53:38 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088761058009678173#m",
+      "keywords": [
+        "강세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 15 Aug 2026 22:13:45 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$SPCX @SpaceX Looks like it could have more downside. Recent clean rejection from the underside retest of key level ~149. Must break above this level to be bullish. We have some share unlocks coming (see below), which probably isn&apos;t bullish.",
+      "pubDate": "Sat, 15 Aug 2026 22:13:45 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088751022877401561#m",
+      "keywords": [
+        "강세장",
+        "강세 신호"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 15 Aug 2026 18:41:56 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @mrJackLevin: Follow-up. July 8, 2025 was when I made the above thread on $XEN. Here&apos;s how it&apos;s done since then:",
+      "pubDate": "Sat, 15 Aug 2026 18:41:56 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088697715047780361#m",
+      "keywords": []
+    },
     {
       "id": "glassnode__Sat, 15 Aug 2026 16:08:30 GMT",
       "handle": "glassnode",
@@ -39,6 +141,17 @@
       "keywords": [
         "BTC"
       ]
+    },
+    {
+      "id": "JSeyff__Sat, 15 Aug 2026 15:07:47 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: I&apos;ve been criticizing this behavior by the government for years, despite being a left-leaning moderate, because this was completely predictable, Kate. You don&apos;t get to pop your head up now and act like it is new or unique to the left. In fact, the ship may have already sailed. Why do I say that",
+      "pubDate": "Sat, 15 Aug 2026 15:07:47 GMT",
+      "link": "https://nitter.net/austincampbell/status/2088643824746713330#m",
+      "keywords": []
     },
     {
       "id": "rektcapital__Sat, 15 Aug 2026 14:57:00 GMT",
@@ -108,7 +221,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "Knowing when to sell is one thing Knowing when to buy when there is panic in the market - that&apos;s chart reading My free TA Blueprint teaches you both, from scratch Download for free here: https://rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: Knowing when to sell is one thing Knowing when to buy when there is panic in the market - that&apos;s chart reading My free TA Blueprint teaches you both, from scratch Download for free here: https://rektcapital.co.uk/free-technical-analysis-blueprint #BTC $BTC #Bitcoin",
       "pubDate": "Sat, 15 Aug 2026 12:26:34 GMT",
       "link": "https://nitter.net/rektcapital/status/2088603254103966195#m",
       "keywords": [
@@ -153,6 +266,17 @@
       ]
     },
     {
+      "id": "JSeyff__Sat, 15 Aug 2026 03:06:16 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: This number is nonsense and the researchers who made it up are aware it&apos;s nonsense because they&apos;ve had it explained to them that their methods are nonsense. I&apos;ve explained why, here: https://www.cremieux.xyz/p/against-attribution-studies",
+      "pubDate": "Sat, 15 Aug 2026 03:06:16 GMT",
+      "link": "https://nitter.net/cremieuxrecueil/status/2088462249094488555#m",
+      "keywords": []
+    },
+    {
       "id": "lookonchain__Sat, 15 Aug 2026 02:20:56 GMT",
       "handle": "lookonchain",
       "label": "Lookonchain",
@@ -161,6 +285,17 @@
       "text": "Pumpfu(@Pumpfun) unlocked another 4.85B $PUMP($13.6M) to 124 today.",
       "pubDate": "Sat, 15 Aug 2026 02:20:56 GMT",
       "link": "https://nitter.net/lookonchain/status/2088450839455342673#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Sat, 15 Aug 2026 01:40:11 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: I am losing my f—-ing mind",
+      "pubDate": "Sat, 15 Aug 2026 01:40:11 GMT",
+      "link": "https://nitter.net/LoganDobson/status/2088440583786266863#m",
       "keywords": []
     },
     {
@@ -745,107 +880,6 @@
       ]
     },
     {
-      "id": "lookonchain__Fri, 14 Aug 2026 00:41:22 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The largest on-chain $BTC bear, 0x66f8, has closed his 2,136 $BTC($136M) short, making a $1.65M profit. He then flipped long, opening a 40x long on 200.82 $BTC($12.74M).",
-      "pubDate": "Fri, 14 Aug 2026 00:41:22 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088063396784865498#m",
-      "keywords": [
-        "약세장"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 14 Aug 2026 00:35:30 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Insane! A whale has placed ~$203.47M worth of $SPCX limit short orders at $141.93–$142.90. https://hypurrscan.io/address/0x4e23288cee4960f9f962195c22948e4bc7ae20c3#orders",
-      "pubDate": "Fri, 14 Aug 2026 00:35:30 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088061920410841587#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Fri, 14 Aug 2026 00:18:35 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 175,027,684 $USDC (175,070,425 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x4192f918558f15a3374cda8405709c16a2e59c840d3d92c65f7fb6611cd2a696",
-      "pubDate": "Fri, 14 Aug 2026 00:18:35 GMT",
-      "link": "https://nitter.net/whale_alert/status/2088057661577171055#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Fri, 14 Aug 2026 00:06:39 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: Hot take on SEC abruptly cancelling tomorrow’s planned meeting on crypto… Perhaps certain influential Senators came to their senses and realized the SEC could & would move forward on crypto innovation with or w/out Congress. If so, would bode well for Clarity Act passing.",
-      "pubDate": "Fri, 14 Aug 2026 00:06:39 GMT",
-      "link": "https://nitter.net/NateGeraci/status/2088054657268523350#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Fri, 14 Aug 2026 00:00:55 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 175,000,000 $USDC (175,037,458 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xd6456a7b8056ca378dc14a8959c3da46d2d46a6f29ffcfb53a15fba16d5bec0c",
-      "pubDate": "Fri, 14 Aug 2026 00:00:55 GMT",
-      "link": "https://nitter.net/whale_alert/status/2088053215631753711#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 13 Aug 2026 21:37:08 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: 🚨NEW: New York State gubernatorial candidate Bruce Blakeman visits @PubKey and talks abolishing the BitLicense. “I think we have to get rid of it,” said Blakeman.",
-      "pubDate": "Thu, 13 Aug 2026 21:37:08 GMT",
-      "link": "https://nitter.net/frankcorva/status/2088017032868491587#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Thu, 13 Aug 2026 20:23:02 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "This chart of tech ETFs&apos; monthly volume is nuts. This is one of the big reasons overall ETF volume on pace to crush old record, despite market being up most of year. Some areas are over-contributing in big way. Tech ETFs normally make up 4-5% of total volume. This year it&apos;s 10%.",
-      "pubDate": "Thu, 13 Aug 2026 20:23:02 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087998385550680331#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 13 Aug 2026 20:01:26 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Fascinating.. Google&apos;s AI is creating a brutal Sophie&apos;s Choice for media outlets..",
-      "pubDate": "Thu, 13 Aug 2026 20:01:26 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087992949921505790#m",
-      "keywords": []
-    },
-    {
       "id": "cryptoquant_com__Thu, 13 Aug 2026 19:57:02 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -856,20 +890,6 @@
       "link": "https://nitter.net/JA_Maartun/status/2087991838829641766#m",
       "keywords": [
         "Miner Flow",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Thu, 13 Aug 2026 17:50:38 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: NEW filing for five ETFs from Silvia, @APompliano&apos;s co: 1. Anti-Money Printer ETF (bitcoin, gold, land, guns) 2. Bitcoin Treasury mNAV Discount ETF 3. Jensen Interview ETF (holds cos that Jensen Huang mentions in intvs over past 30days) 4. Elon Must ETF (holds Tesla, spaceX and 15% in a private Elon",
-      "pubDate": "Thu, 13 Aug 2026 17:50:38 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2087960030440050807#m",
-      "keywords": [
-        "ETF 수급",
         "BTC"
       ]
     },
@@ -947,17 +967,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "ColinTCrypto__Thu, 13 Aug 2026 08:33:47 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "This was correct. $BTC",
-      "pubDate": "Thu, 13 Aug 2026 08:33:47 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2087819893785739332#m",
-      "keywords": []
     },
     {
       "id": "_Checkmatey___Thu, 13 Aug 2026 08:27:51 GMT",
@@ -1115,28 +1124,6 @@
       "keywords": []
     },
     {
-      "id": "ColinTCrypto__Tue, 11 Aug 2026 02:24:32 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "This chart is a good reminder that even back in 2022 the price dropped *below* the previous all-time high. Right now, the price is just hovering around the previous all time high range— hasn’t even broken below it. Certainly could do so again, couldn’t it? Anyone who has ruled out another drop below the all-time high r",
-      "pubDate": "Tue, 11 Aug 2026 02:24:32 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2087002195057135780#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Mon, 10 Aug 2026 14:46:18 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: Epic phase 2 outcome for ABCL635!! We have ourselves a winner. This company is going to be worth tens of billions of dollars in the years to come. Very exciting news!",
-      "pubDate": "Mon, 10 Aug 2026 14:46:18 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2086826477492814285#m",
-      "keywords": []
-    },
-    {
       "id": "ki_young_ju__Mon, 10 Aug 2026 05:20:14 GMT",
       "handle": "ki_young_ju",
       "label": "Ki Young Ju",
@@ -1178,53 +1165,44 @@
       ]
     },
     {
-      "id": "ColinTCrypto__Sat, 08 Aug 2026 08:10:34 GMT",
+      "id": "ColinTCrypto__Wed, 03 Jun 2026 17:16:39 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
       "category": "기술적 분석",
       "color": "orange",
-      "text": "$BTC Regardless of whether measured from cycle bottom-to-bottom (blue), or from cycle top-to-bottom (yellow) the date for the next bottom, IF it holds true again, will be around Oct 6, 2026. BOTH measurements line up around Oct 6, 2026. Fascinating, if nothing else. Note that the pattern does not hold prior to 2015. Th",
-      "pubDate": "Sat, 08 Aug 2026 08:10:34 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2086002113285419327#m",
+      "text": "Pinned: 🔵 How to Buy the $BTC Bottom: 20%-25% below the 200-week moving average. All past Bitcoin bear markets have provided at least ONE entry into BTC at 25% below the 200-week MA. 00:00 Intro 00:38 BTC recap. Where it is today 02:47 Historical bear market drop percentages 10:51 Spontanous Rant: Colin&apos;s long-te",
+      "pubDate": "Wed, 03 Jun 2026 17:16:39 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2062221940056584411#m",
       "keywords": [
-        "BTC 사이클"
+        "강세장",
+        "약세장",
+        "강세 신호",
+        "BTC"
       ]
     },
     {
-      "id": "ColinTCrypto__Sat, 08 Aug 2026 01:31:26 GMT",
+      "id": "ColinTCrypto__Tue, 08 Jul 2025 15:58:45 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
       "category": "기술적 분석",
       "color": "orange",
-      "text": "R to @ColinTCrypto: 1 week later... $ABCL surges from $4.99 to $7.94, a 59% increase. ABCL635 Phase 2 results pushed forward from \"some time in September\" to August 10th (this Monday). The FOMO is palpable.",
-      "pubDate": "Sat, 08 Aug 2026 01:31:26 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2085901669674447016#m",
+      "text": "R to @ColinTCrypto: Here&apos;s the direct link to my post that @mrJackLevin hid, hoping no one would see it:",
+      "pubDate": "Tue, 08 Jul 2025 15:58:45 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/1942614339996860649#m",
       "keywords": []
     },
     {
-      "id": "ColinTCrypto__Thu, 06 Aug 2026 14:36:29 GMT",
+      "id": "ColinTCrypto__Tue, 08 Jul 2025 15:54:37 GMT",
       "handle": "ColinTCrypto",
       "label": "Colin",
       "category": "기술적 분석",
       "color": "orange",
-      "text": "Why do exchanges of ideas on X so often default to hostility, aggression, toxicity, or passive-aggression—especially from strangers with pseudonymous accounts? Simple discussion shouldn&apos;t be difficult. Opposing views can be shared without hostility, yet many here are frequently nasty. I enjoy discussing and engagi",
-      "pubDate": "Thu, 06 Aug 2026 14:36:29 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2085374458299072855#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Thu, 09 Jul 2026 18:51:24 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Just for the record I&apos;m bullish on AI-biotech company $ABCL (@AbCelleraBio) I&apos;m bullish because: - The company has incredible fundamentals that I think have been overlooked (meaning the company is undervalued imo). They&apos;ve been cooking on their tech and vertical integration, while critics wrongly dismiss",
-      "pubDate": "Thu, 09 Jul 2026 18:51:24 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2075291748352287079#m",
+      "text": "RE-POSTING THIS BECAUSE JACK LEVIN HID IT AND BLOCKED ME. Dear @mrJackLevin, I see you hinging all of your recent arguments on \"2023 is no longer valid\". The problem (and the thing you don&apos;t seem to get) is: people already invested money based on your early statements. The core issue is change to burn token alloca",
+      "pubDate": "Tue, 08 Jul 2025 15:54:37 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/1942613300836979031#m",
       "keywords": [
-        "ETF 수급",
-        "강세장",
-        "강세 신호"
+        "Funding Rate",
+        "분배"
       ]
     }
   ]
