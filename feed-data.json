@@ -1,6 +1,79 @@
 {
-  "updatedAt": "2026-08-17T01:44:54.066Z",
+  "updatedAt": "2026-08-17T07:07:47.399Z",
   "items": [
+    {
+      "id": "whale_alert__Mon, 17 Aug 2026 06:58:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,782 $BTC (176,987,590 USD) transferred from #Bitstamp to unknown wallet https://whale-alert.io/tx/bitcoin/ea313c632d28813249fc684c164b02a0601622cd49ca8e8116f7c390828a3f24",
+      "pubDate": "Mon, 17 Aug 2026 06:58:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089245591259811923#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 05:07:57 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "After $牛来 was listed on @Aster_DEX Perps, its price surged by over 150%. The 24-hour trading volume has reached $4.47M. https://www.asterdex.com/en/trade/pro/futures/%E7%89%9B%E6%9D%A5USDT",
+      "pubDate": "Mon, 17 Aug 2026 05:07:57 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089217649008148932#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 02:46:43 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "R to @lookonchain: 4/ He didn&apos;t rush to sell the rest. Instead, he sold little by little so he wouldn&apos;t miss out if $MARSCOIN kept going up. In the end, he sold the remaining 42.3M $MARSCOIN for 465 $BNB ($282K), making him the most profitable wallet on $MARSCOIN.",
+      "pubDate": "Mon, 17 Aug 2026 02:46:43 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089182102524944561#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 02:46:43 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "R to @lookonchain: 5/ Wallet: 0x30f10c14ecf2ca7850fcdbf6f5ec291c242da577",
+      "pubDate": "Mon, 17 Aug 2026 02:46:43 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089182105498792309#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 02:46:40 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This trader made $282K in just a few hours — a 29x return — by monitoring CZ&apos;s wallet! How did he do it? 1/ Here&apos;s his strategy.👇",
+      "pubDate": "Mon, 17 Aug 2026 02:46:40 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089182090369937727#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 01:59:30 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Meet a smart trader 0x0121. 4 months ago, he bought $ASTEROID at $126K MC and is now up 140x. Recently, he bought $牛来 below $750K MC and is now up 39x. 4 months ago, he spent 1.25 $ETH ($3K) to buy 10.05B $ASTEROID using 5 wallets, then sold 6.85B $ASTEROID for 90.95 $ETH($220K). He still holds 3.2B $ASTEROID($206K), w",
+      "pubDate": "Mon, 17 Aug 2026 01:59:30 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089170222205009993#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Mon, 17 Aug 2026 00:39:05 GMT",
       "handle": "lookonchain",
@@ -529,17 +602,6 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Sat, 15 Aug 2026 02:20:56 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Pumpfu(@Pumpfun) unlocked another 4.85B $PUMP($13.6M) to 124 today.",
-      "pubDate": "Sat, 15 Aug 2026 02:20:56 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088450839455342673#m",
-      "keywords": []
-    },
-    {
       "id": "JSeyff__Sat, 15 Aug 2026 01:40:11 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -548,17 +610,6 @@
       "text": "RT by @JSeyff: I am losing my f—-ing mind",
       "pubDate": "Sat, 15 Aug 2026 01:40:11 GMT",
       "link": "https://nitter.net/LoganDobson/status/2088440583786266863#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Sat, 15 Aug 2026 01:26:23 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Fund Monetalis appears to have sold $UNI and bought $HYPE. Wallets linked to #Monetalis sold 3.72M $UNI($13M) through Cumberland, then bought 171,543 $HYPE($9.56M). https://arkm.com/explorer/address/0x5eE84D30c7EE57F63f71c92247Ff31f95E26916B",
-      "pubDate": "Sat, 15 Aug 2026 01:26:23 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088437112853139688#m",
       "keywords": []
     },
     {
@@ -627,20 +678,6 @@
       ]
     },
     {
-      "id": "whale_alert__Fri, 14 Aug 2026 20:32:52 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,081,249 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/5bFXVBbdF9XVZzHK8rZPwkFfbrYHAjMNUBuvfESmbgMQ1XNVfvR3nUqGnfw719dKz7V2KG3MQbUqvP5aQJ1dSP1E",
-      "pubDate": "Fri, 14 Aug 2026 20:32:52 GMT",
-      "link": "https://nitter.net/whale_alert/status/2088363247560806704#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "rektcapital__Fri, 14 Aug 2026 15:55:31 GMT",
       "handle": "rektcapital",
       "label": "Rekt Capital",
@@ -693,43 +730,6 @@
       ]
     },
     {
-      "id": "glassnode__Fri, 14 Aug 2026 14:35:52 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: Wrap up: Overall, options markets are less defensive, but not complacent. Falling IV and skew point to reduced near-term fear, while concentrated gamma and strike activity suggest the $60K–$70K range remains the key battleground for the next directional move.",
-      "pubDate": "Fri, 14 Aug 2026 14:35:52 GMT",
-      "link": "https://nitter.net/glassnode/status/2088273402582712562#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Fri, 14 Aug 2026 14:35:51 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: GEX remains concentrated around spot, with negative gamma clustered through the low-$60Ks and positive gamma building closer to ~$70K. This leaves BTC vulnerable to sharper moves lower, while upside may encounter more stabilising dealer hedging. https://glassno.de/4gh93Zz",
-      "pubDate": "Fri, 14 Aug 2026 14:35:51 GMT",
-      "link": "https://nitter.net/glassnode/status/2088273399063715987#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 14 Aug 2026 14:35:48 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "bitcoin:native options remain subdued, with volatility and skew continuing to compress. But positioning beneath the surface is becoming more concentrated around key strikes, creating a clearer setup across the options complex. Here’s what the data shows👇",
-      "pubDate": "Fri, 14 Aug 2026 14:35:48 GMT",
-      "link": "https://nitter.net/glassnode/status/2088273389462954324#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "cryptoquant_com__Fri, 14 Aug 2026 14:33:04 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -741,33 +741,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "lookonchain__Fri, 14 Aug 2026 14:27:36 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "August 14 Update: #Bitcoin ETFs: 1D NetFlow: -2,015 $BTC(-$126.06M)🔴 7D NetFlow: -3,890 $BTC(-$243.38M)🔴 #Ethereum ETFs: 1D NetFlow: -277 $ETH(-$517.08K)🔴 7D NetFlow: +22,908 $ETH(+$42.74M)🟢",
-      "pubDate": "Fri, 14 Aug 2026 14:27:36 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088271322925461725#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 14 Aug 2026 12:32:21 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: #ETH Seller Exhaustion at the lowest in a decade. Realized vol in the bottom 3% of history, and over 60% of supply underwater. Bottoms get built out of conditions like this: seller side is emptying, the bid still needs to show up.",
-      "pubDate": "Fri, 14 Aug 2026 12:32:21 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2088242322341245321#m",
-      "keywords": []
     },
     {
       "id": "cryptoquant_com__Fri, 14 Aug 2026 11:32:00 GMT",
@@ -796,21 +769,6 @@
       "link": "https://nitter.net/cryptoquant_com/status/2088199449252159794#m",
       "keywords": [
         "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Fri, 14 Aug 2026 09:31:53 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "ICYMI: $BTC futures OI has climbed past a full day of futures volume, just shy of last September&apos;s record. Plenty of positions, thin turnover. On a tape this thin, liquidations meet little resistance in either direction.",
-      "pubDate": "Fri, 14 Aug 2026 09:31:53 GMT",
-      "link": "https://nitter.net/glassnode/status/2088196902630101050#m",
-      "keywords": [
-        "청산",
-        "저항선",
-        "TA"
       ]
     },
     {
@@ -1071,47 +1029,6 @@
       "link": "https://nitter.net/LynAldenContact/status/2086337023757951141#m",
       "keywords": [
         "Miner Flow"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 03 Jun 2026 17:16:39 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Pinned: 🔵 How to Buy the $BTC Bottom: 20%-25% below the 200-week moving average. All past Bitcoin bear markets have provided at least ONE entry into BTC at 25% below the 200-week MA. 00:00 Intro 00:38 BTC recap. Where it is today 02:47 Historical bear market drop percentages 10:51 Spontanous Rant: Colin&apos;s long-te",
-      "pubDate": "Wed, 03 Jun 2026 17:16:39 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2062221940056584411#m",
-      "keywords": [
-        "강세장",
-        "약세장",
-        "강세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Tue, 08 Jul 2025 15:58:45 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: Here&apos;s the direct link to my post that @mrJackLevin hid, hoping no one would see it:",
-      "pubDate": "Tue, 08 Jul 2025 15:58:45 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/1942614339996860649#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Tue, 08 Jul 2025 15:54:37 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RE-POSTING THIS BECAUSE JACK LEVIN HID IT AND BLOCKED ME. Dear @mrJackLevin, I see you hinging all of your recent arguments on \"2023 is no longer valid\". The problem (and the thing you don&apos;t seem to get) is: people already invested money based on your early statements. The core issue is change to burn token alloca",
-      "pubDate": "Tue, 08 Jul 2025 15:54:37 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/1942613300836979031#m",
-      "keywords": [
-        "Funding Rate",
-        "분배"
       ]
     }
   ]
