@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-08-17T12:56:45.871Z",
+  "updatedAt": "2026-08-17T18:49:23.901Z",
   "items": [
+    {
+      "id": "JSeyff__Mon, 17 Aug 2026 15:38:41 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: bloomberg.com/live/us",
+      "pubDate": "Mon, 17 Aug 2026 15:38:41 GMT",
+      "link": "https://nitter.net/JSeyff/status/2089376375018762734#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Mon, 17 Aug 2026 15:38:21 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "From 12-1 I’m subbing in for @EricBalchunas on BBG’s ETFIQ. @scarletfu and I will be talking to @Todd_Sohn. We’ll be looking at $FFF — founders ETF. @neil_sipes4 will be on to talk about the Goldman NEOS deal. We’ll be looking at $OMAH & talking white labels w/ @TeucriumETFs",
+      "pubDate": "Mon, 17 Aug 2026 15:38:21 GMT",
+      "link": "https://nitter.net/JSeyff/status/2089376291854143826#m",
+      "keywords": [
+        "ETF 수급"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 15:04:21 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "This dumb money bought back 1,674 $ETH ($3.19M) at a high price of $1,906 again. This guy is always selling low and buying high. Two months ago, he still had 1,891 $ETH. Now he has only 1,674 $ETH, losing 217 $ETH ($414K) through swing trading. Sometimes, just holding is better than trading blindly. https://debank.com/",
+      "pubDate": "Mon, 17 Aug 2026 15:04:21 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089367736736694385#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Mon, 17 Aug 2026 14:41:43 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "New edition of the RC Newsletter is out! Bitcoin Bear Market Bottom Lays Ahead - Here&apos;s Why Summer Range Breakdown Soon? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-bear-market-bottom-lays-ahead-heres-why/ #BTC $BTC #Bitcoin",
+      "pubDate": "Mon, 17 Aug 2026 14:41:43 GMT",
+      "link": "https://nitter.net/rektcapital/status/2089362040141803981#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 14:27:42 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Aug 10–Aug 16, 2026 #LookonchainWeeklyReport 🟢 Overview Stablecoin supply grew by $40.88M last week, DEX spot volume fell and perp volume fell, while public companies shed 2,501 BTC. 🟢 Stablecoin Market The total stablecoin market cap increased by $40.88M. 🟢 Spot & Perps Trading Volume on DEXs DEX spot volume fell 1",
+      "pubDate": "Mon, 17 Aug 2026 14:27:42 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089358514213036234#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "Strategy(MSTR)",
+        "기관 매집"
+      ]
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 14:24:11 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "August 17 Update: #Bitcoin ETFs: 1D NetFlow: -1,010 $BTC(-$64.25M)🔴 7D NetFlow: -6,631 $BTC(-$421.76M)🔴 #Ethereum ETFs: 1D NetFlow: +3,457 $ETH(+$6.58M)🟢 7D NetFlow: -3,549 $ETH(-$6.75M)🔴",
+      "pubDate": "Mon, 17 Aug 2026 14:24:11 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089357626232717630#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Mon, 17 Aug 2026 13:17:32 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "bitcoin:native holds near $63.6k as weak spot liquidity, ETF outflows and loss realization keep conditions subdued. Stabilising capital flows suggest selling pressure may be easing, but conviction remains limited. Read this week’s Market Pulse👇 https://glassno.de/3TXn1bG",
+      "pubDate": "Mon, 17 Aug 2026 13:17:32 GMT",
+      "link": "https://nitter.net/glassnode/status/2089340854724968726#m",
+      "keywords": [
+        "ETF 수급",
+        "ETF 유출",
+        "유동성",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Mon, 17 Aug 2026 12:32:37 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: Cheap vol ≠ good value. $BTC implied vol is in the bottom 2% of its history, yet options still price ~1.5x what the tape delivers. Our vol value trap score prints 91/100. Hasn&apos;t been this high in more than 3.5 years.",
+      "pubDate": "Mon, 17 Aug 2026 12:32:37 GMT",
+      "link": "https://nitter.net/n3ocortex/status/2089329552174522679#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 12:09:26 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales are buying $BNB! Two newly created wallets withdrew 20,007 $BNB($12.1M) from #Binance 7 hours ago. https://arkm.com/explorer/address/0x383aa1d742CdDD874dFe88ADDC5e859c8B66eB8D https://arkm.com/explorer/address/0xA61244aAa69823A2c8313DC2f91A2C368CCbC9f8",
+      "pubDate": "Mon, 17 Aug 2026 12:09:26 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089323715855364433#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "cryptoquant_com__Mon, 17 Aug 2026 11:38:00 GMT",
       "handle": "cryptoquant_com",
@@ -161,6 +283,21 @@
       ]
     },
     {
+      "id": "lookonchain__Mon, 17 Aug 2026 08:34:20 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "CXMT has surged above $9. The whale(0xf292) shorting 2.9M $CXMT($26.13M) is now down over $11M in total, including $3.82M in funding fees and $7.26M in unrealized losses. https://hypurrscan.io/address/0xf2925cb0779a741fe33037cbd88fca5382e41244#perps",
+      "pubDate": "Mon, 17 Aug 2026 08:34:20 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089269585505886675#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "Funding Rate"
+      ]
+    },
+    {
       "id": "whale_alert__Mon, 17 Aug 2026 08:13:20 GMT",
       "handle": "whale_alert",
       "label": "Whale Alert",
@@ -257,17 +394,6 @@
       "text": "R to @lookonchain: 4/ He didn&apos;t rush to sell the rest. Instead, he sold little by little so he wouldn&apos;t miss out if $MARSCOIN kept going up. In the end, he sold the remaining 42.3M $MARSCOIN for 465 $BNB ($282K), making him the most profitable wallet on $MARSCOIN.",
       "pubDate": "Mon, 17 Aug 2026 02:46:43 GMT",
       "link": "https://nitter.net/lookonchain/status/2089182102524944561#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 02:46:43 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "R to @lookonchain: 5/ Wallet: 0x30f10c14ecf2ca7850fcdbf6f5ec291c242da577",
-      "pubDate": "Mon, 17 Aug 2026 02:46:43 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089182105498792309#m",
       "keywords": []
     },
     {
@@ -503,7 +629,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "3 Things That Will Change How You See the Bitcoin Bear Market If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/ZAGbis1hfXw?si=_rjD1PGcY32WgcWy Enjoy and Subscribe! $BTC #Bitcoin",
+      "text": "RT by @rektcapital: 3 Things That Will Change How You See the Bitcoin Bear Market If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/ZAGbis1hfXw?si=_rjD1PGcY32WgcWy Enjoy and Subscribe! $BTC #Bitcoin",
       "pubDate": "Sun, 16 Aug 2026 12:15:00 GMT",
       "link": "https://nitter.net/rektcapital/status/2088962728761434244#m",
       "keywords": [
@@ -625,17 +751,6 @@
       ]
     },
     {
-      "id": "ColinTCrypto__Sat, 15 Aug 2026 18:41:56 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @mrJackLevin: Follow-up. July 8, 2025 was when I made the above thread on $XEN. Here&apos;s how it&apos;s done since then:",
-      "pubDate": "Sat, 15 Aug 2026 18:41:56 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2088697715047780361#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Sat, 15 Aug 2026 17:08:34 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -665,30 +780,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Sat, 15 Aug 2026 15:52:14 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Sorry I was wrong she’s 4-1 vs PB.",
-      "pubDate": "Sat, 15 Aug 2026 15:52:14 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088655009986584634#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sat, 15 Aug 2026 15:13:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Aside from the earlier mentioned signs of weakness, here&apos;s another one: Yet another candle-bodied Lower High has developed More and more downtrends = mounting weakness $BTC #Bitcoin",
-      "pubDate": "Sat, 15 Aug 2026 15:13:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2088645136410456169#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "JSeyff__Sat, 15 Aug 2026 15:07:47 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -697,57 +788,6 @@
       "text": "RT by @JSeyff: I&apos;ve been criticizing this behavior by the government for years, despite being a left-leaning moderate, because this was completely predictable, Kate. You don&apos;t get to pop your head up now and act like it is new or unique to the left. In fact, the ship may have already sailed. Why do I say that",
       "pubDate": "Sat, 15 Aug 2026 15:07:47 GMT",
       "link": "https://nitter.net/austincampbell/status/2088643824746713330#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sat, 15 Aug 2026 14:57:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Let&apos;s see how the Bitcoin Weekly Candle closes A Weekly Close below the orange level would likely set price up for a breakdown Which would be interesting timing as the second half of August in a Bear Market year tends to be bearish $BTC #Bitcoin",
-      "pubDate": "Sat, 15 Aug 2026 14:57:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2088641109593575592#m",
-      "keywords": [
-        "약세장",
-        "약세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Sat, 15 Aug 2026 14:38:16 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "I just published a new #BTC YouTube Short: 3 Things That Will Change How You See the Bitcoin Bear Market Check it out here: https://youtube.com/shorts/WM7JTglBjXM?si=_Axl3H7-SlNQmCXj Enjoy and Subscribe! $BTC #Bitcoin",
-      "pubDate": "Sat, 15 Aug 2026 14:38:16 GMT",
-      "link": "https://nitter.net/rektcapital/status/2088636394390315220#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sat, 15 Aug 2026 14:13:19 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Note: if they are going at a very slow speed it’s still not appropriate but I can overlook. But fast = straight to jail imo.",
-      "pubDate": "Sat, 15 Aug 2026 14:13:19 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088630117060743335#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sat, 15 Aug 2026 14:10:02 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Me when I see someone flying down the sidewalk on an e-scooter",
-      "pubDate": "Sat, 15 Aug 2026 14:10:02 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088629291722375206#m",
       "keywords": []
     },
     {
@@ -770,17 +810,6 @@
       "text": "RT by @rektcapital: Been monitoring your account for months and you’ve been spot on 👌",
       "pubDate": "Sat, 15 Aug 2026 12:26:52 GMT",
       "link": "https://nitter.net/notabotxbt/status/2088603328468902322#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sat, 15 Aug 2026 12:09:49 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "I watched most of this game last night. Caitlin Clark is an artist- Magic Johnson&apos;s vision/touch with Steph&apos;s jumper. She is now 6-0 vs Paige Bueckers (who was also magnificent). On one hand, the hate CC gets is so absurd and petty, but on the other that hate creates drama and drama is entertaining. I find my",
-      "pubDate": "Sat, 15 Aug 2026 12:09:49 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088599038866214990#m",
       "keywords": []
     },
     {
@@ -819,30 +848,6 @@
       ]
     },
     {
-      "id": "JSeyff__Fri, 14 Aug 2026 22:15:12 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "R to @VolShares: These are based on this partnership. Wen NFL and MLB and MLS ??? https://futuresports.com/press/nhl-partnership",
-      "pubDate": "Fri, 14 Aug 2026 22:15:12 GMT",
-      "link": "https://nitter.net/JSeyff/status/2088388999907820002#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Fri, 14 Aug 2026 22:13:40 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "WOW: Volatility shares @VolShares just filed an ETF for every NHL team... have to assume they are gonna file for NFL and MLB teams next?",
-      "pubDate": "Fri, 14 Aug 2026 22:13:40 GMT",
-      "link": "https://nitter.net/JSeyff/status/2088388613968900257#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
       "id": "cryptoquant_com__Fri, 14 Aug 2026 14:52:00 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -867,19 +872,6 @@
       ]
     },
     {
-      "id": "glassnode__Fri, 14 Aug 2026 14:35:48 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "bitcoin:native options remain subdued, with volatility and skew continuing to compress. But positioning beneath the surface is becoming more concentrated around key strikes, creating a clearer setup across the options complex. Here’s what the data shows👇",
-      "pubDate": "Fri, 14 Aug 2026 14:35:48 GMT",
-      "link": "https://nitter.net/glassnode/status/2088273389462954324#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "cryptoquant_com__Fri, 14 Aug 2026 14:33:04 GMT",
       "handle": "cryptoquant_com",
       "label": "CryptoQuant",
@@ -891,17 +883,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "glassnode__Fri, 14 Aug 2026 12:32:21 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: #ETH Seller Exhaustion at the lowest in a decade. Realized vol in the bottom 3% of history, and over 60% of supply underwater. Bottoms get built out of conditions like this: seller side is emptying, the bid still needs to show up.",
-      "pubDate": "Fri, 14 Aug 2026 12:32:21 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2088242322341245321#m",
-      "keywords": []
     },
     {
       "id": "cryptoquant_com__Fri, 14 Aug 2026 11:32:00 GMT",
@@ -931,17 +912,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "EricBalchunas__Thu, 13 Aug 2026 16:17:11 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Me explaining to my girl why I can’t go to her sisters wedding in October",
-      "pubDate": "Thu, 13 Aug 2026 16:17:11 GMT",
-      "link": "https://nitter.net/CollegeFBonX/status/2087936514319618379#m",
-      "keywords": []
     },
     {
       "id": "_Checkmatey___Thu, 13 Aug 2026 10:12:43 GMT",
@@ -1136,47 +1106,6 @@
       "link": "https://nitter.net/LynAldenContact/status/2086337023757951141#m",
       "keywords": [
         "Miner Flow"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Wed, 03 Jun 2026 17:16:39 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Pinned: 🔵 How to Buy the $BTC Bottom: 20%-25% below the 200-week moving average. All past Bitcoin bear markets have provided at least ONE entry into BTC at 25% below the 200-week MA. 00:00 Intro 00:38 BTC recap. Where it is today 02:47 Historical bear market drop percentages 10:51 Spontanous Rant: Colin&apos;s long-te",
-      "pubDate": "Wed, 03 Jun 2026 17:16:39 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2062221940056584411#m",
-      "keywords": [
-        "강세장",
-        "약세장",
-        "강세 신호",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Tue, 08 Jul 2025 15:58:45 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "R to @ColinTCrypto: Here&apos;s the direct link to my post that @mrJackLevin hid, hoping no one would see it:",
-      "pubDate": "Tue, 08 Jul 2025 15:58:45 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/1942614339996860649#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Tue, 08 Jul 2025 15:54:37 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "RE-POSTING THIS BECAUSE JACK LEVIN HID IT AND BLOCKED ME. Dear @mrJackLevin, I see you hinging all of your recent arguments on \"2023 is no longer valid\". The problem (and the thing you don&apos;t seem to get) is: people already invested money based on your early statements. The core issue is change to burn token alloca",
-      "pubDate": "Tue, 08 Jul 2025 15:54:37 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/1942613300836979031#m",
-      "keywords": [
-        "Funding Rate",
-        "분배"
       ]
     }
   ]
