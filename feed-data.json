@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-08-16T18:38:08.268Z",
+  "updatedAt": "2026-08-17T01:44:54.066Z",
   "items": [
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 00:39:05 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "R to @lookonchain: Wallet: 0xacbf9fbc58d61bdafd70fd44213fdfe01311f2ab",
+      "pubDate": "Mon, 17 Aug 2026 00:39:05 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089149985971749239#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 00:38:26 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Don&apos;t FOMO! Trader 0xacbf lost $110.7K in just 2 hours by FOMOing into $MARSCOIN. After CZ burned 4,444 $MARSCOIN, the trader FOMO bought 6.15M $MARSCOIN with 133K $USDT. Then CZ said he would stop using his public address to avoid his actions being overinterpreted by the community, and $MARSCOIN crashed over 90%.",
+      "pubDate": "Mon, 17 Aug 2026 00:38:26 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089149822251184484#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Mon, 17 Aug 2026 00:25:29 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales keep buying $ETH. Whale 0x8447 withdrew another 5,300 $ETH ($9.98M) from Kraken 8 hours ago. https://arkm.com/explorer/address/0x8447A06F34e251ABeb55A0B7d5e01554F5072E0D",
+      "pubDate": "Mon, 17 Aug 2026 00:25:29 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089146563738406943#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Mon, 17 Aug 2026 00:11:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 185,327,684 $USDC (185,367,437 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0xfa37d34bfce3ca3f9327677444d1938c651d3b5c2a87e2b4119034b22d97e927",
+      "pubDate": "Mon, 17 Aug 2026 00:11:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089143021593866555#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Sun, 16 Aug 2026 23:33:40 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 185,300,000 $USDC (185,347,251 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xe3255da2c5f16d3d3b854ecdc4b00be8166f6c0e126b33209491f92ee83d8028",
+      "pubDate": "Sun, 16 Aug 2026 23:33:40 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089133521629515927#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "glassnode__Sun, 16 Aug 2026 18:32:43 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Did whales go long at the top of the local bitcoin:native range? Whale net long positioning on Hyperliquid peaked right into resistance. Spot and flow data still show no matching demand. Read our latest weekly article \"Trigger Happy\" for analyses like this👇",
+      "pubDate": "Sun, 16 Aug 2026 18:32:43 GMT",
+      "link": "https://nitter.net/glassnode/status/2089057786928021872#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "저항선",
+        "TA"
+      ]
+    },
     {
       "id": "ColinTCrypto__Sun, 16 Aug 2026 17:19:01 GMT",
       "handle": "ColinTCrypto",
@@ -523,43 +603,6 @@
       ]
     },
     {
-      "id": "EricBalchunas__Fri, 14 Aug 2026 22:54:45 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Image",
-      "pubDate": "Fri, 14 Aug 2026 22:54:45 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088398953066697128#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 14 Aug 2026 22:43:06 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "R to @EricBalchunas: Just out today, feels related:",
-      "pubDate": "Fri, 14 Aug 2026 22:43:06 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088396020358987965#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Fri, 14 Aug 2026 22:38:16 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "New filing for NHL hockey ETFs from VolShares, which will track the performance of 32 dif teams (eg the Boston Bruins ETF) which will be based on how the team does (eg wins, losses in reg season and playoffs) using a special team index calc that has futures contract on it. Wow. Good catch from Jeff who has some more de",
-      "pubDate": "Fri, 14 Aug 2026 22:38:16 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088394803033846027#m",
-      "keywords": [
-        "ETF 수급",
-        "BOS",
-        "구조 전환"
-      ]
-    },
-    {
       "id": "JSeyff__Fri, 14 Aug 2026 22:15:12 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -595,45 +638,6 @@
       "keywords": [
         "고래",
         "Whale"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Fri, 14 Aug 2026 20:32:24 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC Looks like it wants to break lower to me. Lower highs since June 14 and sitting on the edge of a head-and-shoulders pattern that could break down. I think it’s only a matter of time.",
-      "pubDate": "Fri, 14 Aug 2026 20:32:24 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2088363129172361296#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Fri, 14 Aug 2026 19:55:29 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 994 $BTC (62,609,888 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/5f67a51f4a870fa33302ab921ab9fa44812ebece74f4325827ac618eaabb441e",
-      "pubDate": "Fri, 14 Aug 2026 19:55:29 GMT",
-      "link": "https://nitter.net/whale_alert/status/2088353839443268028#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Fri, 14 Aug 2026 19:42:58 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "Bull market things",
-      "pubDate": "Fri, 14 Aug 2026 19:42:58 GMT",
-      "link": "https://nitter.net/JSeyff/status/2088350690569531878#m",
-      "keywords": [
-        "강세장"
       ]
     },
     {
@@ -755,31 +759,6 @@
       ]
     },
     {
-      "id": "whale_alert__Fri, 14 Aug 2026 13:46:35 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 150,000,000 $USDT (149,805,000 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0x0d5bb25366f91d2d5c3a389e73ade07e76240cae72b1df736ae514b5911ef6a8",
-      "pubDate": "Fri, 14 Aug 2026 13:46:35 GMT",
-      "link": "https://nitter.net/whale_alert/status/2088261001518965142#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 14 Aug 2026 12:44:22 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A wallet linked to Monetalis deposited 3.72M $UNI ($13M) into #Binance, #Coinbase, #Bybit, and #OKX through Cumberland over the past 24 hours. https://arkm.com/explorer/address/0x091D1C972cb1648537a2Ba78eaBa371b1cE18336",
-      "pubDate": "Fri, 14 Aug 2026 12:44:22 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088245344698319162#m",
-      "keywords": []
-    },
-    {
       "id": "glassnode__Fri, 14 Aug 2026 12:32:21 GMT",
       "handle": "glassnode",
       "label": "Glassnode",
@@ -832,34 +811,6 @@
         "청산",
         "저항선",
         "TA"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 14 Aug 2026 09:02:33 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whale 0x117f is staking and going long $ASTER. The whale opened a 4x long on 7.2M $ASTER($4.33M) on @Aster_DEX and also staked 4.02M $ASTER($2.42M) for 4 years. https://www.asterdex.com/en/explorer/address/0x117fa4cede270298a718025ba2c699649cfcbaeb",
-      "pubDate": "Fri, 14 Aug 2026 09:02:33 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088189521125056938#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Fri, 14 Aug 2026 08:36:35 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Gambler 0xff84 keeps adding to his $BTC short and now holds a 2,000 $BTC($125.37M) short, with an unrealized profit of $1.79M. He is now the largest on-chain $BTC bear. Liquidation price: $63,528.92 https://hypurrscan.io/address/0xff84dd888de8ac2ed9a44860dc44e57025d68f1d#perps",
-      "pubDate": "Fri, 14 Aug 2026 08:36:35 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088182989499056232#m",
-      "keywords": [
-        "청산",
-        "약세장"
       ]
     },
     {
@@ -925,17 +876,6 @@
       "text": "RT by @EricBalchunas: Me explaining to my girl why I can’t go to her sisters wedding in October",
       "pubDate": "Thu, 13 Aug 2026 16:17:11 GMT",
       "link": "https://nitter.net/CollegeFBonX/status/2087936514319618379#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Thu, 13 Aug 2026 15:04:48 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: Conviction buyers doing what they do best: absorbing $BTC in downturns. Accumulating straight through a -49% drawdown, and now holding ~4M BTC.",
-      "pubDate": "Thu, 13 Aug 2026 15:04:48 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2087918297584955677#m",
       "keywords": []
     },
     {
