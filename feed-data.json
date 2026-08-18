@@ -1,6 +1,153 @@
 {
-  "updatedAt": "2026-08-18T06:54:51.081Z",
+  "updatedAt": "2026-08-18T12:58:18.900Z",
   "items": [
+    {
+      "id": "cryptoquant_com__Tue, 18 Aug 2026 12:22:00 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @MorenoDV_: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a82eb28d3ed077dcf2d0b5d-Bitcoin-Taker-Buy-Volume-Enters-a-Historical-Exhaustion-Zone?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
+      "pubDate": "Tue, 18 Aug 2026 12:22:00 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089689266117111843#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 18 Aug 2026 12:18:27 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Bitcoin Taker Buy Volume Enters a Historical Exhaustion Zone “Historically, similar contractions have appeared during periods of capitulation or accumulation and have often preceded a recovery in demand.” – By @MorenoDV_",
+      "pubDate": "Tue, 18 Aug 2026 12:18:27 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089688375871652265#m",
+      "keywords": [
+        "매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Tue, 18 Aug 2026 12:15:36 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "$BTC has held Defensive for two weeks, 30/100 on the Glassnode Market Compass. Macro did the lifting, +24 on the month. Valuation stays at the cycle&apos;s discounted end, 16/100. Cheap and improving. The missing leg is flows, light at 30. Read it daily: http://studio.glassnode.com/market-compass",
+      "pubDate": "Tue, 18 Aug 2026 12:15:36 GMT",
+      "link": "https://nitter.net/glassnode/status/2089687657727115513#m",
+      "keywords": [
+        "BTC 사이클"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 12:12:31 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,224,999 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/2RigtnYA7CS9xYMkM7Ax7r8xLuxoNa97X3YiytFJuroJAM28zBB4VQfhN46uVgmodkaEcnfU5yBBUFMPeXpQ7Nry",
+      "pubDate": "Tue, 18 Aug 2026 12:12:31 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089686879494971626#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 11:40:00 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 900 $BTC (57,917,846 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/bitcoin/90e8100bd5ddf55e5c883bdf27e4f175c092a5d40bd398a7f021a08de7c045af",
+      "pubDate": "Tue, 18 Aug 2026 11:40:00 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089678696491655428#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Tue, 18 Aug 2026 10:44:17 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "bitcoin:native is underperforming the S&P 500 on 2 out of 3 trading days. However, when BTC does outperform, the excess returns (green) are significantly larger. Also noteworthy is that these excess returns have been slowly degrading over the years.",
+      "pubDate": "Tue, 18 Aug 2026 10:44:17 GMT",
+      "link": "https://nitter.net/glassnode/status/2089664677177700620#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 08:29:22 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "ℹ️ We are currently rolling out a major update to the Whale Alert Enterprise API. This should not affect transaction reporting or API access, but that&apos;s assuming the intern knows what he&apos;s doing.",
+      "pubDate": "Tue, 18 Aug 2026 08:29:22 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089630724978565339#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 18 Aug 2026 07:54:12 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: This is where APIs get interesting: not looking at one chart, but making the data programmable. Example: SK hynix → KRX:000660 → PBR band → Python → dashboard We put a short walkthrough on the Vibe Quants Discord showing how to: → fetch SK hynix data → load it into pandas → visualize the indicato",
+      "pubDate": "Tue, 18 Aug 2026 07:54:12 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089621871528710607#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 18 Aug 2026 07:52:42 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "CryptoQuant Alpha isn’t just crypto data anymore. You can now query computed KRX equity indicators directly through the API.",
+      "pubDate": "Tue, 18 Aug 2026 07:52:42 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089621494066545100#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Tue, 18 Aug 2026 07:31:45 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Read more ⤵️ https://cryptoquant.com/insights/quicktake/6a82f816e39b9362d99d2927-Funding-Rates-Bitcoin-hits-20-month-high?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=gaah",
+      "pubDate": "Tue, 18 Aug 2026 07:31:45 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089616222648475733#m",
+      "keywords": [
+        "Funding Rate",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Tue, 18 Aug 2026 07:31:24 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Funding Rates Bitcoin Hits 20-Month High “The derivatives market sentiment is positive within the current BTC price range, indicating that most traders are taking long positions.” – By @gaah_im",
+      "pubDate": "Tue, 18 Aug 2026 07:31:24 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089616135369167081#m",
+      "keywords": [
+        "펀딩비",
+        "Funding Rate",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Tue, 18 Aug 2026 05:01:50 GMT",
       "handle": "lookonchain",
@@ -980,17 +1127,6 @@
       ]
     },
     {
-      "id": "lookonchain__Sun, 16 Aug 2026 09:43:18 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "CZ(@cz_binance)&apos;s public wallet burned 4,444 $币安人生 and 4,444 $MARSCOIN 1 hour ago. https://arkm.com/explorer/tx/0x50966b46d632e7ee3be780fb6da32d442333b3ac1abbb71b08b1dfb88bceeb5b https://arkm.com/explorer/tx/0x39cdea776146288a244abff56955a50c65e42ccd1233c31d38594dad9df52c19",
-      "pubDate": "Sun, 16 Aug 2026 09:43:18 GMT",
-      "link": "https://nitter.net/lookonchain/status/2088924554366456278#m",
-      "keywords": []
-    },
-    {
       "id": "JSeyff__Sun, 16 Aug 2026 04:28:46 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -1111,59 +1247,6 @@
       ]
     },
     {
-      "id": "cryptoquant_com__Fri, 14 Aug 2026 14:52:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Full breakdown ⤵️ https://cryptoquant.com/insights/research/6a7f2a44f2027c480458107c-14-August-2026-Following-the-Coins-Coldcard-Hack-%E2%80%94-Tracking-the-Stolen-BTC?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crypto-weekly-report",
-      "pubDate": "Fri, 14 Aug 2026 14:52:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2088277463285784833#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Fri, 14 Aug 2026 14:48:11 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "1,432 BTC stolen in the Coldcard hack. 1,367 BTC still sits untouched across 311 attacker addresses. Top 5 wallets hold 83% of it. Only 65 BTC has hit a mixer so far.",
-      "pubDate": "Fri, 14 Aug 2026 14:48:11 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2088276501909164544#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 14 Aug 2026 14:33:04 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "RT by @cryptoquant_com: Short activity spike on Bitcoin futures markets, the equivalent to +22K Bitcoin in just a few hours. Short behavior is dominating.",
-      "pubDate": "Fri, 14 Aug 2026 14:33:04 GMT",
-      "link": "https://nitter.net/jjcmoreno/status/2088272697776034261#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Fri, 14 Aug 2026 11:32:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Two Months After the June Whale U-Turn “Until SOPR can hold above 1 while price leaves the $62–65k band, this still reads as absorption inside a range.” – By @Woo_Minkyu Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a7ec85ff2027c4804581025-Two-Months-After-the-June-Whale-U-Turn?utm_source=twitter&ut",
-      "pubDate": "Fri, 14 Aug 2026 11:32:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2088227131994075540#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "SOPR",
-        "온체인"
-      ]
-    },
-    {
       "id": "_Checkmatey___Thu, 13 Aug 2026 16:53:39 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1188,86 +1271,6 @@
       "keywords": [
         "BTC"
       ]
-    },
-    {
-      "id": "_Checkmatey___Thu, 13 Aug 2026 10:12:43 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Bitcoin Research Kit mentioned 🙌 great piece as always @_Checkmatey_",
-      "pubDate": "Thu, 13 Aug 2026 10:12:43 GMT",
-      "link": "https://nitter.net/_nym21_/status/2087844792113692741#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Thu, 13 Aug 2026 08:27:51 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: Bitcoin has been chopping around $64k for more than two months, with volatility compressing to extreme lows. The 30-day price range is now just 5.6%, one of the narrowest on record. Historically, periods of such low volatility tend to occur in very late-stage bear markets, and more often in early b",
-      "pubDate": "Thu, 13 Aug 2026 08:27:51 GMT",
-      "link": "https://nitter.net/_checkonchain/status/2087818402064908649#m",
-      "keywords": [
-        "강세장",
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 13 Aug 2026 07:10:49 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Dashboard Link 👇 https://cryptoquant.com/community/dashboard/657c175d21681e353193aaad?e=6a7d5a07e5be6a24c891256f",
-      "pubDate": "Thu, 13 Aug 2026 07:10:49 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2087799015668879543#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Thu, 13 Aug 2026 07:10:48 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Similar spikes in market buy ratios have recently appeared on OKX and other exchanges. That could be a sign some OG traders are positioning bullish here. This should not be read as a definitive bottom signal, but it serves as a useful gauge of OG trader sentiment.",
-      "pubDate": "Thu, 13 Aug 2026 07:10:48 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2087799013219377281#m",
-      "keywords": [
-        "강세장",
-        "강세 신호"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Thu, 13 Aug 2026 07:10:45 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin OG traders just had their most profitable cycle ever. Unlike past cycles, crypto exchange traders were not the exit liquidity. ETFs and DATs were. That structural bid pushed Binance traders&apos; unrealized profits to nearly triple the 2021 top. 🧵",
-      "pubDate": "Thu, 13 Aug 2026 07:10:45 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2087798998845526488#m",
-      "keywords": [
-        "ETF 수급",
-        "BTC 사이클",
-        "유동성",
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Wed, 12 Aug 2026 21:48:38 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: It&apos;s time to move on from the spam debate",
-      "pubDate": "Wed, 12 Aug 2026 21:48:38 GMT",
-      "link": "https://nitter.net/Nneuman/status/2087657539123196237#m",
-      "keywords": []
     }
   ]
 }
