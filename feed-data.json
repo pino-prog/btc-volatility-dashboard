@@ -1,6 +1,71 @@
 {
-  "updatedAt": "2026-08-18T01:39:42.018Z",
+  "updatedAt": "2026-08-18T06:54:51.081Z",
   "items": [
+    {
+      "id": "lookonchain__Tue, 18 Aug 2026 05:01:50 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Dev 0x6af3 created $牛来, which reached a peak MC of $49M. Many people made money from it, but the dev didn&apos;t buy any tokens and made nothing. So the dev went on to launch $绊倒体, $牛来了, and $Moo, making $25.3K in profit. Wallet: 0x6aF3F52369C39F6ca2D9a50799723FefF7FF679E",
+      "pubDate": "Tue, 18 Aug 2026 05:01:50 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089578493898371293#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Tue, 18 Aug 2026 03:35:59 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whale 0x8b6e, who previously made over $1.12M from a long on $AKE, is now going long $GPS on @Aster_DEX. He opened a 2x long on 27.23M $GPS($450K) and is currently up $80K(+35.66%). $GPS has surged 70% recently. https://www.asterdex.com/en/explorer/address/0x8b6e7d4f8bfb8647c41779cb42a8d133559bc6a3",
+      "pubDate": "Tue, 18 Aug 2026 03:35:59 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089556889646604412#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 03:19:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,398 $BTC (153,726,897 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/aceb2038ea8c2db31fd72456b18c8675de36aac4ec4f140b7b7872983a89438d",
+      "pubDate": "Tue, 18 Aug 2026 03:19:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089552864720949292#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 18 Aug 2026 02:27:12 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Smart #Solana whale (GvHYQQ) bought another 47,535 $SOL($3.6M) after over 2 years of inactivity. The whale perfectly bought the dip in August and October 2023, buying 291,790 $SOL ($6.82M) at an average price of just $23.37. Then $SOL started to skyrocket. As $SOL surged, the whale took profit by selling 191,789 $SOL (",
+      "pubDate": "Tue, 18 Aug 2026 02:27:12 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089539581159068002#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Tue, 18 Aug 2026 01:56:04 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Riot Platforms(@RiotPlatforms) keeps selling $BTC. In the first half of 2026, Riot Platforms sold a total of 9,665 $BTC ($732.46M) at an average price of $75,785. https://arkm.com/explorer/entity/riot-platforms https://www.sec.gov/ix?doc=/Archives/edgar/data/0001167419/000110465926093448/riot-20260630x10q.htm#fact-iden",
+      "pubDate": "Tue, 18 Aug 2026 01:56:04 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089531746836693162#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Tue, 18 Aug 2026 01:14:10 GMT",
       "handle": "lookonchain",
@@ -14,6 +79,17 @@
         "고래",
         "Whale"
       ]
+    },
+    {
+      "id": "ColinTCrypto__Tue, 18 Aug 2026 01:07:26 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @ColinTCrypto: @elonmusk @Tesla",
+      "pubDate": "Tue, 18 Aug 2026 01:07:26 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2089519507651895472#m",
+      "keywords": []
     },
     {
       "id": "lookonchain__Tue, 18 Aug 2026 00:41:41 GMT",
@@ -161,6 +237,43 @@
       ]
     },
     {
+      "id": "glassnode__Mon, 17 Aug 2026 20:02:57 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "R to @glassnode: In fact, BTC only outperformed the S&P500 on around one third of trading days over the last 3 months. This is the longest underperformance streak we&apos;ve seen over the last 6 years of history. The question now is whether this is the start of a trend or just one of those 3 days. 2/2",
+      "pubDate": "Mon, 17 Aug 2026 20:02:57 GMT",
+      "link": "https://nitter.net/glassnode/status/2089442880255607037#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Mon, 17 Aug 2026 20:02:56 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "bitcoin:native outperformed the stock market today. This has become a less common occurrence lately. 1/2",
+      "pubDate": "Mon, 17 Aug 2026 20:02:56 GMT",
+      "link": "https://nitter.net/glassnode/status/2089442876346577346#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Mon, 17 Aug 2026 15:51:43 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "As Tesla self-driving cars become more pervasive in society, the number of accidents will go down for OTHER vehicles as well, by shear byproduct of Tesla’s extreme reaction time and safety. Put another way: More FSD Teslas on the road = safer driving for EVERYONE, regardless of what car they drive. This is pretty cool.",
+      "pubDate": "Mon, 17 Aug 2026 15:51:43 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2089379657783160934#m",
+      "keywords": []
+    },
+    {
       "id": "JSeyff__Mon, 17 Aug 2026 15:38:41 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -234,6 +347,28 @@
         "약세장",
         "BTC"
       ]
+    },
+    {
+      "id": "ColinTCrypto__Mon, 17 Aug 2026 14:41:10 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "Take note of how long $BTC *could* remain below the 200-week moving average:",
+      "pubDate": "Mon, 17 Aug 2026 14:41:10 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2089361902811877611#m",
+      "keywords": []
+    },
+    {
+      "id": "ColinTCrypto__Mon, 17 Aug 2026 14:40:08 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "still looks to be the case",
+      "pubDate": "Mon, 17 Aug 2026 14:40:08 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2089361643750805950#m",
+      "keywords": []
     },
     {
       "id": "lookonchain__Mon, 17 Aug 2026 14:27:42 GMT",
@@ -867,6 +1002,47 @@
       "keywords": []
     },
     {
+      "id": "ColinTCrypto__Sat, 15 Aug 2026 23:02:45 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "R to @ColinTCrypto: $BTC may bottom (around October?) before stocks, since BTC has a higher beta to stocks. This is highly speculative, of course, and is just a rough sketch. But let&apos;s see if it&apos;s vaguely or directionally correct. :)",
+      "pubDate": "Sat, 15 Aug 2026 23:02:45 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088763354584109498#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 15 Aug 2026 22:53:38 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "S&P500 and $BTC Could see it playing out like this. The bull pennant breakout&apos;s target is the height of its flag pole (green arrow). This target is around 8,600 (that little gray box at the top). This could time with the Fed finally raising Rates (The next FOMC meeting is September 15–16, 2026), which may be aroun",
+      "pubDate": "Sat, 15 Aug 2026 22:53:38 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088761058009678173#m",
+      "keywords": [
+        "강세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "ColinTCrypto__Sat, 15 Aug 2026 22:13:45 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$SPCX @SpaceX Looks like it could have more downside. Recent clean rejection from the underside retest of key level ~149. Must break above this level to be bullish. We have some share unlocks coming (see below), which probably isn&apos;t bullish.",
+      "pubDate": "Sat, 15 Aug 2026 22:13:45 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2088751022877401561#m",
+      "keywords": [
+        "강세장",
+        "강세 신호"
+      ]
+    },
+    {
       "id": "JSeyff__Sat, 15 Aug 2026 15:07:47 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -1001,6 +1177,19 @@
       ]
     },
     {
+      "id": "_Checkmatey___Thu, 13 Aug 2026 14:06:33 GMT",
+      "handle": "_Checkmatey_",
+      "label": "James Check",
+      "category": "온체인 심리",
+      "color": "indigo",
+      "text": "RT by @_Checkmatey_: I fired up a substack. For the first issue, I wrote about the weird state of the U.S. labor market: job growth has essentially disappeared, but unemployment remains low and businesses aren&apos;t firing. Give it a read and let me know what you think. I&apos;ll be posting more of my research on macr",
+      "pubDate": "Thu, 13 Aug 2026 14:06:33 GMT",
+      "link": "https://nitter.net/TXMCtrades/status/2087903637288661196#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
       "id": "_Checkmatey___Thu, 13 Aug 2026 10:12:43 GMT",
       "handle": "_Checkmatey_",
       "label": "James Check",
@@ -1079,121 +1268,6 @@
       "pubDate": "Wed, 12 Aug 2026 21:48:38 GMT",
       "link": "https://nitter.net/Nneuman/status/2087657539123196237#m",
       "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 12 Aug 2026 09:14:00 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "🟥⬛🟥🟩🟥⬛🟥⬛🟥🟥⬛🟥⬛🟥🟥⬛⬛🟥⬛🟥🟥⬛⬛⬛🟥🟥🟥🟥⬛🟥🟥⬛🟥🟥⬛🟥⬛🟥⬛🟥🟥🟥⬛⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥🟥🟥⬛🟥🟥⬛🟥🟥🟥⬛🟥🟥🟩🟥🟥🟥⬛🟥🟥⬛🟥🟥⬛🟥🟥🟥⬛🟥⬛🟥⬛🟥🟥⬛🟥🟥🟥🟥⬛🟥🟥🟥⬛🟥🟥🟥⬛⬛🟥🟥🟥🟥⬛⬛🟥🟥🟥⬛⬛🟥⬛🟥🟥⬛🟥🟥🟥🟥⬛⬛⬛🟥🟥⬛🟥🟥🟥⬛⬛🟥⬛🟥🟥⬛🟥🟥",
-      "pubDate": "Wed, 12 Aug 2026 09:14:00 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2087467628797522384#m",
-      "keywords": []
-    },
-    {
-      "id": "_Checkmatey___Wed, 12 Aug 2026 04:30:42 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "It&apos;s going to be a very cold shower once the spammers start relentlessly spamming the LuckCashJr chain. Ironically, they actually solved it...by halting block production post fork. Launching this altcoin, will only prove the cat and mouse game is futile. Lessons to be learned.",
-      "pubDate": "Wed, 12 Aug 2026 04:30:42 GMT",
-      "link": "https://nitter.net/_Checkmatey_/status/2087396335016374513#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 12 Aug 2026 01:59:03 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "The stars haven&apos;t aligned for a Bitcoin bull run just yet.",
-      "pubDate": "Wed, 12 Aug 2026 01:59:03 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2087358167755931982#m",
-      "keywords": [
-        "강세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ki_young_ju__Wed, 12 Aug 2026 01:47:17 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "R to @ki_young_ju: Live Chart 👇 https://cryptoquant.com/analytics/query/69e909d46aae2d16bb46e9df?v=69e909d46aae2d16bb46e9e3&img=link%2F6a7bcf4fba40632a95c81e7e.png",
-      "pubDate": "Wed, 12 Aug 2026 01:47:17 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2087355207844003931#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Wed, 12 Aug 2026 01:47:16 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Bitcoin is futures-driven right now. Open interest is rising, while on-chain spot demand remains net negative. A sustainable rally needs both spot and futures demand. As April showed, futures-led rallies tend to fade without spot support.",
-      "pubDate": "Wed, 12 Aug 2026 01:47:16 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2087355205012877816#m",
-      "keywords": [
-        "OI",
-        "미결제약정",
-        "지지선",
-        "TA"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Tue, 11 Aug 2026 22:35:45 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: \"Finding the floor\" a rough set of slides tracing the search that led to the rarity meter, coinflow, extended cointime, and bedrock frameworks and models http://floor.bitview.space",
-      "pubDate": "Tue, 11 Aug 2026 22:35:45 GMT",
-      "link": "https://nitter.net/_nym21_/status/2087307005425852894#m",
-      "keywords": []
-    },
-    {
-      "id": "ki_young_ju__Mon, 10 Aug 2026 05:20:14 GMT",
-      "handle": "ki_young_ju",
-      "label": "Ki Young Ju",
-      "category": "온체인/파생상품",
-      "color": "sky",
-      "text": "Hedge funds on CME flipped net long BTC futures. This is rare. The basis trade keeps them structurally short. That&apos;s why this chart&apos;s been red for years. You can&apos;t carry trade into a net long. The suits are betting on upside.",
-      "pubDate": "Mon, 10 Aug 2026 05:20:14 GMT",
-      "link": "https://nitter.net/ki_young_ju/status/2086684024173727783#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sun, 09 Aug 2026 13:03:41 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: It wasn’t supported by miners across the world, by exchanges or other high-volume nodes, by most developers, or by most investors, influencers, etc. It just didn’t reach consensus, plain and simple (which is normal for a fork less than a year old; it’s in a long line). It’s not as though there was ",
-      "pubDate": "Sun, 09 Aug 2026 13:03:41 GMT",
-      "link": "https://nitter.net/LynAldenContact/status/2086438264651628682#m",
-      "keywords": [
-        "Miner Flow",
-        "지지선",
-        "TA"
-      ]
-    },
-    {
-      "id": "_Checkmatey___Sun, 09 Aug 2026 06:21:23 GMT",
-      "handle": "_Checkmatey_",
-      "label": "James Check",
-      "category": "온체인 심리",
-      "color": "indigo",
-      "text": "RT by @_Checkmatey_: The majority of miners, economic nodes, and exchanges continued with the non-fork. Miners can switch to any pool they want. One big pool even had them vote within the pool. Its not that miners are in control. The fork just didn’t have consensus.",
-      "pubDate": "Sun, 09 Aug 2026 06:21:23 GMT",
-      "link": "https://nitter.net/LynAldenContact/status/2086337023757951141#m",
-      "keywords": [
-        "Miner Flow"
-      ]
     }
   ]
 }
