@@ -1,6 +1,205 @@
 {
-  "updatedAt": "2026-08-19T06:55:01.360Z",
+  "updatedAt": "2026-08-19T12:59:07.181Z",
   "items": [
+    {
+      "id": "ColinTCrypto__Wed, 19 Aug 2026 12:43:34 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC We&apos;re very likely approaching the bottom, within weeks or a couple of months, max. @CryptoJelleNL has an interesting and unique way of viewing this, and I agree: it looks close.",
+      "pubDate": "Wed, 19 Aug 2026 12:43:34 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2090057082678530076#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 11:50:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 32,400 $ETH (62,338,818 USD) transferred from unknown wallet to Beacon Depositor https://whale-alert.io/tx/ethereum/0x09d797d84457420f85ff46468b0d9545d20e2ca0987a0e223241481b7cf025e8",
+      "pubDate": "Wed, 19 Aug 2026 11:50:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090043685584953473#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "glassnode__Wed, 19 Aug 2026 11:18:00 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Most public bitcoin:native treasuries are underwater. Price is below their aggregate cost basis, and the share of companies sitting at a loss has climbed back toward around 80%",
+      "pubDate": "Wed, 19 Aug 2026 11:18:00 GMT",
+      "link": "https://nitter.net/glassnode/status/2090035547364528559#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 11:12:02 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,174,999 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/2U4oj546x8edFsTPuT2f8gHV31CDUxXgcHcX8xVtjHePjEDLALbhThrm7YfkA1VQWQABs5Pn7HTTKdbkzoWEHvrB",
+      "pubDate": "Wed, 19 Aug 2026 11:12:02 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090034046801727761#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 10:43:56 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: See the plan changes ⤵️ https://cryptoquant.com/pricing?utm_source=twitter&utm_medium=sns&utm_campaign=pricing&utm_content=api-credits-plan-changes",
+      "pubDate": "Wed, 19 Aug 2026 10:43:56 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2090026975133839818#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 10:43:16 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Same Bitcoin market. A completely different view. 7 days of BTC price data: Daily → 7 points Hourly → 168 points Minute → 10,080 points The new CryptoQuant API gives you up to 1,440x more granular market data. More detail. Fresher signals. Better analysis.",
+      "pubDate": "Wed, 19 Aug 2026 10:43:16 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2090026807403716630#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 09:54:50 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "The largest $CXMT bear is still holding his position and has now paid over $4M in funding fees. https://hypurrscan.io/address/0xf2925cb0779a741fe33037cbd88fca5382e41244#perps",
+      "pubDate": "Wed, 19 Aug 2026 09:54:50 GMT",
+      "link": "https://nitter.net/lookonchain/status/2090014621147218219#m",
+      "keywords": [
+        "Funding Rate",
+        "약세장"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 09:54:18 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: See the research ⤵️ https://cryptoquant.com/community/dashboard/6a7a1ae0ba40632a95c81cdf?utm_source=twitter&utm_medium=sns&utm_campaign=dashboard&utm_content=stablecoin-liquidity",
+      "pubDate": "Wed, 19 Aug 2026 09:54:18 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2090014484341338248#m",
+      "keywords": [
+        "유동성",
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 09:54:06 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Stablecoin liquidity on exchanges just fell from $80B to $64B But Binance is winning the shrinkage: its share climbed from ~60% to 68.5% while everyone else bled harder. The bear market isn&apos;t just draining liquidity, it&apos;s concentrating what&apos;s left.",
+      "pubDate": "Wed, 19 Aug 2026 09:54:06 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2090014434194297116#m",
+      "keywords": [
+        "약세장",
+        "유동성",
+        "스테이블코인",
+        "SSR"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 19 Aug 2026 09:06:28 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin is rejecting from the Lower High (black) A little lower and BTC will go back to treating the 200-week SMA (orange) as resistance $BTC #Bitcoin",
+      "pubDate": "Wed, 19 Aug 2026 09:06:28 GMT",
+      "link": "https://nitter.net/rektcapital/status/2090002445921300919#m",
+      "keywords": [
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 08:56:52 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: See the changes ⤵️ https://cryptoquant.com/pricing?utm_source=twitter&utm_medium=sns&utm_campaign=pricing&utm_content=api-credits-plan-changes",
+      "pubDate": "Wed, 19 Aug 2026 08:56:52 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2090000031809995114#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 08:56:22 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "R to @cryptoquant_com: Alongside the data upgrade, we&apos;re moving API usage to a prepaid credit system. Every plan includes a monthly amount, you only spend more if you use more, and you&apos;ll get an alert well before you&apos;re close to running out.",
+      "pubDate": "Wed, 19 Aug 2026 08:56:22 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089999905779499249#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 08:55:14 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "The wall everyone else keeps up. We took it down. Minute-resolution data, now for retail. Other platforms only offer this at enterprise pricing. We&apos;re putting it at $39 (hourly) and $109/mo (minute).",
+      "pubDate": "Wed, 19 Aug 2026 08:55:14 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089999618759139485#m",
+      "keywords": []
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 08:29:41 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Strategy&apos;s USD reserve just hit $4.8B That&apos;s ~33 months of preferred dividends + debt interest covered. This week: • $333.7M raised via MSTR • $149.1M added to reserves • $132.2M used to retire $138.9M of STRC • Zero BTC bought or sold USD duration jumped +41 days.",
+      "pubDate": "Wed, 19 Aug 2026 08:29:41 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2089993190631678279#m",
+      "keywords": [
+        "Strategy(MSTR)",
+        "기관 매집",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 08:27:19 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 1,999 $BTC (128,536,200 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/b5c19a196bc26a8989e7f742fa3b5375326b94c69953260682cecaa22a805824",
+      "pubDate": "Wed, 19 Aug 2026 08:27:19 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089992595883667688#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
     {
       "id": "lookonchain__Wed, 19 Aug 2026 03:14:50 GMT",
       "handle": "lookonchain",
@@ -917,7 +1116,7 @@
       "label": "Rekt Capital",
       "category": "기술적 분석",
       "color": "amber",
-      "text": "New edition of the RC Newsletter is out! Bitcoin Bear Market Bottom Lays Ahead - Here&apos;s Why Summer Range Breakdown Soon? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-bear-market-bottom-lays-ahead-heres-why/ #BTC $BTC #Bitcoin",
+      "text": "RT by @rektcapital: New edition of the RC Newsletter is out! Bitcoin Bear Market Bottom Lays Ahead - Here&apos;s Why Summer Range Breakdown Soon? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-bear-market-bottom-lays-ahead-heres-why/ #BTC $BTC #Bitcoin",
       "pubDate": "Mon, 17 Aug 2026 14:41:43 GMT",
       "link": "https://nitter.net/rektcapital/status/2089362040141803981#m",
       "keywords": [
@@ -1007,269 +1206,6 @@
       ]
     },
     {
-      "id": "glassnode__Mon, 17 Aug 2026 12:32:37 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: Cheap vol ≠ good value. $BTC implied vol is in the bottom 2% of its history, yet options still price ~1.5x what the tape delivers. Our vol value trap score prints 91/100. Hasn&apos;t been this high in more than 3.5 years.",
-      "pubDate": "Mon, 17 Aug 2026 12:32:37 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2089329552174522679#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 12:09:26 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales are buying $BNB! Two newly created wallets withdrew 20,007 $BNB($12.1M) from #Binance 7 hours ago. https://arkm.com/explorer/address/0x383aa1d742CdDD874dFe88ADDC5e859c8B66eB8D https://arkm.com/explorer/address/0xA61244aAa69823A2c8313DC2f91A2C368CCbC9f8",
-      "pubDate": "Mon, 17 Aug 2026 12:09:26 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089323715855364433#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 17 Aug 2026 11:38:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Volatility-Adjusted Momentum Just Crossed Below Zero, and the Risk Oscillator Is Back at Its Prior Turning Level “Together they describe a market with no support from either side of the book.” – By @RugaResearch Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a81cb57d04c8b6fbb1114f0-Volatility-Adjuste",
-      "pubDate": "Mon, 17 Aug 2026 11:38:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089315805335011364#m",
-      "keywords": [
-        "지지선",
-        "TA"
-      ]
-    },
-    {
-      "id": "rektcapital__Mon, 17 Aug 2026 11:07:12 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC With \"limited relief-focused upside\" in July having concluded and Bitcoin being in multi-week Lower Highs ever since... Turning the 200-week SMA into new resistance would be the confirmation to set up additional downside to perform a deeper downside deviation below the SMA in search of the final Bear Market bottom",
-      "pubDate": "Mon, 17 Aug 2026 11:07:12 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089308056655888642#m",
-      "keywords": [
-        "약세장",
-        "저항선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 10:46:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 843 $BTC (53,593,489 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/8b470e6abcdad029432a62663399eb25f288f8f220331aec0ffb451de4864a16",
-      "pubDate": "Mon, 17 Aug 2026 10:46:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089302801352462760#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Mon, 17 Aug 2026 10:42:10 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Indeed, these things came true \"The macro perspective suggests price will try to get as close as possible to the 50-Month EMA (~$66k) this July\" Bitcoin indeed rallied to ~$66k in July And price needed to hold the 200-week SMA as support to \"facilitate that additional relief rally into the general ~$66k area befor",
-      "pubDate": "Mon, 17 Aug 2026 10:42:10 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089301755204968581#m",
-      "keywords": [
-        "지지선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 17 Aug 2026 10:17:34 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: bitcoin:native, normally the most volatile major asset, is quieter than gold, silver, and oil. Even US indices aren’t far behind. This is why volume and liquidity are in commodities and equities right now.",
-      "pubDate": "Mon, 17 Aug 2026 10:17:34 GMT",
-      "link": "https://nitter.net/anti_fragile/status/2089295563942731848#m",
-      "keywords": [
-        "유동성",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 09:52:54 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,491 $BTC (94,376,246 USD) transferred from unknown wallet to #OKEX https://whale-alert.io/tx/bitcoin/2953ab891febf9ce30414650f12f2c656500833582083583cb67e75d2a802d68",
-      "pubDate": "Mon, 17 Aug 2026 09:52:54 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089289357601431880#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 17 Aug 2026 09:22:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin&apos;s Coinbase Premium Index Has Been Negative for 102 Straight Days “The metric sits at -0.10 — deep in negative territory. Until this index crosses back above zero, a high-momentum uptrend in BTC is unlikely.” – By @burak_kesmeci Link ⤵️ https://cryptoquant.com/insights/quicktake/6a80474a4212673b03e70706-Bit",
-      "pubDate": "Mon, 17 Aug 2026 09:22:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089281579806069103#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 09:13:55 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 130,000,000 $USDT (129,870,454 USD) transferred from Tether Treasury to #Bitfinex https://whale-alert.io/tx/ethereum/0x3ad1c3039c6b0f4a8ad13d25a6745275c060f85c3e4b86222bd383ced5a3008f",
-      "pubDate": "Mon, 17 Aug 2026 09:13:55 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089279546226819553#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "rektcapital__Mon, 17 Aug 2026 08:44:37 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin has Weekly Closed below the orange level, losing it as support As a result, price is technically positioned to turn this recently lost support into new resistance A rejection from $63220 would fully confirm the breakdown and send price lower within the current ~$58000-$6600 Range (blue-blue) $BTC #Bitcoin",
-      "pubDate": "Mon, 17 Aug 2026 08:44:37 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089272172879507805#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "지지선",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Mon, 17 Aug 2026 08:39:13 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "3 Things That Will Change How You See the Bitcoin Bear Market Checkout the full video here: https://youtu.be/ZAGbis1hfXw?si=_rjD1PGcY32WgcWy Enjoy and Subscribe! $BTC #BTC #Bitcoin",
-      "pubDate": "Mon, 17 Aug 2026 08:39:13 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089270814529012031#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 17 Aug 2026 08:34:45 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "This is one of the cheapest times to buy volatility in years. However, the data shows recent buyers still did not make money. bitcoin:native simply delivered less movement than people paid for.",
-      "pubDate": "Mon, 17 Aug 2026 08:34:45 GMT",
-      "link": "https://nitter.net/glassnode/status/2089269688958411198#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 08:34:20 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "CXMT has surged above $9. The whale(0xf292) shorting 2.9M $CXMT($26.13M) is now down over $11M in total, including $3.82M in funding fees and $7.26M in unrealized losses. https://hypurrscan.io/address/0xf2925cb0779a741fe33037cbd88fca5382e41244#perps",
-      "pubDate": "Mon, 17 Aug 2026 08:34:20 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089269585505886675#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "Funding Rate"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 08:13:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 32,400 $ETH (61,463,827 USD) transferred from unknown wallet to Beacon Depositor https://whale-alert.io/tx/ethereum/0x820c03cf91a2660efcfbd7d54edc6ab782bee3c34953ba108735677eff7405e5",
-      "pubDate": "Mon, 17 Aug 2026 08:13:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089264299818500112#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 17 Aug 2026 07:44:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @DanCoinInvestor: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a8291f2d3ed077dcf2d0ab3-The-idea-of-catching-the-absolute-bottom-is-wrong?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=crypto-dan",
-      "pubDate": "Mon, 17 Aug 2026 07:44:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089256917155594328#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Mon, 17 Aug 2026 07:41:23 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "R to @rektcapital: I share price analysis on Bitcoin and Altcoins every Monday, Wednesday & Friday in my newsletter 88,000+ people read it for practical guidance to better understand and navigate the Crypto market in real-time Join for free here: https://newsletter.rektcapital.co.uk/#/portal/ #BTC #Crypto #Bitcoin",
-      "pubDate": "Mon, 17 Aug 2026 07:41:23 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089256258696061330#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Mon, 17 Aug 2026 07:38:42 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "The Idea of Catching the Absolute Bottom is Wrong “The window of opportunity lasts longer than most people expect. Yet this is precisely when the majority leave the market.” – By @DanCoinInvestor",
-      "pubDate": "Mon, 17 Aug 2026 07:38:42 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089255585174745599#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 06:58:59 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 2,782 $BTC (176,987,590 USD) transferred from #Bitstamp to unknown wallet https://whale-alert.io/tx/bitcoin/ea313c632d28813249fc684c164b02a0601622cd49ca8e8116f7c390828a3f24",
-      "pubDate": "Mon, 17 Aug 2026 06:58:59 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089245591259811923#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
       "id": "EricBalchunas__Mon, 17 Aug 2026 03:56:35 GMT",
       "handle": "EricBalchunas",
       "label": "Balchunas (ETF)",
@@ -1293,6 +1229,52 @@
         "BTC 사이클",
         "BTC"
       ]
+    },
+    {
+      "id": "EricBalchunas__Sun, 16 Aug 2026 15:25:57 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Heavenly scenes here today on the panhandle. Air temp and water temp are both 85 degrees. About as Caribbean as you can get in US.",
+      "pubDate": "Sun, 16 Aug 2026 15:25:57 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2089010782675620336#m",
+      "keywords": []
+    },
+    {
+      "id": "EricBalchunas__Sun, 16 Aug 2026 14:01:29 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Morning jog views (Miramar beach): No Golf Cart sign. Something you def don’t see in Philly. Everyone I passed said good morning, also something you don’t see in Philly (altho I can’t help but love the place anyway)",
+      "pubDate": "Sun, 16 Aug 2026 14:01:29 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2088989527285039434#m",
+      "keywords": [
+        "LTH 보유자"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Sun, 16 Aug 2026 12:32:42 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "The top 10 stocks in the S&P make up 39% of the index’s weight but contributed 41% of its earnings. Great stat. The Dream Team doing Dream Team things.",
+      "pubDate": "Sun, 16 Aug 2026 12:32:42 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2088967185116823582#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Sun, 16 Aug 2026 04:28:46 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "This is actually insane",
+      "pubDate": "Sun, 16 Aug 2026 04:28:46 GMT",
+      "link": "https://nitter.net/JSeyff/status/2088845397380767866#m",
+      "keywords": []
     }
   ]
 }
