@@ -1,6 +1,345 @@
 {
-  "updatedAt": "2026-08-19T12:59:07.181Z",
+  "updatedAt": "2026-08-19T18:44:09.222Z",
   "items": [
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 17:44:07 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,008,999 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/61VKom7uVWzbxPN3PqjzJzNJ7Mc3nSLRBgxRCKSagy9xzEEmfNMuzbffuya9UesTJv2rcaLbkp82JzAGXqKrd2Dy",
+      "pubDate": "Wed, 19 Aug 2026 17:44:07 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090132718789017775#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 17:39:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,072,499 USD) minted at USDC Treasury https://whale-alert.io/tx/solana/57NNeNtHF6fA5LCSnJ2Swi4UawvTAPVz5dkqRi5rsRxJkiFhJH6qxN5J9ND4wgUywXpHLUGmE8DPNFhyVyLbAwJk",
+      "pubDate": "Wed, 19 Aug 2026 17:39:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090131470429896714#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "JSeyff__Wed, 19 Aug 2026 17:18:29 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "What a violent move upward that was violently rejected by the 200-day average (for now?)",
+      "pubDate": "Wed, 19 Aug 2026 17:18:29 GMT",
+      "link": "https://nitter.net/JSeyff/status/2090126269090328934#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 16:50:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 336,286 $HYPE (20,981,613 USD) transferred from unknown wallet to #HyperCore https://whale-alert.io/tx/hyperliquid/0x69731a034a2383fe37db500bc8815f61497d6a308113e13be651b725c228603d",
+      "pubDate": "Wed, 19 Aug 2026 16:50:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090119224748392957#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "glassnode__Wed, 19 Aug 2026 16:32:35 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "Elevated yields keep BTC anchored near cycle lows while gold and oil rally. Price sits below two key cost bases in a shallow capitulation. Perpetual demand improves but US spot lags and volatility compresses. The bottoming process is underway.",
+      "pubDate": "Wed, 19 Aug 2026 16:32:35 GMT",
+      "link": "https://nitter.net/glassnode/status/2090114717624742256#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 16:21:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,409 $BTC (96,796,358 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/ee16254fb280b42f91eb1c3ba3f705c2332b97ea8abe96d96a2386ecbf01c907",
+      "pubDate": "Wed, 19 Aug 2026 16:21:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090112049934201297#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 16:19:01 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,000 $BTC (137,329,930 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/bitcoin/87d3dbe76f7294ae0105e2ce39c15277a93ae564f1b9f2c3538979b255e7ba2a",
+      "pubDate": "Wed, 19 Aug 2026 16:19:01 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090111304111411560#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 16:17:59 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,216 $BTC (83,551,756 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/9418a452e17188917af43292f936706f461a2705eef44030f4a2d6d9f7e2aa73",
+      "pubDate": "Wed, 19 Aug 2026 16:17:59 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090111042663616676#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "기관 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Wed, 19 Aug 2026 16:17:35 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "$500m worth of shorts were just liquidated within minutes. As BTC spiked to over $69k, open interest dropped due to positions being force-closed. It looks like the market was predominantly short for this move up.",
+      "pubDate": "Wed, 19 Aug 2026 16:17:35 GMT",
+      "link": "https://nitter.net/glassnode/status/2090110942789210113#m",
+      "keywords": [
+        "OI",
+        "미결제약정",
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 16:03:40 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "Spot and Futures Demand “Spot and perpetual futures demand growth have both crossed back above zero on the 30-day sum. It is the first time in months that the two are positive at the same time.” – By @RugaResearch Complete breakdown ⤵️ https://cryptoquant.com/insights/quicktake/6a84ca70d3ed077dcf2d0e75-Spot-and-Futures",
+      "pubDate": "Wed, 19 Aug 2026 16:03:40 GMT",
+      "link": "https://nitter.net/cryptoquant_com/status/2090107437990719600#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 15:49:29 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "In just the past hour, $1.13B in shorts were liquidated! 0x8c96 had his entire 1,800 $BTC($117M) short liquidated today. 0x431f was completely wiped out, with 677 $BTC ($44M) liquidated. 0x004e was completely wiped out, with 500 $BTC ($33M) liquidated. https://hypurrscan.io/address/0x8c96e5a2d770f9f2c9d2464ce4e741df0b2",
+      "pubDate": "Wed, 19 Aug 2026 15:49:29 GMT",
+      "link": "https://nitter.net/lookonchain/status/2090103868197925371#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Wed, 19 Aug 2026 15:48:24 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "I&apos;ve published a new Altcoin Watchlist🔥 I share my charts & analysis on 6 Altcoins These Altcoins are $SUI $ZEC $JUP $CPOOL $CTSI $HYPE I share an Altcoin Watchlist like this every Wednesday Sign up & read here: https://newsletter.rektcapital.co.uk/altcoin-watchlist-157/ #BTC #Bitcoin",
+      "pubDate": "Wed, 19 Aug 2026 15:48:24 GMT",
+      "link": "https://nitter.net/rektcapital/status/2090103595832078592#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 15:42:50 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Bitcoin apparent spot demand entered into expansion territory a few days ago for just the second time in 2026. Historically, the median return is 23% in the next 60 days after this happens during a bear market. Full details in our report published yesterday: https://cryptoquant.com/insights/rese",
+      "pubDate": "Wed, 19 Aug 2026 15:42:50 GMT",
+      "link": "https://nitter.net/jjcmoreno/status/2090102197895774699#m",
+      "keywords": [
+        "약세장",
+        "BTC"
+      ]
+    },
+    {
+      "id": "JSeyff__Wed, 19 Aug 2026 15:31:29 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @FrancisSharoon: We sliced and diced this a bunch of different ways -- all of which are in the research note linked below including everything here and a lot more. We&apos;re still doing a lot of work with this data set. https://blinks.bloomberg.com/news/stories/TJYOYBRKV2TS",
+      "pubDate": "Wed, 19 Aug 2026 15:31:29 GMT",
+      "link": "https://nitter.net/JSeyff/status/2090099342120018052#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Wed, 19 Aug 2026 15:29:11 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @FrancisSharoon: Part of this is just reversion to the mean and overcrowding in action. For excess returns we compared stocks against the returns of its size peers. But this data was particularly compelling when you only look at small caps...",
+      "pubDate": "Wed, 19 Aug 2026 15:29:11 GMT",
+      "link": "https://nitter.net/JSeyff/status/2090098762387513700#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Wed, 19 Aug 2026 15:14:02 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "NEW: @FrancisSharoon and I wrote some research about active & passive fund buying and their combined impact on prices. It what should be shocking to no-one. The stocks most bought by active & passive funds over the last 3 years were FAR far more likely to outperform their peers.",
+      "pubDate": "Wed, 19 Aug 2026 15:14:02 GMT",
+      "link": "https://nitter.net/JSeyff/status/2090094947420561833#m",
+      "keywords": []
+    },
+    {
+      "id": "rektcapital__Wed, 19 Aug 2026 14:58:34 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin will need to rally a lot more that what it has produced thus far if price is to invalidate the \"weakening support\" idea At the moment, technicals are pointing to $60k as a weakening macro support $BTC #Bitcoin",
+      "pubDate": "Wed, 19 Aug 2026 14:58:34 GMT",
+      "link": "https://nitter.net/rektcapital/status/2090091055299334313#m",
+      "keywords": [
+        "지지선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 19 Aug 2026 14:54:00 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC History suggests Bitcoin is approaching a resistance area it won&apos;t be able to breach at this very moment in the market cycle $BTC #Bitcoin",
+      "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT",
+      "link": "https://nitter.net/rektcapital/status/2090089905711956474#m",
+      "keywords": [
+        "BTC 사이클",
+        "저항선",
+        "TA",
+        "BTC"
+      ]
+    },
+    {
+      "id": "rektcapital__Wed, 19 Aug 2026 14:53:30 GMT",
+      "handle": "rektcapital",
+      "label": "Rekt Capital",
+      "category": "기술적 분석",
+      "color": "amber",
+      "text": "#BTC Bitcoin will try to squeeze you into position you never planned on building at these price levels Which is why it&apos;s never worth FOMOing on a green day If you must FOMO - do so on a red day $BTC #Bitcoin",
+      "pubDate": "Wed, 19 Aug 2026 14:53:30 GMT",
+      "link": "https://nitter.net/rektcapital/status/2090089781380194741#m",
+      "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 14:51:03 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "August 19 Update: #Bitcoin ETFs: 1D NetFlow: +3,134 $BTC(+$204.36M)🟢 7D NetFlow: +3,413 $BTC(+$222.5M)🟢 #Ethereum ETFs: 1D NetFlow: +34,698 $ETH(+$67.17M)🟢 7D NetFlow: +57,917 $ETH(+$112.12M)🟢",
+      "pubDate": "Wed, 19 Aug 2026 14:51:03 GMT",
+      "link": "https://nitter.net/lookonchain/status/2090089164087972076#m",
+      "keywords": [
+        "Netflow",
+        "거래소 흐름",
+        "ETF 수급",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 14:28:25 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,853 $BTC (121,179,601 USD) transferred from #Coinbase to unknown wallet https://whale-alert.io/tx/bitcoin/4c9e95b85e6780de4b7d29baa25830b490f9347480151b779c47a8ec6e8fe95e",
+      "pubDate": "Wed, 19 Aug 2026 14:28:25 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090083467392336033#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 14:19:40 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,182 $BTC (77,311,820 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/22ce063c3b5907a94f6bf257b8fdeed3c4f1f42c60c7bae7737e7f42f2e40ee4",
+      "pubDate": "Wed, 19 Aug 2026 14:19:40 GMT",
+      "link": "https://nitter.net/whale_alert/status/2090081266313871833#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 13:41:37 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Whales are shorting $ETH! Two whales are shorting a total of 50,838 $ETH ($98M) on Hyperliquid. https://hypurrscan.io/address/0x6de826934315dec6bfba7a20be881d76d4f76e4c#perps https://hypurrscan.io/address/0xc63a0f0db2c9604283172e83bd035902e0f0a3cd#perps",
+      "pubDate": "Wed, 19 Aug 2026 13:41:37 GMT",
+      "link": "https://nitter.net/lookonchain/status/2090071692307755297#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 13:38:33 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Gambler 0x8c96 was partially liquidated for 288 $BTC($18.74M) again. Current position: 1,152 $BTC($74.7M) New liquidation price: $65,232.47",
+      "pubDate": "Wed, 19 Aug 2026 13:38:33 GMT",
+      "link": "https://nitter.net/lookonchain/status/2090070917804388558#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "EricBalchunas__Wed, 19 Aug 2026 13:03:20 GMT",
+      "handle": "EricBalchunas",
+      "label": "Balchunas (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "emerald",
+      "text": "Doing a different kind of trolling today.. 🎣",
+      "pubDate": "Wed, 19 Aug 2026 13:03:20 GMT",
+      "link": "https://nitter.net/EricBalchunas/status/2090062056732963022#m",
+      "keywords": []
+    },
     {
       "id": "ColinTCrypto__Wed, 19 Aug 2026 12:43:34 GMT",
       "handle": "ColinTCrypto",
@@ -74,6 +413,20 @@
       "pubDate": "Wed, 19 Aug 2026 10:43:16 GMT",
       "link": "https://nitter.net/cryptoquant_com/status/2090026807403716630#m",
       "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "cryptoquant_com__Wed, 19 Aug 2026 10:32:20 GMT",
+      "handle": "cryptoquant_com",
+      "label": "CryptoQuant",
+      "category": "온체인/파생상품",
+      "color": "cyan",
+      "text": "RT by @cryptoquant_com: Many comments about the positive inflows into spot Bitcoin ETFs have been circulating recently. Positive in the short term, but over the long term 2026 = -102,000 BTC. A true exodus, and the worst year ever for ETFs.",
+      "pubDate": "Wed, 19 Aug 2026 10:32:20 GMT",
+      "link": "https://nitter.net/Darkfost_Coc/status/2090024058431631766#m",
+      "keywords": [
+        "ETF 수급",
         "BTC"
       ]
     },
@@ -934,347 +1287,6 @@
         "고래",
         "Whale"
       ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 23:01:05 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 959 $BTC (61,688,622 USD) transferred from Coinbase Institutional to unknown wallet https://whale-alert.io/tx/bitcoin/e4ea6e82a874a229281d1416179bd9bd4cb91b07ee9743b0582e64e80afb6309",
-      "pubDate": "Mon, 17 Aug 2026 23:01:05 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089487708825534669#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 22:53:50 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 817 $BTC (52,532,473 USD) transferred from unknown wallet to Coinbase Institutional https://whale-alert.io/tx/bitcoin/a7745025ed09af794d8cf69ca5b755ed5a2c7ae3010c7cf16cde550f8114ed78",
-      "pubDate": "Mon, 17 Aug 2026 22:53:50 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089485884332618146#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "기관 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 21:16:30 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,326 $BTC (85,392,318 USD) transferred from #OKEX to unknown wallet https://whale-alert.io/tx/bitcoin/426a7031defcc210f349eeeb617dfe05f4a05976a272a241b05da5e3e80e3c53",
-      "pubDate": "Mon, 17 Aug 2026 21:16:30 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089461390587085267#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 20:41:29 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 954 $BTC (61,417,969 USD) transferred from #FalconX to unknown wallet https://whale-alert.io/tx/bitcoin/e250e2be81d618de48512b5720de74387bca1f29bba41f47ae9558925c77f8ac",
-      "pubDate": "Mon, 17 Aug 2026 20:41:29 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089452579000332548#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 20:34:54 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 954 $BTC (61,410,062 USD) transferred from unknown wallet to #FalconX https://whale-alert.io/tx/bitcoin/233d2c108efe38956517f760daab3afcce672e088d2598733ffce52d9190451d",
-      "pubDate": "Mon, 17 Aug 2026 20:34:54 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089450922208338024#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 17 Aug 2026 20:02:57 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "R to @glassnode: In fact, BTC only outperformed the S&P500 on around one third of trading days over the last 3 months. This is the longest underperformance streak we&apos;ve seen over the last 6 years of history. The question now is whether this is the start of a trend or just one of those 3 days. 2/2",
-      "pubDate": "Mon, 17 Aug 2026 20:02:57 GMT",
-      "link": "https://nitter.net/glassnode/status/2089442880255607037#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Mon, 17 Aug 2026 20:02:56 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "bitcoin:native outperformed the stock market today. This has become a less common occurrence lately. 1/2",
-      "pubDate": "Mon, 17 Aug 2026 20:02:56 GMT",
-      "link": "https://nitter.net/glassnode/status/2089442876346577346#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Mon, 17 Aug 2026 15:51:43 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "As Tesla self-driving cars become more pervasive in society, the number of accidents will go down for OTHER vehicles as well, by shear byproduct of Tesla’s extreme reaction time and safety. Put another way: More FSD Teslas on the road = safer driving for EVERYONE, regardless of what car they drive. This is pretty cool.",
-      "pubDate": "Mon, 17 Aug 2026 15:51:43 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2089379657783160934#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Mon, 17 Aug 2026 15:38:41 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "R to @JSeyff: bloomberg.com/live/us",
-      "pubDate": "Mon, 17 Aug 2026 15:38:41 GMT",
-      "link": "https://nitter.net/JSeyff/status/2089376375018762734#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 17 Aug 2026 15:38:21 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: From 12-1 I’m subbing in for @EricBalchunas on BBG’s ETFIQ. @scarletfu and I will be talking to @Todd_Sohn. We’ll be looking at $FFF — founders ETF. @neil_sipes4 will be on to talk about the Goldman NEOS deal. We’ll be looking at $OMAH & talking white labels w/ @TeucriumETFs",
-      "pubDate": "Mon, 17 Aug 2026 15:38:21 GMT",
-      "link": "https://nitter.net/JSeyff/status/2089376291854143826#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "JSeyff__Mon, 17 Aug 2026 15:38:21 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "From 12-1 I’m subbing in for @EricBalchunas on BBG’s ETFIQ. @scarletfu and I will be talking to @Todd_Sohn. We’ll be looking at $FFF — founders ETF. @neil_sipes4 will be on to talk about the Goldman NEOS deal. We’ll be looking at $OMAH & talking white labels w/ @TeucriumETFs",
-      "pubDate": "Mon, 17 Aug 2026 15:38:21 GMT",
-      "link": "https://nitter.net/JSeyff/status/2089376291854143826#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 15:04:21 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This dumb money bought back 1,674 $ETH ($3.19M) at a high price of $1,906 again. This guy is always selling low and buying high. Two months ago, he still had 1,891 $ETH. Now he has only 1,674 $ETH, losing 217 $ETH ($414K) through swing trading. Sometimes, just holding is better than trading blindly. https://debank.com/",
-      "pubDate": "Mon, 17 Aug 2026 15:04:21 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089367736736694385#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Mon, 17 Aug 2026 14:44:37 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: CME has set a tentative launch date of Sept. 28 for NHL team futures (on which these ETFs are based). Bonus: CME NASCAR futures could be a thing next year as well?",
-      "pubDate": "Mon, 17 Aug 2026 14:44:37 GMT",
-      "link": "https://nitter.net/fairplaygov/status/2089362769464168479#m",
-      "keywords": [
-        "ETF 수급"
-      ]
-    },
-    {
-      "id": "rektcapital__Mon, 17 Aug 2026 14:41:43 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: New edition of the RC Newsletter is out! Bitcoin Bear Market Bottom Lays Ahead - Here&apos;s Why Summer Range Breakdown Soon? Sign up here: https://newsletter.rektcapital.co.uk/bitcoin-bear-market-bottom-lays-ahead-heres-why/ #BTC $BTC #Bitcoin",
-      "pubDate": "Mon, 17 Aug 2026 14:41:43 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089362040141803981#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "ColinTCrypto__Mon, 17 Aug 2026 14:41:10 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "Take note of how long $BTC *could* remain below the 200-week moving average:",
-      "pubDate": "Mon, 17 Aug 2026 14:41:10 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2089361902811877611#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Mon, 17 Aug 2026 14:40:08 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "still looks to be the case",
-      "pubDate": "Mon, 17 Aug 2026 14:40:08 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2089361643750805950#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 14:27:42 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Aug 10–Aug 16, 2026 #LookonchainWeeklyReport 🟢 Overview Stablecoin supply grew by $40.88M last week, DEX spot volume fell and perp volume fell, while public companies shed 2,501 BTC. 🟢 Stablecoin Market The total stablecoin market cap increased by $40.88M. 🟢 Spot & Perps Trading Volume on DEXs DEX spot volume fell 1",
-      "pubDate": "Mon, 17 Aug 2026 14:27:42 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089358514213036234#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 14:24:11 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "August 17 Update: #Bitcoin ETFs: 1D NetFlow: -1,010 $BTC(-$64.25M)🔴 7D NetFlow: -6,631 $BTC(-$421.76M)🔴 #Ethereum ETFs: 1D NetFlow: +3,457 $ETH(+$6.58M)🟢 7D NetFlow: -3,549 $ETH(-$6.75M)🔴",
-      "pubDate": "Mon, 17 Aug 2026 14:24:11 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089357626232717630#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 17 Aug 2026 13:25:47 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Inspired by the X discussion @EricBalchunas kicked off last week about how a lot of Gen-Z is trusting sports betting, prediction markets rather than your traditional markets, I wrote about how a lack of faith in your 401(k) should serve as a warning to both parties on Capitol Hill. https://www.blo",
-      "pubDate": "Mon, 17 Aug 2026 13:25:47 GMT",
-      "link": "https://nitter.net/nathandeanDC/status/2089342930838245886#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Mon, 17 Aug 2026 13:17:32 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "bitcoin:native holds near $63.6k as weak spot liquidity, ETF outflows and loss realization keep conditions subdued. Stabilising capital flows suggest selling pressure may be easing, but conviction remains limited. Read this week’s Market Pulse👇 https://glassno.de/3TXn1bG",
-      "pubDate": "Mon, 17 Aug 2026 13:17:32 GMT",
-      "link": "https://nitter.net/glassnode/status/2089340854724968726#m",
-      "keywords": [
-        "ETF 수급",
-        "ETF 유출",
-        "유동성",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Mon, 17 Aug 2026 03:56:35 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "RT by @EricBalchunas: Gen Alpha has already started roasting Gen Z. 😂😂😂😂😂",
-      "pubDate": "Mon, 17 Aug 2026 03:56:35 GMT",
-      "link": "https://nitter.net/deebayleaf/status/2089199687228359060#m",
-      "keywords": []
-    },
-    {
-      "id": "ColinTCrypto__Sun, 16 Aug 2026 17:19:01 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "If $BTC loses $62.3k, it&apos;s over. If that happens, BTC will almost certainly revisit cycle lows, or go even lower. Why? It would simultaneously be: - A break down below the right shoulder of the larger iH&S (image 1), thus invalidating the bottom pattern, AND - A break down below the smaller H&S (image 2). https://",
-      "pubDate": "Sun, 16 Aug 2026 17:19:01 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2089039239035945157#m",
-      "keywords": [
-        "BTC 사이클",
-        "BTC"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 16 Aug 2026 15:25:57 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Heavenly scenes here today on the panhandle. Air temp and water temp are both 85 degrees. About as Caribbean as you can get in US.",
-      "pubDate": "Sun, 16 Aug 2026 15:25:57 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2089010782675620336#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 16 Aug 2026 14:01:29 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Morning jog views (Miramar beach): No Golf Cart sign. Something you def don’t see in Philly. Everyone I passed said good morning, also something you don’t see in Philly (altho I can’t help but love the place anyway)",
-      "pubDate": "Sun, 16 Aug 2026 14:01:29 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088989527285039434#m",
-      "keywords": [
-        "LTH 보유자"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 16 Aug 2026 12:32:42 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "The top 10 stocks in the S&P make up 39% of the index’s weight but contributed 41% of its earnings. Great stat. The Dream Team doing Dream Team things.",
-      "pubDate": "Sun, 16 Aug 2026 12:32:42 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088967185116823582#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sun, 16 Aug 2026 04:28:46 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "This is actually insane",
-      "pubDate": "Sun, 16 Aug 2026 04:28:46 GMT",
-      "link": "https://nitter.net/JSeyff/status/2088845397380767866#m",
-      "keywords": []
     }
   ]
 }
