@@ -1,6 +1,120 @@
 {
-  "updatedAt": "2026-08-18T18:48:15.082Z",
+  "updatedAt": "2026-08-19T01:41:58.430Z",
   "items": [
+    {
+      "id": "ColinTCrypto__Wed, 19 Aug 2026 01:35:22 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "$BTC Range tightening. Breakout likely.",
+      "pubDate": "Wed, 19 Aug 2026 01:35:22 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2089888925166805386#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 01:14:49 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 190,000,000 $USDT (189,872,700 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/solana/3N9FqL4y3rAWjMU6eQLcDSGKMrHQFAPK5rrdwitRxaCkSxg9bd4cbwfFoWt4FmRDL94utPYydhxaQJC7iSaWweAp",
+      "pubDate": "Wed, 19 Aug 2026 01:14:49 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089883753262768401#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 01:11:42 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Trader 0x3be7 opened a 10x long on 1.94B $PUMP ($6M) and is currently up $246K. Liquidation price: $0.002852 https://hypurrscan.io/address/0x3be714dbe0d3a33ae89b04f8caf93364c98b4b1f#perps",
+      "pubDate": "Wed, 19 Aug 2026 01:11:42 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089882967292420337#m",
+      "keywords": [
+        "청산"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 00:57:22 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A newly created wallet received 9.3M $KTA ($685K) and 2B $GALA ($3M) via cross-chain bridges, then sold them for 1,902 $ETH($3.64M). This caused $KTA to crash 37% and $GALA to crash 15%. Looks a bit suspicious. https://arkm.com/explorer/address/0x573F234215De665Fd6867c8BE55c33d62F69E76d",
+      "pubDate": "Wed, 19 Aug 2026 00:57:22 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089879360459440574#m",
+      "keywords": []
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 00:25:47 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "Multicoin Capital deposited another 172,710 $HYPE($10.15M) into #CoinbasePrime 7 hours ago. https://arkm.com/explorer/entity/multicoin-capital",
+      "pubDate": "Wed, 19 Aug 2026 00:25:47 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089871412739883137#m",
+      "keywords": []
+    },
+    {
+      "id": "whale_alert__Wed, 19 Aug 2026 00:10:30 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 192,661,387 $USDC (192,696,452 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x4d6112962d502a35b45e3e31a282e5776c4d23cf885cd313a12b1d279e24a690",
+      "pubDate": "Wed, 19 Aug 2026 00:10:30 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089867566848126978#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 23:36:20 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 192,581,404 $USDC (192,618,283 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x44c96b8cdad9f5f45122ec09bb0a95b74c0d0c24b2f887b448621748b10271c8",
+      "pubDate": "Tue, 18 Aug 2026 23:36:20 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089858968281571752#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 21:23:44 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,621 $BTC (104,749,456 USD) transferred from #OKEX to unknown wallet https://whale-alert.io/tx/bitcoin/26948eb0764932a759d3aaac6f9c5d826c782c7a028a11905926a67e16a7f839",
+      "pubDate": "Tue, 18 Aug 2026 21:23:44 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089825599728554243#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "glassnode__Tue, 18 Aug 2026 21:08:35 GMT",
+      "handle": "glassnode",
+      "label": "Glassnode",
+      "category": "온체인 심리",
+      "color": "violet",
+      "text": "RT by @glassnode: Cryptos slowly starting to hold their own against stocks. Looking better over the past two months.",
+      "pubDate": "Tue, 18 Aug 2026 21:08:35 GMT",
+      "link": "https://nitter.net/n3ocortex/status/2089821787949236243#m",
+      "keywords": []
+    },
     {
       "id": "rektcapital__Tue, 18 Aug 2026 17:57:07 GMT",
       "handle": "rektcapital",
@@ -68,6 +182,51 @@
       "keywords": [
         "OI",
         "미결제약정"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 16:26:19 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,001 $BTC (129,515,982 USD) transferred from #Coinbase to unknown wallet https://whale-alert.io/tx/bitcoin/cbcf3cd00efbbc512e0aebeb90b5fbfad7dda943f54a3bacda9d8d920d3ee324",
+      "pubDate": "Tue, 18 Aug 2026 16:26:19 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089750752419840488#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 16:22:09 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 1,402 $BTC (90,804,178 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/03362c28afbdcde6247fd24095cab477637f5b732f0c9e30ec92ff4f4f8091cc",
+      "pubDate": "Tue, 18 Aug 2026 16:22:09 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089749703227240747#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 16:13:29 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,815 $BTC (117,502,870 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/26d0a07a8c60fbc43f54114e6db7473b5166028766e09c5cf63011f71f83e964",
+      "pubDate": "Tue, 18 Aug 2026 16:13:29 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089747522549907946#m",
+      "keywords": [
+        "고래",
+        "Whale",
+        "BTC"
       ]
     },
     {
@@ -171,6 +330,21 @@
       "pubDate": "Tue, 18 Aug 2026 14:01:46 GMT",
       "link": "https://nitter.net/rektcapital/status/2089714375183495285#m",
       "keywords": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "whale_alert__Tue, 18 Aug 2026 13:36:24 GMT",
+      "handle": "whale_alert",
+      "label": "Whale Alert",
+      "category": "고래 추적",
+      "color": "teal",
+      "text": "🚨 🚨 🚨 🚨 🚨 1,886 $BTC (120,879,250 USD) transferred from unknown wallet to unknown new wallet https://whale-alert.io/tx/bitcoin/e6afd7547b7a21ec01562906264a8838ed6d86e691d510813b73def6d8d9c27f",
+      "pubDate": "Tue, 18 Aug 2026 13:36:24 GMT",
+      "link": "https://nitter.net/whale_alert/status/2089707991016603829#m",
+      "keywords": [
+        "고래",
+        "Whale",
         "BTC"
       ]
     },
@@ -1111,166 +1285,6 @@
       "text": "R to @lookonchain: 4/ He didn&apos;t rush to sell the rest. Instead, he sold little by little so he wouldn&apos;t miss out if $MARSCOIN kept going up. In the end, he sold the remaining 42.3M $MARSCOIN for 465 $BNB ($282K), making him the most profitable wallet on $MARSCOIN.",
       "pubDate": "Mon, 17 Aug 2026 02:46:43 GMT",
       "link": "https://nitter.net/lookonchain/status/2089182102524944561#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 02:46:40 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "This trader made $282K in just a few hours — a 29x return — by monitoring CZ&apos;s wallet! How did he do it? 1/ Here&apos;s his strategy.👇",
-      "pubDate": "Mon, 17 Aug 2026 02:46:40 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089182090369937727#m",
-      "keywords": [
-        "Strategy(MSTR)",
-        "기관 매집"
-      ]
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 01:59:30 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Meet a smart trader 0x0121. 4 months ago, he bought $ASTEROID at $126K MC and is now up 140x. Recently, he bought $牛来 below $750K MC and is now up 39x. 4 months ago, he spent 1.25 $ETH ($3K) to buy 10.05B $ASTEROID using 5 wallets, then sold 6.85B $ASTEROID for 90.95 $ETH($220K). He still holds 3.2B $ASTEROID($206K), w",
-      "pubDate": "Mon, 17 Aug 2026 01:59:30 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089170222205009993#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 00:39:05 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "R to @lookonchain: Wallet: 0xacbf9fbc58d61bdafd70fd44213fdfe01311f2ab",
-      "pubDate": "Mon, 17 Aug 2026 00:39:05 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089149985971749239#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 00:38:26 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Don&apos;t FOMO! Trader 0xacbf lost $110.7K in just 2 hours by FOMOing into $MARSCOIN. After CZ burned 4,444 $MARSCOIN, the trader FOMO bought 6.15M $MARSCOIN with 133K $USDT. Then CZ said he would stop using his public address to avoid his actions being overinterpreted by the community, and $MARSCOIN crashed over 90%.",
-      "pubDate": "Mon, 17 Aug 2026 00:38:26 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089149822251184484#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Mon, 17 Aug 2026 00:25:29 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Whales keep buying $ETH. Whale 0x8447 withdrew another 5,300 $ETH ($9.98M) from Kraken 8 hours ago. https://arkm.com/explorer/address/0x8447A06F34e251ABeb55A0B7d5e01554F5072E0D",
-      "pubDate": "Mon, 17 Aug 2026 00:25:29 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089146563738406943#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Mon, 17 Aug 2026 00:11:25 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 185,327,684 $USDC (185,367,437 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0xfa37d34bfce3ca3f9327677444d1938c651d3b5c2a87e2b4119034b22d97e927",
-      "pubDate": "Mon, 17 Aug 2026 00:11:25 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089143021593866555#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Sun, 16 Aug 2026 23:33:40 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 185,300,000 $USDC (185,347,251 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0xe3255da2c5f16d3d3b854ecdc4b00be8166f6c0e126b33209491f92ee83d8028",
-      "pubDate": "Sun, 16 Aug 2026 23:33:40 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089133521629515927#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 16 Aug 2026 15:25:57 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Heavenly scenes here today on the panhandle. Air temp and water temp are both 85 degrees. About as Caribbean as you can get in US.",
-      "pubDate": "Sun, 16 Aug 2026 15:25:57 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2089010782675620336#m",
-      "keywords": []
-    },
-    {
-      "id": "EricBalchunas__Sun, 16 Aug 2026 14:01:29 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "Morning jog views (Miramar beach): No Golf Cart sign. Something you def don’t see in Philly. Everyone I passed said good morning, also something you don’t see in Philly (altho I can’t help but love the place anyway)",
-      "pubDate": "Sun, 16 Aug 2026 14:01:29 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088989527285039434#m",
-      "keywords": [
-        "LTH 보유자"
-      ]
-    },
-    {
-      "id": "EricBalchunas__Sun, 16 Aug 2026 12:32:42 GMT",
-      "handle": "EricBalchunas",
-      "label": "Balchunas (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "emerald",
-      "text": "The top 10 stocks in the S&P make up 39% of the index’s weight but contributed 41% of its earnings. Great stat. The Dream Team doing Dream Team things.",
-      "pubDate": "Sun, 16 Aug 2026 12:32:42 GMT",
-      "link": "https://nitter.net/EricBalchunas/status/2088967185116823582#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Sun, 16 Aug 2026 12:15:00 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "RT by @rektcapital: 3 Things That Will Change How You See the Bitcoin Bear Market If you enjoyed this 1-minute summary on #BTC Checkout the full video here: https://youtu.be/ZAGbis1hfXw?si=_rjD1PGcY32WgcWy Enjoy and Subscribe! $BTC #Bitcoin",
-      "pubDate": "Sun, 16 Aug 2026 12:15:00 GMT",
-      "link": "https://nitter.net/rektcapital/status/2088962728761434244#m",
-      "keywords": [
-        "약세장",
-        "BTC"
-      ]
-    },
-    {
-      "id": "JSeyff__Sun, 16 Aug 2026 04:28:46 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "This is actually insane",
-      "pubDate": "Sun, 16 Aug 2026 04:28:46 GMT",
-      "link": "https://nitter.net/JSeyff/status/2088845397380767866#m",
-      "keywords": []
-    },
-    {
-      "id": "JSeyff__Sat, 15 Aug 2026 15:07:47 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "RT by @JSeyff: I&apos;ve been criticizing this behavior by the government for years, despite being a left-leaning moderate, because this was completely predictable, Kate. You don&apos;t get to pop your head up now and act like it is new or unique to the left. In fact, the ship may have already sailed. Why do I say that",
-      "pubDate": "Sat, 15 Aug 2026 15:07:47 GMT",
-      "link": "https://nitter.net/austincampbell/status/2088643824746713330#m",
       "keywords": []
     }
   ]
