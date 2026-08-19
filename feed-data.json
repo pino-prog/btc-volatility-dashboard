@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-08-19T01:41:58.430Z",
+  "updatedAt": "2026-08-19T06:55:01.360Z",
   "items": [
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 03:14:50 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A whale is chasing the $UNITREE rally and betting on $150. Whale 0x761f opened a 1x long on 23,112 $UNITREE($2.93M) and set a take-profit order at $150. https://hypurrscan.io/address/0x761f2ff9db26e005fc2ea7de1c24b47c78b01b68#orders",
+      "pubDate": "Wed, 19 Aug 2026 03:14:50 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089913957922541763#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
+    {
+      "id": "lookonchain__Wed, 19 Aug 2026 02:55:44 GMT",
+      "handle": "lookonchain",
+      "label": "Lookonchain",
+      "category": "고래 추적",
+      "color": "blue",
+      "text": "A mysterious whale (0x6910) deposited 2M $USDC into Hyperliquid and placed a limit order to long 55,556 $UNITREE($5M) at $90. https://hypurrscan.io/address/0x6910c590d8503a1f3ef5ea9b64a5d7c7f3b5feda#orders",
+      "pubDate": "Wed, 19 Aug 2026 02:55:44 GMT",
+      "link": "https://nitter.net/lookonchain/status/2089909151313117545#m",
+      "keywords": [
+        "고래",
+        "Whale"
+      ]
+    },
     {
       "id": "ColinTCrypto__Wed, 19 Aug 2026 01:35:22 GMT",
       "handle": "ColinTCrypto",
@@ -1242,30 +1270,6 @@
       ]
     },
     {
-      "id": "lookonchain__Mon, 17 Aug 2026 05:07:57 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "After $牛来 was listed on @Aster_DEX Perps, its price surged by over 150%. The 24-hour trading volume has reached $4.47M. https://www.asterdex.com/en/trade/pro/futures/%E7%89%9B%E6%9D%A5USDT",
-      "pubDate": "Mon, 17 Aug 2026 05:07:57 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089217649008148932#m",
-      "keywords": []
-    },
-    {
-      "id": "glassnode__Mon, 17 Aug 2026 04:07:34 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Consumer Confidence recently hit an all-time low as the stock market continued to make new highs. This weak sentiment is pushing money out of cash and into equities, AI, and commodities. bitcoin:native has been significantly neglected by this rotation",
-      "pubDate": "Mon, 17 Aug 2026 04:07:34 GMT",
-      "link": "https://nitter.net/glassnode/status/2089202451216044332#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "EricBalchunas__Mon, 17 Aug 2026 03:56:35 GMT",
       "handle": "EricBalchunas",
       "label": "Balchunas (ETF)",
@@ -1277,15 +1281,18 @@
       "keywords": []
     },
     {
-      "id": "lookonchain__Mon, 17 Aug 2026 02:46:43 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "R to @lookonchain: 4/ He didn&apos;t rush to sell the rest. Instead, he sold little by little so he wouldn&apos;t miss out if $MARSCOIN kept going up. In the end, he sold the remaining 42.3M $MARSCOIN for 465 $BNB ($282K), making him the most profitable wallet on $MARSCOIN.",
-      "pubDate": "Mon, 17 Aug 2026 02:46:43 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089182102524944561#m",
-      "keywords": []
+      "id": "ColinTCrypto__Sun, 16 Aug 2026 17:19:01 GMT",
+      "handle": "ColinTCrypto",
+      "label": "Colin",
+      "category": "기술적 분석",
+      "color": "orange",
+      "text": "If $BTC loses $62.3k, it&apos;s over. If that happens, BTC will almost certainly revisit cycle lows, or go even lower. Why? It would simultaneously be: - A break down below the right shoulder of the larger iH&S (image 1), thus invalidating the bottom pattern, AND - A break down below the smaller H&S (image 2). https://",
+      "pubDate": "Sun, 16 Aug 2026 17:19:01 GMT",
+      "link": "https://nitter.net/ColinTCrypto/status/2089039239035945157#m",
+      "keywords": [
+        "BTC 사이클",
+        "BTC"
+      ]
     }
   ]
 }
