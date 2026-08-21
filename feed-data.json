@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-21T01:46:08.423Z",
+  "updatedAt": "2026-08-21T06:57:49.788Z",
   "items": [
+    {
+      "id": "JSeyff__Thu, 20 Aug 2026 19:51:22 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "RT by @JSeyff: The west will lose everything if we listen to these people",
+      "pubDate": "Thu, 20 Aug 2026 19:51:22 GMT",
+      "link": "https://nitter.net/shawmakesmagic/status/2090527131151585696#m",
+      "keywords": []
+    },
     {
       "id": "lookonchain__Thu, 20 Aug 2026 00:47:59 GMT",
       "handle": "lookonchain",
@@ -843,34 +854,6 @@
       ]
     },
     {
-      "id": "lookonchain__Wed, 19 Aug 2026 03:14:50 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A whale is chasing the $UNITREE rally and betting on $150. Whale 0x761f opened a 1x long on 23,112 $UNITREE($2.93M) and set a take-profit order at $150. https://hypurrscan.io/address/0x761f2ff9db26e005fc2ea7de1c24b47c78b01b68#orders",
-      "pubDate": "Wed, 19 Aug 2026 03:14:50 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089913957922541763#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 19 Aug 2026 02:55:44 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A mysterious whale (0x6910) deposited 2M $USDC into Hyperliquid and placed a limit order to long 55,556 $UNITREE($5M) at $90. https://hypurrscan.io/address/0x6910c590d8503a1f3ef5ea9b64a5d7c7f3b5feda#orders",
-      "pubDate": "Wed, 19 Aug 2026 02:55:44 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089909151313117545#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
       "id": "JSeyff__Tue, 18 Aug 2026 15:14:42 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -895,17 +878,6 @@
         "Strategy(MSTR)",
         "기관 매집"
       ]
-    },
-    {
-      "id": "JSeyff__Mon, 17 Aug 2026 15:38:41 GMT",
-      "handle": "JSeyff",
-      "label": "Seyffart (ETF)",
-      "category": "ETF/기관 수급",
-      "color": "lime",
-      "text": "R to @JSeyff: bloomberg.com/live/us",
-      "pubDate": "Mon, 17 Aug 2026 15:38:41 GMT",
-      "link": "https://nitter.net/JSeyff/status/2089376375018762734#m",
-      "keywords": []
     },
     {
       "id": "JSeyff__Mon, 17 Aug 2026 15:38:21 GMT",
