@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:56:14.122Z",
+  "updatedAt": "2026-08-21T01:46:08.423Z",
   "items": [
     {
       "id": "lookonchain__Thu, 20 Aug 2026 00:47:59 GMT",
@@ -871,260 +871,6 @@
       ]
     },
     {
-      "id": "ColinTCrypto__Wed, 19 Aug 2026 01:35:22 GMT",
-      "handle": "ColinTCrypto",
-      "label": "Colin",
-      "category": "기술적 분석",
-      "color": "orange",
-      "text": "$BTC Range tightening. Breakout likely.",
-      "pubDate": "Wed, 19 Aug 2026 01:35:22 GMT",
-      "link": "https://nitter.net/ColinTCrypto/status/2089888925166805386#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Wed, 19 Aug 2026 01:14:49 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 190,000,000 $USDT (189,872,700 USD) transferred from unknown wallet to #Binance https://whale-alert.io/tx/solana/3N9FqL4y3rAWjMU6eQLcDSGKMrHQFAPK5rrdwitRxaCkSxg9bd4cbwfFoWt4FmRDL94utPYydhxaQJC7iSaWweAp",
-      "pubDate": "Wed, 19 Aug 2026 01:14:49 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089883753262768401#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 19 Aug 2026 01:11:42 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Trader 0x3be7 opened a 10x long on 1.94B $PUMP ($6M) and is currently up $246K. Liquidation price: $0.002852 https://hypurrscan.io/address/0x3be714dbe0d3a33ae89b04f8caf93364c98b4b1f#perps",
-      "pubDate": "Wed, 19 Aug 2026 01:11:42 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089882967292420337#m",
-      "keywords": [
-        "청산"
-      ]
-    },
-    {
-      "id": "lookonchain__Wed, 19 Aug 2026 00:57:22 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "A newly created wallet received 9.3M $KTA ($685K) and 2B $GALA ($3M) via cross-chain bridges, then sold them for 1,902 $ETH($3.64M). This caused $KTA to crash 37% and $GALA to crash 15%. Looks a bit suspicious. https://arkm.com/explorer/address/0x573F234215De665Fd6867c8BE55c33d62F69E76d",
-      "pubDate": "Wed, 19 Aug 2026 00:57:22 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089879360459440574#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Wed, 19 Aug 2026 00:25:47 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "Multicoin Capital deposited another 172,710 $HYPE($10.15M) into #CoinbasePrime 7 hours ago. https://arkm.com/explorer/entity/multicoin-capital",
-      "pubDate": "Wed, 19 Aug 2026 00:25:47 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089871412739883137#m",
-      "keywords": []
-    },
-    {
-      "id": "whale_alert__Wed, 19 Aug 2026 00:10:30 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 192,661,387 $USDC (192,696,452 USD) transferred from Unknown Whale 1 to #Aave https://whale-alert.io/tx/ethereum/0x4d6112962d502a35b45e3e31a282e5776c4d23cf885cd313a12b1d279e24a690",
-      "pubDate": "Wed, 19 Aug 2026 00:10:30 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089867566848126978#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 18 Aug 2026 23:36:20 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 192,581,404 $USDC (192,618,283 USD) transferred from #Aave to Unknown Whale 1 https://whale-alert.io/tx/ethereum/0x44c96b8cdad9f5f45122ec09bb0a95b74c0d0c24b2f887b448621748b10271c8",
-      "pubDate": "Tue, 18 Aug 2026 23:36:20 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089858968281571752#m",
-      "keywords": [
-        "고래",
-        "Whale"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 18 Aug 2026 21:23:44 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,621 $BTC (104,749,456 USD) transferred from #OKEX to unknown wallet https://whale-alert.io/tx/bitcoin/26948eb0764932a759d3aaac6f9c5d826c782c7a028a11905926a67e16a7f839",
-      "pubDate": "Tue, 18 Aug 2026 21:23:44 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089825599728554243#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Tue, 18 Aug 2026 21:08:35 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "RT by @glassnode: Cryptos slowly starting to hold their own against stocks. Looking better over the past two months.",
-      "pubDate": "Tue, 18 Aug 2026 21:08:35 GMT",
-      "link": "https://nitter.net/n3ocortex/status/2089821787949236243#m",
-      "keywords": []
-    },
-    {
-      "id": "rektcapital__Tue, 18 Aug 2026 17:57:07 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC People saying Bitcoin has bottomed are of the assumption that price is experiencing an Accelerated Bear Market by 33% Sure, Bitcoin experienced an Accelerated Bull Market in the previous cycle due to a unique double-catalyst that was the Halving and the new ETFs But why would Bitcoin experience an Accelerated Bear",
-      "pubDate": "Tue, 18 Aug 2026 17:57:07 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089773603940159772#m",
-      "keywords": [
-        "ETF 수급",
-        "반감기",
-        "사이클",
-        "BTC 사이클"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 18 Aug 2026 17:52:46 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin is currently at the same price point as it was last week, two weeks ago, three weeks ago, four weeks ago, five weeks ago, six weeks ago... It&apos;s only the emotional response to the same price point that keeps changing, meanwhile price is just moving sideways $BTC #Bitcoin",
-      "pubDate": "Tue, 18 Aug 2026 17:52:46 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089772508085989517#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 18 Aug 2026 17:50:50 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin is pressing beyond the 200-week SMA (orange) for the time being but is still rejecting from the black Lower High resistance There&apos;s been no real change in market structure $BTC #Bitcoin",
-      "pubDate": "Tue, 18 Aug 2026 17:50:50 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089772022289088777#m",
-      "keywords": [
-        "저항선",
-        "TA",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 18 Aug 2026 17:43:45 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a83e314d3ed077dcf2d0d34-XRP-Open-Interest-Hits-Two-Month-High-on-Binance?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=arab-chain",
-      "pubDate": "Tue, 18 Aug 2026 17:43:45 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089770237008789953#m",
-      "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Tue, 18 Aug 2026 17:43:01 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "XRP Open Interest Hits Two-Month High on Binance “The current rise in open interest reflects increased participation and speculation in the XRP derivatives market, making the upcoming price movement more significant.” – By @ArabxChain",
-      "pubDate": "Tue, 18 Aug 2026 17:43:01 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089770053637959788#m",
-      "keywords": [
-        "OI",
-        "미결제약정"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 18 Aug 2026 16:26:19 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 🚨 2,001 $BTC (129,515,982 USD) transferred from #Coinbase to unknown wallet https://whale-alert.io/tx/bitcoin/cbcf3cd00efbbc512e0aebeb90b5fbfad7dda943f54a3bacda9d8d920d3ee324",
-      "pubDate": "Tue, 18 Aug 2026 16:26:19 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089750752419840488#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 18 Aug 2026 16:22:09 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 1,402 $BTC (90,804,178 USD) transferred from unknown wallet to #Coinbase https://whale-alert.io/tx/bitcoin/03362c28afbdcde6247fd24095cab477637f5b732f0c9e30ec92ff4f4f8091cc",
-      "pubDate": "Tue, 18 Aug 2026 16:22:09 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089749703227240747#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 18 Aug 2026 16:13:29 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,815 $BTC (117,502,870 USD) transferred from unknown wallet to unknown wallet https://whale-alert.io/tx/bitcoin/26d0a07a8c60fbc43f54114e6db7473b5166028766e09c5cf63011f71f83e964",
-      "pubDate": "Tue, 18 Aug 2026 16:13:29 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089747522549907946#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 18 Aug 2026 16:04:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @cryptoquant_com: Read the full report for the signal, the setup, and what happens next ⤵️ https://cryptoquant.com/insights/research/6a8472f867ec430530fdcb43-18-August-2026-Waiting-on-the-Turn-Bitcoin-Spot-Demand-Price?utm_source=twitter&utm_medium=sns&utm_campaign=research&utm_content=crypto-weekly-report",
-      "pubDate": "Tue, 18 Aug 2026 16:04:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089745135852744932#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "glassnode__Tue, 18 Aug 2026 15:42:17 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "Strong hands are buying bitcoin:native. Bottoms are formed when profit taking slows and conviction buyers step in. This setup looks similar to what we saw during 2022. The largest increase in BTC held by conviction buyers occurred when BTC dropped to $60k in January.",
-      "pubDate": "Tue, 18 Aug 2026 15:42:17 GMT",
-      "link": "https://nitter.net/glassnode/status/2089739670242660761#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
       "id": "JSeyff__Tue, 18 Aug 2026 15:14:42 GMT",
       "handle": "JSeyff",
       "label": "Seyffart (ETF)",
@@ -1134,144 +880,6 @@
       "pubDate": "Tue, 18 Aug 2026 15:14:42 GMT",
       "link": "https://nitter.net/choffstein/status/2089732726567915788#m",
       "keywords": []
-    },
-    {
-      "id": "cryptoquant_com__Tue, 18 Aug 2026 14:58:26 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin’s spot demand is about to turn positive for the first time since February. Historically, that’s meant a +18.1% median gain over the next 60 days, with a 78% win rate. With valuations this depressed, the win rate jumps to 87%.",
-      "pubDate": "Tue, 18 Aug 2026 14:58:26 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089728636039331975#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Tue, 18 Aug 2026 14:39:34 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "BTC just broke above $65,000. Gambler 0x8c96&apos;s 1,800 $BT ($117M) short was partially liquidated, with 360 $BTC ($23.36M) liquidated. Current position: 1,440 $BTC($93.3M) New liquidation price: $65,041.72 https://hypurrscan.io/address/0x8c96e5a2d770f9f2c9d2464ce4e741df0b2bca57#perps",
-      "pubDate": "Tue, 18 Aug 2026 14:39:34 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089723886959202753#m",
-      "keywords": [
-        "청산",
-        "BTC"
-      ]
-    },
-    {
-      "id": "lookonchain__Tue, 18 Aug 2026 14:24:31 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "The Royal Government of Bhutan keeps selling $BTC. It transferred another 300 $BTC($19.28M) to a new wallet 2 hours ago. https://arkm.com/explorer/entity/druk-holding-investments",
-      "pubDate": "Tue, 18 Aug 2026 14:24:31 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089720101432164726#m",
-      "keywords": []
-    },
-    {
-      "id": "lookonchain__Tue, 18 Aug 2026 14:07:29 GMT",
-      "handle": "lookonchain",
-      "label": "Lookonchain",
-      "category": "고래 추적",
-      "color": "blue",
-      "text": "August 18 Update: #Bitcoin ETFs: 1D NetFlow: +4,436 $BTC(+$284.05M)🟢 7D NetFlow: +13 $BTC(+$819.51K)🟢 #Ethereum ETFs: 1D NetFlow: +16,091 $ETH(+$30.46M)🟢 7D NetFlow: +27,042 $ETH(+$51.19M)🟢",
-      "pubDate": "Tue, 18 Aug 2026 14:07:29 GMT",
-      "link": "https://nitter.net/lookonchain/status/2089715812395618384#m",
-      "keywords": [
-        "Netflow",
-        "거래소 흐름",
-        "ETF 수급",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 18 Aug 2026 14:01:46 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "Reading a #BTC chart is a learnable skill Most people just never had anyone walk them through it properly This free Technical Analysis Blueprint does exactly that Step by step, no experience needed Download it free: https://www.rektcapital.co.uk/free-technical-analysis-blueprint $BTC #Bitcoin",
-      "pubDate": "Tue, 18 Aug 2026 14:01:46 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089714375183495285#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "whale_alert__Tue, 18 Aug 2026 13:36:24 GMT",
-      "handle": "whale_alert",
-      "label": "Whale Alert",
-      "category": "고래 추적",
-      "color": "teal",
-      "text": "🚨 🚨 🚨 🚨 🚨 1,886 $BTC (120,879,250 USD) transferred from unknown wallet to unknown new wallet https://whale-alert.io/tx/bitcoin/e6afd7547b7a21ec01562906264a8838ed6d86e691d510813b73def6d8d9c27f",
-      "pubDate": "Tue, 18 Aug 2026 13:36:24 GMT",
-      "link": "https://nitter.net/whale_alert/status/2089707991016603829#m",
-      "keywords": [
-        "고래",
-        "Whale",
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 18 Aug 2026 13:32:22 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin has formed yet another Lower High on this latest advance, rejecting from the newfound black multi-week downtrend line $BTC #Bitcoin",
-      "pubDate": "Tue, 18 Aug 2026 13:32:22 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089706975122583641#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "rektcapital__Tue, 18 Aug 2026 13:30:53 GMT",
-      "handle": "rektcapital",
-      "label": "Rekt Capital",
-      "category": "기술적 분석",
-      "color": "amber",
-      "text": "#BTC Bitcoin has Weekly Closed below the ~$63k level (orange horizontal) which technically positions price for a bearish retest of this level Of course, price is pressing beyond this level right now But at the same time Bitcoin is finding resistance at the 200-week SMA (orange) as well as the newfound Lower High (black",
-      "pubDate": "Tue, 18 Aug 2026 13:30:53 GMT",
-      "link": "https://nitter.net/rektcapital/status/2089706603888959629#m",
-      "keywords": [
-        "약세장",
-        "저항선",
-        "TA",
-        "약세 신호"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 18 Aug 2026 12:22:00 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "R to @MorenoDV_: Full analysis ⤵️ https://cryptoquant.com/insights/quicktake/6a82eb28d3ed077dcf2d0b5d-Bitcoin-Taker-Buy-Volume-Enters-a-Historical-Exhaustion-Zone?utm_source=twitter&utm_medium=sns&utm_campaign=quicktake&utm_content=morenodv",
-      "pubDate": "Tue, 18 Aug 2026 12:22:00 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089689266117111843#m",
-      "keywords": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "cryptoquant_com__Tue, 18 Aug 2026 12:18:27 GMT",
-      "handle": "cryptoquant_com",
-      "label": "CryptoQuant",
-      "category": "온체인/파생상품",
-      "color": "cyan",
-      "text": "Bitcoin Taker Buy Volume Enters a Historical Exhaustion Zone “Historically, similar contractions have appeared during periods of capitulation or accumulation and have often preceded a recovery in demand.” – By @MorenoDV_",
-      "pubDate": "Tue, 18 Aug 2026 12:18:27 GMT",
-      "link": "https://nitter.net/cryptoquant_com/status/2089688375871652265#m",
-      "keywords": [
-        "매집",
-        "BTC"
-      ]
     },
     {
       "id": "JSeyff__Tue, 18 Aug 2026 12:17:01 GMT",
@@ -1289,16 +897,27 @@
       ]
     },
     {
-      "id": "glassnode__Tue, 18 Aug 2026 12:15:36 GMT",
-      "handle": "glassnode",
-      "label": "Glassnode",
-      "category": "온체인 심리",
-      "color": "violet",
-      "text": "$BTC has held Defensive for two weeks, 30/100 on the Glassnode Market Compass. Macro did the lifting, +24 on the month. Valuation stays at the cycle&apos;s discounted end, 16/100. Cheap and improving. The missing leg is flows, light at 30. Read it daily: http://studio.glassnode.com/market-compass",
-      "pubDate": "Tue, 18 Aug 2026 12:15:36 GMT",
-      "link": "https://nitter.net/glassnode/status/2089687657727115513#m",
+      "id": "JSeyff__Mon, 17 Aug 2026 15:38:41 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "R to @JSeyff: bloomberg.com/live/us",
+      "pubDate": "Mon, 17 Aug 2026 15:38:41 GMT",
+      "link": "https://nitter.net/JSeyff/status/2089376375018762734#m",
+      "keywords": []
+    },
+    {
+      "id": "JSeyff__Mon, 17 Aug 2026 15:38:21 GMT",
+      "handle": "JSeyff",
+      "label": "Seyffart (ETF)",
+      "category": "ETF/기관 수급",
+      "color": "lime",
+      "text": "From 12-1 I’m subbing in for @EricBalchunas on BBG’s ETFIQ. @scarletfu and I will be talking to @Todd_Sohn. We’ll be looking at $FFF — founders ETF. @neil_sipes4 will be on to talk about the Goldman NEOS deal. We’ll be looking at $OMAH & talking white labels w/ @TeucriumETFs",
+      "pubDate": "Mon, 17 Aug 2026 15:38:21 GMT",
+      "link": "https://nitter.net/JSeyff/status/2089376291854143826#m",
       "keywords": [
-        "BTC 사이클"
+        "ETF 수급"
       ]
     }
   ]
