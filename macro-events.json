@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T19:56:07.268Z",
+  "updatedAt": "2026-08-27T08:50:31.158Z",
   "verificationSummary": {
-    "confirmed": 30,
+    "confirmed": 31,
     "unconfirmed": 8,
     "mismatched": 7
   },
@@ -508,6 +508,25 @@
       "autoFetched": true
     },
     {
+      "id": "bls-cpi-2026-11-10",
+      "date": "2026-11-10",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 CPI (10월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "HIGH",
+      "btcBias": "neutral",
+      "description": "10월 소비자물가지수. 연준 금리 결정의 핵심 선행 지표. 컨센서스 대비 편차가 BTC·위험자산 단기 방향성을 결정. ✓ BLS 2026 공식 일정.",
+      "bull": "CPI 하회 → 인플레 진정 → 금리 인하 기대 상승 → BTC·위험자산 상승",
+      "bear": "CPI 상회 → 인플레 재가속 → 금리 인하 지연 → DXY 강세 → BTC 하락",
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ],
+      "autoFetched": true
+    },
+    {
       "id": "fomc-2026-12-09",
       "date": "2026-12-09",
       "time": "14:00",
@@ -542,6 +561,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -973,6 +993,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1832,6 +1853,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1876,6 +1898,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2713,6 +2736,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -3144,6 +3168,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -3188,6 +3213,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
