@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-09T20:50:01.595Z",
+  "updatedAt": "2026-09-10T04:16:42.577Z",
   "verificationSummary": {
-    "confirmed": 36,
+    "confirmed": 38,
     "unconfirmed": 6,
     "mismatched": 7
   },
@@ -526,6 +526,48 @@
       "description": "BTC 채굴 상장사. MARA와 동반 움직임. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
       "bull": "채굴 효율 + BTC 강세 연동",
       "bear": "에너지 비용 + 규제 리스크",
+      "confirmed": true,
+      "sources": [
+        "AlphaVantage",
+        "NASDAQ"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-AMD-2026-11-03",
+      "date": "2026-11-03",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "AMD 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "AI 칩 경쟁자. NVDA 이후 두 번째 AI 인프라 수요 확인 지점. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
+      "bull": "데이터센터 GPU 수요 강세 → AI 테마 지속 → BTC 간접 수혜",
+      "bear": "NVDA 대비 시장 점유율 손실 → 기술주 차익 실현",
+      "confirmed": true,
+      "sources": [
+        "AlphaVantage",
+        "NASDAQ"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
+      "id": "earnings-MARA-2026-11-03",
+      "date": "2026-11-03",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "마라 홀딩스 (MARA) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "MEDIUM",
+      "btcBias": "correlated",
+      "description": "BTC 채굴 상장사. BTC 가격과 거의 동기화. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
+      "bull": "채굴 효율 개선 + BTC 가격 상승 → 강한 매수 연동",
+      "bear": "에너지 비용 증가 + 해시레이트 압박 → 채굴주 하락",
       "confirmed": true,
       "sources": [
         "AlphaVantage",
@@ -1062,6 +1104,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1106,6 +1149,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2063,6 +2107,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2107,6 +2152,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -3042,6 +3088,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -3522,6 +3569,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -3566,6 +3614,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
