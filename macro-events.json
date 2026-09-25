@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-24T21:25:48.290Z",
+  "updatedAt": "2026-09-25T04:35:33.153Z",
   "verificationSummary": {
-    "confirmed": 39,
+    "confirmed": 41,
     "unconfirmed": 5,
     "mismatched": 7
   },
@@ -620,6 +620,27 @@
       "autoFetched": true
     },
     {
+      "id": "earnings-NVDA-2026-11-18",
+      "date": "2026-11-18",
+      "time": "16:00",
+      "tz": "ET",
+      "title": "엔비디아 (NVDA) 실적 발표",
+      "category": "earnings",
+      "categoryLabel": "기업 실적",
+      "impact": "HIGH",
+      "btcBias": "correlated",
+      "description": "AI 인프라 수요 바로미터. BTC-나스닥 상관계수 r=0.72. 실적 강세 시 위험자산 전반 상승 촉매. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
+      "bull": "EPS·매출 상회 + 가이던스 상향 → 나스닥 급등 → BTC 연동 상승",
+      "bear": "실적 미스 또는 공급 이슈 → 기술주 전반 매도 → BTC 동반 하락",
+      "confirmed": true,
+      "sources": [
+        "AlphaVantage",
+        "NASDAQ"
+      ],
+      "mismatch": false,
+      "autoFetched": true
+    },
+    {
       "id": "bls-nfp-2026-12-04",
       "date": "2026-12-04",
       "time": "08:30",
@@ -658,6 +679,25 @@
       "autoFetched": true
     },
     {
+      "id": "bls-ppi-2026-12-09",
+      "date": "2026-12-09",
+      "time": "08:30",
+      "tz": "ET",
+      "title": "미국 PPI (11월) 발표",
+      "category": "macro",
+      "categoryLabel": "경제지표",
+      "impact": "MEDIUM",
+      "btcBias": "neutral",
+      "description": "11월 생산자물가지수. CPI 선행 지표. 생산 단계 인플레이션 확인. CPI 발표 전 방향성 힌트. ✓ BLS 2026 공식 일정.",
+      "bull": "예상 하회 → 생산자 비용 안정 → CPI 하락 전망 강화 → BTC 간접 수혜",
+      "bear": "예상 상회 → 생산 단계 인플레 → 향후 CPI 상승 우려 → 위험자산 경계",
+      "confirmed": true,
+      "sources": [
+        "bls.gov 2026 공식 일정"
+      ],
+      "autoFetched": true
+    },
+    {
       "id": "fomc-2027-01-28",
       "date": "2027-01-28",
       "time": "14:00",
@@ -673,6 +713,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -1210,6 +1251,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2281,6 +2323,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2325,6 +2368,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -3374,6 +3418,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -3911,6 +3956,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -3955,6 +4001,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
