@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-09T05:47:26.391Z",
+  "updatedAt": "2026-10-09T13:01:54.656Z",
   "verificationSummary": {
-    "confirmed": 40,
-    "unconfirmed": 7,
+    "confirmed": 38,
+    "unconfirmed": 9,
     "mismatched": 7
   },
   "events": [
@@ -342,13 +342,12 @@
       "categoryLabel": "기업 실적",
       "impact": "HIGH",
       "btcBias": "correlated",
-      "description": "세계 시총 1위 기술주. AI 기능 확장·아이폰 수요가 나스닥 방향성을 결정. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
+      "description": "세계 시총 1위 기술주. AI 기능 확장·아이폰 수요가 나스닥 방향성을 결정. (단일 소스 — 공식 IR 확인 권장)",
       "bull": "EPS 상회 + AI 서비스 성장 → 나스닥 강세 → BTC 간접 수혜",
       "bear": "아이폰 판매 둔화 → 기술주 조정 → 위험자산 약세",
-      "confirmed": true,
+      "confirmed": false,
       "sources": [
-        "AlphaVantage",
-        "NASDAQ"
+        "AlphaVantage"
       ],
       "mismatch": false,
       "autoFetched": true
@@ -530,13 +529,12 @@
       "categoryLabel": "기업 실적",
       "impact": "HIGH",
       "btcBias": "correlated",
-      "description": "클라우드·AI 수요 지표. Azure OpenAI 매출 성장률이 핵심. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
+      "description": "클라우드·AI 수요 지표. Azure OpenAI 매출 성장률이 핵심. (단일 소스 — 공식 IR 확인 권장)",
       "bull": "클라우드 성장 가속 → 기술주 랠리 → BTC 상승 동반",
       "bear": "클라우드 둔화 → 기술주 조정 → 위험자산 약세",
-      "confirmed": true,
+      "confirmed": false,
       "sources": [
-        "AlphaVantage",
-        "NASDAQ"
+        "AlphaVantage"
       ],
       "mismatch": false,
       "autoFetched": true
@@ -1249,6 +1247,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1293,6 +1292,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2454,6 +2454,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2498,6 +2499,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -3637,6 +3639,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -4219,6 +4222,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -4263,6 +4267,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
