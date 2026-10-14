@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:37:53.130Z",
+  "updatedAt": "2026-10-14T14:25:38.777Z",
   "verificationSummary": {
     "confirmed": 42,
     "unconfirmed": 5,
@@ -272,7 +272,10 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "occurred": true,
+      "verifiedAt": "2026-10-14",
+      "confidence": "high"
     },
     {
       "id": "bls-cpi-2026-10-14",
@@ -291,7 +294,9 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-TSLA-2026-10-21",
@@ -312,7 +317,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2026-10-28",
@@ -331,7 +338,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-GOOGL-2026-10-28",
@@ -352,7 +361,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-MSFT-2026-10-28",
@@ -373,7 +384,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-AMZN-2026-10-29",
@@ -394,7 +407,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-COIN-2026-10-29",
@@ -415,7 +430,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-MSTR-2026-10-29",
@@ -436,7 +453,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-RIOT-2026-10-29",
@@ -457,7 +476,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-AAPL-2026-11-02",
@@ -478,7 +499,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-AMD-2026-11-03",
@@ -499,7 +522,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-MARA-2026-11-03",
@@ -520,7 +545,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-META-2026-11-04",
@@ -541,7 +568,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "bls-nfp-2026-11-06",
@@ -560,7 +589,9 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "bls-cpi-2026-11-10",
@@ -579,7 +610,9 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "bls-ppi-2026-11-11",
@@ -598,7 +631,9 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "earnings-NVDA-2026-11-18",
@@ -619,7 +654,9 @@
         "NASDAQ"
       ],
       "mismatch": false,
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "bls-nfp-2026-12-04",
@@ -638,7 +675,9 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2026-12-09",
@@ -657,7 +696,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "bls-ppi-2026-12-09",
@@ -676,7 +717,9 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "bls-cpi-2026-12-10",
@@ -695,7 +738,9 @@
       "sources": [
         "bls.gov 2026 공식 일정"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-01-28",
@@ -1292,7 +1337,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-03-18",
@@ -1889,7 +1936,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-04-29",
@@ -1930,7 +1979,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-06-17",
@@ -2527,7 +2578,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-07-29",
@@ -3124,7 +3177,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-08-22",
@@ -3143,7 +3198,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-09-16",
@@ -3740,7 +3797,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-10-28",
@@ -4337,7 +4396,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2027-12-09",
@@ -4822,7 +4883,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2028-01-31",
@@ -4841,7 +4904,9 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     },
     {
       "id": "fomc-2028-03-20",
@@ -4860,7 +4925,10 @@
       "sources": [
         "federalreserve.gov (공식)"
       ],
-      "autoFetched": true
+      "autoFetched": true,
+      "confidence": "high",
+      "verifiedAt": "2026-10-14"
     }
-  ]
+  ],
+  "verifiedAt": "2026-10-14"
 }
