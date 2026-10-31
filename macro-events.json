@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-31T05:10:10.478Z",
+  "updatedAt": "2026-10-31T12:04:15.284Z",
   "verificationSummary": {
-    "confirmed": 33,
+    "confirmed": 32,
     "unconfirmed": 5,
     "mismatched": 7
   },
@@ -256,25 +256,6 @@
       "occurred": true
     },
     {
-      "id": "fomc-2026-10-28",
-      "date": "2026-10-28",
-      "time": "14:00",
-      "tz": "ET",
-      "title": "FOMC 금리 결정",
-      "category": "macro",
-      "categoryLabel": "통화정책",
-      "impact": "HIGH",
-      "btcBias": "neutral",
-      "description": "연방공개시장위원회 금리 결정 및 파월 의장 기자회견. ✓ federalreserve.gov 공식 일정.",
-      "bull": "금리 인하 또는 인하 시그널 → 달러 약세 + 위험자산 선호 → BTC·나스닥 동반 상승",
-      "bear": "금리 동결 + 매파 발언 → 달러 강세 + 긴축 장기화 → BTC 하방 압력",
-      "confirmed": true,
-      "sources": [
-        "federalreserve.gov (공식)"
-      ],
-      "autoFetched": true
-    },
-    {
       "id": "earnings-AAPL-2026-11-02",
       "date": "2026-11-02",
       "time": "16:00",
@@ -416,8 +397,8 @@
       "autoFetched": true
     },
     {
-      "id": "earnings-NVDA-2026-11-18",
-      "date": "2026-11-18",
+      "id": "earnings-NVDA-2026-11-17",
+      "date": "2026-11-17",
       "time": "16:00",
       "tz": "ET",
       "title": "엔비디아 (NVDA) 실적 발표",
@@ -1143,6 +1124,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1187,6 +1169,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2502,6 +2485,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2546,6 +2530,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -3839,6 +3824,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -4498,6 +4484,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -4542,6 +4529,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
