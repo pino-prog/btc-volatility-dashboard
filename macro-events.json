@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-18T00:51:31.443Z",
+  "updatedAt": "2026-11-18T15:28:58.403Z",
   "verificationSummary": {
-    "confirmed": 25,
+    "confirmed": 24,
     "unconfirmed": 5,
     "mismatched": 7
   },
@@ -254,27 +254,6 @@
       "confidence": "low",
       "verifiedAt": "2026-07-03",
       "occurred": true
-    },
-    {
-      "id": "earnings-NVDA-2026-11-17",
-      "date": "2026-11-17",
-      "time": "16:00",
-      "tz": "ET",
-      "title": "엔비디아 (NVDA) 실적 발표",
-      "category": "earnings",
-      "categoryLabel": "기업 실적",
-      "impact": "HIGH",
-      "btcBias": "correlated",
-      "description": "AI 인프라 수요 바로미터. BTC-나스닥 상관계수 r=0.72. 실적 강세 시 위험자산 전반 상승 촉매. ✓ AlphaVantage + NASDAQ 교차 검증 완료.",
-      "bull": "EPS·매출 상회 + 가이던스 상향 → 나스닥 급등 → BTC 연동 상승",
-      "bear": "실적 미스 또는 공급 이슈 → 기술주 전반 매도 → BTC 동반 하락",
-      "confirmed": true,
-      "sources": [
-        "AlphaVantage",
-        "NASDAQ"
-      ],
-      "mismatch": false,
-      "autoFetched": true
     },
     {
       "id": "bls-nfp-2026-12-04",
@@ -1029,6 +1008,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -1073,6 +1053,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -2480,6 +2461,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -2524,6 +2506,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
@@ -3909,6 +3892,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -4614,6 +4598,7 @@
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)"
       ],
       "autoFetched": false,
@@ -4658,6 +4643,7 @@
       "confirmed": true,
       "sources": [
         "federalreserve.gov (공식, raw HTML 직접 확인)",
+        "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
         "federalreserve.gov (공식)",
